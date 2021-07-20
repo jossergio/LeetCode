@@ -1,0 +1,11 @@
+Não fiz testes com o algoritmo que criei.
+
+Joguei no LeetCode, conforme criei lá mesmo.
+
+modelo1.h é cópia do código de lá e não o inverso.
+
+Os demais arquivo são meros testes com árvores binárias ordenadas.
+
+Tentei usar os testes mas vi que era mais imples e não precisariam.
+
+Tentei, de várias maneiras, otimizar a execução. Mas, não vi como.
