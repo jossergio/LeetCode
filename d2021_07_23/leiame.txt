@@ -1,0 +1,4 @@
+Esse eu fiz bem rápido. Só pela lógica.
+
+O programa de testes foi feito, diretamente, no playground do LeetCode
+
