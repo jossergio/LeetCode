@@ -1,0 +1,14 @@
+Feito direto no LeetCode. Sem testes.
+
+Algoritmo bacana. C++ ajudou muito na questão. Especialmente com a capacidade
+de atribuir variáveis no meio das expressões.
+
+A execução foi aceita. Mas, no geral, demonstrou-se um pouco lenta em relação
+aos demais.
+
+Porém, o uso da memória foi baixo, apesar de nem tanto. Houve melhores em
+relação a esse quesito.
+
+Veja que o ambiente do LeetCode, incluindo o playgroud, faz alguns includes
+no próprio ambiente, além de namespace.
+

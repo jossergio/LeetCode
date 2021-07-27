@@ -1,0 +1,18 @@
+Esse programa foi feito no playground do LeetCode e transportado.
+
+Produziu timeout. Não é um bom algoritmo. Mesmo no playground, com os modelos
+do desafio.
+
+Poréḿ, é um modelo correto. Apesar de lento. Muito lento, mesmo.
+
+Obs.: a função fade é para colocar um limite, pois, à partir do modelo 11xxx...
+já temos uma dupla de uns. Porém, em números muito grandes, ainda fica muito
+número para ser tratado.
+
+Envolveu muita lógica. Veja a questão com a função de Fibonacci, que não é tão
+percepitível para a lógica inicial. Mas, que é uma demonstração perfeita
+de sua aplicação.
+
+Veja que o ambiente do playground já trás alguns "includes". Ou seja, funções
+matemáticas já fazem parte do ambiente.
+
