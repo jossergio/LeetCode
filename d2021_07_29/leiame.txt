@@ -1,0 +1,9 @@
+Esse algoritmo funcionou. Porém, considero que um dos modelos de verificação
+do LeetCode estava bugado.
+
+Em uma análise visual, o esperado do modelo deles não estava correto, conforme
+o que pregava o objetivo do desafio.
+
+Os testes foram feitos no PlayGround do LeetCode e o modelo direto na
+própria plataforma.
+
