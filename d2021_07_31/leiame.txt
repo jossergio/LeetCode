@@ -1,0 +1,11 @@
+Testes diretos na plataforma.
+
+Algoritmo chato, com detalhes no problema.
+
+Fiz várias tentativas. Demorei muito. Ficou muito lento.
+
+Um dos piores do desafio, em termos de tempo.
+
+modelo1: original.
+modelo2: pequena alteração feita depois. Horrível do mesmo jeito.
+
