@@ -1,0 +1,16 @@
+Brincando de testar GoLang
+
+Projeto bem simples. Porém, resultou muito lento, comparado com outros
+que participaram do desafio.
+
+Testado no ambiente Playground da páginda da linguagem
+(https://play.golang.org)
+
+Feito de forma direta, pela simplicidade, e transcrito na área de avaliação
+do LeetCode.
+
+Ah! Refletir sobre a inicialização dos retornos em {0, 0} e a subtração antes
+do retorno independente de ter encontrado ou não.
+
+Porém, esse algoritmo está na casa dos que utilizam pouca memória.
+
