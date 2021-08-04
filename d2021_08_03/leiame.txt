@@ -1,0 +1,5 @@
+Ficou um pouco lento. Mas, tá aí.
+
+Obs.: Tive que utilizar Python 3, por ter recursos adicionais para facilitar
+o trabalho.
+
