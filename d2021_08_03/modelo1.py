@@ -29,6 +29,7 @@ class Solution (object):
 
 # Código principal
     def subsetWithDup (self, nums):
+        self.listagem = list ()
         self.listagem.append (list ()) # A lista vazia faz parte da solução
         self.tamanho = len (nums)
         # if self.tamanho > 0:
