@@ -1,0 +1,10 @@
+Um dos mais bobos que já fiz.
+
+Em menos de dez minutos. Direto no ambiente do LeetCode. Sem testes externos.
+
+Lógica muito bacana. Agritmo rápido.
+
+Relativamente, pouca memória.
+
+Mas, houve melhores, na tabulação do desafio.
+
