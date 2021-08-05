@@ -1,0 +1,5 @@
+O modelo 1 retorno tempo excedido
+Fiz um segundo playground. De uma forma que considero mais rápida.
+Mas, ficou em tempo excedido, da mesma forma.
+Então, não criei um segundo modelo.
+
