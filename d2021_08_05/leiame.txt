@@ -1,5 +1,25 @@
-O modelo 1 retorno tempo excedido
+O modelo 1 retornou tempo excedido.
+
 Fiz um segundo playground. De uma forma que considero mais rápida.
+
 Mas, ficou em tempo excedido, da mesma forma.
-Então, não criei um segundo modelo.
+
+Então, NÃO criei um segundo modelo.
+
+Fiz um terceiro playground (para um "terceiro" modelo). O código ficou rapido.
+Muito rápido, mesmo.
+
+Porém, em algumas execuções/valores/testes, voltava a apresentar timout. Percebi
+que dependia da forma como escolhia por onde começar e tratar os valores.
+
+Acrescentei artifícios (mágicas). Porém, foi aceito pela plataforma.
+
+Em todas as execuções, permaneceu rápido e com boa utilização de memória.
+
+O terceiro modelo é bem prático. Se não fossem os artifícios, que sujou um pouco
+o código. Sua lógica é bem interessante, com considerações matemáticas puras.
+
+É vergonhoso usar artíficios? É. Mas, é uma competição. PASSOU!
+
+Depois de muita labuta. PASSOU!!!!
 
