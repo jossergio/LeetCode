@@ -1,0 +1,10 @@
+Melhor executado no Python 3.
+Feito diretamente no editor do LeetCode, utilizando o play do W3Schools para
+testes.
+Acho que desejavam brincar um pouco. Problema relativamente bobo.
+Ficou muito lento. Mas, passou.
+Acho que desejavam uma ideia um pouco melhor.
+Vou ver se faço um mais eficiente posteriormente.
+No dia, a carga que não passou foi pelo motivo de não ter previsto a soma
+"0" + "0" produzindo retorno "0".
+
