@@ -1,0 +1,6 @@
+Coisa boba. Muito boba. Nem parece desafios do LeetCode. 5min.
+
+Ficou lento. Muito lento. Apesar de simples, acredito haver alguma técnica.
+
+Fazer em Go para brincar?
+
