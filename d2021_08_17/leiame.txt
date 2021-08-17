@@ -1,0 +1,7 @@
+Feito em uma executada só. Uns 15min, com alguns testes de sintaxe no
+executor (play) do cplusplus.com, site.
+
+Usou memória dentro da média.
+
+A execução também ficou dentro da média.
+
