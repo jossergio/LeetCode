@@ -1,0 +1,13 @@
+Foi meio chato de fazer. Mas, valeu a pena.
+
+Ficou em uma velocidade média. Houve bem melhores.
+
+O uso da memória ficou razoável e dentro da maioria.
+
+Comecei fazendo testes no play do W3Schools. Porém, trouxe para local.
+
+Após ajustes, algumas correções na lógica (inicialmente, demorou muito),
+cheguei no razoável.
+
+Dividi (extraí) o módulo e separei os testes só no final. Deixei o geral.
+
