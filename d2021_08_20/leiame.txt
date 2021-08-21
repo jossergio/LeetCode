@@ -1,0 +1,25 @@
+Inicialmente, feito pelo play do W3Schools.
+
+Passou no teste inicial. Porém, em um teste bem no final da lista submetida
+pelo LeetCode, apresentou uma divergência.
+
+Corrigido em máquina local, ficou, até, rápido, apesar de nem tanto.
+
+A quantidade de memória ficou bem razoável, junto com a maioria. Poderia
+ter utilizado alguma técnica para reduzir. Mas, passou.
+
+Utiliza técnicas matemáticas para calcular regiões.
+
+Destaque é que um coeficiente qualquer multiplicado pela divisão INTEIRA
+de uma variável por esse mesmo coeficiente resulta em um número entre zero,
+pois listas e tabelas em C/Python/Go etc assim começam (arrays) e o próprio
+número, variando em uma unidade INTEIRA somente quando é ultrapassado o múltiplo
+desse coeficiente.
+
+Feito em cerca de duas horas. Inicialmente, tentei em Go, para testar, mas
+me compliquei na sintaxe (envolvia avanços de mapas etc).
+
+Em seguida, migrei para Python, fazendo ajustes.
+
+Funcionou bem. Ganhei a pontuação. E isso é o importante.
+
