@@ -1,0 +1,8 @@
+Supersimples.
+
+Menos de dez minutos.
+
+Utilizei o play do cplusplus.com (cpp.sh).
+
+Ficou mediano e dentro da maioria em tempo de execução e uso de memória.
+
