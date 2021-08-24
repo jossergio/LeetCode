@@ -1,0 +1,11 @@
+Feito direto em GoLang, sem intermediárias.
+
+Funcionou de primeira.
+
+Feito pelo play.golang.org e transposto, de onde foi tirado testes1.go
+
+Não pude fazer comparações, pois, quando submeti, não havia submissões
+suficientes para montar um gráfico comparativo.
+
+Porém, foi tão rápido que informou 0ms. Memória, 2Mb.
+
