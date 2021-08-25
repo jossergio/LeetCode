@@ -1,0 +1,12 @@
+Feito diretamente em GoLang, com auxílio do play.golang.org.
+
+O link de testes pode ser visto em:
+https://play.golang.org/p/396egROEBAx
+
+Ficou muito lento. Depois de várias tentativas de melhorar o código, continuou
+lento. Mas, passou.
+
+Nem aparece no gráfico.
+
+Até o uso da memória ficou acima da média dos demais.
+
