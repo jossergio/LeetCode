@@ -1,0 +1,12 @@
+Fiz três modelos. Todos ficaram lentos.
+
+O primeiro provocou timeout. Parece que conversões e concatenação de strings
+deixa o programa lento.
+
+O segundo nem entrou no gráfico. Mas, não provocou timeout.
+
+O terceiro, pelo menos, ficou no consumo de memória da maioria, 
+que foi bem alto.
+
+Mas, houve tempos interessantes, na compração no gráfico.
+
