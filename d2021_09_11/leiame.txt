@@ -1,0 +1,9 @@
+Testes feitos no https://play.golang.org
+
+Não ficou bom, não ficou rápido como deveria, mas, passou.
+
+Simples. Só considerava parêntesis, adição e subtração, além de espaços.
+
+Fiz um segundo modelo. Não melhorou muito na execução. Até piorou. Mas, no uso
+de memória, até que melhorou um poquinho.
+
