@@ -1,0 +1,11 @@
+Um reversor de string, com caracteres fixos.
+
+Feito direto no play.golang.org
+
+Supersimples. 0ms. Porém, usou muita memória e eu não soube como reduzir.
+
+Cerca de 10% de memória a mais em relação a uma maioria, apesar de junto com
+muitos.
+
+Tentei outras maneiras de economizar, que não transpus. Não adiantou.
+
