@@ -1,0 +1,10 @@
+Modelo1: muito lento e muita memória.
+
+Modelo2: um pouco mais veloz. Mas, ainda muita memória.
+
+Modelo3: 0ms. Memória mediana.
+
+Obs.: o modelo3 só diferencia dos demais por abortar quando encontra uma
+condição zero (0), ou seja, quando encontra a falta de uma letra,
+na sequencia testada.
+
