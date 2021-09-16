@@ -1,0 +1,17 @@
+Fiz o algoritmo e não entendi nada.
+
+Receio grande de não funcionar em algum exemplo de testes.
+
+Houve dois erros, por não entender na origem. E nem depois.
+
+Porém, acertei os erros, um deles foi meu, e percebi, e o outro foi simples
+de perceber.
+
+Continuo sem entender o algoritmo.
+
+Testes diretos no play.golang.com
+
+Executou no melhor dos tempos comparados.
+
+A memória também foi razoável, comparado aos demais.
+
