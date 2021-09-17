@@ -1,0 +1,7 @@
+6ms. Nada mal.
+
+O uso da memória também não ficou mal.
+
+Uma pequena alteração, retirando uma variável temporária e utilizando
+a do próprio parâmetro, melhorou para 4ms e o uso da memória.
+
