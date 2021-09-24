@@ -1,0 +1,8 @@
+Desafio bem simples, mas bem simples mesmo.
+
+Pena que não fiz no dia e não peguei a pontuação. Fiz, só, pelo treino.
+
+Tempo de execução e memória conforme a maioria.
+
+O segundo modelo nem surtiu efeito. Mesma memória e mesma execução.
+
