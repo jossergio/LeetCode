@@ -1,0 +1,12 @@
+0ms. Memória dentro da maioria. Dentro do mínimo possível.
+
+Simular a um dos meus primeiros testes brincando com GoLang.
+
+Fiz um segundo teste utilizando variáveis globais no módulo. Para testar
+execuções no LeetCode e uso de variáveis nos módulos.
+
+O tempo não tinha como melhorar e permaneceu o mesmo. A memória aumemtou
+um pouquinho.
+
+Porém, em outras execuções, talvez melhore a performance.
+
