@@ -1,0 +1,8 @@
+Fiz em Python, por questões de recursos.
+
+Bem bobinho.
+
+Dois modelos e ambos o mesmo tempo e mesma memória.
+
+Porém, o segundo é bem mais elegante.
+
