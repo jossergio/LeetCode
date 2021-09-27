@@ -1,0 +1,14 @@
+Um desafio avulso, resolvido em 26/09/2021. O do dia estava muito complexo.
+
+Envolvia lista ligada com ponteiros.
+
+O primeiro algoritmo utilizou um algoritmo com conversão. Problema! O LeetCode
+gerou números que não são comportados em um int.
+
+Apesar de funcionar, gerou erro de execução.
+
+O segundo eu deveria ter pensado logo.
+
+Porém, falta uma aglidade quando somando número grande com pequeno, pois,
+poderia pegar o restante do maior e retornar.
+
