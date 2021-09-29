@@ -1,0 +1,11 @@
+O tempo ficou bom. 0ms.
+
+O uso da memória é que ficou horrível. Nem apareceu no gráfico.
+
+Na melhor da execução em termos de memória, utilizou, diretamente, a própria
+lista, não criando um temporário.
+
+Em todos os que eu visualizei, em termos de memória e execução, a linha de
+pensamento era semelhante, com questões de resto de divisão, calcular o
+tamanho da lista etc.
+
