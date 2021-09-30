@@ -1,0 +1,9 @@
+Fiz em Python por questões de recursos.
+
+Fiz direto no editor do LeetCode. Depois de alguns erros, um bom acerto.
+
+Ficou razoável. A maioria dos algoritmos, mais lentos ou mais eficientes,
+seguiam a mesma condição, mudando só a forma.
+
+Percebi que conversões em Python é muito lento.
+
