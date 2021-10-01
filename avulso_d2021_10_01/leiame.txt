@@ -1,0 +1,9 @@
+O tempo de execução não foi perfeito.
+
+Memória foi razoável, dentro dos demais.
+
+Cometi um erro de tentar agilizar, não considerando possibilidade de números
+negativos. Mas, corrigi e foi aceito.
+
+Fiz direto no editor do LeetCode. Sem testes.
+
