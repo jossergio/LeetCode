@@ -1,0 +1,10 @@
+Fiz bem rapidinho, no play.golang.com.
+
+Bons recursos de "map" do GoLang.
+
+Não ficou muito rápido. Mas, 62ms foi razoável.
+
+Houve bem melhores.
+
+Memória foi bem ruim.
+
