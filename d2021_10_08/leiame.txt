@@ -1,0 +1,9 @@
+Fiz em C++, para brincar. No playground do próprio LeetCode.
+
+Como usava árvores binárias, ponteiros, etc, nada melhor que essa linguagem
+para testar estrutras.
+
+A execução ficou abaixo da maioria, mas, na média.
+
+Porém, a memória ficou bem melhor que a maioria.
+
