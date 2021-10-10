@@ -1,0 +1,4 @@
+Poderia ter executado bem mais rápido, se otimizasse um modelo matemático.
+
+280ms. Memória também foi horrível. Não entendi o porquê.
+
