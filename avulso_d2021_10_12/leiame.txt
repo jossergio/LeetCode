@@ -1,0 +1,6 @@
+Muito lento. Mas, passou. Memória, nem se fala.
+
+Sugestão no desafio do dia 12/10/2021.
+
+Feito direto no LeetCode.
+
