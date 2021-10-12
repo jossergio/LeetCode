@@ -1,0 +1,8 @@
+Um pequeno detalhe faz muita diferença.
+
+Timout duas vezes. Um sinal de mais no lugar de um sinal de menos. 2ms.
+
+A maioria no 0ms.
+
+E o uso da memória ficou horrível, em relação à maioria.
+
