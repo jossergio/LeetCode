@@ -1,0 +1,6 @@
+Feito diretamente no LeetCode. Bem rapidinho. Aceito de primeira.
+
+Só digitou, verificou se a sintaxe estava correta, e não houve pegadinhas.
+
+0ms. A memória, não sei porque, ficou um pouquinho acima da média.
+
