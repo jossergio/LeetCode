@@ -1,0 +1,12 @@
+O testes1 ficou bacana, nos testes. Mas, produziu timeout, no LeetCode.
+
+O testes2 ficou mais lento.
+
+O testes3 ainda ficou lento.
+
+O testes4 passou. Meio mágica, meio gambiarra.
+
+55ms. Houve bem melhores.
+
+Porém, em termos de memória, ficou excelente.
+
