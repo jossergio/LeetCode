@@ -1,0 +1,11 @@
+Após algumas dificuldades de pensar no algoritmo, resolvi fazer.
+
+Após dois erros e muito matutar, enchi a função secundária de parâmetros
+e passou bem: 0ms.
+
+Essa ideia era a lógica necessária para a correção dos dois erros anteriores.
+
+A memória é que ficou um pouquinho acima da maioria. Mas, houve piores.
+
+Serviu para mostrar passagem por referência de variáveis ponteiros.
+
