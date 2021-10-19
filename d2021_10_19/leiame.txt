@@ -1,0 +1,4 @@
+Ficou muito lento. 12ms. A maioria abaixo de 5ms. Alguns em 0ms.
+
+Em memória, ficou melhor que a maioria.
+
