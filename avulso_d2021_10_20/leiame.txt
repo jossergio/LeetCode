@@ -1,0 +1,9 @@
+A maioria em 0ms. O meu, 2ms.
+
+Memória, horrível.
+
+Bom teste de passagem de ponteiros por referência em GoLang.
+
+Porém, nem precisava ser tão complicado. Poderia aproveitar a
+sequência própria da função, recursivamente.
+
