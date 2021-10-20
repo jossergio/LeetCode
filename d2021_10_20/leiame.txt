@@ -1,0 +1,4 @@
+32ms. 13Mb. Razoável.
+
+Se eu tivesse pensado que um simples split também tiraria os espaços extras...
+
