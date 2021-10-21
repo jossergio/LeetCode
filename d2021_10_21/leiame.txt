@@ -1,0 +1,15 @@
+Depois de vários erros, percebi que ainda não tinha entendido classes e GoLang.
+
+Simular a alguns erros anteriores com Python. Não tinha entendido como o
+LeetCode procedia.
+
+Fiz diretamente no editor do LeetCode, com alguns pequenos testes da
+linguagem no play.golang.com
+
+302ms. Quase metade foi abaixo disso.
+
+Se tivesse trabalado com um vetor e um map, não precisaria de laços
+e ficaria mais rápido.
+
+Memória ficou horrível.
+
