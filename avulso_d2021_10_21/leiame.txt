@@ -1,0 +1,12 @@
+Por brincadeira. Fiz rapidinho.
+
+Similar a maioria. Porém, lento. 47ms.
+
+Alguns, bem bonitos.
+
+Parece que a função escolhida para ao conversão incial não é muito eficiente.
+
+Memória horrível, também.
+
+Fiz direto no LeetCode. Com um pouco de auxílio do play.golang.com.
+
