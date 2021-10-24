@@ -1,0 +1,15 @@
+4ms. Uma busca binária poderia ter sido mais rápido, consumido mais memória e
+teria sido mais complexo para um caso simples.
+
+A maioria fez de modo prático.
+
+Nada que um return no meio não resolva.
+
+Decidi não testar o primeiro e o último, que poderia otimizar em vetores
+que estivessem plenos (sem rotação), além de outras verificações com a questão
+de igualdade de valores no início.
+
+Fiz direto no LeetCode, com alguns pequenos testes no play.golang.com.
+
+Memória, dentro da maioria, também.
+
