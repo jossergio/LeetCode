@@ -1,0 +1,10 @@
+21ms. Relativamente lento.
+
+Seviu para aprender, com outros modelos, que não precisaria de recursividade,
+fazendo com que GoLang fique inserindo os nós e retirando em um array,
+ou ter aproveitado a própria função modelo na recursividade, em poucas linhas.
+
+A maioria fez dessa segunda forma.
+
+Fiz bem rapidinho. Em menos de cinco minutos.
+
