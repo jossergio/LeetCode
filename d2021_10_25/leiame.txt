@@ -1,0 +1,6 @@
+Em Python, para aproveitar os recursos de listas.
+
+Lento. Muito lento. 790ms.
+
+Memória, até, bacana.
+
