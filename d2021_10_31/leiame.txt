@@ -1,0 +1,8 @@
+0ms, conforme a MAIORIA.
+
+Memória, no menor possível, conforme a MINORIA.
+
+Brincadeira boa com ponteiros.
+
+Na primeira tentativa e com um teste simples. Porém, com boa lógica.
+
