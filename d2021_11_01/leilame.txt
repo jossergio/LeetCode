@@ -1,0 +1,28 @@
+Apresentou uma resposta errada, no teste 35 (de 58).
+
+O valor em [2,3] não é alterado, no esperado, apesar de haver um
+limitador em [4,3].
+
+Considero que errado estava o esperado deles. Fiz postagem.
+
+Problema (em 35/58):
+["O","X","X","O","X"]
+["X","O","O","X","O"]
+["X","O","X","O","X"]
+["O","X","O","O","O"]
+["X","X","O","X","O"]
+
+Meu resultado:
+["O","X","X","O","X"]
+["X","X","X","X","O"]
+["X","X","X","X","X"]
+["O","X","O","O","O"]
+["X","X","O","X","O"]
+
+Esperado:
+["O","X","X","O","X"]
+["X","X","X","X","O"]
+["X","X","X","O","X"]
+["O","X","O","O","O"]
+["X","X","O","X","O"]
+
