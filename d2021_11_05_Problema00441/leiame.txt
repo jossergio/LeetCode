@@ -1,0 +1,11 @@
+Fiz bem rapidinho. Bem rapidinho, mesmo.
+
+Menos de cinco minutos e direto no editor do LeetCode.
+
+Houve uma resposta errada, por não perceber que deveria ser sinal de >= e não
+só de >
+
+Porém, 8ms. Não sei o motivo. O meu algoritmo era bem otimizado.
+
+Memória, no ideal e na maioria.
+
