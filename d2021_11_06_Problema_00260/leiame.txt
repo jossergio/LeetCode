@@ -1,0 +1,12 @@
+Fiz bem rapidinho. Aproximadamente 10min.
+
+Fiz direto no editor do LeetCode, usando o play.golang.com para testes com
+mapas.
+
+4ms. Interessante é que o do 0ms seguiu o mesmo raciocínio.
+
+Memória horrível, apesar de nem tanto em relação à grande maioria.
+
+O de memória otimizável utilizava um princípio matemático complexo para não
+utilizar mapas. Nem entendi.
+
