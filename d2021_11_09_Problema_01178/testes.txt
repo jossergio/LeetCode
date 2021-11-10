@@ -1,0 +1,5 @@
+Não consegui, de forma alguma, eliminar o excesso de tempo.
+
+O algoritimo funcionou muito bem, nas versões que fiz. Porém, em dez testes,
+o timeout ocorria no nono.
+
