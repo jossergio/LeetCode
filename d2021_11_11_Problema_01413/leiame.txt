@@ -1,0 +1,8 @@
+Direto no editor do LeetCode.
+
+0ms.
+
+Memória, normal.
+
+Vi um algoritmo mais interessante. Baseado em: valorInicial = 1 - valorIteração.
+
