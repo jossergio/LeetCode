@@ -1,0 +1,12 @@
+Meio chatinho.
+
+Mais de 1s. Não entendi o motivo, pois, muitos que foram rápidos usaram
+algoritmo semelhante.
+
+Aliás, ressalvadas poucas alterações, todos os que vi usaram ideias semelhantes.
+
+Inclusive, os que ficaram próximos a 0ms.
+
+Porém, em relação a memória, foi a melhor de todas e melhor que 99% das
+postagens.
+
