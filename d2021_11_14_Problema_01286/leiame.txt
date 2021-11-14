@@ -1,0 +1,8 @@
+8ms. Não houve tempo menor e a grande maioria, quase 100%, foi nesse tempo.
+
+Memória, poderia ter sido melhor. Mas, foi dentro do nível da grande maioria.
+
+Cerca de meia hora para fazer. O chato foi que ainda estou compreendendo a
+sintaxe para objetos e passagens de parâmetros (referência) em GoLang para
+estruturas complexas. Mas tou entendendo.
+
