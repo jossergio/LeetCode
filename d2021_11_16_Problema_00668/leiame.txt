@@ -1,0 +1,4 @@
+Trabalhoso. Não consegui contornar o estouro do limite de tempo.
+
+Fiz direto no editor do LeetCode.
+
