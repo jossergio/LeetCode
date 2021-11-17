@@ -1,0 +1,6 @@
+Fiz rapidinho, direto no editor do LeetCode.
+
+Porém, exedeu o limite de tempo.
+
+Não encontrei forma de sanar.
+
