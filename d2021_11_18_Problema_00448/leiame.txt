@@ -1,0 +1,20 @@
+Trabalhoso.
+
+Fiz direto no editor do LeetCode, testando.
+
+Depois de algumas versões erradas, uma passou.
+
+Fiz em Python pela facilidade de listas.
+
+Ficou meio lento.
+
+Depois, vi que algoritmos baseados em diferenças de conjuntos (set) funcionaria
+bem melhor. Ou testando (exists, in)
+
+Outros, levaram em consideração a posição e o valor, subtraindo, e considerando
+os que ficaram positivos.
+
+368ms, apesar de que os melhores ficaram acima de 200ms.
+
+Memória, razoável.
+
