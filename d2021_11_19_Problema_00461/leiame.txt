@@ -1,3 +1,17 @@
+====
+Novo comentário, após refazer
+====
+
+Refiz. Alguém me deu uma luz, na área de discussão.
+
+O título falava em distância. Na realidade, eram diferenças de bits.
+
+0ms. Memória, na maioria. Porém, a maioria estava um pouco elevada.
+
+====
+Comentário original
+====
+
 Não passou em um dos testes.
 
 Fiz comentário, na área de discussão.
