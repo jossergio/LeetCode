@@ -1,0 +1,9 @@
+Não passou em um dos testes.
+
+Fiz comentário, na área de discussão.
+
+Pelo meu pensamento, a diferença entre 4 e 2 era para ser 1, enquanto o teste
+indicava que deveria ser 2.
+
+Fiz em C++, para brincar, e em GoLang, para ver se haveria diferença.
+
