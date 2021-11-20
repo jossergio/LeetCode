@@ -1,0 +1,15 @@
+Fiz em C++, para brincar.
+
+Direto no editor do LeetCode.
+
+8ms, na maioria. Houve melhores.
+
+Memória, ruim. Mas, na maioria.
+
+Fiz um segundo modelo, para ver se usar uma variável para guardar o temanho
+do vetor impactaria na performance.
+
+E impactou. 4ms.
+
+Porém, a memória ficou no máximo das soluções.
+
