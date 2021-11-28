@@ -1,0 +1,13 @@
+Meio trabalhoso, por conta de questões com GoLang.
+
+Mas, ficou bem efetivo.
+
+8ms.
+
+Memória até que bacana. Melhor que a grande maioria.
+
+Por essa época, o play do GoLang começou a impor formatação. Ao executar,
+força uma formatação própria, limpando espaços onde acha que deve.
+
+Chato isso.
+
