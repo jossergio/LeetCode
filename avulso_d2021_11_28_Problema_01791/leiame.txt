@@ -1,0 +1,11 @@
+Fiz um modelo um pouco complexo, que apresentou uma resposta errada.
+
+Porém, analisando a estrutura do problema, enconrei uma solução bem boba, mas
+eficiente, que é a que foi disposta.
+
+112ms. O melhor tempo para o desafio.
+
+Memória, dentro da maioria, apesar de haver alguns poucos melhores.
+
+Fiz para me distrair, enquanto tomava um café, direto pelo celular.
+
