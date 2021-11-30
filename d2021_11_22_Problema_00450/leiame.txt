@@ -1,0 +1,13 @@
+Depois de muitas tentativas, passou.
+
+Muitas, mesmo. Tanto que não consegui no dia. Carreguei dia 30, uma semana
+depois. E não ganhei pontuação.
+
+Nem me lembrava mais como programar isso. Como utilizo para desafios e
+distração, após dois erros em tempo de execução e apanhar no play do próprio
+LeetCode, foi aceito.
+
+36ms. Marromeno. Poderia ter sido 12ms.
+
+Memória, no limite máximo e na maioria. Poderia ter econimizado variáveis.
+
