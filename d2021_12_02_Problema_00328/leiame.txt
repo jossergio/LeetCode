@@ -1,0 +1,12 @@
+Fiz direto no LeetCode.
+
+Tentei em C++. Cheguei a fazer uns testes básicos de sintaxe no cpp.sh.
+
+Concluí em GoLang e vi a vantagem de se utilizar funções com duplo retorno.
+
+Fiz com uma divisão de código, para compreensão. Nem precisaria.
+
+4ms, com a grande maioria. Teve 0ms. Bem interessante a ideia.
+
+Memória, no mínimo e com a maioria.
+
