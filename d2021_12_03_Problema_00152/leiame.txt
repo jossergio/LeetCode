@@ -1,0 +1,9 @@
+Direto no LeetCode.
+
+120ms. Horrível. Nem aparece no quadro. Vício de pensar em divisão por laços
+aninhados no lugar de um modelo matemático.
+
+Memória, com a maioria. Podia ter sido um pouquinho melhor.
+
+Tentei melhorar. Mas, não obtive sucesso.
+
