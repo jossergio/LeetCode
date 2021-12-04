@@ -1,0 +1,12 @@
+Fiz testes no golang.dev/play, que nessa época já tava ficando chatinho,
+e não salvei. Foram, só, para testes de sintaxe etc. Depois, copiei no LeetCode.
+
+Fiz rapidinho. Cerca de meia hora.
+
+372ms. Não foi o mais lento. Mas, algoritmo desse tipo não há como ficar zerado.
+
+A maioria foi na casa dos 240ms, apesar de haver em 220ms.
+
+Memória, não entendi. Não apareceu no gráfico, pois, ficou menor que o mínimo
+que mostrava.
+
