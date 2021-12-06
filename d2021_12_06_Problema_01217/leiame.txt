@@ -1,0 +1,10 @@
+Com auxílio do LeetCode, que tinha a solução aberta, entendi o problema, que
+não tinha entendido como solucionar (nem com os hints).
+
+Fiz em GoLang, primeiro. 0ms (quase todo mundo). Memória, também com a maioria.
+
+Depois, para brincar, fiz em C++. 0ms (metade das soluções). Memória, melhor
+que a grande maioria (nos menos de 10% melhor).
+
+Percebi que C++ utiliza mais memória.
+
