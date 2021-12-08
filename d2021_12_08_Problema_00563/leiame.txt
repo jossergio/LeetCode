@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Apesar de citar que é nível fácil, não é tão fácil assim.
+
+De primeira. Mas, demorei mais de hora.
+
+22ms. Muito lento. E muita memória. Esse nem apareceu no gráfico.
+
+Se tivesse pensado em uma variável global ou parâmetro por referência para o
+resultado, teria ficado melhor. Bem melhor.
+
+Ou se tivesse usado a possibilidade do GoLang de retornar dois valores, também.
+
+E eu fiz. E ficou em 18ms. E memória também ficou horrível, também.
+
+Mas, pelo menos, o código ficou menor.
+
+Da próxima vez, variáveis globais. Ou, pelo menos, passagem por referência.
+
+Não entendo como o LeetCode se comporta. Algoritmos semelhantes, desempenhos
+bem diferentes.
+
