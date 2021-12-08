@@ -1,0 +1,8 @@
+Rapidinho. Direto no editor do LeetCode.
+
+10ms. Não entendi o porquê. Algoritmos similares foram mais rápidos.
+
+Aliás, nem tinha como ter outros tipos. A não ser para complicar.
+
+Memória, na média.
+
