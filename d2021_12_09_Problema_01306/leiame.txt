@@ -1,0 +1,18 @@
+Direto no editor do LeetCode.
+
+Rapidinho. Menos de meia hora.
+
+36ms. Bom resultado, apesar de haver alguns poucos melhores.
+
+Memória, no meio dos piores. Mas, a técnica que utilizei duplicava o uso de
+memória logo de imediato.
+
+Vi modelos de algoritimos sem recursividade, utilizando fila (poderia ser pilha,
+também) e utilizando técnica de modificar o valor do vetor para um que não
+constaria nos valores fornecidos. Para fazer testes em um laço simples.
+
+Interessante é que o mais rápido entre as soluções utilizava uma técnica
+similar à minha. Porém, serviu para aprender mais sobre as possibilidades do
+operador || e, também, deixar valores em um vetor, uma vez que, passando uma
+vez e não encontrando solução, na próxima, também não encontrará.
+
