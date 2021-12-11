@@ -1,0 +1,16 @@
+Direto no editor do LeetCode. Rapidinho.
+
+Para brincar, pois, nesse dia, apesar de ter resposta, não entendi o problema
+do dia.
+
+16ms. Horrível. Lembrar de usar um pouquinho mais de memória e guardar
+tamanho de vetor em uma variável.
+
+Memória, excelente.
+
+Fiz um segundo modelo, usando um pouquinho mais de memória, para guardar o
+tamanho do vetor. 12ms. Melhorou, mas, nem tanto.
+
+Não entendo como o LeetCode compara, pois, muitos dos melhores são bem similares
+aos meus e, alguns, usam bem mais memória.
+
