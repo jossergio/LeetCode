@@ -1,0 +1,7 @@
+Rapidinho. Direto no LeetCode. De primeira.
+
+0ms. Quase todo mundo.
+
+Memória, inventei de utilizar uma variável para o tamanho da string.
+Poderia ser, então, melhor.
+
