@@ -1,0 +1,6 @@
+Pelo celular. Direto no LeetCode. Rapidinho.
+
+92ms. Melhor que a maioria. Mas, não entendo a avaliação do LeetCode.
+
+Memória, também melhor que a maioria.
+
