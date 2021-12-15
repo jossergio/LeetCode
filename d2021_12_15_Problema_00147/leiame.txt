@@ -1,0 +1,10 @@
+Direto no LeetCode. Rapidinho, apesar de a ideia ser um pouco chata.
+
+O algoritmo ficou uma obra de arte.
+
+9ms. Melhor que a grande maioria.
+
+Porém, mais uma vez, não entendo o LeetCode.
+
+Memória, nem tão bacana.
+
