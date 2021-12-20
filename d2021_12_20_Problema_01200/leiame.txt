@@ -1,0 +1,15 @@
+Achei que seria mais fácil. Mas, depois de dois timouts, percebi que poderia
+ser feito com laço único.
+
+Direto no LeetCode. Iniciei no celular, por distração. Mas, a lógica não
+funcionava e perdi o código.
+
+No computador, corrigi a falha de lógica no pensamento. Porém, ainda pensando
+em laços aninhados. Os primeiros códigos, no celular, foram perdidos. Nem
+logado eu estava.
+
+316ms, no primeiro modelo. Melhor que 95% das soluções apresentadas.
+
+320ms, no segundo. E melhorou um pouquinho a memória. Mas, achei que o tempo
+melhoraria.
+
