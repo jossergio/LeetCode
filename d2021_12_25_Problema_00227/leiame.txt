@@ -1,0 +1,24 @@
+Direto no editor do LeetCode.
+
+Uma calculadora simples (interpretador de expressão).
+
+Continha possibilidade de espaços.
+
+Porém, sem parêntesis e sem a possibilidade de iniciar com negativos.
+
+Como é um código complexo e c++ é chatinho, demorou a compilar corretamente.
+
+Porém, após um timeout por bobeira (colocar != no lugar de ==) e um erro
+por não atentar para a possibilidade de, mesmo sem números negativos, o
+próprio acumulador, junto com a sequência de operadores, poder adicionar
+negativos, passou nos testes.
+
+28ms. Horrível. Muito horrível. Tenho que melhorar minha lógica de programação.
+
+Porém, serviu para checar ótimos códigos, nos melhores tempos.
+
+Memória, razoável. Melhor que mais da metade.
+
+Ah! E esse é um dos casos que o LeetCode apresentava soluções, formando uma
+aula de lógica de programação.
+
