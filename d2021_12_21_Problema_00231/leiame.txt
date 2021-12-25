@@ -1,0 +1,17 @@
+Feito direto no celular, no editor do LeetCode.
+
+Durante a visita à Árvore (Natal), enquanto lanchava.
+
+Depois de alguns erros, por falha de interpretação, sucesso.
+
+4ms. Ficou muito lento, por comparação com os demais.
+
+Memória, ficou horrível. Porém, com a maioria.
+
+Usei uma fórmula simples. Poderia ter poupado uns poucos recursos, em termos
+de memória, sem variável temporária. Retorno direto.
+
+Porém, os códigos de 0ms utilizaram laços.
+
+Não entendo, mais uma vez, o LeetCode.
+
