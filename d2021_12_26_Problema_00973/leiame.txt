@@ -1,0 +1,16 @@
+Rapidinho. Bem rapidinho. Direto no editor do LeetCode.
+
+Preciso melhorar minha intuição em lógica de programação.
+
+Fui bem intuitivo. Mas, há maneiras de programar com menos código
+e com menos memória.
+
+Passou de primeira. Porém, utilizei muito temporários.
+
+580ms. Melhor que a grande maioria. Porém, lento.
+
+Memória, melhor que cerca de 1/3 das soluções.
+
+Nesse, o LeetCode também contém soluções disponíveis, apresentando uma
+verdadeira aula de programação.
+
