@@ -1,0 +1,14 @@
+Pelo celular. Direto no editor do LeetCode. Passou de primeira.
+
+Um simples cálculo matemático. Ainda poderia ser melhor, pois, conteve um
+laço simples para ver uma potência temporária que poderia ser baseada
+no log2.
+
+Porém, muitos, de uma forma ou de outra, foram na mesma forma do laço, para
+gerar um temporário para um cálculo final.
+
+0ms. Quase todo mundo.
+
+Memória, excelente. Melhor que a grande maioria. Talvez, pudesse ter sido
+um pouquinho melhor.
+
