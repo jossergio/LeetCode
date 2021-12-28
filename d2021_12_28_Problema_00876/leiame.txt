@@ -1,0 +1,14 @@
+Direto no editor do LeetCode.
+
+Após um pequeno erro, passou.
+
+O LeetCode mostrava soluções. Uma bem criativa.
+
+4ms. Muito lento.
+
+Porém, mais uma vez, não entendo como o LeetCode processa. Algoritmos que
+utilizaram a solução ficaram nesse meio ou 3ms. Outros, com a mesma solução,
+em 0ms.
+
+Memória horrível. Porém, com a maioria.
+
