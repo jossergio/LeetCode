@@ -1,0 +1,14 @@
+Rapidinho. Direto no LeetCode.
+
+Utilizei um vetor temporário. Há ideias bacanas, utilizando recursos da própria
+estrutura fornecida.
+
+Acho bacana tratar árvores, listas ligadas, ponteiros em geral.
+
+25ms. Bem lento. Porém, não houve 0ms.
+
+A maioria ficou entre 10 e 20ms.
+
+Memória, melhor que a grande maioria. Não sei como, pelo uso do vetor
+temporário.
+
