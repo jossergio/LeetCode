@@ -1,0 +1,30 @@
+Com auxílio do cpp.sh.
+
+Inicialmente, imaginei uma forma de solução. Porém, o próprio problema
+apresentava que o número poderia não caber em um int64.
+
+Depois de alguns erros, por, apesar de ter atinado para essa questão,
+e tentar encontrar uma ideia para tratar, somente, através do acúmulo do
+resto da divisão (módulo), percebi que minha ideia iria além dos limites
+do próprio número, quase ao infinito. E o LeetCode dispensava essa questão,
+limitando-se a uma margem envolvendo o próprio parâmetro.
+
+Então, tive que me render a verificar a solução que o LeetCode dispunha.
+
+Partes das ideias eu já tinha. Inclusive, a de checar números divisíveis
+por dois e por cinco, que fez uma diferença enorme na execução, pois jamais
+poderiam ser solução (o problema envolvia números que sempre terminariam
+com o algarismo 1).
+
+Também tive muita dificuldade de raciocínio por querer pensar em dígios
+binários quando o problema citava números decimais.
+
+É meio chato de compreender. Sem a verificação da solução, que ainda estou
+deglutindo, pois não entrou bem, não teria feito.
+
+0ms. Memória, bem razoável. Apesar de ser bem igual a diversos, pois foi
+baseado na solução do LeetCode, não sei porque não ficou no menor limite.
+
+Inclusive, bem quase igual (tirando nomes de variáveis) à solução
+de menor memória. Questões, talvez, de otimizações de compilação.
+
