@@ -1,0 +1,26 @@
+Direto no LeetCode, com auxílio de testes no cpp.sh.
+
+Tem que pensar um pouco em matemática.
+
+Provocou dois erros em tempo de execução, por eu considerar arranjo, que
+depende de fatorial, que produzem números grandes, que não podem ser
+armazenados nem em long. Situações com valores acima de 20, por exemplo.
+
+Refiz por condução de incremento, que produzia o mesmo resultado e não tinha
+valores tão elevados, transformando uma função base.
+
+Quando postei, vi que uma ideia que eu tinha, com multiplicação simples,
+produzia o mesmo resultado. Ou seja, não precisaria de uma função auxiliar.
+
+Mas, passou nos testes.
+
+65ms. Horrível. Porém, poucos foram abaixo de 10ms.
+
+Grande parte entre 20 e 40ms.
+
+Memória, um pouco melhor que a grande maioria.
+
+Considerei os modelos com run time error, como exemplo, por conta das funções
+para arranjo simples (cujo valor teria que ser dividido por dois, pois, para
+o problema, a ordem era irrelevante).
+
