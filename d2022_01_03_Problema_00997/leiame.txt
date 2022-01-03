@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Depois de penar com o problema do dia anterior, depois de validar, o LeetCode
+tinha mudado a data do servidor. Ou seja, não valeu.
+
+Ainda cansado, com a indicação de "easy", tentei.
+
+Depois de problemas de percepção, que produziram versões com erro, passou.
+
+Lento. Muito lento.
+
+233ms.
+
+Memória, melhor que a grande maioria.
+
+Porém, muitos de tempos melhores foram bem parecidos com o meu.
+
