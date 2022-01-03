@@ -1,0 +1,14 @@
+O 1o modelo, fiz direto no celular, enquanto estava em uma cafeteria.
+
+Não refatorei. Ficou um código horrível de se ler. Reduntante. Etc.
+
+Porém, 3ms. Memória, bastante acima da média.
+
+O 2o modelo fiz dois dias depois, com calma. O LeetCode apresentava resposta,
+que utilizei para gerar o meu código, com o que me lebrava do problema, e com
+algumas melhorias na cabeça.
+
+7ms, apesar de estar bem reduzido, refatorado etc. Menor, até, que do LeetCode.
+
+Memória, baixou um pouco. Mas, ainda acima da média.
+
