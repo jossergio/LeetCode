@@ -1,0 +1,8 @@
+Direto no LeetCode, no celular.
+
+3ms. Sem entender o LeetCode, pois, solução 0ms continha dois laçõs.
+
+Memória, muito alta. No final do gráfico.
+
+Fiz um segundo modelo. E não melhorou nada.
+
