@@ -1,0 +1,16 @@
+Direto no LeetCode. Bem simples. Fiz rapidinho.
+
+O LeetCode apresentava soluções.
+
+44ms. Muito lento. Muito lento de horrível, em comparação com outros.
+
+Porém, meu código ficou bem similar à solução do LeetCode e a outras soluções.
+
+Alguns códigos (grande parte) faziam laços a cada iteração e mesmo assim
+foram mais rápidos.
+
+Memória, no pior. Mas, era esperado isso. Por otimizações, usei vetor.
+
+Não entendo o LeetCode. Códigos de 12ms ou menos são iguais ao meu, mantidos
+os nomes das variáveis.
+
