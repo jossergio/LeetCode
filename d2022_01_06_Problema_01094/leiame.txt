@@ -1,0 +1,12 @@
+Direto no LeetCode, pelo celular.
+
+Depois de algumas falhas, passou.
+
+89ms. Muito lento. Porém, houve piores.
+
+Fiz em Python, por questões de otimizações com listas.
+
+Memória, nos piores. Porém, com a maioria.
+
+Depois de enviado, vi que algumas melhorias poderiam ser feitas.
+
