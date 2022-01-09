@@ -1,0 +1,11 @@
+Não consegui, de forma alguma, tirar o timeout.
+
+E olha que o LeetCode apresentava soluções. Que não consegui acompanhar.
+
+Porém, ainda acredito que o meu desviava/contornava uma iteração.
+
+Depois de vários modelos e de mudar a data do LeetCode (entra outro problema),
+desisti.
+
+E olha que tentei.
+
