@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+O LeetCode apresentava soluções.
+
+Facinho. De uma passada só.
+
+0ms. Com a grandíssima maioria.
+
+Memória, quase no ideal.
+
+Porém, mais uma vez, não entendo como o LeetCode compara, pois, o exemplo do
+0ms é bem complexo. Além de outros aparentarem utilizar mais memória e serem
+melhores nesse quesito.
+
+Mas, para aproveitar melhor memória, poderia ter raciocinado com funções
+internas de Python, utilizando uma variável local na função interna, no lugar
+de retornar valores.
+
+Talvez, pudesse ter feito com closures, em GoLang, linguagem que utilizei. Ou
+funções em variáveis, definidas dentro de uma função.
+
