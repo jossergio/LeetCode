@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+De primeira.
+
+Em GoLang, para aproveitar facilidades.
+
+47ms. Medianamente lento.
+
+Memória, um pouco abaixo da média.
+
+Não entendi a lentidão. Não houve 0ms. Mas, 20ms, o menor, era um algoritmo
+horrível, apesar de não recursivo (laço).
+
+Além disso, a maioria, em pouco menos de 30ms, era idêntico ao meu.
+
