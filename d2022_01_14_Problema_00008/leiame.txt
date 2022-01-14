@@ -1,0 +1,19 @@
+Com auxílio do play.golang.org.
+
+Chato. Muito chato fazer. Detalhes como se fosse fazer um compilador.
+
+O LeetCode apresentava soluções. Peguei um pouco da cultura de um deles. Porém,
+fiz sem mais consultar, tentando lembrar da ideia.
+
+12ms. Lento. Muito lento! A mais lenta de todas as respostas.
+
+Porém, a solução de 0ms não se preocupava com int32, que era o que o código
+recomendava, já que int do GoLang é int64. Ou seja, bastava testar se passava
+e eu desejei fazer um código bonitinho, com lógica, validando antes de um
+possível overflow etc.
+
+Memória, também horrível, apesar de ter havido piores.
+
+E olha que meu código ficou organizado e bem otimizado. Lindo de se ver,
+acompanhar e estudar. Sem firulas, complicações, invenções, etc.
+
