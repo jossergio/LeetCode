@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+Depois de dois errinhos, por falta de atenção, passou.
+
+163ms. Muito lento. Mas, não houve abaixo de 100ms.
+
+Acredito que, para facilitar o algoritmo, precisei ordenar uma lista e isso
+pode ter prejudicado.
+
+E olha que fiz em Python, para aproveitar estruturas, inclusive de ordenação
+de listas.
+
+No final, acho que foi uma péssima ideia um vetor temporário, pois, o de quase
+100ms foi bem parecido com o meu, só que acumulava o maior no lugar de
+guardar valores.
+
+A ordenação era para pegar o primeiro que ficasse no início. Ou seja, nem
+varreria o vetor.
+
+Memória, horrível. Mas, a maioria também foi e fiquei um pouco abaixo.
+
+O LeetCode apresentava soluções, que eu nem olhei para fazer.
+
+Fiz um segundo modelo, já quando fui, pelo computador, jogar no GitHub.
+
+192ms. Ou seja, pior. Porém, memória, com a maioria, apesar de
+horrível, também.
+
