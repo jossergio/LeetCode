@@ -1,0 +1,19 @@
+Direto no LeetCode, com auxílio do python.org/shell, para checar sintaxe
+e comportamento.
+
+Após três erros, por falta de interpretação, passou.
+
+Lento. Muito lento. 55ms.
+
+Acredito que, pelos erros anteriores, deixei um certo lixinho desnecessário.
+
+Memória, muito melhor que a grande maioria.
+
+Com Python, havia uma forma linda, porém não tão intiutiva, de fazer. Vi
+nas respostas dos outros, apesar de não tão rápido (32ms).
+
+Tentei fazer outro. Após mais alguns erros, 55ms e piorou a memória.
+
+O do 0ms era pior que o meu, com laço dentro de outro, inclusive. Não entendo
+o LeetCode.
+
