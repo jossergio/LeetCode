@@ -1,0 +1,24 @@
+Direto no LeetCode, com auxílio do play.golang.
+
+O LeetCode apresentava uma solução, sem necessidade de uma função extra
+que criei para dividir atividade (refatoração).
+
+33ms. Lento. Horrível de lento. Apesar de que a maioria era um código feio.
+
+Não houve abaixo de 6ms.
+
+Memória, também horrível. Talvez, por conta das chamadas à função extra.
+
+Fiz um segundo modelo, achando que otimizaria. Esse modelo, inclusive, era
+citado como otimização em um exemplo do LeetCode. Adicional, em um comentário
+nas soluções do LeetCode, uma ideia que eu tive de saltar era citada.
+
+55ms. Ou seja, pior. Nem apareceia no gráfico.
+
+Memória, mesma coisa.
+
+Não entendo o LeetCode.
+
+Como já tinha sido aceito, decidi não fazer uma versão sem a função extra,
+utilizando a ideia geral do LeetCode, nos seus exemplos de solução.
+
