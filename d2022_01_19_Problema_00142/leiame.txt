@@ -1,0 +1,22 @@
+Direto no LeetCode, pelo celular, enquanto tomava um café.
+
+Passou de 1a.
+
+Porém, muito lento. Nem apareceu no gráfico. 191ms.
+
+Memória, ruim.
+
+Muitos algoritimos utilizavam uma estrutura de acompanhar ponteiros do tipo
+slow/fast. Não sei como algoritmos desse tipo funcionam para esse problema,
+que pode conter um círculo de lista ligada e uma resposta específica.
+
+Desde o início eu pressentia que seria lento. Não achava que tanto.
+
+Uma função para procurar informação, que utilizei, faria esse papel de deixar
+lento.
+
+Depois, vi modelos que poderiam ser utilizados para tentar otimizar. Tipo,
+no lugar de procurar, já que fiz em GoLang, utilizar maps.
+
+Mas, deixei para lá. Não fiz outros modelos e/ou testes. Passou e pronto.
+
