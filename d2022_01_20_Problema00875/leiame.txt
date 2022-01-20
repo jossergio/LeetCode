@@ -1,0 +1,55 @@
+Com auxílio do play.golang.org.
+
+De inídio, não entendi.
+
+Mesmo assim, resolvi tentar.
+
+O LeetCode possuía soluções.
+
+Após alguns erros e tempos excedidos, resolvi olhar as soluções do LeetCode.
+
+Para minha surpresa, uma de minhas ideias era bem parecida com a mais simples.
+
+E olha que tentei fazer alguns ajustes para otimizar.
+
+Resolvi, então, ajustar para ficar bem parecido com o do LeetCode. Resultado:
+mais tempo excedido.
+
+Resolvi, então, verificar o outro exemplo do LeetCode. 95ms. UM TEMPO HORRÍVEL.
+
+Ou seja: ambos os modelos eram horríveis.
+
+Após fazer umas verificações nesse novo modelo, vi uma forma de otimizar.
+
+Mesmo assim, 66ms. Ainda horrível.
+
+O modelo 1 é meu original, depois de vários erros, que responde bem, apesar
+de exceder o limite de tempo.
+
+O modelo 2 é uma tentativa de localizar possibilidades de tempo excedido.
+
+Os modelos 3 a 7 é uma tentativa de ajustes, para tirar o tempo excedido.
+
+O modelo 8 é bem parecido com a forma simples das soluções do LeetCode. Mesmo
+assim, tempo excedido.
+
+O modelo 9 é bem parecido com a solução aprimorada do LeetCode (usa busca
+binária), com alguns pequenos ajustes meus, tal como divisão de atividade e
+algumas previsões para tentar descobrir soluções heurísticas. Porém, como
+citado acima, lento.
+
+O modelo 10 é uma tentaviva de abortar um laço quando perceber que a solução
+já não está mais na área de busca. Mesmo assim, ainda muito lento.
+
+Não entendo. Pois, muitas soluções são baseadas, justamente, nesses modelos do
+LeetCode. E olha que eu ainda adicionei previsões para melhoria de tempo.
+
+Não houve soluções abaixo de 15ms. Mas, séxtuplo ou o quádruplo disso é
+problemático.
+
+Probleminha chato. Muito chato. E ainda ficou encucado com alguns testes.
+
+Todas as respostas que eu vi no gráfico eram baseadas na busca binária
+nas soluções do LeetCode. Inclusive a melhor, que ajustava para utilizar
+a ideia que tive para melhorar o tempo.
+
