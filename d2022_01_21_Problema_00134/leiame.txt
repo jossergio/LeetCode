@@ -1,0 +1,32 @@
+Com auxílio do play.golang.org.
+
+Depois de muitos tempos excedidos, finalmente, passou.
+
+3580ms. Muito lento. Nem apareceu no gráfico, que começava em 1800ms.
+
+Fiz de várias formas. Mais de dez modelos.
+
+De início, aparentou simples. Fiz rapidinho. Mas, provocou tempo
+excedido, apesar de eu ter certeza que resolvia.
+
+Depois, alguns erros, tempos excecidos, o LeetCode aceitou.
+
+Memória, na melhor de todas, que foram poucos nesse nível.
+
+E olha que eu usei um array para acumular e as soluções que eu vi não usaram.
+
+Os melhores algoritmos, apesar de não serem 0ms (o menor tempo era em
+torno de 40ms), usaram uma estratégia simples: o primeiro passo não
+pode começar negativo e seus acúmulos posteriores.
+
+Já que o problema citava que, se houvesse solução, seria uma única.
+
+Ou seja, toda vida que um trecho acumulado descia menor que zero, ele já
+descartaria e começaria no próximo item, que já se supõe ser a resposta.
+
+Eu ainda não interpretei isso. Ainda fico com aquele encucamento de aparecer
+algo, pelo meio, que fuja a essa regra. Mas, foi a solução ótima.
+
+Puxei só o modelo que foi aceito e descartei as outras com erros e fora
+de tempo.
+
