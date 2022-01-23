@@ -1,0 +1,17 @@
+Direto no LeetCode, com auxílio do play.golang.org.
+
+Meio chatinho.
+
+O LeetCode sugeria (hint) que fosse feifo por recursão. Imaginei ser possível
+de forma direta, por laços, e funcionou.
+
+Após uma resposta errada, pois, eu imaginava que fosse aceito em qualquer
+ordem, bastou ordenar antes de concluir que foi aceito.
+
+0ms. Igual à maioria, apesar alguns poucos serem acima de 2ms.
+
+Parece que, também, o pessoal dispensou a recursão. Com poucas diferenças,
+ideias similares, com laço.
+
+Memória, todo mundo no mesmo nível.
+
