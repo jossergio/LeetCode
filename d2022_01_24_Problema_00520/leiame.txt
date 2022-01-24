@@ -1,0 +1,16 @@
+Direto no LeetCode, pelo celular, a 1a versão. Passou na primeira tentativa.
+
+As demais, joguei no computador, para fazer testes de velocidade, uma vez
+que ficou muito lento.
+
+E olha que ficou só uma linha, jogada direto no return, utilizando
+recursos do Python, linguagem que considerei mais apropriada.
+
+45ms.
+
+Memória, muito bom.
+
+Não consegui, com os demais modelos, superar a marca dos 38ms.
+
+E olha que fiz de tudo para otimizar.
+
