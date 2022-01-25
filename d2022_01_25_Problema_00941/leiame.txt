@@ -1,0 +1,19 @@
+Direto no LeetCode, pelo celular, enquanto fazia uma refeição.
+
+Após um pequeno errinho, passou fácil.
+
+44ms. Lento, muito lento.
+
+Não entendi o motivo, pois, era um laço simples, dividido em duas etapas e
+com possibilidade de saída antecipada.
+
+Porém, não houve abaixo de 10ms.
+
+E, para piorar, o de menor tempo era igualzinho ao meu. Igualzinho, alterando,
+somente, nomes de variáveis. A sequência era idêntica.
+
+Memória, nem apareceu no gráfico. Também ficou ruim. E, novamente, não
+entendo o motivo.
+
+O LeetCode apresentava uma solução. Que eu nem olhei.
+
