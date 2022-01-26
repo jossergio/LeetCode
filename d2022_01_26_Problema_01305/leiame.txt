@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+Inicialmente fiz em Python3, para aproveitar recursos já prontos.
+
+Em cinco minutos, tava pronto e aprovado.
+
+426ms. Médio. Da próxima vez, tentar utilizar funções inline.
+
+Memória, média, também.
+
+Tinha, inicialmente, pensado em fazer em GoLang. Fiz.
+
+298ms. Nem apareceu no gráfico.
+
+Não entendi o motivo. Meu modelo seguia alguns melhores.
+
+Memória, também. Horrível.
+
+Depois, fiz em C++, só para diversão.
+
+364ms. Também nem apareceu no gráfico.
+
+Memória, 5x mais além do finla gráfico.
+
+Depois, terminei em Python, que eu tinha iniciado antes de migrar para o 3.
+
+640ms. Bem abaixo da grande maioria. E olha que segui o mesmo modelo do 3.
+
+Memória, mediano.
+
+Tenho, também, que aprender a varrer uma árvore sem ser por recursão.
+
