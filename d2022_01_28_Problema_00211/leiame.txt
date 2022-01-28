@@ -1,0 +1,21 @@
+Direto no LeetCode, com auxílio do play.golang.org, para verificações
+de sintaxe e pequenos testes.
+
+Passou de primeira. Porém muito lento: 274ms. Quase não entra no gráfico.
+
+Não houve abaixo de 50ms.
+
+Depois, vi por algumas soluções que poderia ter gerado um mapa para filtros
+por tamanhos. Uma boa ideia, para evitar ficar varrendo a lista de
+todas as palavras guardadas a cada busca. Mesmo com o "continue" para escapar
+das que não teriam o mesmo tamanho.
+
+Semelhante a: lista [len (palavra)][], onde cada elemento é uma outra lista,
+porém só com as que possuem o mesmo tamanho de "palavra".
+
+Também poderia aditivar com a própria "palavra" sendo o índice em um papa.
+Neste caso, para a questão do ".", poderia utilizar expressões regulares.
+
+Em termos de memória, no melhor patamar dentre os demais. Inclusive no
+dos melhores códigos.
+
