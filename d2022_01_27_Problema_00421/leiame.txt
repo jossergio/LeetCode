@@ -1,0 +1,10 @@
+Direto no LeetCode. Iniciado no celular e continuado no computador,
+para tentar tirar o excesso de tempo.
+
+Mas, mesmo assim, não consegui, após diversas tentativas.
+
+Carregamento atrasado. Após tentativas erradas e excesso de tempo, desisti.
+
+Transponho só para constar. E a primeira versão, que ficou simples e sem erros,
+apesar de lento e extrapolar o tempo.
+
