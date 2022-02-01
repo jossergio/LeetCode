@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Passou de primeira.
+
+Em Python, para aproveitar estruturas da linguagem e programar menos.
+
+60ms. Acima da média. Não houve abaixo de 30ms.
+
+Memória, um pouco abaixo da média. Porém, outros códigos parecidos (ou iguais)
+apareciam com menos.
+
+Em termos de eficiência, parece que os laços são melhores que os laços das
+estruturas de Python.
+
