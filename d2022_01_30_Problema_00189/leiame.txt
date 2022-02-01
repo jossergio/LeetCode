@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo celular.
+
+Usei o modo mais fácil, que utiliza muita memória.
+
+Tentei vários modelos para fazer sem utilizar memória extra. Após cinco
+tentativas infrutíferas, desisti, mesmo em dias seguidos.
+
+Transcrevi, somente, o que resolveu.
+
+50ms. Razoável. Mas não houve abaixo de 20ms.
+
+Memória, bem abaixo da média.
+
