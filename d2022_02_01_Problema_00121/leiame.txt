@@ -1,0 +1,11 @@
+Direto no LeetCode e pelo celular.
+
+Após uma pequena falha de interpretação, passou.
+
+250ms. Muito lento. Mas não houve abaixo de 90ms.
+
+Os melhores códigos utilizavam formas semelhantes à minha. Porém, não usavam
+range para navegar no vetor.
+
+Memória, horrível. Também não entendo o motivo.
+
