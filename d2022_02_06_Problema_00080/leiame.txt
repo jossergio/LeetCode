@@ -1,0 +1,13 @@
+Direto no editor do LeetCode.
+
+Rapidinho. Menos de cinco minutos.
+
+3ms. Bom.
+
+Porém, no mesmo nível estava um código semelhante ao meu.
+
+E, no 0ms, um idêntico, mantendo certas particularidades, como nomes de
+variáveis e algumas sequências de instruções.
+
+Memória, dentro do esperado.
+
