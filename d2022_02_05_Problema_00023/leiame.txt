@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Passou de primeira.
+
+O LeetCode apresentava soluções. Mas nem considerei.
+
+334ms. Lento demais da conta. Muito lento, mesmo.
+
+Era de se esperar, pela abordagem que fiz.
+
+Memória, excelente. Quase não utilizava extra, criando uma nova lista a partir
+dos elementos existente das listas de trabalho (parâmetros), que era a que
+era retornada.
+
