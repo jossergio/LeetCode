@@ -1,0 +1,12 @@
+Direto no editor do LeetCode e pelo celular.
+
+Não consegui tirar o excesso de tempo.
+
+Era de se esperar: quatro laços aninhados.
+
+Só fiz uma tentativa. Nem imagino uma outra forma de fazer.
+
+Postei só pela consideração.
+
+O algoritmo está correto. Porém, lento.
+
