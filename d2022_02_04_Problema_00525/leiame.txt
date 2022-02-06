@@ -1,0 +1,12 @@
+Direto no editor do LeetCode.
+
+O LeetCode apresentava soluções, em Java.
+
+Não entendi nada da lógica. Peguei uma das soluções e converti para GoLang.
+
+Não tenho mérito algum.
+
+Porém, 163ms. Lento.
+
+Memória, na média.
+
