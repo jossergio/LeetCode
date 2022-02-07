@@ -1,0 +1,12 @@
+Direto no LeetCode.
+
+Após algumas pequenas falhas de interpretação, passou.
+
+Poderia ter evitado alguns IFs, se utilizasse um mapa cheio de caracteres.
+
+Mas, aumentaria o uso da memória.
+
+0ms.
+
+Memória, melhor que a grande maioria.
+
