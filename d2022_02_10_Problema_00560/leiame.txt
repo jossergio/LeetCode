@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Passou de primeira.
+
+1003ms. Muito lento.
+
+Memória, melhor que a maioria.
+
+O LeetCode apresentava soluções que, tirando a mais simples (e por força
+bruta), as demais não entendi patavinas, com estruturação em um mapa vetorial.
+
+O meu era similar a uma das soluções do LeetCode.
+
+Tinha passeado pelas soluções modelo do LeetCode, antes de fazer o meu
+próprio.
+
