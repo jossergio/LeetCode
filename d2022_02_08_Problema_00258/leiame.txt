@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Menos de cinco minutos.
+
+Baseei-me no princípio da regra de como obter os "noves fora", só que de modo
+invertido, retirando, mesmo, os nove, já que o problema pedia, justamente,
+para fazer a soma.
+
+2ms.
+
+Não continha um laço. Só uma fórmula. Mesmo assim, ficou com esse tempo todo.
+
+O chato é que o do 0ms continha laço e chamadas a uma função com laço.
+
+Memória, dentro da maioria. E, também, confrontando com soluções com laços
+e funções.
+
+O LeetCode trazia soluções, que eu nem olhei. Posteriormente, vi que a minha
+solução estava, mantidos detalhes, na lista, além de um, até, mais simples,
+só com a linha do Return (Java e Python; em GoLang não seria possível).
+
