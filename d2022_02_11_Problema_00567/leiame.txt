@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Após um pequenino errinho (detalhes) e um tempo excedido (que tirei só não
+considerando até o final), passou.
+
+O LeetCode foi bastante tolerante com o tempo. No gráfico, aparecia,
+até, 7000ms.
+
+O meu, 4733ms. Muito lento.
+
+Memória, até razoável.
+
+O LeetCode apresentava soluções. Muitas delas só para exemplificar
+que excediam o tempo.
+
+Minha solução seguiu uma dica (hint) que era apresentado para o problema.
+
+Para esse caso, havia várias dicas.
+
+Se tivesse seguido mais outras, talvez, o tempo fosse melhor, como um mapa
+tipo hash, no lugar de fazer uma ordenação a cada iteração de um laço.
+
