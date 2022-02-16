@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Após um errinho, por bobeira, passou.
+
+26ms.
+
+Não houve 0ms. A maioria ficou entre 10 e 20ms. Pouquíssimos abaixo de 5ms.
+
+Havia a sugestão de não utilizar memória extra, a não ser O(1). Porém,
+não tive ideia diferente a não ser utilizar mapa.
+
+Então, memória, horrível.
+
+Porém, havia uma forma de bitwise xor que poderia ser utilizada e a maioria
+das melhores respostas trabalhava assim.
+
