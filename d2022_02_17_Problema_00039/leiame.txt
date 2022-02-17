@@ -1,0 +1,12 @@
+Direto no LeetCode, com auxílio do play.golang.org, para acompanhar testes e
+verificar comportamentos de instruções.
+
+Após um pequeno errinho, por não atentar para utilização de variáveis
+globais, que precisariam inicializar a cada iteração, passou.
+
+0ms. Nem acreditei. Mais da metade não atingiu essa meta. E olha que utilizei
+recursividade.
+
+Memória, a melhor de todas e melhor que a grande maioria. Poucos atingiram
+essa meta. E olha que abusei de manipular slices.
+
