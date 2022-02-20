@@ -1,0 +1,10 @@
+Direto no LeetCode. Rapidinho.
+
+Após um pequeno errinho, por quesão de sinal de comparação, passou.
+
+13ms. Melhor que mais da metade.
+
+Porém, não houve abaixo de 8ms.
+
+Memória, idem.
+
