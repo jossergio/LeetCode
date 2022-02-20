@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Após uma pequeninha falha, que gerou erro em tempo de execução, por não
+perceber um detalhe, passou.
+
+0ms.
+
+Fiz bem prático e com uma melhor mentalidade, já.
+
+O LeetCode apresentava soluções. Um recursivo e outro iterativo. Mas, nem tinha
+percebido. Fiz o meu, que ficou bem semelhante ao modelo recursivo.
+
+Memória melhor que a grande maioria.
+
