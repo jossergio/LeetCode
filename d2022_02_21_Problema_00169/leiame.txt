@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+O LeetCode trazia soluções, que nem olhei.
+
+Depois, vi que minha ideia estava no meio.
+
+Porém, havia um algoritmo específico, bem interessante. E outro, com uma ideia
+bem bolada.
+
+Aprendi mais uma.
+
+11ms. Melhor que a imensa e grande maioria.
+
+Memória, na média.
+
