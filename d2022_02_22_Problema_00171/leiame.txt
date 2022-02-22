@@ -1,0 +1,9 @@
+Direto no LeetCode e com um pequeno teste no play.golang.com, para comparar
+resultados.
+
+0ms, junto com a grande maioria.
+
+Memória, com a maioria. Porém, não a mínima.
+
+Havia uma forma mais prática de fazer.
+
