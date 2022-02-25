@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Fiz, até, rapidinho. E passou de primeira.
+
+Sabia que ficaria muito lento, pois, não quis raciocinar melhor. De cara, vi
+que sempre recomeçaria um laço a cada iteração que ocorresse ajuste.
+
+Porém, ficou muito lento mesmo. Nem apareceu no gráfico. E olha que esse foi
+generoso com o tempo.
+
+O LeetCode trazia algumas soluções, que nem olhei. Soluções para raciocínio.
+
+Memória, horrível, também.
+
