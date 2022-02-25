@@ -1,0 +1,10 @@
+Direto no LeetCode.
+
+Depois de um pequeno errinho, pois acreditava que havia uma limitação, passou.
+
+32ms. Com a grande maioria.
+
+Memória, idem.
+
+Poderia ter feito algumas melhorias no código. Algo como compreensão de lita.
+
