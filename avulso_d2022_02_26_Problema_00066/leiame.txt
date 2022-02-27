@@ -1,0 +1,12 @@
+Direto no LeetCode e pelo celular.
+
+Após um pequeno errinho, por bobeira, passou.
+
+3ms. Lento, para o problema.
+
+Refiz e ficou em 0ms. E um código mais bonitinho.
+
+Memória, com a maioria. Porém, não muito boa.
+
+Uma pequena modificação econimizaria memória.
+
