@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Fiz bem rapidinho.
+
+Passou de primeira.
+
+4ms. Com a grande maioria.
+
+O de 0ms utilizava uma ideia bacana para evitar um "lacinho".
+
+Memória, nem apareceu no gráfico.
+
+Tá. Podia já criar o vetor de resposta com o tamanho final, já que é possível
+saber antes de iniciar, pois, depende do valor passado no parâmetro.
+
