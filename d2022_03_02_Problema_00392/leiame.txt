@@ -1,0 +1,10 @@
+Direto no LeetCode, com um pequeno auxílio do cpp.sh.
+
+Após algumas falhas de interpretação (estava confundido os parâmetros), passou.
+
+5ms. Horrível.
+
+Porém, mantidas algumas proporções, é semelhante ao do 0ms.
+
+Memória, com a grande maioria.
+
