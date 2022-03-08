@@ -1,0 +1,12 @@
+Direto no LeetCode.
+
+Ficou um código muito complexo.
+
+3ms, apesar de tudo.
+
+Porém, vi um detalhe: o código de 0ms é igual ao do 8ms, em todos os aspectos.
+
+Havia meios mais práticos para solução.
+
+Memória, com a maioria, apesar de não tão boa.
+
