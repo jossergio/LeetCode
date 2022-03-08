@@ -1,0 +1,27 @@
+Direto no LeetCode, com auxílio do www.online-python.com para verificar
+sintaxes e outros testes.
+
+Fiz quatro modelos.
+
+O primeiro, excedeu o limite de tempo. Não usar, portanto,
+try except e index (função membro) de listas.
+
+O segundo, 90ms. Porém, utilizei a alteração dos valores das listas, para
+identificar itens que já foram visitados. Não recomendável esse modelo, apesar
+de ter sido o que fiz com melhor tempo em relação aos demais e, em relação a
+memória, no nível do melhor. Havia modelos semelhantes, que alteraram o valor
+para None, no lugar de um valor supererior ao limite indicado no problema.
+
+O tereiro, 3170ms. Usei lista, igual ao primeiro modelo. Porém, com o operador
+in no lugar da função membro index. Memória, melhor que uma boa maioria.
+
+O quarto modelo ficou em 105ms. Ainda Horrível. Memória, idem. No limite do
+gráfico. Porém, mostrou que set é melhor que list para esse tipo de atividade.
+
+Esse quarto modelo é bem semelhante a um que estava em 44ms.
+
+Havia algoritmos no modelo fast slow. Mas, na minha mente, isso provocaria
+um laço infinito, caso haja um ciclo na lista ligada.
+
+Não houve tempo menor que 30ms.
+
