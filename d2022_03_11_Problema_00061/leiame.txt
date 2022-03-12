@@ -1,0 +1,11 @@
+Direto no LeetCode e pelo celular.
+
+164ms. Nem apareceu no gráfico, que continha até 18ms.
+
+Memória, horrível.
+
+Depois de concluído, vi que poderia ter feito de modo mais simples, com
+ponteiros, no lugar de armazenar em um mapa.
+
+Porém, meu modelo é bem direto.
+
