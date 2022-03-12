@@ -1,0 +1,6 @@
+Direto no LeetCode e bem rapidinho.
+
+7ms. Lento.
+
+Memória, com a mediana da maioria.
+
