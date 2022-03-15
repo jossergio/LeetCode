@@ -1,0 +1,10 @@
+Direto no LeetCode.
+
+Após algumas falhas de interpretação e, até, um tempo excedido, passou.
+
+2969ms. Lento. Muito lento. Muito lento mesmo.
+
+Porém, havia algumas respostas piores e outras nas proximidades.
+
+Memória, igualmente horrível.
+
