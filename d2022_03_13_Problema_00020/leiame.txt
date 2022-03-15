@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Após uma pequena falha, por falta de atenção ao LeetCode, passou.
+
+A falha foi não considerar que o LeetCode poderia colocar uma condição
+para understack.
+
+0ms.
+
+Memória, bem excelente.
+
+Depois de concluir, percebi que eu já tinha feito, como avulso, em 10/11/2021,
+usando uma abordagem semelhante.
+
+O do avulso foi em GoLang.
+
+O atual, em C++.
+
