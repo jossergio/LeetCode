@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Um bom desafio. O LeetCode classificava como hard.
+
+O LeetCode apresentava uma solução, que eu nem olhei.
+
+Um ótimo estudo de técnicas de utilização de estruturas para otimização
+de algoritimos, na solução apresentada pela plataforma.
+
+4448ms. Muito lento. O gráfico ía até 400ms.
+
+Memória, razoável.
+
+Pela primeira vez, utilizei o depurador da plataforma (com prints).
+
