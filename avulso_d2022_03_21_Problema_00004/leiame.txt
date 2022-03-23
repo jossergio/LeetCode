@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Depois de entender, passou.
+
+Esse mesmo desafio eu já tinha tentando em momento anterior.
+
+Vê que é numeração baixa e fico tentado a puxar como avulso.
+
+Após entender, e passar, tentei outros modelos, para testar.
+
+8ms. 19ms. 17ms. 18ms.
+
+Memória do 1o modelo excelente. Dos demais, um pouquinho de nada pior.
+
