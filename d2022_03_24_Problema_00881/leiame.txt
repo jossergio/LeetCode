@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+O LeetCode apresentava uma solução, que eu transpus.
+
+Eu teria outra ideia. Mas, passou.
+
+E olha que ainda transpus errado.
+
+1011ms. O gráfico ía até 1000ms.
+
+Não houve 0ms. É um algoritmo lento, mesmo.
+
+Memória, teve mais bem melhores.
+
+Mais uma que ajudou no aprendizado.
+
