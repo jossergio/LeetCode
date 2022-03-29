@@ -1,0 +1,10 @@
+Direto no LeetCode e pelo celular.
+
+116ms, no primeiro modelo. 108ms, no segundo.
+
+A direrença entre os modelos é só uma abordagem para a utilização de uma
+funçao diferente. Baseado em um vetor de zeros e uns, contar os uns ou somar
+o vetor.
+
+Memória, excelente. A maioria bem mais elevada.
+
