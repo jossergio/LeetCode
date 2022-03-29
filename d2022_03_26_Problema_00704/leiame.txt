@@ -1,0 +1,9 @@
+Direto no LeetCode e pelo celular.
+
+46ms. Muito lento.
+
+O LeetCode apresentava uma solução, que eu nem olhei. Minha solução foi
+idêntica, desconsiderando os nomes das variáveis.
+
+Memória, razoável.
+
