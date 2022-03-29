@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Concluí bem rapidinho.
+
+O LeetCode apresentava uma solução, que eu nem olhei. Continha uma abordagem
+um pouco diferente. Bom para estudos.
+
+4ms. Melhor que a grande maioria.
+
+Memória, excelente.
+
+Após uma falha de execução, por bobeira na percepção de índices de um vetor,
+passou nos testes.
+
