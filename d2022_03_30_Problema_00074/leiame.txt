@@ -1,0 +1,10 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+6ms. Fiz outro modelo, achando que seria melhor: 7ms.
+
+A maioria foi no 0ms. Porém, algoritmos semelhantes foram 8ms.
+
+Memória, horrível, mas, com a maioria.
+
