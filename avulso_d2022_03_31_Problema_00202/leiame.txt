@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Passou de primeira, apesar de uma falha de observação com variáveis ainda
+na fase preliminar que forçou um debug. Mas, no teste de fogo, sem problemas.
+
+0ms.
+
+O LeetCode apresentava algumas soluções. A minha seguia o princípio da primeira
+ideia.
+
+As demais soluções apresentadas pelo LeetCode eram bem didáticas, apesar de
+poco intuitivas de imediato.
+
+Memória, com a maioria, apesar de alto.
+
