@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Passou de primeira.
+
+Em C++, para brincar.
+
+692ms. Melhor que a grande maioria.
+
+Não houve abaixo de 520ms.
+
+Memória, nem apareceu no gráfico.
+
+Segui as dicas do LeetCode e ela consumia bastante memória.
+
+Vi um algoritimo bem inteligente, que poupou bastante memória e foi ágil.
+
+Esse algoritmo não seguia o padrão das dicas do LeetCode.
+
+Algumas soluções o seguiam.
+
