@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+O LeetCode apresentava uma solução, que eu nem olhei.
+
+Mas, meu pensamento foi bem similar.
+
+16ms. Em GoLang. Acima da média. Não houve abaixo de 4ms.
+
+Memória excelente e com a maioria.
+
+Fiz um segundo modelo: 87ms. Em C++, para brincar.
+
+Bem abaixo da média. Não houve abaixo de 12ms.
+
+Memória abaixo da média.
+
