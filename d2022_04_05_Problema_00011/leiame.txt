@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Após algumas falhas de interpretação, resultando em excesso de tempo, passou.
+
+111ms. Melhor que a maioria.
+
+Memória, com uma minoria que fez com economia. Ou seja: melhor que maioria.
+
+Segui as dicas do LeetCode e isso ajudou a sair do excesso de tempo.
+
+As soluções que vi para comparar seguiam essas dicas.
+
+Em C++, para brincar.
+
