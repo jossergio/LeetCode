@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+48ms. Mediano.
+
+Memória, razoável.
+
+Fiz um segundo modelo, para ver o funcionamento de uma biblioteca Python
+que permitia um certo arranjo, após ver algumas soluções apresentadas
+e comparar com a minha.
+
+51ms.
+
+Memória, também razoável.
+
+Ainda aquela questão de similaridade de soluções e tempos bem distintos.
+
