@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Até entender, demorou, além de alguns detalhes. Mas, passou de primeira.
+
+535ms. Nem apareceu no gráfico.
+
+Memória, horrível. Muito horrível.
+
+Após postar, vi alguns algoritmos que utilizavam uma ideia bacana, com uma
+estrutura de dados mais objetiva, com a ideia de só manter o necessário.
+
+Aproveitei para estudar.
+
+32ms. Muito bom.
+
+Memória, com a maioria. Melhorou um pouquinho. Mas, havia melhores.
+
+No geral, não houve abaixo de 16ms.
+
+O LeetCode trazia uma solução, que só olhei depois da segunda postagem e vi que
+a maioria das soluções postadas seguiam esse modelo.
+
