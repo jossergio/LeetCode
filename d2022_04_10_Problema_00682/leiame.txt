@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Bem rapidinho.
+
+78ms. Muito lento.
+
+O LeetCode apresentava uma solução, que eu nem olhei. Porém, minha solução
+era bem parecida.
+
+Muitas soluções se baseavam na do LeetCode.
+
+Não houve abaixo de 27ms. E a apresentada nesse nível era bem complexa.
+
+Ou seja: mais uma vez, vai entender o LeetCode.
+
+Memória, razoável.
+
+Anotação mental: treinar mais listas e suas técnicas em Python.
+
+Tive a ideia boba de calcular índices para acesso a itens no final da lista,
+no lugar de utilizar expressões mais apropriadas, como índices negativos.
+
