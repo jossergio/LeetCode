@@ -1,0 +1,12 @@
+Direto no LeetCode e pelo celular.
+
+112ms.
+
+Memória, ruim. Bem ruim.
+
+Em Python, para testar bibliotecas já prontas que facilitam algumas atividades.
+
+Passou de primeira, após um bom estudo do uso da biblioteca heapq.
+
+O LeetCode apresentava algumas soluções e um bom estudo, que só olhei depois.
+
