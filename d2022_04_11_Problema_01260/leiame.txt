@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Após umas falhas de implementação, passou.
+
+208ms. Razoável. Não houve abaixo de 152ms.
+
+Memória, razoável. Mas, poderia ter sido melhor.
+
+Em Python, para brincar com recursos de listas.
+
+Dicas do LeetCode auxiliaram em uma ideia.
+
+Vi ideias bacanas para tratamento de listas em Python, nas soluções. Um
+bom estudo.
+
+A maioria seguia a mesma ideia, apesar de abordagens diferentes nas
+implementações.
+
