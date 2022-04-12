@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Meio rapidinho, após ver o problema, ir para outras atividades e
+pensar um pouco antes de retornar para programar.
+
+0ms. E teve recursão.
+
+Vi umas soluções bem loucas, cheios de laços e condições bem bárbaras.
+
+Memória, com a maioria. Houve melhores.
+
+Em nenhuma solução observei notei recursividade.
+
+Algumas utilizavam um horrendo modelo meio matemático e ajustes no vetor
+antes de retornar.
+
+Uma dica do LeetCode sugeria (questionava) se poderia solucionar no próprio
+espaço do vetor, lembrando que um resultado não poderia interferir na
+avaliação dos demais itens da matriz.
+
+Outra dica indicava que essa solução poderia expandir para mais dimensões,
+o que sugeria um modelo prático para a solução, possivelmente visando
+expandir em problema futuro.
+
