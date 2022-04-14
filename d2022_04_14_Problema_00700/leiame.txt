@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. E passou de primeira.
+
+44ms. Razoável. Não houve abaixo de 16ms.
+
+Memória, por um triz, não apareceu no gráfico. Mas, todos ficaram concentrado
+em uma mesma região limite.
+
+Após postar, vi que se tratava de uma BST, ou seja, poderia ter otimizado
+a busca.
+
+Fiz um segundo modelo, otimizado. Inclusive, isso otimizaria a memória.
+
+52ms. Coisas do LeetCode.
+
+Porém, a memória melhorou e apareceu no gráfico.
+
