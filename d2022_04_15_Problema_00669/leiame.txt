@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+O LeetCode apresentava uma solução, que aproveitei para estudar.
+
+Após um erro, passou.
+
+8ms. Com a maioria.
+
+Não houve abaixo de 4ms.
+
+Memória, bem otimizada e também com a maioria. Houve melhores.
+
+Havia várias soluções iguais, idênticas, em tempos e memória bem diferentes.
+
