@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Após uma pequena falha por falta de atenção no objeto que seria criado
+para utilização nos testes pelo LeetCode, passou. Aquela velha questão de
+propriedades gerais e o LeetCode aproveitar o mesmo objeto, mantendo
+o estado anterior no próximo teste. Nada que uma inicialização correta
+não resolva.
+
+1045ms. Nem apareceu no gráfico, que ia até 200ms.
+
+O LeetCode apresentava soluções, que eu nem olhei.
+
+Após enviar, vi outras soluções e fui estudar as do LeetCode.
+
+Abordagens bem interessantes.
+
+Preciso melhorar meu raciocínio frente a problemas computacionais.
+
+Memória, por pouco não apareceu no gráfico. Ou seja: foi horrível, também.
+
