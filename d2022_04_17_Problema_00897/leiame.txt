@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Passou de primeira.
+
+0ms.
+
+Memória, excelente.
+
+O LeetCode apresentava soluções, que eu nem olhei para fazer o meu. Só depois,
+para estudar.
+
+Tenho que aprender a utilizar alguns pequenos recursos, como ponteiros
+utilitários, para iniciar a formação de uma resposta e descartar depois.
+
+Meu modelo era um pouco semelhante a uma dessas soluções, só que utilizando
+dois ponteiros globais.
+
