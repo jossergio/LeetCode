@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+Tive uma ideia. Porém, como o LeetCode apresentava soluções, resolvi ver
+se teria ideias melhores.
+
+Uma das ideias que eu tinha o LeetCode apresentava.
+
+Então, fiz esse. Rapidinho.
+
+20ms. Razoável. Pouquíssimos abaixo de 5ms. Quase ninguém em 0ms.
+
+Memória, horrível.
+
+Fiz um outro modelo, até para estudar, que o LeetCode apresentava e gerenciava
+o inOrder em uma árvore através de uma pilha e não por recursividade. Só
+para fixar.
+
+Esse já fiz no computador, antes de gravar no GitHub.
+
+39ms. Horrível. E olha que a ideia é otimizar o tempo.
+
+Memória, idem horrível.
+
+O do 0ms era uma ideia que eu também tinha imaginado.
+
+Porém, não quis tentar essa ideia.
+
