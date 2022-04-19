@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Após tentar o do dia e não encontrar uma forma.
+
+18ms. Muito lento.
+
+Meu código era o mais simples dos que vi.
+
+Inclusive, o do 0ms era um pouco complexo, apesar de que utilizava uma
+técnica com duas aproximações (média de máximo x mínimo).
+
+Outros utilizavam, também de forma complexa, algo similar.
+
+Alguns, mais lentos, era parecidos com o meu.
+
+Memória, ideal. Os mais rápidos utilizavam mais variáveis e, consequentemente,
+mais memória.
+
