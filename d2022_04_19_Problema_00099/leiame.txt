@@ -1,0 +1,14 @@
+Direto no LeetCode e depois de várias tentativas, pelo celular e no computador.
+
+No final do dia, quase no fechamento, pelo celular, uma ideia passou.
+
+Eu já tinha, até, feito um avulso e postado.
+
+34ms. Razoável.
+
+As soluções que vi também eram bem toscas.
+
+Não houve abaixo de 8ms.
+
+Memória, razoável e com a maioria.
+
