@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Passou de primeira.
+
+Como no anterior, fiz várias versões, para brincar, testar recursos etc.
+
+Modelo 1: 146ms.
+
+Modelo 2: 166ms.
+
+Modelo 3: 120ms.
+
+Todos razoáveis.
+
+Não houve abaixo de 76ms.
+
+Esse, inclusive, utilizava uma lista ligada simples, apesar de utilizar
+recursos pesados de programação. E o código ficou enorme.
+
+Memória, de razoável a excepcional. Modelo 3 foi o melhor em termos de memória.
+
+Muitas soluções utilizaram ideias com vector, pair, list, e arrays simples. Ou
+essas estruturas em conjunto. E com buscas simples.
+
+Inicialmente, tive a ideia de utilizar map, o que facilitou, e muito, a
+programação, apesarda necessidade de gerenciar uma possível exceção quando
+acessando itens dessas estruturas.
+
+Após postar o primeiro modelo, e vendo outras soluções, foi que resolvi testar
+outras estruturas, o que formou as versões.
+
