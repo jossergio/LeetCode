@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+Fiz várias versões, para brincar, testar recursos, velocidade, memória etc.
+
+Tava estigado para estudar.
+
+Modelo 1: 102ms.
+
+Modelo 2: 217ms.
+
+Modelo 3: 125ms.
+
+Modelo 4: 164ms.
+
+Modelo 5: 153ms.
+
+Não houve abaixo e 52ms.
+
+Memória, excepecional. Porém, junto com a maioria.
+
+Modelo 3 foi o melhor em termos de memória.
+
+Brinquei com array, vector, map. Brinquei com ordenação para facilitar buscas.
+
+Ordenar não é uma boa ideia em termos de otimização.
+
+A busca direta pareceu mais eficiente, no geral.
+
