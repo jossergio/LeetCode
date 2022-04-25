@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Fiz três modelos, para brincar.
+
+Modelo 1: 7ms. Função auxiliar recursiva.
+
+Modelo 2: 7ms. Pilha auxiliar com duas passadas.
+
+Modelo 3: 6ms. Variáveis auxiliares para percorrer a lista.
+
+Razoáveis.
+
+Claro que o modelo 3 foi melhor em memória, apesar de que poderia ter
+sido um pouco melhor.
+
+Os demais nem apareceram no gráfico.
+
