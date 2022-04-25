@@ -1,0 +1,43 @@
+Direto no LeetCode e pelo celular.
+
+Para brincar, mesmo.
+
+Segunda a estrutura, que continha uma herança, e as dicas, era indicado
+que deveria ser utilizada a estrutura já disponível pela herança.
+
+Passou de primeira.
+
+Porém, o primeiro modelo não utilizou a questão de herança.
+
+Os dois primeiros modelos foram em C++. O terceiro, em GoLang.
+
+Só foi possível fazer o modelo em GoLang depois de entender a questão
+de herança no segundo modelo, que era em C++.
+
+Modelo 1: 6ms. Ruim. Memória, com a maioria e ruim. Utilizava um ponteiro,
+que "segurava" o parâmetro passado no construtor. Não era como o LeetCode
+pedia, deve-se destacar, mas pelo menos não "copiava" o parâmetro e nem
+utilizava memória além da conta.
+
+Modelo 2: 4ms. Melhorou um pouco. Memória, na mesma. Porém, já utilizava
+a questão de herança. Só não consegui fazer a questão de variável única,
+como a definição do problema tratava em uma dica. Para isso, em C++, teria
+que ter muito alloc e dispensa de memória. Em GoLang, seria mais prático isso.
+
+Modelo 3: 0ms. Em GoLang. Memória, bem ruim, mas com a maioria. Poderia
+ter ficado um código mais bonito. Basicamente, só fiz a tradução do modelo 2,
+sem utilizar recursos para uma variável única, além de o "construtor" não
+ter ficado elegante.
+
+Uma das dicas apresentava um modelo uma biblioteca utilizava pelo Google, em
+uma linguagem que não consegui identificar. Passei uma olhada e, só então,
+entendi a situação herança apresentada na definição do problema e utilizei
+no modelo 2.
+
+A maioria dos códigos em C++ que eu vi, além de não utilizar a questão
+da herança, ainda utiliza uma "cópia" do parâmetro passado no construtor. Ou
+seja, mais memória. Inclusive o do 0ms. Outros, o "ponteiro" para o parâmetro
+do construtor, como meu modelo 1.
+
+No geral, foi bem interessante o estudo.
+
