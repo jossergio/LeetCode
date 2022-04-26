@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Passou de primeira, apesar de um modelo primeiro eu não ter submetido porque
+na tela de testes indicou que houve alteração nas listas, considerndo um erro.
+
+O primeiro modelo trabalhava com inversão das listas.
+
+O segundo, com pilha para as listas.
+
+64ms. Um pouco lento. Não houve abaixo de 24ms.
+
+Analisando os demais códigos, cada doideira.
+
+Memória, muito horrível. Mas houve uns poucos bem piores.
+
