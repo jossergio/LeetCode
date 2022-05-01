@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celuar.
+
+Após alguma reflexão e uns errinhos por não achar que o LeetCode faria
+algumas pegadinhas, passou.
+
+0ms.
+
+Memória, horrível.
+
+O LeetCode apresentava soluções, que eu nem olhei. Um deles era um
+excelente estudo de elaboração de código, tanto em recursos, como estrutura.
+
+Vi cada código complexo. O meu, tentei deixar bem simples.
+
+O que eu vi em 0ms era igualzinho ao meu, alterando, somente, nomes de
+variáveis e de funções. E esse mesmo também era o que apresentava na região
+gráfica da memória horrível.
+
