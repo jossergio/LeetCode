@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Rapidinho, apesar de um pequeno errinho por falta de atenção.
+
+Fiz um segundo modelo, achando que ficaria mais bonito.
+
+Modelo 1: 13ms. Médio.
+
+Modelo 2: 20ms. Horrível.
+
+O LeetCode apresentava algumas soluções, que eu nem olhei.
+
+Apesar disso, o gráfico de tempo foi bem espalhado, indo até 64ms e pouquíssimos
+em 0ms, com várias ideias.
+
+Memória, mediana. Apesar de que variáveis terem sido similares. Talvez, a
+compilação tenha interferido.
+
+O modelo 2 ficou um pouquinho menor, apesar de ser o mesmo código, alterando,
+somente, o local de duas instruções.
+
