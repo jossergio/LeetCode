@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+Inicialmente, pelo celular. Depois, pelo computador.
+
+Após muito tempo excedido, e alguns erros, passou.
+
+O recurso que utilizei para tirar o tempo excedido foi a biblioteca numpy.
+
+Mesmo assim, ficou muito lento. Nem entrou no gráfico, que ía até 1300ms.
+
+Vendo algumas postagens, vi que alguns modelos se basearam em ordenamento ou um
+contador baseado em dicionários (incluindo Couter ou montagem direta).
+
+Então, resolvi fazer um segundo modelo baseado nessa sistemática de dicionário.
+
+Melhorou muito.
+
+Fiz, ainda, um terceiro modelo, para brincar, acrescentando um filtro. Piorou
+o tempo, apesar de manter a mesma memória.
+
+Modelo 1: 2640ms. Memória, horrível. Também não entrou no gráfico.
+
+Modelo 2: 684ms. Bem melhor. Não houve abaixo de 604ms. Memória, horrível,
+ainda, mas, no limite do gráfico.
+
+Modelo 3: 852ms. Memória, igual ao modelo 2.
+
+Foi um belo estudo.
+
+Interessante é que a ideia de um dicionário foi a inicial. Só não utilizando
+o objeto Couter. Porém, achei que ficaria lento.
+
