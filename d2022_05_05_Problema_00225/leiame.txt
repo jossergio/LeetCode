@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular. Pelo menos o modelo 1.
+
+O modelo 1 fiz em GoLang, para testar e brincar com objetos. Porém, utilizei
+uma estrutura de lista ligada. Ficou bem simples.
+
+Apesar de a questão citar essa possibilidade, o foco era não utilizar objetos
+prontos de pilha das linguagens e desejável utilizar objetos(s) do tipo fila,
+mesmo que próprio(s) das linguagens, para simular uma pilha.
+
+Os demais modelos foram feitos em C++, para brincar com o objeto "queue", e
+utilizei o computador.
+
+O modelo 1 passou de primeira. Os demais, por alguma falha de cálculo, provocou
+alguns errinhos.
+
+O LeetCode apresentava algumas soluções, que eu nem olhei. Só após postar o
+modelo 1 e após ver algumas soluções postadas, para comparar.
+
+Modelo 1 (GoLang): 0ms. Memória, no limite do gráfico, apesar de ser
+com a maioria.
+
+Modelo 2 (C++): 6ms. Horrível. O pior tempo do gráfico. Memória, mediana e
+melhor que a maioria.
+
+Modelo 3 (C++): 0ms. Memória, achei que melhoraria, pois tirei uma variável.
+Mas piorou um pouquinho. O código foi ajustado. Logo, pode ter sido a
+compilação, mesmo.
+
+Aproveitei para estudar mais lógica de programação e melhorar minha forma
+de pensar algoritmos e usar estruturas das linguagens utilizadas.
+
