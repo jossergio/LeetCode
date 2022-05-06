@@ -1,0 +1,26 @@
+Direto no LeetCode. Rapidinho.
+
+Segui as dicas (hints) do LeetCode, o que ajudou bastante a criar uma
+boa lógica.
+
+Aproveitei para tetar estruturas prontas do C++.
+
+No modelo 1, utilizei pilha. Porém, houve a necessidade de uma segunda iteração,
+para reverter a pilha, através de uma outra pilha, auxiliar, para, depois,
+criar a string pretendida para a resposta.
+
+No modelo 2, utilizei a fila de ponta dupla (deque), para dispensar a pilha
+auxiliar e remover a iteração intermediária. Além disso, retirei o laço para
+a construção da string, utilizando, diretamente, propriedades de string para
+repetição de caracteres.
+
+Modelo 1: 39ms. Um pouco ruim. Memória, bem razoável.
+
+Modelo 2: 35ms. Razoável. Memória, igual a modelo 1.
+
+Não houve abaixo de 3ms.
+
+Na visualização das soluções apresentadas, bem parecidos com o meu.
+
+Alguns não utilizaram as dicas do LeetCode.
+
