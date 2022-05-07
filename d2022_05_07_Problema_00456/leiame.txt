@@ -1,0 +1,28 @@
+Direto no LeetCode. Inicialmente, pelo celular.
+
+O LeetCode apresentava soluções, que, preliminarmente, nem olhei.
+
+De forma alguma, consegui ultrapassar o TIME LIMIT EXCEEDED.
+
+Meu modelo 1 é igual ao primeiro modelo deles. É na forma O(n^3).
+
+E várias outras soluções minhas possuem alguma semelhança com algumas ideias
+das soluções do LeetCode.
+
+Inclusive, o último modelo é transcrição direta do modelo 2 das soluções
+apresentadas, sendo na forma O(n^2), após eu as olhar. Mesmo assim, não passou.
+
+Transcrevo, somente, porque sei que minhas soluções são possíveis.
+
+Inclusive, algumas soluções minhas são bem criativas e na forma O(n), além
+de, no geral, conterem tentativas de apressar laços.
+
+As transcritas são, somente, as que chegaram no teste 101, de 102, que
+consistia em um enorme vetor. Talvez, 2x10^5, que era a quantidade
+máxima elementos indicada no desafio.
+
+O LeetCode apresentava soluções bem varidas, em um total de 6. Como não entendi
+a maioria, também não transcrevi para ver se, pelo menos, uma passaria.
+
+Tentei com C++ e com GoLang.
+
