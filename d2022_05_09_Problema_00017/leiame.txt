@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Não contou pontos, pois, apesar de ter feito rapidinho, iniciei perto de
+terminar o prazo diário e, quando postei, tinha passado cerca de vinte minutos.
+
+Ou seja: já estava no problema do dia seguinte.
+
+Após uma pequena falha, por aqueles velhos detalhes do LeetCode, passou.
+
+0ms. Com a maioria. E usei recursividade, para reduzir código.
+
+Memória, bem razoável. Como utilizei recursividade e não desejei deixar muitas
+variáveis globais, acabou aumentando sua utilização. Porém, melhor da maioria.
+
