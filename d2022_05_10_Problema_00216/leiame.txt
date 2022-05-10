@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Tive que raciocinar um pouquinho, pois resolvi estudar características de ordem
+de funções e modos de agilizar, por medo de estouro de limite de tempo.
+
+38ms. Bem razoável. Não houve abaixo de 20ms. Memória, com a maioria. Mas,
+poderia ter sido melhor, pois foram no limite do gráfico.
+
+Fiz um segundo modelo. 39ms. Apesar de ter retirado alguns parâmetros, manteve
+a mesma memória.
+
+Fiz, ainda, um terceiro modelo. Uma tentativa de otimizar. Piorou mais ainda.
+46ms. Memória, também piorou um pouco, ficando fora do gráfico.
+
+Acho que passar uma lista como parâmetro sai melhor que utilizar uma global.
+
+Parece que era um problema em que o próprio LeetCode reconhecia que haveria
+desgastes nos seus testes, pois, foram, somente, 18.
+
