@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+O primeiro modelo passou de primeira. Porém, o desafio indicava para utilizar
+memória O(1), coisa que eu não utilizei, pois tinha idealizado uma junção
+de vector com stack (teria sido melhor queue), o que aumentou muito a
+utilização de memória e tornou muito lento, por precisar de mais iterações.
+
+Mas, como a ideia era ganhar a pontuação diária, se não apresentasse limite
+de tempo, tava valendo.
+
+Aí, parti para a ideia de memória O(1). Após um monte de falhas, passou.
+
+Deveria ter utilizado uma outra abordagem, inicialmente. Inclusive, uma outra
+função auxiliar poderia ter utilizado, também, recursão, para embelezar.
+
+Mas, também valeu.
+
+Ainda acrescentei um modelo em GoLang, para brincar, que é a tradução de
+modelo 2, que era em C++, assim como modelo 1. Após um pequeno errinho por
+questões de chaves (que falha!), passou.
+
+Modelo 1: 37ms. Muito lento. o gráfico ía até 40ms. Memória, nem apareceu.
+
+Modelo 2: 7ms. Houve 0ms. Mas, muito pouco abaixo desse tempo, com alguns
+utilizando estruturas como queue etc. Memória, melhor que a grande maioria.
+
+Modelo 3: 6ms. Grande parte em 0ms. Grande parte mais rápido que o meu. E
+todos os que eu vi utilizando memória extra, fila, slices etc. Memória, com
+a maioria, apesar de códigos com menos memória utilizando desses recursos. Vai
+entender essas coisas.
+
