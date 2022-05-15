@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+O LeetCode apresentava soluções, que eu nem olhei.
+
+0ms.
+
+Memória, quase não aparece no gráfico. Horrível.
+
+Utilizei recursividade.
+
+Percorrer uma árvore binária com pilha aparenta ser bem melhor. Lembrar de
+utilizar esse artifício, nas próximas vezes, quando aplicável.
+
+Recursividade puxa, e muito, memória.
+
+Além disso, utilizei uma sistemática complexa, para montar o vetor de resposta,
+quando uma varredura simples, sem esses detalhes (que eram dispensáveis), era
+suficiente, pelo próprio modelo de algoritmo que utilizei. Coisas de fazer o
+código passar, no momento.
+
+Meu código, sem os detalhes extras, era o da primeira das soluções do LeetCode.
+
