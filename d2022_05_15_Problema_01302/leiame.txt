@@ -1,0 +1,22 @@
+Direto no LeetCode. Rapidinho. Passou de primeira.
+
+Fiz um primeiro modelo utilizando um vetor para cumular.
+
+Em seguida, fiz um segundo e um terceiro modelos, utilizando, somente, um
+acumulador, que se ajustaria a cada nível maior que fosse sendo descoberto.
+
+O terceiro tentava dispensar algumas somas, pela análise dos descendentes de
+cada nível, checando se era folhas ou não.
+
+Porém, o segundo modelo ficou mais lento e o terceiro mais lento ainda. E a
+memória nem foi tanto otimizada, apesar de o terceiro dispensar algumas
+chamadas da recusrividade e, isso, deve ter provocado a leve redução desse.
+
+Modelo 1: 103ms. Melhor que a grande maioria. Memória, razoável.
+
+Modelo 2: 118ms. Mediano. Memória, melhor que a grande maioria.
+
+Modelo 3: 121ms. Ainda mediano. Memória, excelente.
+
+Não houve abaixo de 68ms.
+
