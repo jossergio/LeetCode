@@ -1,0 +1,20 @@
+Direto no LeetCode. Rapidinho.
+
+O LeetCode apresentava soluções, que eu nem olhei.
+
+A primeira delas bem parecida com a minha. Porém, a minha eu ainda considero
+um pouco melhor por utilizar, somente, a própria função da solução. A das
+soluções utilizava uma outra função, com um parâmetro a menos e uma variável
+global. Isso poupa um pouco de memória. Ambas pegavam mão de recursividade.
+
+682ms. Não houve abaixo de 428ms.
+
+Memória, bem ruinzinha. A ideia de utilizar variável global para tirar um
+parãmetro para recursividade da função aparentou ser boa.
+
+Boa parte dos códigos que comparei eram bem toscos, não estavam nas soluções e
+aparentavam cola de algum já meio ruinzinho, não concluindo mesmo encontrando.
+
+Todos utilizavam recursividade, apesar de algumas soluções do LeetCode
+apresentava modelos com pilha e/ou fila no lugar da recursividade efetiva.
+
