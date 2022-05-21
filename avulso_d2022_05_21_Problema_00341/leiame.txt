@@ -1,0 +1,59 @@
+Era para ser o desafio do dia 08/05/2022.
+
+Como não fechei no dia, apesar de ter várias ideias, aproveitei para ficar
+criando versões, posteriormente, e estudar formas e estruturas de C++.
+
+O de melhor desempenho foi minha ideia inicial. Porém, como desejava formar
+uma estrurura mais dinâmica, como menos utilização de memória, considerando
+que seria mais rápido, não implementei no dia e acabei desistindo para
+concluir posteriormente.
+
+Ou seja: es tivesse utilizado a ideia teria passado. Porém, inclusive, achei
+que seria estouro de limite de tempo.
+
+Mas, a grande vantagem mesmo foi, por não ter concluído, ficar brincando,
+criando versões.
+
+Modelo 1: 19ms. Razoável. Memória, com uma maioria, mas abaixo do desejável.
+Utilizava o conceito de "próximo lido" e era dinâmico. Em termos de código,
+considero ruim. Inclusive, um pouco redundante.
+
+Modelo 2: 33ms. Horrível. Memoria, razoável. Utilizava o conceito de montar
+um vetor, montado logo no início, para servir nas funções da resposta. Apesar
+de lento, interessante é a memória ter melhorado.
+
+Modelo 3: 42ms. Bem horrível. Quase fora do gráfico. Memória, razoável.
+Utilizava o conceito de montar um vetor. Porém, com uma pequena alteração
+na leitura da estrutura passada, utilizando, somente, uma pilha e encaixando
+seus próprios iteradores.
+
+Modelo 4: 17ms. Razoável. O melhor dos modelos que apresentei. Memória,
+excelente. Esse era o modelo que eu deveria ter feito na primeira tentativa,
+pois é o segundo modelo mais próximo de meu raiocínio. Porém, considero que
+teria perdido a graça de ficar testando e brincando.
+
+Modelo 5: 27ms. Ruim. Memória, boa. Utilizava o conceito de vetor montado no
+início, porém utilizando de um modelo recursivo, para simplificar o código e
+não precisar utiizar uma pilha explícita. Esse é o modelo mais próximo de
+meu raciocínio. Entre esse e o 4, não sei qual teria postado.
+
+Modelo 6: 28ms. Ruim Memória, excelente. Utilizava um conceito de ler na
+frente. Mas de uma forma mais complexa. Em termos de código, também considero
+ruim e um pouco redundante. Era baseado no modelo 1.
+
+Modelo 7: 23ms. Ruim. Memória, excelente. Esse era o código que eu tinha em
+mente quando comecei a fazer o desafio.
+
+Modelo 8: 20ms. Razoável. Memória, razoável. Igual ao modelo 4, só que
+utilizando a estrutura de fila no lugar de um vetor.
+
+Modelo 9. 12ms. Excelente. Memória, razoável. Igual ao modelo 5, só que
+utiliznao a estrutura de fila no lugar de um vetor.
+
+Não houve abaixo de 3ms.
+
+Encerrei esse desafio. Durante vários momentos, estudei, aprendi, diverti-me.
+
+Espero que tenha firmado e fixado algo. Especialmente na utilizaçao das
+estruturas de C++.
+
