@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Fiz mais um modelo, para brincar, e um terceiro, só para testar recursividade.
+
+Modelo 1: 0ms. Memória, não foi muito bom. No final do gráfico. Mas com
+a maioria. Utilizava o conceito de vetor, para dispensar um segundo laço.
+
+Modelo 2: 8ms. Memória, fora do gráfico. Substituía o conceito de vetor pelo
+de pilha. Mas trazia um segundo laço, apesar de otimizado.
+
+Modelo 3: 16ms. Muito horrível. Porém, memória no menor patamar do gráfico.
+Ou seja, bem excelente. E foram poucos nesse nível. Utilizava um conceito
+de recursividade, adaptado ao problema.
+
