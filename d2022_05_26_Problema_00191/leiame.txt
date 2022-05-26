@@ -1,0 +1,13 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+3ms.
+
+O de 0ms é igual ao meu, com diferença, somente, nos nomes das variáveis e
+arranjo de operadores.
+
+Memória, com a maioria. E ruim. Mas, o de memória menor era o mesmo do 0ms.
+
+Ou seja: um arranjo do compilador.
+
