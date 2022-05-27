@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Achava que haveria uma fórmula matemática e um modelo com laço poderia
+estourar o tempo.
+
+Mandei assim mesmo, pois não tive ideia sem um laço.
+
+Para minha surpresa, todos os que eu vi eram com laço.
+
+0ms.
+
+Memória, nem apareceu no gráfico. Mas, o de menor espaço era idêntico ao meu,
+ressalvadas disposições de operadores e nomes de variáveis.
+
