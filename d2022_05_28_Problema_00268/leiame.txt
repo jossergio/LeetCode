@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Nã consegui ver uma ideia de um modelo matemático.
+
+Após enviar, vi um modelo matemático direto e outro que, apesar de estar
+em um laço, utilizava um conceito matematico.
+
+Fiz um primeiro modelo, utilizando ordenamento, que foi o que considerei
+mais prático com meu pensamento. Fiz rapidinho.
+
+O segundo modelo baseava-se em uma ideia tendendo a agilizar. Porém, consistia
+de laços aninhados, que poderiam induzir a um pior caso.
+
+Após dois errinhos, limite de tempo estourado, também passou e eu me considerei
+satiseito, pois serviu para estudos.
+
+Modelo 1: 226ms. Memória, com a maioria. Acho que questões de compilação. Ficou
+bem simples.
+
+Modelo 2: 340ms. Memória, da mesma forma. Ficou bem complexo.
+
+Não vi abaixo de 114ms.
+
+Uma ideia: um laço com um acumulador de xor bit a bit com o próprio índice,
+sendo o padrao o próprio tamanho.
+
+Uma fórmula matemática: (tamanho * (tamanho + 1) / 2 - soma
+
