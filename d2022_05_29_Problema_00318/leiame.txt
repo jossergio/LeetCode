@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Apesar de o primeiro modelo passar e de primeira, vi algumas soluções que
+utilizavam de comparações bit a bit em uma representação do conjunto
+de caracteres, na lista que o problema apresentava.
+
+Passei alguns dias e fiz o meu próprio modelo com essa ideia.
+
+A diferença de tempo foi enorme. Até o código ficou mais compreensível. Claro,
+para quem entende de operações bit a bit.
+
+Modelo 1: 1562ms. Horrível. Porém, o gráfico ía até 2000ms. Ou seja, esperavam
+que houvesse códigos ruins como o meu. Memória, essa não apareceu no gráfico
+mesmo, de tão ruim. Esbanjava de mapas.
+
+Modelo 2: 22ms. Memória, bem razoável. Mas, poderia ser melhor.
+
+Não vi abaixo de 7ms.
+
+Preciso ter ideias melhores.
+
