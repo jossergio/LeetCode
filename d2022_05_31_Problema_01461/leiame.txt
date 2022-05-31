@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+O LeetCode apresentava algumas soluções.
+
+Após alguns timeouts, resolvi ver as ideias da plataforma. Então, criei a minha
+baseada em uma delas que, aliás, é plenamente baseada em Python, linguagem
+que considerei melhor para abordar o problema. As linguagens que eu domino
+não poderiam utilizar essa forma.
+
+Transcrevo os modelos com excesso de tempo porque estão corretos, apesar de
+excederem o tempo. 
+
+Os modelos com excesso de tempo também foram úteis para estudar diversas
+estruturas de Python, entre elas iteradores (nativos) de objetos e conversões
+de inteiros para string (mais especificamente, binário).
+
+Mas, a forma de olhar o problema foi o que complicou. Se tivesse olhado a
+partir do outro lado, teria chegado na solução de imediato.
+
+E olha que ainda imaginei isso. Mas, não implementei.
+
+536ms. A otimização do código provocou isso. Haveria formas de reduzir, com
+modos de abortar a procura quando completasse o ciclo.
+
+Memória, bem ruim. Também havia formas de otimizar isso. Mas, ter o código bem
+enxuto valeu a pena.
+
+Não implementei outras formas.
+
+No total, foram quatro modelos, sendo os três primeiros com excesso de tempo
+e o quarto com código otimizado, apesar de um pouco lento.
+
+Não houve abaixo de 248ms.
+
