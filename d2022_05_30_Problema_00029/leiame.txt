@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Após um monte de erros, passou.
+
+Fiz um monte de gambiarras. Mas, os códigos que eu vi também utilizavam.
+
+Vi códigos que utilizavam formas não permitidas na descrição do problema.
+
+A melhor técnica que vi, e no 0ms, foi com shift. Mas, não entendi bem o
+conceito matemático dessa forma. Só entendi que faz uma bela condição na
+divisão binária. E até esse utilizava de gambiarra.
+
+2181ms. Bem horrível. O gráfico mostrava até um pouco mais de 4000ms. Ou seja,
+o LeetCode aguardava códigos ruins.
+
+Memória, no limite do gráfico.
+
