@@ -1,0 +1,21 @@
+Direto no LeetCode. E bem rapidinho.
+
+A plataforma apresentava algumas soluções, que eu nem olhei.
+
+Ficou lento. Porém, a maioria dos códigos que eu vi eram idênticos ao meu e
+a uma das soluções do LeetCode.
+
+O no 0ms utilizava uma ideia de acumular no próprio vetor, que era uma das
+soluções mostradas pela plataforma.
+
+Fiz um outro modelo para essa segunda ideia.
+
+Modelo 1: 11ms. Muito lento. Não vi ninguém depois de mim, no gráfio que
+terminava em 20. Memoria, no limite do gráfico e com a maioria.
+
+Modelo 2: 3ms. Idêntico ao de 0ms. Memória, na mesma, apesar de ter um vetor
+a menos.
+
+Preciso imaginar ideias melhores, focando na solução para o LeetCode e não
+um código geral, com reaproveitamento, etc.
+
