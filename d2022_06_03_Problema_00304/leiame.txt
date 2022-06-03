@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Após dois estouros de tempo, resolvi ver as soluções que o LeetCode dispunha.
+
+Consistia em uma forma de otimizar o resultado, sem estar recalculando tudo
+a cada consulta, o que acarretava o estouro de tempo.
+
+A plataforma trazia as soluções com estouro de tempo, por questões educacionais.
+
+Além dessas, outras duas, otimizadas.
+
+Em seguida, após uma demora para compreender uma questão ligada a vetores em
+C++, passou. Devia ter seguido minha intuição.
+
+A questão envolvia o uso de dimensões em dois vetores que deviam trabalhar
+em paralelo e no mesmo laço. Não uma questão da linguagem.
+
+Os modelos iniciais, em Python e tentando utilizar redução de código, foram
+transcritos para ilustração. Mas, apesar de estarem corretos, produziam o
+estouro de tempo.
+
+O terceiro modelo foi em C++.
+
+836ms. Muito lento. Apesar de que era baseado em uma das ideias da plataforma,
+produzi minha própria solução, com base na que considerei mais otimizada.
+
+Memória, na média. Razoável. Poderia ter sido melhor.
+
