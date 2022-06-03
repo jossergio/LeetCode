@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+O LeetCode apresentava uma solução, que eu nem olhei.
+
+22ms. Muito muito muito lento.
+
+Os códigos que eu vi utilizavam dois laços, em sequência, para fazer a mesma
+ideia do meu, que utilizava um laço e fazia o mesmo papel em uma passada só.
+
+Inclusive, o do 0ms também fazia isso.
+
+Vai entender.
+
+Memória, razoável.
+
