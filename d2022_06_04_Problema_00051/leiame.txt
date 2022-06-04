@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Fiz em menos de uma hora, apesar de ser um problema complexo.
+
+Mesmo assim, passou de primeira.
+
+10ms. Houve de 0ms.
+
+Memória, bem razoável.
+
+Muitos códigos um pouco complexos. Soluções bem variadas.
+
+Esbanjei um pouco, na ideia para a solução.
+
