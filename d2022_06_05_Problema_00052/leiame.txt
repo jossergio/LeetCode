@@ -1,0 +1,9 @@
+Direto no LeetCode.
+
+Rapidinho, pois era idêntico ao do dia anterior, que era complexo, também,
+mas, só precisava alterar uma linha. Copiei, alterei a linha e passou.
+
+7ms.
+
+Memória, bem ruim.
+
