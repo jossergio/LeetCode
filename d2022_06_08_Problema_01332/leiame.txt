@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Conversando com um colega, que também faz esses desafios, ele comentou uma
+ideia interessante no problema, antes mesmo de eu entrar na plataforma.
+
+Ao fazer o desafio, utilizei a ideia. Passou de primeira.
+
+3ms.
+
+Interessante é que o de 0ms era bem complexo.
+
+E os demais tempos menores (não vi maior) utilizavam ideia parecida. E alguns,
+inclusive, com sub-rotina.
+
+Memória, com a maioria, no final do gráfico.
+
