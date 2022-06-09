@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Após postar, e analisando outras postagens, vi que um laço duplo pelas pontas
+fariam um O(n) em contraposição ao O(n^2) que foi o meu modelo primeiro.
+
+Apesar de ter uma ideia de otimização, abortando o laço interno antecipadamente,
+conforme uma condição, o modelo 1 não otimizou tanto. Mas houve casos
+bem piores.
+
+Modelo 1: 348ms. Horrível. Memória também horrível. Além disso, não era O(c),
+como sugeria o problema.
+
+Modelo 2: 21ms. Bem melhor. Mas nem tanto. Ainda muito abaixo do ideal.
+
+O de 0ms utilizava laço interno O(n^2) e era bem complexo, com uma ideia
+que lembra o meu modelo 1, com uma diferença da posição de um teste.
+
+Os de 3ms e 4ms eram parecidos com meu modelo 2, apesar de que o de 3ms ainda
+tinha uma aparência complexa, com função extra e tudo.
+
