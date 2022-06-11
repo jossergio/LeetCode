@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+O LeetCode trazia soluções, que eu nem olhei.
+
+Um pouco intuitivo. Passou de primeira.
+
+Mas, após postar, vi, por outras postagens, uma forma mais otimizada
+de solucionar.
+
+Então, fiz um segundo modelo, em mometo posterior, com base na ideia, seguindo
+minha própria sistemática. Após alguns errinhos, passou.
+
+Modelo 1: 48ms. Razoavelmente ruim. Memória, razoável.
+
+Modelo 2: 4ms. Porém, memória, piorou.
+
