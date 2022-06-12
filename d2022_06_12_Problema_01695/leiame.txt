@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Após algumas tentativas em Python, pelas facilidades da linguagem, achando que
+a ideia era uma, vi que era outra.
+
+Pela ideia que eu imaginava, seria bem rapidinho. Uma linha em Python.
+
+Porém, não era o que eu imaginava.
+
+Fiz, então, um modelo que estava correto. Porém, apresentava estouro de tempo.
+
+Após ler as dicas da plataforma para o problema, resolvi migrar para GoLang,
+também por conta de suas facilidades, em face da ideia das dicas.
+
+De toda forma, não seriam necessárias as facilidades prontas de Python.
+
+Após uma resposta errada e algumas tentativas de testes, passou.
+
+Transcrevo o modelo em Python só por didática.
+
+Modelo 1: estouro do limite de tempo.
+
+Modelo 2: 229ms. Excelente, para os padrões do problema e da plataforma.
+Memória, excelente, também.
+
+Não houve 0ms. Os menores, entre 149 e 151ms. Porém, utilizavam bastante
+memória, pois, no lugar de um mapa, utilizavam um amplo vetor com todas as
+possibilidades do domínio do problema.
+
+Após esses, os demais eram após 198ms. E bem espalhados.
+
