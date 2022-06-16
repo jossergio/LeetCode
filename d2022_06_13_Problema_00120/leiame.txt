@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Após um tempo excedido, modifiquei o modelo e passou.
+
+Transcrevo o do tempo excedido como didático. Mas, utilizava recursividade
+e fazia cálculos repetidos em momentos diferentes.
+
+O segundo momento utilizava uma programação dinâmica, com um acumulador, para
+evitar essa situação.
+
+Modelo 1: tempo excedido.
+
+Modelo 2: 11ms. Horrível. Houve 0ms. Memória, também horrível. Eu poderia ter
+utilizado um vetor simples, no lugar de uma matriz (ou vetor de vetores).
+
