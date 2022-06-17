@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Comecei no computador. Nos testes antes da postagem, passou. Porém, nos testes
+da plataforma, produziu um erro. Como estava com tempo limitado, suspendi.
+
+Mais tarde, retomei, no celular. Encontrei o erro de digitação. Sim, um
+parâmetro que tinha que receber uma variável adicionada em 1, só estava
+digitado o "+ 1". Ou seja, valor constante.
+
+Acrescentada a variável, passou rapidinho.
+
+Fiz um segundo modelo só para reorganizar uma condição em uma função, mas,
+mantendo a mesma lógica.
+
+Modelo 1: 4ms. Excelente. Mas, houve 0ms. Memória, também excelente. Mas,
+poderia ser melhor.
+
+Modelo 2: 7ms (LeetCode). Ainda bem razoável. Memória, aumentou um pouquinho.
+
+A plataforma apresentava soluções, que eu olhei para ver alguma ideia de
+otimização e evitar tempo excedido. Porém, fiz o meu próprio modelo.
+
