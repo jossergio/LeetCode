@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Bem rapidinho, mesmo.
+
+O LeetCode apresentava soluções, que eu nem olhei.
+
+Após postar, vi que poderia otimizar, pois ficou bem lento.
+
+Na realidade, usei meu raciocínio primário e achava que excederia o tempo.
+
+Então, fiz um segundo modelo, que após alguns errinhos passou, e um terceiro,
+mais otimizado ainda.
+
+Modelo 1: 1097ms. Bem horrivel, apesar de um código simples (Python). O gráfico
+ía até 2200ms. Memória, excelente e com a maioria. Mas, poderia ter sido melhor.
+
+Modelo 2: 563ms. Ainda bem ruinzinho. Memória, igual.
+
+Modelo 3: 114ms. Já bem melhor. Mas, poderia ter sido melhor ainda.
+
+Não houve abaixo de 60ms.
+
