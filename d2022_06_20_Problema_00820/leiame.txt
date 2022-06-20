@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+O LeetCode apresentava soluções, que eu me identifiquei com uma delas.
+
+Utilizei como modelo, mas, para poupar o raciocínio e melhorar as ideias.
+
+Realmente, ver as soluções da plataforma ajudou bastante, pois, não tinha
+tanta ideia de como começar, por pensar de uma forma diferente.
+
+Fiz alguns ajustes, para ajustar ao meu raciocínio, que, por falta de atenção,
+produziu um erro.
+
+Mas, passou, após consertar.
+
+124ms. Excelente.
+
+O gráfico ía até pouco mais de 5500, o que indica que a plataforma foi bem
+generosa, por se tratar de um problema que poderia provocar excesso de tempo.
+
+Não vi abaixo de 101ms.
+
+Memória, no melhor possível.
+
