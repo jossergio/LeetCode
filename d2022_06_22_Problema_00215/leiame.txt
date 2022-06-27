@@ -1,0 +1,11 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+Fiz em Python. Após postar, inventei de testar o C++.
+
+Modelo 1 (Python): 71ms. Excelente. Não vi abaixo de 454ms. Memória, razoável.
+Mas, poderia ter sido melhor.
+
+Modelo 2 (C++): 22ms. Memoria, quase excelente.
+
