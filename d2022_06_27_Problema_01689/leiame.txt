@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Vi um detalhe de possibilidade e funcionou.
+
+Após postar, fiz uma pequena modificaçao na estrutura do programa, que melhorou
+bastante o tempo.
+
+Modelo 1: 21ms. Memória, horrível.
+
+Modelo 2: 4ms. Memória, razoável.
+
+Não houve abaixo de 4ms, apesar de ser um problema simples.
+
+Dos que eu vi, todos utilizavam a mesma abordagem.
+
