@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Bem rapidinho, mesmo.
+
+A plataforma apresentava algumas soluções, que eu nem olhei.
+
+Porém, eu não tinha a mínima ideia de como abordar, até ver as dicas.
+
+Fiz com base em meu pensamento, auxiliado por essas dicas.
+
+Passou de primeira.
+
+134ms. Horrível. Mas, não houve abaixo de 6ms. A maioria em torno de 20ms.
+Aparentavam utilizar as soluções do LeetCode. Memória, também horrível.
+
