@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+As dicas ajudaram. Mas, foi bem chatinho. Quase duas horas para concluir.
+
+Por uma falha de interpretação, não passou de primeira. Porém, foi só corrigir
+um pequeno detalhe e passou logo em seguida.
+
+Achava que não haveria valores zero, partindo de valores superiores ou iguais
+a 1. Porém, as constraints já falavam isso. Ajustei e passou.
+
+159ms. Razoável. Memória, horrível. Porém, junto com um grupo isolado. Não
+entendi o motivo, pois não utilizava estruturas diferentes das demais postagens
+que eu vi. Talvez, compilação.
+
+Não vi abaixo de 19ms.
+
+Uma ideia simples, que vi em algumas postagens, poderia otimizar.
+
+Eu gerei o vetor de resposta logo no início e fui colocando os itens conforme
+eram tratados. Isso forçava um laço interno.
+
+Um insert, aparentemente, resolveria, conforme posição relativa, desde que o
+vetor fosse ordenado decrescentemente, antes de trabalhar. A ideia do meu
+ordenava o vetor de forma crescente, para trabalhar a resposta. Obs.: havia
+essa necessidade de por o vetor em ordem para trabalhá-lo.
+
