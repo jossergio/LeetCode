@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Tive uma ideia bacana.
+
+Após uma pequena falha por um detalhe bobo, e penar até achar esse detalhe,
+passou.
+
+Porém, apesar de passar, envolvia repetições de laços (aninhava-os).
+
+Então, o tempo foi horrível.
+
+531ms.
+
+Memória, razoável e com a maioria.
+
+O gráfico ía até 35ms. Ou seja: nem entrou nele.
+
+Após postar, vendo os demais, vi que um cálculo em um laço simples com um
+ponto no meio do vetor faria o mesmo efeito.
+
+A minha ideia envolvia isso. Não sei porque não simplifiquei.
+
+No geral, acabei aprendendo algo novo de C++.
+
