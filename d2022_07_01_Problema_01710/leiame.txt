@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Após algumas falhas de interpretação na área de testes, passou de primeira.
+
+252ms. Muito lento. Muito lento mesmo.
+
+Não houve abaixo de 21ms.
+
+Esse, por exemplo, tinha complexidade, utilizando dois laços (não aninhados).
+
+Na casa dos 50ms, muitos ou eram assim ou utilizavam estrutura similar à minha.
+
+Ou seja: não entendi a lentidão.
+
+Memória, horrível. E, da mesma forma, sem entender, por contar com estruturas
+bem similares.
+
