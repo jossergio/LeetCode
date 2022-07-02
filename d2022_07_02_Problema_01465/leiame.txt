@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Após penar com C++ e cálculos com números grandes, produzindo erros em tempo
+de execução, alem de algus erros por falha na interpretação ao sanar essas
+falhas, e produzir tempo excedido, passou.
+
+As dicas, nesse momento, ajudaram. Ainda não as tinha lido.
+
+111ms. Abaixo da média.
+
+Não houve abaixo de 49ms.
+
+Memória, ruinzinha. Por pouco, não ficou na maioria. Poderia ter usado menos
+variáveis, no lugar de tentar tornar o código melhor visível.
+
+No geral, os códigos bem parecidos.
+
