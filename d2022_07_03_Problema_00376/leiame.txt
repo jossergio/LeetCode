@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+Inicialmente, não entendi o problema.
+
+Em seguida, vi que era mais complexo do que eu estava entendo.
+
+A plataforma apresentava soluções, que eu tive que olhar. Serviu, inclusive,
+para compreender melhor a questão.
+
+Porém, não consegui fazer minha própriao solução. Serviu, muito, para
+aprendizado.
+
+Traduzi, de forma direta, aplicando meu estilo, duas soluções.
+
+Uma, de força bruta e utilizando recursividade. A plafatorma não indicava
+que estouraria o tempo e tampouco que era aceitável. Mas, indicava que seria
+O (n!) para encontrar a solução. Ou seja, muita iteração. E estourou no tempo,
+mesmo com um teste grande isolado (copiado área de testes).
+
+A outra, com programação dinâmica, foi bem rapidinha.
+
+Havia três outras, com programação dinâmica, que adicionou aos meus estudos.
+Mas, não as traduzi.
+
+Copiei ambos os modelos por didática.
+
+Modelo 1: tempo excedido.
+
+Modelo2: 2ms. Razoável. Muitos estava em 0ms. Memória, horrível.
+
+A quinta solução apresentada pela plataforma poderia ter sido feita pelo meu
+pensamento. Foi a forma como comecei a raciocinar. Mas estou tão preguiçoso,
+tão ansioso, tão travado ultimamente, que não interpretei as nuances
+do problema.
+
