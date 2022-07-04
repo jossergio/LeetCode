@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Inicialmente, tive uma ideia de solução.
+
+Porém, resolvi não ficar perdendo tempo, uma vez que a plataforma indicava que
+era um problema "hard" e, também, apresentava algumas soluções.
+
+Tava com preguiça, nesse dia. Acredito que chegaria, de uma forma ou de outra,
+a alguma solução.
+
+Vi a solução que melhor se parecia comigo e traduzi.
+
+Fiz em duas linguagens.
+
+Inicialmente, em GoLang, para brincar, uma vez que, para a solução, não havia
+necessidade de tantas estruturas.
+
+Em seguida, fiz em Python, para brincar de resumir código.
+
+Modelo 1 (GoLang): 21ms. Bonzinho. Não houve abaixo de 7ms e algumas soluções
+eram bem demoradas. Memória, também razoável.
+
+Modelo 2 (Python): 172ms. Quase excelente. Não houve abaixo de 136ms. Memória,
+ruinzinha, mas com a maioria.
+
