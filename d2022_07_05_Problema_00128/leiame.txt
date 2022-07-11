@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Não passou de primeira.
+
+Depois que postei, vi que eu já tinha feito como avulso, apesar de não ter
+transcrito para o GitHuh, na data de 09/07/2021. O dessa data, eu não tinha
+conseguido completar e concluí no lugar.
+
+O anterior, ainda em Python 2. O atual, em Python 3. Piorou um pouquinho.
+
+Modelo 1: 505ms. Razoável. Memória, excelente. Muito excelente.
+
+Modelo 2: 438ms. Um pouco melhor. Memória, razoável.
+
+Não vi abaixo de 283ms.
+
