@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Até rapidinho.
+
+Passou de primeira.
+
+Ainda sou bom com árvores binárias.
+
+Em GoLang.
+
+0ms. Melhor que isso impossível.
+
+Memoria, ruinzinha, pelo graáico. Mas, com a maioria. Não vi como ser melhor.
+
+O menor era quase igual. Parece que inicializar uma estrutura com nil consome
+código. Melhor indicar só as que terão valor.
+
