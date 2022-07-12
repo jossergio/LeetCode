@@ -1,0 +1,36 @@
+Direto no LeetCode.
+
+Fiz rapidinho, em GoLang. Pensava que era uma coisa. Mas, vi que seria mais
+complexo de resolver.
+
+Tive uma ideia, que seria um pouco mais elaborada. Então, migrei para C++.
+
+Em menos de meia hora, concluí.
+
+Produziu um errinho por conta do vazio em um dos testes, que eu nem me toquei,
+na hora, que a plataforma faz isso.
+
+Corrigido, passou. Porém, lento.
+
+Após postar, vi, pelas postagens dos demais, que bastaria eu ter utilizado uma
+só estrutura, no lugar de duas em dois laços internos. Então, fiz meu próprio
+modelo com essa estruturação melhorada.
+
+E melhorou bastante.
+
+Fiz um modelo intermediário, o 2, porque tinha deixado um "cout", para
+depuração, que acabou aumentando o tempo.
+
+Modelo 0 (GoLang, não transcrito): erro por não ter interpretado direito a
+questão.
+
+Modelo 0,5 (Já em C++, não transcrito): erro em tempo de execução, por nullptr.
+
+Modelo 1 (C++): 15ms. Horrível. Memória, horrível.
+
+Modelo 2 (C++): 11ms. Igual ao anterior, porém, retirado um "cout". Memória,
+razoável. Melhorou.
+
+Modelo 3 (C++): 0ms. Melhor impossível. Tirei um vetor e uma pilha e
+transformei em uma só fila, fazando o mesmo papel. Memória, mediana.
+
