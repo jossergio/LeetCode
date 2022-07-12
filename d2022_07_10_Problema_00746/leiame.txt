@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Só consegui fazer por conta de uma dica da plataforma.
+
+O primeiro modelo, apesar de correto, produziu situação de tempo excedido.
+Utilizava recursão.
+
+Então, fiz um segundo modelo, utilizando um vetor simples e um laço, regressivo.
+
+Transcrevo o recursivo porque, apesar de ter estourado o tempo, está correto.
+
+Modelo 1 (GoLang): estouro de tempo.
+
+Modelo 2 (GoLang): 8ms. Meio ruim. Memória, bem ruinzinha.
+
+Não entendi o motivo de tanta lentidão. Os códigos que eu vi eram bem similares
+aos meus. Alguns recursivos, inclusive.
+
