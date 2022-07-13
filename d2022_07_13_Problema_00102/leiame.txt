@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Rapidinho. Peguei a ideia de um problema recente.
+
+Fiz dois modelos só para testar uma função agregada de vector.
+
+A diferença nos dois modelos é só uma linha.
+
+Modelo 1 (C++): 9ms. Memória, horrível.
+
+Modelo 2 (C++): 7ms. Memória, melhor um pouquinho de nada. Porém, quase
+excelente. Ou seja, pequeno detalhe em compilação ou uso de memória pela função
+agregada que eu testei.
+
+As postagens que eu vi são bem parecidas, quase idênticas. Não entendo essa
+diferença, inclusive nos meus modelos. Pode ser aquela questão do LeetCode.
+
+Incluisive, o em 0ms é bem parecido com os meus modelos. Talvez, até, um pouco
+mais complexo.
+
