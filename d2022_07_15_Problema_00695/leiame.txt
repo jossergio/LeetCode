@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plafatorma apresentava soluções, que eu olhei para entender melhor o problema
+e não cair em pegadinhas.
+
+Uma delas era o que eu imaginava. Porém, utilizando ideias passadas aprendidas,
+inclusive, na própria plataforma, fiz a minha própria.
+
+Passou de primeira.
+
+Considero minha solução um pouco melhor que as apresentadas pela plataforma, em
+termos de utilização de memória.
+
+23ms. Quase excelente. A em 0ms era bem similar ao meu modelo.
+
+Memória, bem razoável, quase bom.
+
