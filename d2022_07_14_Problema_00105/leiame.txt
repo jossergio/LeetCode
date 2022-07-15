@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Percebi uma ideia e implementei.
+
+Após uma falha, por precisar de criar uma função para busca e desejar utilizar
+de forma binária e errar na sua confecção, passou. Obs.: nos testes, essa
+função não chegava na situação do bug.
+
+Vi que algumas postagens utilizavam forma similar, porém, com busca simples.
+E vi que, para o caso, não faria diferença. Inclusive, implementações com
+busca simples foram mais eficientes que esse primeiro modelo.
+
+Após a primeira postagem, vi que algumas implementações utilizavam mapas, para
+guardar os índices, no lugar de buscar a cada iteração. E isso melhorou
+significativamente.
+
+Modelo 1 (GoLang): 18ms. Memória, horrível.
+
+Modelo 2 (GoLang): 0ms. Melhor impossível. Memória, pior.
+
+Vi algumas implementações, interessantes, como a que utilizava a própria
+função da solução para todo o trabalho, passando pedaços dos vetores em cada
+iteração (recursivamente). Era mais eficiente que a apresentava pela plataforma.
+
+Poderia ter utilizado essa ideia, se tivesse parado um pouquinho para pensar
+melhor.
+
