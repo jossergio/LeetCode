@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Rapidinho. Mas, aproveitei para fazer testes.
+
+Após um modelo com erro, por uma abordagem errada, mesmo, um segundo modelo
+passou. Porém, achando que seria melhor, foi pior.
+
+Para o problema, a plataform foi, até, bem tolerável. O gráfico ia, até, pouco
+mais de 3500ms.
+
+Modelo 1 (GoLang): 1836ms. Horrível. Memória, razoável.
+
+Modelo 2 (GoLang): 2626ms. Bem pior. Memória, melhorou um pouquinho.
+
+Interessante é que códigos mais complexos, formando estruturas, etc., estavam
+bem melhores tanto em memória quanto em tempo de execução.
+
