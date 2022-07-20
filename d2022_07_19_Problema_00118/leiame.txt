@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Fiz bem rapidinho.
+
+Após postar o primeiro modelo, vi que poderia simplificar um pouco.
+
+O terceiro modelo é o segundo modelo, removendo uma linha e, por ter sido
+feito em GoLang, fazendo a criação de uma variável direto dentro de um laço.
+
+Considero que definir variáveis no início, mesmo que só sejam utilizadas dentro
+de um laço, reduz o tempo de alocação. Ou pode ter sido aquela questão do tempo
+no LeetCode.
+
+Modelo 1 (GoLang): 2ms. Até razoável. Memória, razoável.
+
+Modelo 2 (GoLang): 0ms. Melhor, impossível. Memória, um pouco pior.
+
+Model 3 (GoLang): 2ms. Também razoável. Memória, igual ao anterior.
+
+Poderia ter brincado mais. Porém, achei que seria perda de tempo.
+
+2ms foi o maior tempo.
+
