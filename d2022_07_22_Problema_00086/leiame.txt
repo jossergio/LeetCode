@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Passou de primeira.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Após pensar um pouco, tive uma ideia de utilizar estruturas auxiliares.
+
+Após postar o modelo do dia anterior, tive uma ideia de utilizar um ajudante,
+ponteiro para não precisar de if's para criação de lista ligada e gerenciar
+os anteriores etc. Então, fiz um segundo modelo, que ficou bem melhor.
+
+Modelo 1 (C++): 11ms. Ruim. Houve bem piores. Memória, nem apareceu o gráfico.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, ruim, mas com a maioria.
+Similares ao meu tinham bem menos memória. Vai entender o LeetCode.
+
