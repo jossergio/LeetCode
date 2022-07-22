@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Esse desafio não contou pontuação.
+
+Iniciei no dia, desisti sem postar, e só fiz, mesmo, no dia seguinte.
+
+A plataforma me apresentava soluções, que eu nem olhei.
+
+Só foi possível porque, no dia seguinte, era um problema que, também, envolvia
+lista ligada e acabei tendo uma ideia de utilizar estrutura auxiliar.
+
+Então, recorri e remeti ao do dia anterior.
+
+Fiz um primeiro modelo, que passou de primeira.
+
+Em seguida, tive ideia de brincar mais com estruturas.
+
+Após dois errinhos, passou. Porém, o tempo foi bem pior.
+
+Fiz, ainda, um terceiro modelo, pois, o segundo eu tinha deixado auxiliares
+de depuração.
+
+Interessante é que, tirando esses auxiliares, o tempo aumentou.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, horrível, mas com a maioria.
+
+Modelo 2 (C++): 6ms. Ruim. Memória, um pouquinho melhor, mas, ruim.
+
+Modelo 3 (C++): 9ms. Bem horrível. Memória, igual ao anterior.
+
