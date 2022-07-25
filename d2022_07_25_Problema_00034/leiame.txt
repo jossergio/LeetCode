@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Inicialmente, achei que seria complicado, pois, na relação, tinha uma taxa
+de aceitação menor que 50%.
+
+E a plataforma ainda pedia para fazer no tempo O (log n). Então, desconfiei
+de um possível excesso de tempo.
+
+Ou seja, teria que ter uma ideia boa, uma lógica decente, para passar.
+
+Porém, passou de primeira. Cometi uns errinhos de lógica, que foram sanados
+ainda nos testes iniciais.
+
+Preciso recuperar meu raciocínio. Pensava uma coisa e, às vezes, interpretava
+outra, às vezes escrevia diferente, enfim, acho que apresento fadiga, vez
+em quando.
+
+9ms. Posso chamar de bonzinho. Houve piores. A maioria.
+
+Memória, com a maioria, apesar de que houve alguns melhores. Só não entendi em
+quê.
+
+O do 0ms e outros de tempo melhor utilizaram uma forma de busca binária, mesmo
+que individual para cada ídice e mesmo que fazendo ajustes, quando encontrava,
+pois tinha que ser o primeiro e o último.
+
+O meu fazia, basicamente, esses ajustes, de cara. Porém, tentando otimizar,
+quando encontrava, ou tentando um tempo máximo de O (n / 2), quando não
+encontrando, ou O (n), quando só tinha um valor alvo ou esses estivessem
+próximos.
+
+Meu modelo ficou, até, bem organizado e bonitinho.
+
