@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Inicialmente, tinha uma vaga ideia.
+
+Mas, a plataforma apresentava algumas soluções, sendo uma delas mais parecida
+com minha forma de pensar.
+
+Então fiz uma vista geral e gerei meu próprio modelo.
+
+Passou de primeira.
+
+Após postar, vi que uma solução era similar às minhas vagas ideias iniciais.
+
+Então, fiz um segundo modelo, próprio, tendo essa solução como base.
+
+Modelo 1 (GoLang): 23ms. Horrível. Memória, também horrível.
+
+Modelo 2 (GoLang): 6ms. Excelente. Memória, mediana.
+
