@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+Tive uns probleminhas nos testes. Então, o rapidinho foi por terra.
+
+Porém, foi, até, rapidinho.
+
+Tentei fazer em GoLang e apresentava uns errinhos nos testes. Achei que fosse
+situação de ponteiros. Então, quem melhor para isso? C++.
+
+Mas ficou na mesma, até eu perceber que tinha que fazer uns ajustes, nos
+ponteiros, ao finalizar cada etapa.
+
+Fiz dois modelos, ambos utilizando recursividade.
+
+Não fiz utilizando estruturas, para descartar utilizar recursividade, pois não
+atingiria, de forma alguma, O(1), como o problema sugeria, adicionando ao
+desafio.
+
+Não tive ideias para atingir o O(1). Ou era recursividade ou eram estruturas.
+
+Após postar o primeiro modelo, vi, pelos modelos dos outros, que poderia
+utilizar a própria função do problema de uma forma recursiva. Então, fiz outro
+modelo, seguindo essa ideia.
+
+Ainda fiz um terceiro modelo, tentando otimizar memória. Nem otimizou e o tempo
+voltou a piorar.
+
+Modelo 1 (C++): 14ms. Razoavelmente lento. Memória, com a maioria, que foram
+bem ruins.
+
+Modelo 2 (C++): 3ms. Excelente. Poucos chegaram aqui. Houve 0ms. Memória, pior.
+
+Modelo 3 (C++): 13ms. Não tão bom, quase igual ao modelo 1. Memória, igual
+ao segundo modelo. Ou seja, nada feito.
+
+No geral, gostei de meus códigos. Ainda tenho uma boa lógica, quando envolve
+ponteiros, listas ligadas, árvores binárias etc.
+
