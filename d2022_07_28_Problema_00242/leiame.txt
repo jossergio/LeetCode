@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Porém, por confundir uma variável, utilizando uma em lugar de outra, produziu
+um erro.
+
+Mas, passou de segunda. Seria de primeira, se não fosse esse pequeno detalhe.
+
+Tive uma ideia. Melhorei a ideia. E vi que utilizar vetor poderia deixar mais
+rápido. E ficou, mesmo.
+
+Como minha ideia precisaria utilizar mapas, GoLang.
+
+Modelo 1 (GoLang): 16ms. Razoavelmente ruim. Memória, com a maioria. Mas
+poderia ter sido melhor.
+
+Modelo 2 (GoLang): 25ms. Horrível. Memória, na mesma.
+
+Modelo 3 (GoLang): 6ms. Razoavelmente bom. Houve 0ms. Memória, melhorou. Mas
+poderia ter sido melhor.
+
+Modelos 1 e 2 utilizam mapa. Modelo 2 utiliza um único, balancendo o acúmulo
+das informaçoes, enquanto modelo 1 utilizava dois, comparando posteriormente.
+
+Modelo 3 utiliza vetor, balanceando.
+
+Teoricamente, modelo 2 era para utilizar menos memória que 1. Mas, talvez,
+compilação tenha feito aumentar.
+
