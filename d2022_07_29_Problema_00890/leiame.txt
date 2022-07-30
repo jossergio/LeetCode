@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Não tinha uma boa ideia. Mas a plataforma apresentava soluções, que eu olhei
+para formar uma minha.
+
+Mesmo assim, não saí do canto.
+
+Tava sem tempo. Postei depois do horário a primeira versão, depois de reanalizar
+as soluções. Passou de primeira.
+
+E fiz um modelo baseado na outra solução apresentada pela plataforma.
+
+Modelo 1 (GoLang): 5ms. Razoavelmente, ruim. Memória, com a maioria e
+razoavelmente ruim.
+
+Modelo 2 (GoLang): 0ms. Melhor, impossível. Meória, igual ao anterior.
+
