@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava algumas soluções. Entre elas, a primeira, a que
+eu imaginei e implementei, antes de vê-las.
+
+Em seguida, fiz um segundo modelo baseado em uma das outras ideias da
+plataforma, só para brincar/estudar.
+
+O tempo até que melhorou um pouco.
+
+Não vi 0ms e muito menos abaixo de 500ms.
+
+Mas a média era alta, mesmo. Tanto que o gráfico era generoso. Bem generoso.
+
+Modelo 1 (GoLang): 2821ms. Razoavelmente ruim. Memória, excelente.
+
+Modelo 2 (GoLang): 1127 ms. Bom. Memória, quase excelente.
+
+Esse segundo modelo era um pouco mais complexo. Não gostei em termos de beleza.
+Um pouco, até, redundante.
+
