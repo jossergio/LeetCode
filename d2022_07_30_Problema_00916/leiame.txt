@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução que, incialmente, eu nem olhei.
+
+Porém, após diversos estouros de tempo e erros, decidi olhar.
+
+Basicamente, criava uma maneira, baseada em uma ideia, de reduzir laços.
+
+Então, fiz meu modelo baseado na da plataforma e passou.
+
+Meus modelos, básicos, sempre utilizavam mapas, que reletiam meu raciocínio.
+
+Porém, um vetor fixo, mapeando, acaba sendo mais rápido.
+
+Fiz, então, para a teimosia sobre mapas, o modelo dois, que é o mesmo só
+que mudando a estrutura básica para essa. Fiz no dia seguinte e antes
+de postar no GitHub, incluindo o desafio desse dia.
+
+Claro que fica pior o tempo utilizando mapas como estrutura básica. Mas, também
+passou.
+
+Se a ideia geral eu tivesse iniciado da forma da plataforma, não teriam
+ocorridos os estouros de tempo, mesmo com mapas.
+
+Modelo 1 (GoLang): 91ms. Bom. Memória, mediana.
+
+Modelo 2 (GoLang): 285ms. Horrivelmente horrível. Quase no final do gráfico.
+Memória, razoavelmente ruim, apesar de haver bem piores.
+
+Não houve 0ms e o menor tempo foi 63ms.
+
+Mapas, só quando for estritamente necessário. Ou para brincar/estudar.
+
