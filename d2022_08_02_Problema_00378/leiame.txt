@@ -1,0 +1,42 @@
+Direto no LeetCode.
+
+De início, achei que utilizar ordenação produziria uma pegadinha.
+
+Comecei a tentar ver uma lógica, que não encontrei.
+
+Decidi, mesmo assim, produdir um algoritimo que utilizasse ordenação, só para
+ver no que iria chegar. E, também, para ver se conseguiria acesso às soluções
+dos demais.
+
+De cara, qual linguagem melhor para isso? Python.
+
+Só não passou de primeira por que fiz testes com print, que passou, mas,
+funcionaria no teste básico. Ao tirar o print, esqueci de ordenar antes
+de produzir o resultado.
+
+Para minha surpresa, passou. E passou bem, muito bem.
+
+Código simples, que poderia ter ficado em uma única linha, se não tivesse tido
+a ideia de utiilizar uma variável auxiliar. Mas, ficou em duas.
+
+Ainda fiz um segundo modelo, com a ideia de ficar em uma linha.
+
+Modelo 1 (Python 3): 210ms. Pode se considerar quase excelente. Memória,
+excelente.
+
+Modelo 2 (Python 3): 176ms. Excelente. Memória, piorou um pouquinho. Mas, ficou
+com a maioria. Notar que é igual ao anterior, com uma linha a menos e sem
+a variável auxiliar.
+
+Não houve abaixo de 150ms.
+
+A retirava da utilização de variável auxiliar não auxiliou muito na questão
+memória. Piorou. E o tempo pode ter sido aquela velha questãõ do LeetCode.
+
+Vi vários códigos, um pouco complexos, utilizando uma abordagem diferente,
+fazendo uma espécie de busca binária, como eu imaginava antes de fazer um
+modelo com ordenação.
+
+Mas, apesar de ter melhorado um pouco, não foi tanto. Além disso, a maioria
+ficou com o tempo bem pior.
+
