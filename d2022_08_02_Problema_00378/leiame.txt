@@ -21,6 +21,18 @@ a ideia de utiilizar uma variável auxiliar. Mas, ficou em duas.
 
 Ainda fiz um segundo modelo, com a ideia de ficar em uma linha.
 
+Após postar, fiquei curioso de como saber como C++ se comportaria. Então,
+no dia seguinte, antes de trabalhar no problema do dia, fiz um modelo em C++.
+
+Fiz vários testes, para ver se teria como acessar diretamente a memória de uma
+matriz sem precisar copiá-la para um vetor temporário, que consumiria mais
+memória. Um bom estudo dos recursos de vector.
+
+Mas, após vários testes no cpp.sh, não vi como. Então, fiz com cópia em
+variável temporária, ordenei essa variável e retornei o resultado.
+
+Foi, também, meu primeiro caso de atualização de algo postado no GitHub.
+
 Modelo 1 (Python 3): 210ms. Pode se considerar quase excelente. Memória,
 excelente.
 
@@ -28,15 +40,21 @@ Modelo 2 (Python 3): 176ms. Excelente. Memória, piorou um pouquinho. Mas, ficou
 com a maioria. Notar que é igual ao anterior, com uma linha a menos e sem
 a variável auxiliar.
 
-Não houve abaixo de 150ms.
+Modelo 3 (C++): 36ms. Woou! C++ é mais rápido, sim. Quase excelente. Memória,
+bem horrível. Muito horrível.
 
-A retirava da utilização de variável auxiliar não auxiliou muito na questão
-memória. Piorou. E o tempo pode ter sido aquela velha questãõ do LeetCode.
+Não houve abaixo de 150ms em Python e 13ms em C++.
+
+Em Python, a retirada da utilização de variável auxiliar não auxiliou muito na
+questão memória. Piorou. E o tempo pode ter sido aquela velha questão
+do LeetCode.
 
 Vi vários códigos, um pouco complexos, utilizando uma abordagem diferente,
 fazendo uma espécie de busca binária, como eu imaginava antes de fazer um
 modelo com ordenação.
 
-Mas, apesar de ter melhorado um pouco, não foi tanto. Além disso, a maioria
-ficou com o tempo bem pior.
+A diferença não tão gritante. Além disso, a maioria ficou com o tempo bem pior.
+
+Em C++, no lugar de ordenar, talvez fosse mais ágil utilizar nth_element. Mas,
+fica para uma outra vez.
 
