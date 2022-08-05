@@ -1,0 +1,41 @@
+Direto no LeetCode.
+
+Não pontou, pois, após vários erros e tempos esgotados, só completei no dia
+seguinte.
+
+Apesar de a plataforma apresentar soluções, não quis olhar, apesar de, no
+início, não ter tido uma ideia bacana e espiar um pouquinho.
+
+Minha ideia, até, estava no caminho certo. Mas, desejar manter ordenado
+é que atravancou.
+
+A primeira, consistia em um grande vetor, sem necesside de ordenamento, mas
+o tempo de alocação deve ter comprometido muito.
+
+Alocando por demanda ou alocando no máximo, a segunda foi ainda pior.
+
+Na ideia primária da plataforma, cuja minha ficou parecida mas não passou, por
+tempo excedido, a diferença básica é que não utilizava condições de ordem.
+
+Quando, observando a ideia básica da plataforma, tirei ordenamento, passou.
+
+151ms. De mediano a bom. Memória, quase excelente.
+
+Não houve abaixo de 63ms.
+
+Transcrevi, ainda, dois modelos, por estudo, que, apesar de tempo excedido,
+chegaram bem pertinho e estão corretos.
+
+Modelo 3, inclusive, chegou no último teste. Só não teve tempo de concluir.
+Utilizava pair e vector.
+
+Modelo 2 é, até, bonitinho em estrutura. Utilizava alocação conforme a
+necessidade.
+
+E olha que a plataforma foi bem benevolente. 4,5s de limite no gráfico.
+
+Aproveitei para fazer uns testes com maps no C++.
+
+Só não vieram nos demais modelos transcritos por terem sido mais lentos,
+obviamente. Mas, eram de ideia similar.
+
