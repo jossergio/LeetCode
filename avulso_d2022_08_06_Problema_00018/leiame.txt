@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Era um problema antigo, que tentei e não tinha passado.
+
+Com a ideia de revisar problemas incompletos ou não solucionados, vi esse
+e concluí.
+
+A plataforma apresentava soluções, que eu relutei em olhar.
+
+Porém, após mais experiência, tive uma ideia, que incluía a técnica de dois
+ponteiros.
+
+Olhei, basicamente, a solução só para ver se tinha essa técnia, apesar de eu
+já saber que sim, teria.
+
+C++. 423ms. Horrível de horrível. Memória, também horrível.
+
+Após vários tempos excedidos e erros, inclusive por conta de algumas pegadinhas
+de conversão deixadas pelo LeetCode, e um longo tempo até chegar a um modelo,
+pois foi coisa deixada no tempo esperando uma solução, uma ideia, passou.
+
+As postagens dos demais utilizavam, também, de uma forma ou de outra, mitigação
+dessas cascas de banana deixadas pela plataforma, além de alguns códigos mais
+elaborados tentando diminiur o tempo, apesar de que o gráfico foi até 1200ms.
+
+Serviu, também, para aprender sets em C++.
+
