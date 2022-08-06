@@ -14,3 +14,13 @@ do retorno independente de ter encontrado ou não.
 
 Porém, esse algoritmo está na casa dos que utilizam pouca memória.
 
+Em 06/08/2022, um ano depois, fiz uma atualização, para tentar deixar
+em O (n log(n)), através de técnica de dois ponteiros. E acabei utilizando C++,
+por precisar de uma ordenação de vetor. Além disso, precisaria criar uma
+estrutura com pair e fazer uma ordem personalizada com essa estrutura.
+
+Acabou utilizando muita memória. Muita, mesmo. Mas, ficou mediano. Houve casos
+bem piores. C++ é que utiliza mais memória que GoLang.
+
+E ficou em 27ms. Mediano.
+
