@@ -1,0 +1,49 @@
+Direto no LeetCode e pelo celular.
+
+A plafatorma apresentava dicas, que serviram para ajustar um modelo.
+
+Inicialmente, tive uma ideia que, apesar de eu já imaginar, pela estrutura
+do desafio, que iria utilizar muita memória e corria o risco de apresentar
+estouro de limite de tempo, melhorei essa ideia para poupar memória, mas,
+mesmo assim, passou do limite de tempo.
+
+Após um pequeno errinho, por não observar que o código possouía um laço
+cuja condição de saída não tinha o respectivo ajuste incremental internamente,
+e o exemplo de testes não continha situação para entrada nesse laço, não
+passou pelo excesso de tempo, o que eu considerei um erro.
+
+Adicionado o incremento, permameceu, só, o estouro de tempo. O próprio exemplo,
+sozinho, provocada isso.
+
+Utilizei uma estrutura de vetor, que ía se ajustando, conforme andamento. Esse
+modelo transcrevo como o primeiro, pois, apesar de estar lento e produzir
+estouro de tempo, é bem didático e interessante.
+
+Em seguida, tive uma ideia de utilizar uma estrutura acumulativa utilizando
+mapas, que passou, utilizando um acumulador temporário, que atualizava o
+primeiro. Passou.
+
+Aproveitei para estudar mais e tirei a alocação do mapa temporário de dentro
+do laço, o que melhorou muito o código.
+
+Sabendo que mapas são lentos, e como o são, e vendo que poderia utilizar
+variáveis simples para cada item do mapa, pois eram poucos itens, fiz esse
+modelo, o que veio a melhorar, e muito, o tempo de execução.
+
+Modelo 1 (C++): estouro do limite de tempo.
+
+Modelo 2 (C++): 338ms. Muito, mas muito lento. Memória, Horrível, bem horrível.
+
+Modelo 3 (C++): 99ms. Mediano, mas, nem tanto. Memória, melhorou bastante,
+quase excelente.
+
+Modelo 3 (C++): 3ms. Houve 0ms. Memória, excelente.
+
+Um detalhe é que o próprio problema indicava a possibilidade de estouro do
+limite de um inteiro. E vi que, mesmo utilizando temporariamente, soma
+de inteiros utilizam inteiros como acumuladores, mesmo que o resultado seja
+modular e, portanto, caixa em um inteiro.
+
+Tive, então, que utilizar variáveis desse tipo, para os cálculos. E vi que
+os demais participantes também fizeram isso.
+
