@@ -24,3 +24,16 @@ bem piores. C++ é que utiliza mais memória que GoLang.
 
 E ficou em 27ms. Mediano.
 
+Em 08/08/2022, pela simplicidade do problema, e visando estudar Rust, fiz uma
+versão, baseada no modelo 1.
+
+Apesar de que tive que utilizar, para responder, algumas estruturas mais
+complexas, como vec, ainda assim foi bastante útil para entender a linguagem.
+
+Foi o primeiro modelo de solução que postei nessa linguagem.
+
+Ficou em 39ms. Ruim. Memória, quase excelente.
+
+Nos modelos em Rust que olhei, vi que ainda há muitos recursos a serem
+estudados.
+
