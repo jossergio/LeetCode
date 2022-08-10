@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Esse era um desafio que eu tinha resolvido como avulso em 12/07/2022.
+
+A linguagem havia sido GoLang em 0ms.
+
+Resolvi, na repostagem, utilizar C++ para comparar.
+
+Basicamente, só fiz converter e ajustar um pequeno detalhe.
+
+Ficou lento, em relação à GoLang. Então, resolvi tirar o pequeno ajuste.
+Acabou ficando pior ainda.
+
+Não sei se seriam as questões de tempo no LeetCode.
+
+Modelo 1 (C++): 7ms. Memória, nível bol.
+
+Modelo 2 (C++): 11ms. Memória, mesma coisa.
+
