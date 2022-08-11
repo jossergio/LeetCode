@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Tentei ter uma ideia mais elaborada. Mas, não consegui. Produziu um erro.
+
+Então, fiz pelo óbvio.
+
+Após outro erro, por pegadinha da plataforma (achei que não haveria valores
+iguais, pela descriçao), passou.
+
+Achei que produziria estouro de tempo, com alguma pegadinha da plataforma.
+
+De toda forma, ficou lento. Muito lento.
+
+Um detalhe é que o do 0ms era idêntico ao meu, com uma leve diferença, que
+tentei implementar em um segundo modelo e, mesmo assim, ainda ficou lento.
+
+Modelo 1 (C++): 32ms. Horrível. Memória, melhor que a maioria, apesar de a
+plataforma indicar que não.
+
+Modelo 2 (C++): 27ms. Não melhorou muito, apesar de ser um tempo menor. Ficou
+razoavelmente ruim. Memória, igual.
+
+A diferença entre os modelos é que o segundo utiliza uma variável global,
+enquanto o primeiro passa por parâmetro. O segundo e idêntido ao do 0ms.
+
+Ainda tentei montar um sistema mais elaborado, tentando ficar mais ágil. Mas
+produziu erro, já tinha contado pontos e fica para uma proxima. Tinha outras
+coisas para fazer.
+
