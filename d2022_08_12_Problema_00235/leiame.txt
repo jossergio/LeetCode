@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 19/07/2021.
+
+Então, peguei um dos modelos, o que ficou mais rápido, mudei a linguagem
+e postei.
+
+Após um errinho, por não ter migrado direito (errei o nome de uma variável),
+passou.
+
+Fiz um segundo modelo, sem recursividade, após ter visto uma solução nesses
+moldes, utilizando meus conhecimentos. Porém, ficou mais lento.
+
+Modelo 1 (GoLang): 22ms. Bonzinho. Memória, mediana.
+
+Modelo 2 (GoLang): 25ms. Mediano. Memória, piorou. Nem apareceu no gráfico.
+
