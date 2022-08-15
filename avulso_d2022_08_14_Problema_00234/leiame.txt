@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. A plataforma apresentava soluções, que eu nem olhei.
+
+Fiz um pouquinho diferente, apesar de ter tido a ideias, que descartei, baseadas
+nos modelos, que olhei depois de ter postado.
+
+302ms, em C++. Razoavelmente bom. A maioria foi acima de 150ms, com um grande
+claro até próximo de 0ms.
+
+Memória, muito ruim.
+
+Os próximos do zero pareciam enroladas. Código estranho, cuja função da chamada
+retornava zero (false), e um array fazia as vezes de uma função que não continha
+chamada, utilizando-se de stdin e out, como se criasse um arquivo de saídas
+diretamente.
+
