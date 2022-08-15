@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Era o mesmo problema que postei como avulso em 19/10/2021.
+
+Só fiz repostar.
+
+Ainda pensei em utilizar outras linguagens, reestruturar, para encontrar
+alguma forma de otimizar, mas, estava meio sem disposição para isso.
+
+16ms, em GoLang. Um pouco abaixo da média. E piorou, em relação à postagem
+antererior, que tinha sido 8ms. Coisas do LeetCode.
+
+Memória, melhorou um pouquinho, e ficou com a maioria, bem razoável. Não sei o
+porquê, já que era o mesmo código. Talvez, os testes tenham sido diferentes.
+
