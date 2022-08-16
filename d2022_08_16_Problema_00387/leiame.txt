@@ -1,0 +1,49 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava uma solução, que eu nem olhei. Depois de postar,
+vi e olhei outras postagens, tendo outras ideias.
+
+Fiz, então, outros modelos, inclusive em linguagens diferentes, para brincar
+de testar. Porém, todos de minha própria "autonomia".
+
+Modelo 1 (C++): 102ms. Horrível de horrível. Memória, nem apareceu no gráico.
+Utilizava uma mistura de mapa com o valor sendo um vector.
+
+Modelo 2 (C++): 127ms. Pior ainda. Memória, razoável. Utilizava um mapa com o
+valor sendo um inteiro, indicando uma contagem de aparições. O código ficou
+com resquíscios do código anterior, quando foi ajustado, e uma das linhas
+não fazia sentido existir. Ficou, entao, com uma variável a mais
+desnecessariamente e sua atribuição inicial.
+
+Modelo 3 (C++): 26ms. Excelente. Memoria, razoavelmente bom. Utilizava um vetor,
+onde cada item representava um caractere e sua contagem de aparições. Tentava
+apressasr o retorno, quando localizava.
+
+Modelo 4 (C++): 40ms. Razoavelmente bom. Memória, igual ao anterior. Utilizava
+vetor simples (array do C++), sendo essa a diferença do anterior.
+
+Modelo 5 (C++): 101ms. Horrível de horrível. Memória, razoavelmente bom.
+Utilizava mapa, similar aos anteriores, porém, substituindo a reserva, que
+poderia vir a não ser utilizada, por uma estrutura desse tipo.
+
+Modelo 6 (C++): 30ms. Razoavelmente bom. Memoria, razoavelmente bom. Utilizava
+vetor. Código igual ao modelo 3, porém, acrescentando o parâmetro de valor
+padrão, no construtor.
+
+Modeoo 7 (GoLang): 60ms. Meio ruinzinho. Memória, razoavelmente bom. Era
+baseado no modelo 5, convertendo a linguagem e aproveitando alguns recursos
+que GoLang dispõe.
+
+Modelo 8 (GoLang): 11ms. Quase excelente. Memória, excelente. Baseado em
+modelo 4, convertendo a linguagem e aproveitando alguns recursos que
+GoLang dispõe.
+
+Ainda pensei em ver algum código em Python. Mas, optei que já estava suficiente
+brincar.
+
+Mas, analisando a solução da plataforma, que trazia código em Java e em Python,
+foi bem interessante analisar os recursos de Python que utilizou para reduzir
+código.
+
