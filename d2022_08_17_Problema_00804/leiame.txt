@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Rapidinho, apesar de perder um tempinho estruturando uma tabela que a solução
+continha.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Inicialmente, escolhi Python 3, pela possibilidade de redução de código com
+base em suas estruturas e sintaxe.
+
+Depois de postar, vi que minha ideia é bem parecida com a solução. Porém, a
+solução apresentada em Python, pela plataforma, utilizava uma melhor redução
+de cógido, apesar de ser uma simples estruturação.
+
+Em seguida, e pela simplicidade, tive a ideia de brincar com outra linguagem.
+Então, fui para C++. GoLang não seria uma boa ideia, por não conter algumas
+estruturas que facilitariam.
+
+Modelo 1 (Python 3): 41ms. Quase excelente. Não houve abaixo de 19ms, apesar
+de a grande parte dos códigos ser baseado na solução da plataforma. E a grande
+parte ficar abaixo desse tempo. Memória, quase no final do gráfico, mas, com
+a maioria.
+
+Modelo 2 (C++): 7ms. Mediano. Memória, horrível. Utiliza mapas, para montar
+a tabela.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Utilizava um vetor, para montar a
+tabela. Memória, mediana.
+
+Definitivamente, mapa é lento e Python muito mais lento que C++.
+
+E GoLang é lindinho. Mas, só para problemas básicos.
+
