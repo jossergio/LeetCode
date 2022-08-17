@@ -20,11 +20,20 @@ Modelo 2 (GoLang): 25ms. Horrível. Memória, na mesma.
 Modelo 3 (GoLang): 6ms. Razoavelmente bom. Houve 0ms. Memória, melhorou. Mas
 poderia ter sido melhor.
 
-Modelos 1 e 2 utilizam mapa. Modelo 2 utiliza um único, balancendo o acúmulo
+Modelos 1 e 2 utilizam mapa. Modelo 2 utiliza um único, balanceando o acúmulo
 das informaçoes, enquanto modelo 1 utilizava dois, comparando posteriormente.
 
 Modelo 3 utiliza vetor, balanceando.
 
 Teoricamente, modelo 2 era para utilizar menos memória que 1. Mas, talvez,
 compilação tenha feito aumentar.
+
+Em 17/08/2022, acrescentei um modelo para brincar com Rust.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, razoavelmente ruim. Era
+baseado no modelo 3, com uma simples conversão de linguagem.
+
+Rust está parecendo complicado, com excesso de recursos e uma catalogação
+para aprendizado aparentemente feita para quem já domina, sem básico ou
+iniciante.
 
