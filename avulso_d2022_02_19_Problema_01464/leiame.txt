@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Eu não tinha registrado esse no GitHub.
+
+Quando peguei alguns para refazer e estudar Rust, ao concluir, notei que não
+tinha sido postado.
+
+Pior é que havia feito, também, outro, avulso, no mesmo dia. E não tinha postado
+esse.
+
+Então vão os registros de todos.
+
+Modelo 1 (GoLang): 16ms. Horrível. Memória, melhor que mediano.
+
+Modelo 2 (C++): 15ms. Talvez a ordenação não seja tão eficiente. Poderia ter
+utilizado heap. Memória, ruinzinha.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, excelente.
+
+Modelo 1 foi o original. Muito lento porque utilizava uma ideia meio força
+bruta. E burra.
+
+Modelo 2 foi a ideia ao refazer e modelo 3 foi a conversão desse para Rust.
+
