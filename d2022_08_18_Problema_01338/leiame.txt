@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Não tão rapidinho, até entender, ver que ficaria bem em Python e estudar algumas
+estruturas dessa linguagem.
+
+Não passou de primeira por um pequeno detalhe: deveria ser menor ou IGUAL, e eu
+esqueci da parte do igual.
+
+Vendo algumas soluções apresentadas, vi que poderia reduzir um pouco o espaço
+de memoria utilizada. E pensei que melhoraria o tempo. Só que não.
+
+Modelo 1 (Python 3): 779ms. Razoavelmente bom. Memória, mediana.
+
+Modelo 2 (Python 3): 893ms. Um pouco acima da média. Memória, razoavelmente bom.
+
+Não vi abaixo de 550ms.
+
+Vi códigos semelhantes ao meu primeiro e o segundo foi uma melhoria do primeiro
+baseado no que vi nas postagens. Mas vi códigos mais complexos, alguns ficaram
+mais rápidos e outros não.
+
+No geral, gostei da ideia e do uso das estruturas em Python, em redução de
+código. Ainda poderia ter ficado melhor.
+
+Depois, ajustar, para diminuir ainda mais o código, e ver, também, como fica
+em C++.
+
