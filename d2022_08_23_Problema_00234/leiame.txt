@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Era um problema que eu tinha feito, como avulso, em 14/08/2022. Bem recente.
+
+Resolvi fazer uma nova abordagem e mudar a linguagem, no lugar de simplesmente
+repostar.
+
+350ms. Horrível.
+
+Memória, ruinzinha, também.
+
+Apesar de haver alguns abaixo de 125ms, e até em 0ms, a maioria foi
+acima desse patamar.
+
+Os mais rápidos utilizavam artifícios de entrada pelo sistema operacional.
+
