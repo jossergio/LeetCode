@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Era pra ser o problema do dia 07/11/2021. Porém, a solução que eu imaginei,
+nesse dia, passava por conversões, o que não foi uma boa ideia, pois os
+intermediários produziam estouro de inteiros, o que era lógico, por se
+tratar do LeetCode.
+
+Posterirmente, vendo tentativas pendentes, retomei. E iniciei com outra
+abordagem. Mas, tive que tentar mais vezes, em dias diferentes.
+
+Produziu vários erros, por eu insistir em utilizar acumuladores do tipo byte,
+que produziam estouros intermediários, produzindo resultados errados em
+alguns testes.
+
+Ou seja: minha ideia estava perfeita. Mas, em alguns momentos, o acúmulo
+intermediário estourava.
+
+Bastou deixar de ser teimoso e utilizar int que passou.
+
+16ms. Razoavelmente ruim.
+
+Memória, horrível.
+
+Fiquei de fazer um modelo mais enxuto. Mas, fica para outro momento.
+
