@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+A plataforma sugeria não utilizar recursividade ou laços.
+
+Mas não consegui ter ideia alguma sem utilizar esses recursos.
+
+Após um pequeno errinho, por não perceber que poderia ser utilizado até o
+limite, passou.
+
+Após postar, vi que a maioria utilizou. E os que não utilizaram eram um
+pouco complexos, na ideia.
+
+0ms. Melhor, impossível.
+
+Memória, excelente, também.
+
