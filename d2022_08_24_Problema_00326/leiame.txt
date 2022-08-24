@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Parecido com o desafio de dois dias anteriores.
+
+Aproveitei para testar e estudar Rust, fazendo ajustes para o novo problema.
+
+Produziu dois errinhos, por pensar que ocorreria algo e, ao ocorre, não
+era o que devereia ser tratado na solução.
+
+Se eu tivesse só substituído um número e traduzido, com os ajustes para Rust,
+teria passado de primeira.
+
+A tradução para Rust é por conta de algumas sistemáticas que essa linguagem
+utiliza.
+
+19ms. A plataforma não informava um posicionamento. Mas, nao houve abaixo de
+8ms. Rust parece ser meio lento, mesmo. A maioria era posterior ao meu tempo.
+Mesmo soluções matemáticas e sem laços. Meu modelo utilizava laço.
+
+Memória, um pouco ruim.
+
+Muitas soluções era similares à minha.
+
+Ao analisar as soluções, entendi formas de implementar a sugestão, da
+plataforma, de não utilizar laços ou recursões. Dentre os modelos, havia
+questões matemáticas. E outras com laços ou conversões, que são implementadas
+com laços pelos compiladores/interpretadores das linguagens.
+
