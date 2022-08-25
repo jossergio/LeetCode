@@ -1,0 +1,11 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Mais um daqueles casos para simplificar código com Python.
+
+56ms. Excelente. Não houve abaixo de 24ms. Muitas soluções meio complexas,
+de quem ainda está aprendendo Python mas sabe programação antiga.
+
+Memória, excelente, também.
+
