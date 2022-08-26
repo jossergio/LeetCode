@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+A ideia geral foi a que eu utilizei.
+
+Mas, uma das soluções, que apesar de estar em Java e em Python, utilizava
+uma ideia básica de Python para comparação de dicionários, após conversão.
+
+Em Java, estruturava em um vetor.
+
+0ms. Melhor impossível.
+
+Memória, a plataforma não apresentou comparativo.
+
+É uma competição. Com tempo, aplicando otimizações, seria possível chegar
+a uma questão similar à de Python da plataforma.
+
