@@ -16,3 +16,14 @@ Memória, a plataforma não apresentou comparativo.
 É uma competição. Com tempo, aplicando otimizações, seria possível chegar
 a uma questão similar à de Python da plataforma.
 
+No dia seguinte, em 27/08/2022, fiquei com a questão das facilidades que
+Python peremitiria a essa questão. Então, resolvi fazer um modelo, tentando
+lembrar do que foi utilizado nas soluções apresentadas pela plataforma.
+
+60ms. Mediano. Não vi abaixo de 34ms.
+
+Memória, ruinzinha.
+
+Não seguiu a simplicidade da solução da plataforma, que utilizava recursos
+que eu ainda não tinha conhecimento. Porém, foram de ótimo estudo.
+
