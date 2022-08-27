@@ -10,3 +10,9 @@ Memória horrível, também.
 
 Fiz direto no LeetCode. Com um pouco de auxílio do play.golang.com.
 
+Em 27/08/2021, para brincar com Rust, fiz um modelo nessa linguagem.
+
+20ms. Medianamente horrível.
+
+Memória, medianamente bom.
+
