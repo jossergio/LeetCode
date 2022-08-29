@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Após postar, vi que poderia otimizar, de analisando os códigos dos demais.
+
+Então, refiz em outra linguagem, só para constar.
+
+Modelo 1 (GoLang): 215ms. Nem apareceu no gráfico, que ia até 120ms. Memória,
+mediano mas com a maioria. A ideia de verificar se ainda existia a cada
+iteração acabou provocando essa lerdeza. Mas ficou um código elegante,
+usufruindo dos recursos da linguagem.
+
+Modelo 2 (C++):42ms. quase excelente. Memória, quase excelente e com a maioria.
+Foi baseado no código de 0ms do gráfico do GoLang.
+
+Em GoLang, houve muito 0ms. Em C++, o mais ágil ficou em 18ms e utilizando
+aquela velha técnica de sincronia com STDIN.
+
+Parece que, para essa situação, GoLang se destacaria melhor.
+
