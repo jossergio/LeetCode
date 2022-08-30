@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu olhei. Estava com uma preguiça de
+pensar.
+
+Além disso, a plataforma, em uma das soluções, apresentava uma ideia matemática
+para concluir, que eu adotei, após olhar o código e tentar raciocinar para
+lembrar/implementar.
+
+Minha ideia inicial era similar à primeira solução que a plataforma mostrava.
+
+Fiz em GoLang, por algumas facilidades que essa linguagem poderia fornecer.
+
+3ms. Mediano. A em 0ms era baseado na primeira solução.
+
+O em 3ms era cópia, idêntica, porém traduzida, da solução apresentada
+pela plataforma e que serviu de base para minha implementação.
+
+Memória, com a maioria, que poderia ter sido melhor.
+
+A solução que eu me baseei era em Java e utilizava duas funções, independentes,
+para realizar as etapas. Eu puxei para uma etapa única, na função de chamada.
+
