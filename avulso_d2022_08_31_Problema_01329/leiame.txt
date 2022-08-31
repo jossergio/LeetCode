@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Era o desafio de 28/08/2022. Mas, estava cansado para raciocinar, apesar de
+ter uma ideia de como fazer.
+
+Então, fiquei com o desafio encucado.
+
+Aproveitei para brincar com alguns recursos de C++. Especialmente após ter
+postado meu modelo e comparar com outros.
+
+Modelo 1 (C++): 14ms. Pouco melhor que mediano. Memória, mediana. Minha ideia
+básica inicial. Utilizava duas funções separadamente, uma para pegar uma
+diagonal e outra para reposicionar a diagonal na matriz, com um ordenamento
+entre ás chamadas às funções.
+
+Modelo 2 (C++): 24ms. Medianamente ruim. Memória, igual a modelo 1. A
+modificação era por contar de utilizar priority_queue no lugar de criar um
+vetor temporário e ordená-lo. Parece que não foi uma boa ideia.
+
+Modelo 3 (C++): 19ms. Mediano. Memória, melhorou bastante. Era o modelo 2, com
+a diferença que utilizava uma mesma função para pegar a diagonal e, logo em
+seguida, atualizar na matriz. A função principal ficava limitada, somente,
+a passar o início de cada diagonal da matriz.
+
+Modelo 4 (C++): 20ms. Memória, igual a modelo 2. Não entendi o motivo, uma vez
+que é o mesmo modelo 3 sem um lixinho que tinha ficado quando ajustando.
+
+Ouve pouquíssimos 0ms, sendo a minha ideia de modelo 1, porém, sem utilizar,
+dividir, as atividades em funções.
+
