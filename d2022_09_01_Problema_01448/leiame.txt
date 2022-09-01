@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 17/08/2021. Só fiz repostar.
+
+Um detalhe é que o tempo de execução piorou.
+
+Aproveitei para brincar e fazer testes. Inclusive, uma que seria mais prática.
+
+Todas elas, em sequência, pioraram o tempo. O último é que, apesar de piorar
+o tempo, melhorou, mas só um pouquinho, a memória.
+
+E olha que era um modelo que eliminava a utilização e a busca repetitiva em
+um vetor.
+
+Ainda fiz mais um modelo, tentando economizar uma variável. À-toa. O tempo
+continuou aumentando e, por "incresça que parível", a memória, também.
+
+Modelo 1 (C++): 193ms. Mediano. Memoria, bem ruininha. Era o mesmo código de
+postagem anterior, que foi excelente no tempo.
+
+Modelo 2 (C++): 224ms. Medianamente ruim. Memória, igual ao anterior. Era, só,
+um ajuste de uso de expressões em relação ao anterior.
+
+Modelo 3 (C++): 254ms. Bem ruim. Memória, quase excelente.
+
+Modelo 4 (C++): 278ms. Bem horrível. Memória, igual aos modelos 1 e 2. E olha
+que tirava uma variável em uma função recursiva.
+
+Não houve abaixo de 106ms.
+
