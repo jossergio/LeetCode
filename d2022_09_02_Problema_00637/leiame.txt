@@ -1,0 +1,26 @@
+direto no LeetCode.
+
+A plafatorma apresentava duas soluções, que eu nem olhei.
+
+Minha primeira postagem foi similar à segunda da solução da plataforma.
+
+Após postar a primeira versão, resolvi brincar, com locais de definição
+de variáveis temporárias, para ver se otimizaria, além de, após ver as soluções
+que a plataforma dispunha, resolvi fazer um modelo similar à primeira.
+
+Modelo 1 (C++): 24ms. Mediano. Memória, nem apareceu no gráfico. As variáveis
+temporárias eram definidas dentro dos laços.
+
+Modelo 2 (C++): 16ms. Quase excelente. Memória, medianamente ruim. Substitui
+a utilização de uma fila temporária e utilizei a mesma fila para tudo,
+regulando pelo tamanho inicial antes de um laço.
+
+Modelo 3 (C++): 45ms. Horrível. Memória, bem ruim. É a mesma do modelo 1, porém
+com as variáveis temporárias definidas fora do laço.
+
+Modelo 4 (C++): 32ms. Medianamente ruim. Memória, medianamente ruim. Utilizava
+recursão, para fazer acumuladores. Baseado no primeiro modelo de solução que
+o LeetCode dispunha. Tive a ideia de fazer depois de vê-la, lembrando da ideia.
+
+Não vi abaixo de 3ms.
+
