@@ -14,3 +14,9 @@ tamanho do vetor. 12ms. Melhorou, mas, nem tanto.
 Não entendo como o LeetCode compara, pois, muitos dos melhores são bem similares
 aos meus e, alguns, usam bem mais memória.
 
+Em 03/09/2022, acrescentei um modelo em Rust, para estudar e brincar.
+
+7ms. Razoavelmente ruim. Meu código era bem similar ao do 0ms.
+
+Memória, excelente. Muito excelente.
+
