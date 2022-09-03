@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Relativamente, rapidiniho.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Após um errinho, por aquelas questões dos testes que a plataforma pode utilizar
+para, justamente, produzir possibilidades de erro (e que considero justo),
+passou.
+
+Após postar, comparei. Achei a minha solução mais simples.
+
+Utilizava recursividade, assim como a primeira solução da plataforma.
+
+A segunda solução considerei mais complexa. Porém, não utilizava recursão.
+
+0ms. Melhor, impossível.
+
+Memória, um pouco acima da média.
+
+Não tive outras ideias de modelo, apesar de considerar alguma forma de otimizar
+o que já estaria otimizado, especialmente o visual.
+
