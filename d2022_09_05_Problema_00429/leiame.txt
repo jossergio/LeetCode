@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Após um errinho, por conta de uma situação que é comum os testes do LeetCode
+fazer, ajustei e passou.
+
+C++.
+
+0ms. Muito ruim.
+
+Memória, com a maioria, mas medianamente ruim.
+
+Não houve abaixo de 8ms, que era bem parecido com o meu, mudando os nomes
+das variáveis.
+
