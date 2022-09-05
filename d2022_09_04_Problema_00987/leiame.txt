@@ -1,0 +1,36 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma dizia que era difícil. Porém, ao ver, vi que me poderia ser
+simples.
+
+E foi. Mas, não passou de primeira. O problema foi que os modelos de teste
+passavam sem problemas, independente de uma ordem, que o problema citava.
+
+Ao postar, essa ordem, que possuía umas regras de parcialidade o ocorrência,
+reprovou meu modelo.
+
+Após várias postagens, tentando entender isso, inclusive em outra linguagem,
+percebi qual era a falha no ordenamento.
+
+Bastou ajustar isso e passou.
+
+Considero que fiz rapidinho. Mas, demorei muito para entender a ordem que a
+platforma sugeria.
+
+Fiz em C++. Tentei ver em GoLang, só para ver se os testes mudariam. Ainda
+pensei em fazer em Python. Mas, ficarão para depois.
+
+8ms. Mediano. Memória, medianamente bom.
+
+No 0ms havia uma composiçao sem utilizar recursão, como foi o meu modelo. Mas,
+se tivesse iniciado dessa forma, talvez, naõ tivesse conseguido raciocinar.
+Não faz parte do meu modo de pensar programação, apesar de que sinto que devo
+direcionar para isso.
+
+De toda forma, não teria conseguido contornar. Ficou melhor pensar recursão.
+
+E foi um bom desafio.
+
+Fca para depois, também, implementar um modelo sem recursividade, baseado,
+somente, em estruturas de dados.
+
