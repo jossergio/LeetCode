@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Esse era o mesmo problema do dia 23/07/2021.
+
+Só fiz repostar.
+
+C++.
+
+0ms. Melhor impossível.
+
+Memória, excelente.
+
+A plataforma apresentava uma solução. Mas, nem me toquei.
+
+Minha solução seguia ideia parecida.
+
