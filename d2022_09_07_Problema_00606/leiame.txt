@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções. Uma recursiva, e a minha ideia foi
+parecida, e outra utilizando pilha para varrer a árvore e, consequentemente,
+mais complexo.
+
+Não olhei para as soluções.
+
+Fiz um segundo modelo só para modificar a forma de conversão de um número em
+string.
+
+Modelo 1 (C++): 32ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (C++): 61ms. Ruim. Memória, melhorou um pouquinho de nada. É igual
+ao outro modelo, só modificando uma forma de converesao de número em string.
+
+Não vi abaixo de 4ms. Caso raro.
+
