@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Havia postado, como avulso, em 14/05/2022. Só fiz repostar.
+
+C++.
+
+3ms. Medianamente bom.
+
+Memória, horrível.
+
+Interessante é que, na postagem do dia 14/05/2022, tinha sido em 0ms.
+
+O melhor uso de memória foi dos que utilizaram pilha, no lugar de recursão,
+para navegar pela árvore.
+
