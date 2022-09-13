@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Aproveitei para brincar com Rust.
+
+Inicialmente, fiz em GoLang, para me certificar que eu criaria um algoritmo
+correto. Em seguida, fiz a migração para Rust, aproveitando para estudar
+as sintaxes e o uso de Vec, que era a intenção inicial.
+
+Modelo 1 (GoLang): 0ms. Melhor impossível. Memória, ruinzinha.
+
+Modelo 2 (Rust): 1ms. Houve 0ms. Mas, estive com a maioria. E não houve abaixo
+desse tempo. Memória, excelente, apesar de seguir o modelo de GoLang, que eu
+sei que utilizava muita memória.
+
+Ao final, vendo as postagens dos demais, vi que poderia ter economizado um
+tempinho e um bocado de memória, se tivesse raciocinado com um vetor único,
+no lugar de um vetor de vetor, onde só seria necessária a última linha
+desse vetor, trabalhando esse vetor a cada iteração
+
