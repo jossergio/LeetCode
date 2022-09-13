@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei. Ao final, considerei o
+meu mais legível, mais organizado, mais fácil de entender, já que utilizava
+de funções auxiliares, dividindo e organizando trabalho.
+
+Não foi tão rapidinho, uma vez que esse tipo de problema contém detalhes
+bem interessanetes.
+
+Após penar um pouco, e com auxílio do Play do GoLang para fazer alguns testes,
+inclusive da linguagem, passou de primeira.
+
+Golang. 8ms. Excelente. Não houve abaixo de 7ms. Memória, ruinzinha, mas com a
+maioria.
+
