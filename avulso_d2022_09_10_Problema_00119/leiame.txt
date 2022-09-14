@@ -17,3 +17,18 @@ tempinho e um bocado de memória, se tivesse raciocinado com um vetor único,
 no lugar de um vetor de vetor, onde só seria necessária a última linha
 desse vetor, trabalhando esse vetor a cada iteração
 
+Poucos dias depois, fiquei encucado em fazer um modelo que, no lugar de utilizar
+uma matriz, atualizasse um vetor único, que já seria a resposta.
+
+A ideia partiu depois de ver algumas soluções postadas.
+
+Considerei que ficaria mais rápido e utilizaria menos memoria. Errei em ambos.
+
+Se bem que, no caso do tempo, pode ser aquela questão da plataforma.
+
+Modelo 3 (GoLang): 3ms. Piorou muito. Memória, melhorou um tiquinho.
+
+Modelo 4 (Rust): 2ms. Piorou. Memória, na mesma.
+
+Parece que minha ideia ainda foi melhor em termos de velocidade e memória.
+
