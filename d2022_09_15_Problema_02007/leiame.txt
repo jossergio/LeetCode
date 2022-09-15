@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Probleminha meio chato.
+
+Após um errinho por apertar o botão errado (submeter no lugar de testar) e outro
+pelas coisas do LeetCode (testes crueis que a gente não imaginaria), passou.
+
+Vendo outras soluções, considero a minha mais legível.
+
+Em C++.
+
+397ms. Excelente. Não vi abaixo de 187ms. O problema é complexo, mesmo.
+
+Memória, excelente. Muito excelente, mesmo.
+
+Minha ideia utilizava uma fila, para auxiliar a percorrer o vetor do problema.
+
