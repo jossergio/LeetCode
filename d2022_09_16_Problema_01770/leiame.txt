@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Montei meu primeiro modelo, que eu considerava que ocorreria tempo excedido. E
+ocorreu.
+
+Então, resolvi olhar as soluções da plataforma.
+
+A primeira é bem parecida, e baseada, na mesma ideia do meu modelo.
+
+Então, para estudar, resolvi transcrever e traduzir uma das soluções, que
+utilizava memorização.
+
+Produziu algo que eu nunca tinha visto: estouro de memória. Inclusive, copiando
+o teste que produziu isso e jogando no rascunho.
+
+O mais interessante é que postei esse modelo duas vezes, de forma idêntica. E
+essa falha ocorreu em testes diferentes. E olha que utilizei ponteiros como 
+parâmetros. Mas, copiei só o segundo modelo dessa, pois, uma diferença básica,
+é que, no primeiro, esqueci de referenciar um parâmetros como referência.
+
+Logo, considerei, somente, a segunda postagem desse segundo modelo.
+
+Gravei porque, afinal de contas, estão corretos e ambos são soluções válidas.
+
+Modelo 1 (C++): excedeu tempo.
+
+Modelo 2 (C++): estouro de memória.
+
+Como não prudizi um modelo válido, não tive como fazer um comparativo com
+outros competidores da plataforma.
+
