@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 31/07/2021. Só fiz repostar.
+
+A plataforma apresentava soluções, que eu nem lembro se estavam disponíveis
+na vez anterior.
+
+Interessante é que, apesar de ser somente repostando, ficou bem mais lento,
+não chegando a entrar no gráfico, e a memória também aumentou.
+
+Na vez anterior, a memória ficou fora do gráfico, mas, em termos de menos.
+
+C++. 815ms. Muito lento. O gráfico ia até 60ms.
+
+Memória, mediano.
+
+Vou ver se, posteriormente, implemento algum modelo com alguma estruturação
+de programação dinâmica, apesar de que eu já utilizava uma estrutura de pilha,
+mas que ficou muito extenso.
+
