@@ -1,0 +1,41 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções (duas), que eu nem olhei.
+
+A primeira solução era por força bruta e produziria tempo excedido.
+
+A segunda utiliza mapa e foi, justamente, a ideia que eu tive. E minha solução
+ficou bem parecida com essa.
+
+Após um errinho, por eu não ter interpretado uma possibilidade, apesar de
+considerar que haveria (LeetCode), passou. Era só a questão de que a plataforma
+desejava que fossem descartadas os unitáŕios, retornando, somente, os que
+apareciam mais de uma vez.
+
+Aproveitei para testar linguagens. Quando migrando para Python, deixei os
+prints de depuração no código e apresentou erro, por excesso na saída.
+Tirada a depuração, passou. Nem deveriam ter ficado.
+
+Modelo 1 (GoLang): 90ms. Horrível. Memória, nem apareceu no gráfico.
+
+Modelo 2 (GoLang): 97ms. Piorou um pouco. Memoria, apareceu no gráfio. Mas,
+horrível. A diferença para o anterior era só uma questão de otimização no uso
+da memória, pela retirada de formação de uma variável temporária, que nem
+precisaria. Bastava fornecer o acumulador que já existia.
+
+Modelo 3 (Python3): 179ms. Razoavelmente mediano. Memória, com a maioria e
+mediano.
+
+Em GoLang, não houve abaixo de 34ms. Em Python, não houve abaixo de 72ms.
+
+Não entendo o motivo de ter sido tão lento e com uso considerável de memoria,
+pois, além de seguir a solução ideal apresentada pela plataforma, os melhores
+códigos eram bem semelhantes, inclusive no uso de recursos.
+
+Pensei em fazer em C++, mas essa linguagem não tem estruturas para tratamento
+de strings de forma nativa e bibliotecas que poderiam fazer isso a plataforma
+não dispunha. Poderia implementar, mas, fica para uma outra vez.
+
+O código em Python poderia ter ficado mais enxuto, utilizando melhor as
+características dessa linguagem. Fica, também, para uma outra vez.
+
