@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+De início, não entendi, e gerou dois erros, até eu entender.
+
+Percebi que o problema induzia a estouro de tempo. E estourou.
+
+Mesmo eu ajustando, substituindo uma busca, o tempo todo, por um mapa, para
+armazenar os valores que seriam gerados, melhorou, mas, engasgou no tempo.
+
+Aí, tive uma ideia, de abortar em um momento em que não houvesse possibilidade
+de aumentar o valor para retorno. E passou. Lento, mas, passou, com esse
+"jeitinho".
+
+C++. Lento pra ca...rai. E olha que o gráfico ía até 1500ms.
+
+Memória, excelente. Pelo menos isso.
+
+Um modelo em GoLang ou em Python também poderia ser feito. Fica para depois.
+
+A plataforma apresentava quatro soluções. As duas primeiras, com tempo excedido.
+
+A primeira, bem parecida com a minha. Porém, sem o "ajuste".
+
+A segunda, meio relativizando a busca, parecido com minha ideia inicial.
+
+A terceira utilizava programação dinâmica, com memorização (acumulador). Preciso
+aprender a utilizar isso de maneira natural.
+
+A quarta utilizava um modelo matemático. Nem entendi. Ficava mais complexo.
+A ideia básica era um hash.
+
