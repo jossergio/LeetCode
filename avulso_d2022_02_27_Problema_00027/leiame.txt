@@ -12,3 +12,9 @@ O LeetCode trazia soluções, que só olhei depois.
 
 Uma delas era bem simular à minha solução.
 
+Em 21/09/2022, adicionei um modelo em Rust. Só fiz traduzir.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
