@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Rapidinho. Só não passou de primeira porque uma coisa que eu desconfiava, que
+era que resto de número negativo também seria negativo, não apliquei logo. Nem
+testes fiz para confirmar.
+
+Então, quando postei, apareceu uma situação que a condição falou mais forte.
+
+Corrigido, com a simples função abs, passou.
+
+Em seguida, resolvi olhar a solução. O meu era bem semelhante, com as diferenças
+de que, por já saber o tamanho de reterno, o vetor de resposta já era definido
+com o tamanho final logo no início e, para reduzir os if's, que o meu expandia,
+realizava cálculos independente da situação atual x final. Assim, ficou menor
+o tamanho do código.
+
+Então, resolvi fazer um modelo baseado nessa ideia. Piorou. Talvez, se eu
+tivesse utilizado variáveis temporárias, no lugar de ficar acessando vetor
+por índice o tempo todo, incluindo índice de índice, tivesse melhorado.
+
+Fica para uma outra vez.
+
+Modelo 1 (C++): 281ms. Horrível. Memória, também horrível.
+
+Modelo 2 (C++): 312ms. Pior ainda. Memória, excelente. Mas só ficou um
+pouquinho melhor.
+
