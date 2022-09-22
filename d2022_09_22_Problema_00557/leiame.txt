@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Pelo problema, tinha que ser em Python, para utilizar os recursos da linguagem
+e ficar em uma linha única.
+
+Fiz um modelo, que vazia conversões para lista, invertia e reconvertia. Ficou
+lento.
+
+Demorou um pouquinho, com auxílio de um playground, até entender os detalhes
+de como a sintaxe ficaria.
+
+Analisando algumas postagens, vi que há como reverter strings diretamente,
+sem precisar jogar em uma lista intermediária.
+
+Então, fiz um segundo modelo, alterando só essa questão. Até que melhorou.
+
+As soluções da plataforma não envolviam Python. Portanto, eram um pouco mais
+extensas.
+
+Modelo 1 (Python 3): 103ms. Medianamente lento. Houve bem piores. Memória,
+mediano, mas, com a maioria.
+
+Modelo 2 (Python 3): 59ms. Medianamente bom. Memória, piorou um pouquinho, olha
+só. Não sei o motivo, já que utilizava menos estruturas.
+
+Não vi soluções abaixo de 20ms.
+
