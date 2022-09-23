@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Tive uma ideia básica, com cálculo, que envolvia um segundo laço, interno.
+
+Em GoLang, inicialmente, para brincar e, em seguida, em Rust, para estudar, com
+simples tradução.
+
+Meu modelo ficou muito lento.
+
+Houve uma concentração de respostas com códigos idênticos, inclusive nos
+detalhes, nomes de variáveis, posições etc., em ambas as linguagens.
+
+Modelo 1 (GoLang): 64ms. Muito lento. Mas, houve piores. Não houve abaixo de
+26ms. Memória, com a maioria, mas, poderia ser melhor.
+
+Modelo 2 (Rust): 51ms. Muito lento. Mas, houve piores. Não houve abaixo de 21ms.
+Memória, como tudo mundo, na mesma faixa.
+
+Parece que houve poucas postagens, mesmo no final do tempo/dia.
+
+No modelo em Rust, tive uma pequena dificuldade, pois, o valor do modulo era
+um valor maior que o i32, tive que trabalhar com todas as variáveis em i64 e,
+no retorno, converter para i32, que era o padrão da resposta.
+
+Inicialmente, apresentava respostas erradas, nos testes, por conta disso.
+Ajeitado, passou.
+
