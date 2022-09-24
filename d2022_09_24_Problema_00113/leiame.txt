@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 04/08/2021. Só fiz, inicialmente, repostar.
+
+Em seguida, aproveitei para fazer testes e brincar com ponteiros, formando
+um novo modelo e reestruturando as passagens dos parãmetros para a função
+auxiliar.
+
+Modelo 1 (C++): 51ms. Mediano. O mesmo modelo, no momento anterior, foi 4ms.
+Memória, apesar de ser igualzinho, posicionou-se como mediana, pior que da
+vez anterior. Vai entender.
+
+Modelo 2 (C++): 8ms. Pode-se dizer excelente. Ajeitei a forma de busca, que,
+no modelo anterior, utilizava-se de variáǘeis de objeto e, nesse, utilizava-se
+de variáveis passadas como parãmetro da função. O tempo pode ter sido questao
+da plataforma, tanto pelo tanto que melhorou, como pelo tanto que poderia
+ter sido melhor.
+
+Modelo 3 (C++); 37ms. Ruim. Memória, cerca de 60% a mais. Ou seja, passar
+objetos por referência poupa memória, mesmo, pois era a única diferença
+em relaçao ao modelo anterior.
+
+Houve poucos em 0ms. Não entendo o motivo. Pois, era bem similar às minhas
+soluções. No geral, estavam bem espalhados no gráfico de tempo e com pontos
+de concentração espalhados no de memoria.
+
