@@ -1,0 +1,13 @@
+Direto no LeetCode.
+
+Foi um problema que eu resolvi como avulso dia 23/05/2022. Só fiz repostar o que
+teve melhor tempo.
+
+Na época, fiz alguns testes. Então, resolvi não testar mais.
+
+C++.
+
+4ms. Medianamente bom. O original foi em 0ms.
+
+Memória, piorou um pouquinho. E nem apareceu no gráfico.
+
