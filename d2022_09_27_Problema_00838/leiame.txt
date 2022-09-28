@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/07/2022, que eu tinha postado dia 22/07/2021.
+
+Só fiz, então, repostar.
+
+Foi um problema que me deu trabalho, na época, mas passou.
+
+A plataforma apresentava algumas soluções. Tive a ideia, então, de estudar
+uma delas, que utilizava um modelo meio matemático, e fazer a minha própria,
+e testar GoLang.
+
+Não lembro se, na época, a plataforma me mostrou as soluções.
+
+Modelo 1 (C++): 151ms. 31ms mais lento que a postagem primeira. Ruinzinho.
+Memória, um pouco melhor e quase excelente.
+
+Modelo 2 (GoLang): 34ms. A plataforma não apresentou bem a relação com os
+demais. Mas, foi mediano. Memória, também madiana.
+
+Para fazer o modelo 2, apesar de me basear em um código da plataforma, produziu
+estouro de tempo. Analisando meu código, e usando o que produziu esse estouro
+como modelo, passou. Ou seja, estava correto e algo, no próprio GoLang, estava
+deixando lento.
+
+Tive a ideia de utilizar um vetor de rune, que seria convertido em uma string,
+no retorno da função, para gerar código a código, no lugar de ir acrescentando
+a uma string. Passou e passou bem, firmando o segundo modelo.
+
