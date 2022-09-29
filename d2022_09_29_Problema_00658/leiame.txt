@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Depois de penar bastante com algumas questões lógicas, principalmente pela
+questao dos possíveis modelos que a plataforma viria a utilizar, e algumas
+questões ambíguas ter um tratamento que eu não esperava, passou, na quinta
+tentativa.
+
+Envolvia questões lógicas bem chatinhas, como a possibilidade de o número
+do parâmetro não existir e ter que ajustar, antes de iniciar a busca.
+
+Chato. Muito chato.
+
+Os detalhes da lógica é que matavam.
+
+Em C++.
+
+106ms. Mediano.
+
+Memória, também mediana.
+
+Não vi abaixo de 21ms que, por sinal, era um código bem simples.
+
+Mas, a concentração maior era entre 39ms até 232ms
+
+O meu código ficou complexo pra caramba. Analisando a simplicidade dos demais,
+noto que nem precisaria disso tudo e a lógica também não era essas complexidades
+todas.
+
+Talvez eu implemente em outras linguagens ou tente outro modelo baseado nessa
+simplicidade da lógica de outros códigos.
+
+POR HOJE, CHEGA! PASSOU E PRONTO!
+
