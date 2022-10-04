@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Já tinha resolvido, como avulso, na data de 01/10/2021. Porém, achei o código
+extenso e resolvi fazer um mais curto.
+
+Rapidinho.
+
+Passou de primeira.
+
+Porém, ficou mais lento.
+
+C++. 24ms.
+
+Memória, medianamente ruim.
+
+A base de minha ideia era similar, inclusive, a de 0ms.
+
