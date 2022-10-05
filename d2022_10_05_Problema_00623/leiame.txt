@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Rapidinho, considerando alguns pormenores.
+
+Passou de primeira.
+
+Após postar, resolvi brincar com outra linguagem. Por falta de atenção, produziu
+um erro. Ajustado, também passou.
+
+Não quis olhar o código da linguagem primeira. Desejei chegar ao mesmo
+pensamento na segunda linguagem. Então, passei um parâmetro errado.
+
+Modelo 1 (C++): 18ms. Excelente. Não houve abaixo de 10ms. Memória, medianamente
+bom. Mas, algoritmos com variáveis temporárias e funções auxiliares (eu usei
+a própria função do problema) ficaram melhores.
+
+Modelo 2 (GoLang): 12ms. Medianamente ruim. Houve 0ms. Memória, mediana. É o
+mesmo do modelo anterior, alterando, somente, a linguagem.
+
+Meus modelos utilizavam recursividade, que é como eu costumo raciocinar. Não
+tinha tempo para fazer com pilha, mas, preciso melhorar isso. Quem sabe, em
+outro momento.
+
+Em C++, o melhor tempo era idêntico ao meu modelo.
+
+Em GoLang, o de 0ms era mais chato que o meu, apesar de ser a mesma ideia.
+
