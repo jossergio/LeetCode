@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Medianamente rápido. Passou de primeira. Só perdi tempo com uma condição de
+sintaxe, da estrutura interna a ser utilizada.
+
+A plataforma apresentava uma solução, que eu nem olhei. Porém, é bem idêntica
+à minha solução.
+
+Em GoLang, para brincar.
+
+835ms. Ruinzinho. Não vi abaixo de 412ms.
+
+Memória, ruinzinha, também.
+
+Não entendo o motivo de tanta lentidão e uso de memória. Os que eu vi, dos
+demais, eram códigos bem mal feitos.
+
+Pensei em fazer em outras linguagens. Mas, não agregaria muito.
+
