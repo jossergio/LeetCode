@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu precisei olhar para entender o
+problema.
+
+Fiz em GoLang, por considerar melhor de trabalhar com mapas (hash tables).
+
+Porém, precisaria ser um mapa ordenado. GoLang é meio espalhado. Ideal seria
+em C++.
+
+Após apanhar com isso e ver uma forma de ler um mapa em ordem de chaves, passou.
+
+Ainda tentei ver outros modelos. Mas, estouravam a memória.
+
+Em GoLang, 1646ms. Muito lento. Mas, como o problema seria lento, a plataforma
+tinha uma boa margem.
+
+Memória, ruinzinha, também.
+
+Não vi abaixo de 56ms.
+
+Muitos eram códigos mais complexos.
+
+Poderia testar em outras linguagens. Talvez, faça depois.
+
