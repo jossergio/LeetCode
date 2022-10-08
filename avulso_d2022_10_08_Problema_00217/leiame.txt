@@ -1,0 +1,36 @@
+Direto no LeetCode.
+
+Fiz um modelinho baseado em um ordenamento prévio.
+
+Após alguns errinhos, por falha de não perceber que uma função em C++ retornarva
+unsigned, e por fazer uma contagem até o antepenúltimo achando que estava
+contando até o penúltimo (isso teria passado de primeira, nem existindo o
+primeiro erro), passou.
+
+Ao analisar as postagens dos demais participantes, vi que poderia ter utilizado
+mapas.
+
+Então, fiz outros modelos e testes em outras linguagens.
+
+Modelo 1 (C++): 249ms. Muito lento. Memória, bem razoável. Realizava a ordem
+antes de fazar a busca.
+
+Modelo 2 (C++): 223ms. Medianamente ruim. Memória, medianamente ruim. Utilizava
+um mapa não ordenado para checar existência anterior.
+
+Modelo 3 (GoLang): 164ms. Medianamente ruim. Memória, medianamente ruim.
+Basicamente, é a tradução do modelo anterior, já que o mapa simples de GoLang
+não é ordenado.
+
+Modelo 4 (C++): 244ms. Muito lento. Memória, medianamente ruim. É o mesmo modelo
+anterior, utilizando, somente, um mapa padrão C++ (ordenado).
+
+Em C++, não houve abaixo de 54ms.
+
+Em GoLang, não houve abaixo de 57ms.
+
+Os modelos com mapas eram bem semelhantes aos melhores códigos. Não sei o porquẽ
+da lentidão.
+
+Ainda tentei fazer um modelo em Rust. Mas, eita linguagem chata do caramba.
+
