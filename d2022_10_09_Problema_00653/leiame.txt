@@ -1,0 +1,46 @@
+Direto no LeetCode.
+
+Rapidinho. Passou de primeira, também.
+
+Aproveitei para reforçar a questão de varrer uma árvore binária com uma
+estrutura auxiliar no lugar de recursividade e varrer a lista temporária,
+obtida e após uma ordenar, de forma dupla, no lugar de uma busca com dois laços
+aninhados.
+
+Após postar, vi que era o mesmo problema do dia 23/08/2021.
+
+Porém, os modelos desse dia utilizavam recursividade e varriam a lista obtida
+de forma de laços aninhados duplos. E foram mais rápidos.
+
+Após postar, vi, também, que não precisava ordenar o vetor intermediário, pois
+a estrutura de entrada era uma árvore binária de busca e, por definição, uma
+leitura em-ordem já vem ordenada.
+
+Após postar em GoLang, vi que não precisava de ler a árvore até o final, se
+fosse utilizado um mapa, para checar a existência do complemento do valor
+atual nas laituras anteriores. Então, fiz mais um modelo.
+
+Modelo 1 (C++): 101ms. Muito lento. Memória, medianamente ruim. Fazia a ordem,
+desnecessária, de um vetor temporário para comparar os valores. Utilizava
+leitura do vetor pelas bordas, no lugar de laços aninhados.
+
+Modelo 2 (C++): 74ms. Mediano. Memória, medianamente ruim. Igual ao anterior,
+porém, fazia uma leitura em-ordem e dispensava ordenar o vetor temporário.
+
+Modleo 3 (GoLang): 45ms. Mediano. Memória, razoavelmente bom. É igual ao segundo
+modelo de C++. Porém, como GoLang depende de uma estrutura extra para pilha,
+utilizei uma estrutura básica de empilhamento, com, poteiro, adicionando e
+retirando, de forma direta na estrutura, para varrer a árvore.
+
+Modelo 4 (GoLang): 60ms. Mediano. Memória, mediano. Varria a árvore, em-ordem,
+utilizando uma estrutura (no lugar de recursividade). Porém, não montava o
+vetor, tentando, através de um mapa, checar se o complemento do valor atual,
+em relação ao valor alvo, já constava.
+
+Em C++, não vi abaixo de 19ms.
+
+Em GoLang, não vi abaixo de 15ms.
+
+No geral, aproveitei para realizar estudos. Tanto de sintaxe, especialmente em
+GoLang, quanto de estruturas.
+
