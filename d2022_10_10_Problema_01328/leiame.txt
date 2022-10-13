@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Depois de ter ideias, entendi o problema. Passo de primeira.
+
+Em Golang.
+
+4ms. Não entendi o gráfico. Dizia que o meu estava em 2ms.
+
+Memória, com uma minoria, mas, excelente.
+
+Houve muito 0ms. Mas, um código um pouco complexo.
+
+Se bem que o meu mais complexo ainda.
+
