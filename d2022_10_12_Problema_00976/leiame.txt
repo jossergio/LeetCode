@@ -1,0 +1,46 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após alguns erros de tempo excedido, passou.
+
+Já desconfiava disso.
+
+De início, tive a ideia de ordenar, que a solução da plataforma também indicava
+fazer. Porém, o meu testava todos os possíveis, em um laço tripo, encontrando um
+ponto de onde, a partir dele, não haveria mais possibilidades, reiniciando o
+laço externo.
+
+A solução da plataforma partia da particularidade de que, iniciando pelo maior,
+o primeiro que fosse a resposta, como seria o máximo, já seria a solução
+desejada, enquanto o meu testava todos, do menor ao maior, além de utilizar,
+somente, um laço.
+
+Depois, aproveitei para implementar o modelo da plataforma, só para constar,
+e fazer, também, com outras linguagens, incluindo Rust.
+
+Nas soluções em Rust, vi uma forma de agilizar com um heap. Vou implementar
+em C++, posteriormente.
+
+Modelo 1 (GoLang): 419ms. Horrível. Memória, razoavelmente bom.
+
+Modelo 2 (GoLang): 82ms. Medianamente ruim. Memória, medianamente ruim. Era
+o modelo da solução da plataforma.
+
+Modelo 3 (C++): 51ms. Medianamente bom. Memória, medianamente bom. Era quase
+uma implementação do modelo da solução da plataforma, com uma pequena alteração.
+
+Modelo 4 (C++): 38ms. Excelente. Memória, medianamente ruim. Não entendo o
+motivo, pois, sem querer, repostei o mesmo modelo anterior, após uma falha
+de rede. Além do mais, utiliza a mesma quantidade de memória do modelo 3.
+
+Modelo 5 (Rust): 75ms. Horrível. Memória, horrível. Após uma falha (detalhes
+de Rust), passou.
+
+Em GoLang, não houve abaixo de 35ms.
+
+Em C++, não houve abaixo de 32ms.
+
+Em Rust, houve 0ms, utilizando uma ténica de heap, que desejo implementar
+em C++.
+
