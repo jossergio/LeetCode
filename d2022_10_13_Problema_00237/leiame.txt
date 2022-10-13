@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu precisei olhar para entender melhor
+a situação (não o problema).
+
+E aprendi mais um pouco. Na realidade, era para eu ter percebido a situaçao.
+
+Em C++.
+
+38ms. Muito lento.
+
+Memória, medianamente ruim.
+
+Não entendo os motivos.
+
+Houve 0ms, que era bem o que eu imaginava para ao solução. Só não implementei
+por não ter pecebido um detalhe com ponteiros.
+
+E não entendo tanto espalhamento de tempo, pois, todos eram, de uma forma ou de
+outra, a solução da plataforma.
+
