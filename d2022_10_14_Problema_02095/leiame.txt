@@ -1,0 +1,54 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Fiz um modelo, com estrutura auxiliar, mas com um pensamento em um meio
+recursivo, com uma ideia meio boba.
+
+Após postar o primeiro modelo, que seria mais fácil de implementar, enveredei
+na ideia recursiva. Após apanhar um pouco no jogo de ponteiros de C++, pois
+havia necessidade de uma situação bem particular, passou.
+
+Após postar essa segunda, resolvi passar nas soluções da plataforma.
+
+Uma das soluções era um pouco parecida com a minha primeira, porém sem a
+estrutura auxiliar, apesar de varrer a lista uma vez e meia para isso, conforme
+o uso da estutura, do meu modelo, permitia fazer. De cara, menos memória, na
+retirada dessa estrutura.
+
+A segunda solução da plataforma utilizava aquela condição do "fast-slow", para
+chegar até a metade.
+
+Então, resolvi enveredar a minha própria nesse modelo, para estudar e treinar
+esse tipo de algoritmo. Após alguns ajustes, passou.
+
+Modelo 1 (C++): 2521ms. Horrivelmente horrível. Memória, medianamente ruim.
+Utilizava uma estrutura auxiliar para varrer a lista, encontrar o meio e
+modificar por essa região.
+
+Modelo 2 (C++): 2102ms. Mediano. Memória, similar ao anterior. Utilizava
+recursão, para percorrer a lista e, em uma das etapas, realizava um cálculo
+para, após retorno das próximas chamadas com um valor total varrido, checar
+se estava no nó central.
+
+Modelo 2 (C++): 1683ms. Medianamente bom. Memória, igual aos anteriores. Acho
+que a platafora utiliza um acumulador, sei lá, pois, esse modelo não utilizava
+estrutura auxiliar nenhuma e nem recursividade, sendo do tipo O(n) simples. Na
+realidade, do tipo O(n/2), como se existisse isso, pois para na metade.
+
+No tempo, a plataforma foi bem benevolente. Grande parte foi após 2000ms. Havia
+outra grande concentração no nível de 1000ms. No geral, foi bem espalhado nesse
+intervalo.
+
+Não vi solução abaixo de 978ms.
+
+Nesse tempo, era um código "fast-slow", com algumas variáveis a mais, para
+questões particulares.
+
+A solução da plataforma, nesse modelo, era bem interessante, utilizando uma
+ideia para casos particulares já de cara, que eu tenho que quebrar os
+impedimentos de paradigmas que me fazem não pensar assim.
+
+Vi essa situação. Porém, desejo, sempre, fazer com desconsiderações para
+detalhes a partir do iníncio, complicando no processamento e no final.
+
