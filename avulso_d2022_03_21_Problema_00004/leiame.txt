@@ -12,3 +12,27 @@ Após entender, e passar, tentei outros modelos, para testar.
 
 Memória do 1o modelo excelente. Dos demais, um pouquinho de nada pior.
 
+==============
+Em 15/10/2022.
+==============
+
+Procurando exemplos para brincar com Rust e estudá-la, puxei esse.
+
+Em seguida, tive ideias de otimizar com exemplos por passagens de parâmetros
+em referência. Não vi na literatura de Rust.
+
+Aí, resolvi tornar a GoLang, para isso, e fiz dois modelos, um com função
+externa e outr com função interna, aproveitando variáveis locais da função
+principal.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Não sei
+o motivo, pois utilizava-se de uma ideia com ponteiro duplo, no lugar da
+besteira de ir preenchendo um vetor para calcular depois.
+
+Modelo 6 (GoLang): 13ms. Excelente, apesar de que havia 0ms, em um modelo bem
+complicado. Memória, bem bacana.
+
+Modelo 7 (GoLang): 7ms. Mais excelente ainda. Memória, igual ao anterior.
+
+Como a bibliografia de Rust é chata.
+
