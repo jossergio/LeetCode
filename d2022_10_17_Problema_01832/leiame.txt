@@ -1,0 +1,41 @@
+Direto no LeetCode.
+
+A plataforma apresentava diversas soluções, que eu nem olhei.
+
+Passou de primeira.
+
+Por ser simples, criei vários modelos e em diferentes linguagens, incluindo
+Rust, para estudar.
+
+Modelo 1 (GoLang): 6ms. Ruinzinho. Memória, quase excelente. Utilizava mapa, e
+esse foi o principal motivo por ter escolhido essa linguagem para realizar. Ao
+final, vi que poderia ficar melhor, com um ponto de retorno antes de atingir
+o final.
+
+Modelo 2 (C++): 13ms. Bem ruinzinho. Memória, bem ruinzinha. Era o mesmo modelo
+do anterior.
+
+Modelo 3 (C++): 3ms. Quase excelente. Memória, igual ao anterior. Recorria a
+um ponto de saída antecipado, para não seguir até o fim, se as condições já
+permitissem.
+
+Modelo 4 (C++): 3ms. Quase excelente. Memória, mediana. Utilizava um mapa não
+ordenado, no lugar do mapa simples, do C++, que, internamente, implementa de
+forma ordenada os índices.
+
+Modelo 5 (GoLang): 0ms. Melhor, impossível. Memória, melhor impossível.
+Utilizava um vetor simples, já alocado desce o início, onde cada letra formaria
+um índice, no lugar de mapa.
+
+Modelo 6: (Python3): 65ms. Medianamente ruim. Memória, bem ruinzinha. Utilizava
+um conjunto (set) para ir registrando as letras encontradas, testando se já
+tinha atingido o total de possibilidades.
+
+Modelo 7 (Rust): 2ms. Mediano. Memória, razoavelmente boa. Feito para estudar
+a linguagem, utilizando uma ideia similar ao modelo 5.
+
+Logo na primeira postagem, tive a felicidade de ver que meu código estava com
+0ms. Porém, após mais algumas postagens, revendo, tinha pulado para 6ms.
+
+Essa eu não entendi.
+
