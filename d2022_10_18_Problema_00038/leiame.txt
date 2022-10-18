@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Bem rapidinho.
+
+Tinha feito uma leitura preliminar e iniciado a ter uma ideia prática.
+
+Passou de primeira.
+
+Inicialmente, em GoLang, pela simplicidade.
+
+Mas, após passar, e por ter sido simples, resolvi brincar com outras linguagens.
+
+Modelo 1 (GoLang): 39ms. Horrível. Memória, também horrível.
+
+Modelo 2 (Python3): 36ms. Excelente. Memória, quase excelente.
+
+Modelo 3 (C++): 25ms. Medianamente ruim. Memória, com uma pequena maioria e,
+pode-se dizer, excelente.
+
+No geral, são o mesmo modelo em linguagens diferentes.
+
+Em GoLang, houve 0ms. Um código um pouco complexo, utilizando uma matriz
+temporária, mas de base na mesma ideia que eu tive. Ou seja: o meu era mais
+simples, mas trabalhava direto com strings.
+
+Em Python, não houve abaixo de 25ms. Um código bem parecido com o meu, porém,
+sem utilizar recursividade.
+
+Em C++, houve 0ms. Utilizava alguns recursos de C++. Mas, no geral, era bem
+parecido com o meu.
+
