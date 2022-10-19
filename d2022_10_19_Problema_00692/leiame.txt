@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Demorei a concluir, por questões de estruturação em Python. Nada que fosse mais
+de uma hora.
+
+Python foi escolhida pela quantidade de recursos para trabalhar e tratar com
+dicionários, contagem etc.
+
+Porém, tive que fazer alguns testes de sintaxe e padrões de utilização de
+algumas estruturas.
+
+Nem pensei em fazer em outra linguagem. Mas, bem que poderia implementar
+certos recursos já prontos em Python.
+
+106ms. Mediano.
+
+Memória, medianamente ruim.
+
+Após postar, vi a possibilidade de utilizar heap junto com tuplas. Ou mesmo
+um modelo com tuplas, que foi o que imaginei inicialemente, mas tive
+dificultades de "pensar Python". Uma ordenação de tuplas leva em consideração
+o conjunto, sem precisar ordenar internamente.
+
+Vale ressaltar que um dicionário nada mais é do que uma tupla com dois itens.
+
