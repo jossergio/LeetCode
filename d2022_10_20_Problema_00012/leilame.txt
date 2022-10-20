@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Fiz do modo mais besta possível.
+
+Em GoLang, para simplificar mais ainda e utilizar funções embutidas.
+
+Após algumas considerações de sintaxe, resolvi, inclusive, nem utilizar
+parâmetros para as funções embutidas. Ou seja, menos memória.
+
+3ms. Excelente. Mas, houve 0ms. A maioria ficou bem acima disso.
+
+Memória, excelente. Não utilizei estrutura alguma. Além disso, como as funções
+eram embutidas, utilizei as próprias variáveis, como globais.
+
+No mesmo patamar de memória, ficou um modelo que utilizou de estruturas,
+porém, definido por cálculo no próprio resultado. Diferencia, um pouco, na
+forma de chamar, que ficou só com cálculos puros e sem laços (eu abusei, um
+pouco, de laços). Mas, foi uma ideia parecida.
+
+Porém, esse mesmo modelo foi o que eu vi em 16ms. Vai entender.
+
