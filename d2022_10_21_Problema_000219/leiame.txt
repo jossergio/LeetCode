@@ -1,0 +1,52 @@
+Direto no LeetCode.
+
+Rapidinho. Passou de primeira.
+
+Achava que teria uma pegadinha. Na média, antes de ver o problema, estava
+abaixo de 50% a taxa de aceitação.
+
+Após postar, vi que poderia ter sido feito com um laço só, pelas demais
+postagens.
+
+Ainda penso com dois laços.
+
+Então, resolvi fazer um segundo modelo, baseado no que vi nas postagens dos
+demais.
+
+Depois, também com base nas postagens, resolvi brincar com as possibilidades
+de GoLang. Porém, com dois laços. Mas só para fazer uma estrururação em cada
+dos laço na sintaxa de GoLang.
+
+Em GoLang, para brincar. E a segunda, também em GoLang, por conta da facilidade
+com mapas e da diferença de tratamento na inexistência de elementos. Em C++,
+mapas é mais prático. E em Python, bem, poderia ter sido feito, também. E a
+terceira em GoLang, para brincar.
+
+Modelo 1 (GoLang): 1187ms. Muito lento. Horrível de lento. A plataforma foi
+bem benevolente. Memória, excelente. Utilizava laço duplo, com uma condição
+de saida prematura.
+
+Modelo 2 (GoLang): 274ms. Lento. Memória, medianamente ruim. Utilizava uma
+estrutura de mapa, para memorizar valores anteriores, mas, um laço único,
+o que agilizou. Porém, foi mais eficiente. Detalhe é que era bem similar ao
+mais rápido.
+
+Modelo 3 (GoLang): 1229ms. Muito lento. Horrível de lento. Memória, quase
+excelente. Utilizava dois laços, com o segundo tendo um limite que diminuia
+as iterações, com base em regra do problema.
+
+Não vi abaixo de 102ms. Parace que, independente da forma, era um problema
+que poderia produzir tempo excedico.
+
+E, por conta dessa possibilidade de tempo excedido, uma condição para finalizar
+o laço interno de forma antecipado pode ter retirada a possibilidade de tempo
+excedido.
+
+Talvez a baixa taxa de aceitação deva-se por conta de alguns participantes terem
+utilizado laços duplos simples e essa condição apareceu.
+
+Como estou acostumado com a plataforma, já tinha percebido que poderia abortar
+o laço interno antecipadamente.
+
+Além disso, foi útil estudar a programação dinâmica para utilizar um laço único.
+
