@@ -1,0 +1,46 @@
+Direto no LeetCode e pelo celular.
+
+Passou de primeira.
+
+Em Python, para explorar as condições da linguagem e fazer um código menor,
+além de aproveitar recursos prontos.
+
+A plataforma apresentava soluções, que eu nem olhei. Nem para comparar.
+
+Inicialmente, tive uma ideia. Porém, achei que podereia ficar melhor.
+
+Então, fiz um segundo modelo. Considerei, então, que o uso de memória poderia
+ficar melhor.
+
+Fiz um terceiro modelo, que a memória ficou bem otimizada e a velocidade não
+tão ruim.
+
+No dia seguinte, considerei que poderia melhorar mais ainda. Então, fiz o
+quarto modelo, que ficou, em termos de velocidade, parecido com o segundo,
+mas com a memória quase do terceiro. Esse modelo foi implementado antes da
+postagem.
+
+Modelo 1 (Python): 527ms. Medianamente ruim. Memória, horrível. Utilizava uma
+passada dupla, uma para cada item de resposta, apesar de haver etapas
+intermediárias, ou seja, outros laços.
+
+Modelo 2 (Python): 198ms. Excelente. Memória, horrível. Eliminava uma etapa,
+apesar de manter as intermediárias.
+
+Modelo 3 (Python): 255ms. Medianamente bom. Memória, quase excelente. Utilizava
+uma só estrutura para ambas as respostas, fazendo, somente, uma passada,
+para estruturar, e uma compressão de lista, para filtrar as respostas, findando,
+somente, com dois elementos, fazendo uma checagem, antes de retornar a resposta,
+para ver quem tinha ficado na primeira posição e na final (segunda). Ou seja,
+uma passada e uma intermediária.
+
+Modelo 4 (Pythohn): 210ms. Quase excelente. Talvez, questões da plataforma.
+Memória, medianamente bom. Foi uma pequena modificação do anterior, para
+aproveitar uma situação onde a própria resposta formaria um índice e tratar
+seu índice como a resposta. Em outras palavras, retirava um if.
+
+Não vi modelos abaixo de 169ms.
+
+Não desejei fazer em outas linguagens. Teria que implementar muita coisa que
+Python já traz.
+
