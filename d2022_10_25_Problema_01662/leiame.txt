@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu só olhei para comparar, depois
+de postar.
+
+Como eu achei que haveria uma pegadinha da plataforma, produziu um erro. E era
+essa a pegadinha: era tão simples que eu duvidei.
+
+Uma das soluções era bem interessante para estudos. Se eu tivesse percebido que
+não tinha uma pegadinha, talvez tivesse iniciado implementado dessa forma.
+
+Mas, como pensei Python, pelos recursos da linguagem, minha solução foi bem
+parecida com a primeira da plataforma.
+
+A solução 1, da plataforma, era mais ideal em Python. A solução 2, em qualquer
+linguagem.
+
+Em Python, 60ms. Mediano.
+
+Memória, nem apareceu no gráfico. Não entendi o motivo, pois era bem igual
+a outros, com menos memória. Em termos de código, uma linha (Python).
+
+Não vi abaixo de 19ms, apesar de que era um código bem similar ao meu, só que
+com variáveis e com mais linhas.
+
+Houve códigos mais complexos e mais eficientes, em termos de memória.
+
+Nem pensei em fazer outros modelos e em outras linguagens. Já estava otimizado,
+em termos de codificação, ao máximo.
+
+Meu código ficou só com uma linha.
+
