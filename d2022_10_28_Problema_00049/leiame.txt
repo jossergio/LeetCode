@@ -1,0 +1,39 @@
+Direto no LeetCode.
+
+Esse era o mesmo problema do dia 12/08/2021.
+
+Inicialmente, pensei em simplesmente repostar.
+
+Mas decidi e optei por verificar se minha lógica e meus conhecimentos sobre
+recursos, em destaque Python, tinham melhorado.
+
+O primeiro modelo abusou dos recursos e demorei um pouquinho a finalizar por
+ficar fazendo testes no online-python.com. Ficou um pouco complexo, nada demais,
+só por abusar mesmo de recursos do Python.
+
+Ao postar, vi, analisando postagens dos demais participantes, que não precisaria
+ser tão complexo para formar um índice que seria necessário para facilitar a
+solução.
+
+Então, fiz um segundo modelo.
+
+Na postagem de 12/08/2021, apesar de ser um código mais complexo, por ainda não
+dominar diversas estruturas prontas do Python, e ainda utilizar Python 2, a
+ideia para formar o índice era essa, mais simples.
+
+Ou seja, só compliquei.
+
+Ao final, vi que poderia ter dispensado uma compresão de lista, usando os itens
+de forma direta. Então, fiz um terceiro modelo.
+
+Modelo 1 (Python 3): 393ms. Horrível. Nem apareceu no gráfico. Memória, quase
+excelente.
+
+Modelo 2 (Python 3): 103ms. Excelente. Memória, igual ao modelo anterior.
+
+Modelo 3 (Python 3): 108ms. Ainda excelente. Memória, piorou um pouquinho,
+mas ainda medianamente bom. Era igual ao anterior, só com a pequena remoção
+da compressão de lista no retorno. Vai entender a plataforma.
+
+Não vi abaixo de 76ms.
+
