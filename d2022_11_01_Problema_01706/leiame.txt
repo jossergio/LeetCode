@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+Tive que pensar um pouco, a codificação era chata, mas passou de primeira.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Comparativamente, a solução da plataforma utilizava alguma técnica para evitar
+repetição de códigos semelhantes, que minha ideia não fazia, sendo redundante
+nesse aspecto (ou quase).
+
+Eu tinha começado a pensar nessa forma, similar à da plataforma. Mas, como eu
+estava pelo celular, acabei não me focando.
+
+Em C++. 58ms. Mediano, mas, com uma parte da maioria. Memória, excelente. E
+bem melhor que a maioria.
+
+Não vi abaixo de 7ms.
+
+Essa, inclusive, utilizava uma ideia de bola a bola. Talvez isso tenha ajudado
+a ter menos iterações de laço, pois abortava a etapa a cada vez que a bola
+se tornava presa.
+
+Eu tinha iniciado a pensar dessa forma. Mas, achei mais elegante ter uma visão
+linha a linha.
+
