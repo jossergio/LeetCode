@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Por não ter prestado atenção que o problema traria letras nas duas formas,
+maiúsculas e minúsculas, produziu um erro.
+
+Mas, tirando isso, passsou de primeira.
+
+Em Python, para aproveitar os recursos.
+
+Após postar, e ver que ficou bem parecido com a soluçao que a plataforma
+apresentava, resolvi "ajeitar" um pouquinho o código, para ficar mais elegante.
+
+Ou seja, se não fosse isso, teria ficado igual ao da plataforma.
+
+A diferençaç consistia no teste invertido de uma condição, que implicava em
+um break, mas que poderia ser dispensado, caso o teste fosse na outra ordem.
+
+Modelo 1 (Python 3): 116ms. Mediano. Memória, mediana. Mas, no grupo da maioria.
+Esse modelo era o meu.
+
+Modelo 2 (Python 3): 109ms. Mediano. Memória, idem modelo anterior. Só invertia
+uma condição, tirando uma linha de break.
+
+Não vi abaixo de 31ms e a maioria era acima de 37ms.
+
+Vi, nas postagens, ideias que complicavam mais do que eu.
+
