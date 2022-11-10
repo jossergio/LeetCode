@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Antes mesmo de postar, vi que meu modelo era muito redundante e utilizava muita
+memória. Mas, não conseguia pensar em outra forma.
+
+Passou de primeira. Porém, muito lento. Muito lento, mesmo.
+
+Em Python, para aproveitar recursos da linguagem.
+
+Após postar, vi que poderia utilizar um recurso com pilha e por interpretação
+de stream, que eu preciso aprofundar mais.
+
+Então, fiz um segundo modelo, baseado nessa ideia.
+
+Modelo 1 (Python 3): 106ms. Muito lento. Memória, no final do gráfico, mas, com
+a maioria.
+
+Modelo 2 (Python 3): 74ms. Mediano. Memória, melhorou um pouquinho. Mas, bem
+melhor.
+
+Não vi abaixo de 22ms, com uma ideia em pilha bem complexa, mas bem
+interessante, e a grande maioria era bem acima disso.
+
+A plataforma tinha essa solução de pilha, além de outras. Uma delas, bem
+complexa.
+
