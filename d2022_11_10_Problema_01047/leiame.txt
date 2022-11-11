@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Rapidinho e passou de primeira.
+
+Em Python, para aproveitar recursos da linguagem.
+
+356ms. Bem ruinzinho.
+
+Memoria, bem horrível. Quase nem aparece no gráfico e bem longe da maioria.
+
+Acho que utilizar uma segunda lista, quando poderia ter usado o parâmetro
+como iterador, provocou isso, pois, tirando esse fato, era bem similar a grande
+maioria das soluções dos demais participantes.
+
+Estou aprendendo a estruturar melhor a codificação, apesar de alguns vacilos.
+
