@@ -1,0 +1,11 @@
+Direto no LeetCode.
+
+Eu já tinha feito, como avulso, em 11/12/2021 e adicionado uma versão em Rust
+em 03/09/2022. Só fiz repostar essa versão em Rust.
+
+A plataforma apresentava soluções. Mas, nem olhei.
+
+7ms. Medianamente ruim.
+
+Memória, nem apareceu no gráfico.
+
