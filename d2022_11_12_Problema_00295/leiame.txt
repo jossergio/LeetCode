@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo desafio do dia 11/07/2021.
+
+Só ajustei a posição de uma linha, tirando de uma função agregada para outra,
+para evitar ordenar a cada adição de elemento, vindo a ordenar, somente, a cada
+leitura.
+
+Mesmo assim, piorou muito, o tempo.
+
+Em Python 2, conforme a postagem anterior.
+
+7833ms. Horrível de triste. Nem apareceu no gráfico, que ía, até, 4000ms.
+
+Memória, mediano.
+
+A plataforma, aparentemente, foi bem benevolente.
+
+Não vi abaixo de 536ms. A grande maioria ficou entre 700 a 2000ms.
+
