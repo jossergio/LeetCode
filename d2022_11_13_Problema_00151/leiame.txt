@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 20/10/2021, que fiz em Python 2.
+
+Mas resolvi migrar para Python 3 e, além disso, reduzir o código, para uma
+linha, como a liguagem permite.
+
+Rapidinho, após interpretar uma lógica para pôr o resultado com o código de
+uma linha.
+
+Após postar, vi que poderia utilizar uma maneira mais natural de inverter
+a ordem. Então, fiz um segundo modelo, baseado nessa ideia.
+
+Modelo 1 (Python 3): 74ms. Medianamente ruim. A versão anterior foi em pouco
+menos da metade disso. Memória, a mesma da versão anterior, medianamente bom e
+melhor que a maioria, lembrando que é Python 3, agora.
+
+Modelo 2 (Python 3): 55ms. Memória, piorou um pouquinho, ficando mediano. E
+ainda acima da versão anterior.
+
+Não vi abaixo de 17ms.
+
