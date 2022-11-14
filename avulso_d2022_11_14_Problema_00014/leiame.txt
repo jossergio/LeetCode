@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava soluções, que eu só olhei para comparar com a minha.
+
+Havia várias soluções, cada uma com uma abordagem diferente. E a plataforma
+apresentava uma aula sobre algoritimos e abordagens.
+
+Nem sei em qual enquadrar minha abordagem.
+
+Em C++. 14ms. Ruim.
+
+Memória, nem apareceu no gráfico.
+
+Houve 0ms. Mas, a maioria era acima de 3ms.
+
+Havia várias abordagens, na comparação com os demais participantes.
+
+Pensei em fazer em outras linguages e com outras abordagens. Mas fica para
+outro momento.
+
