@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 24/10/2021.
+
+Não repostei. Aproveitei para brincar com estruturas de dados frente a
+recursividade, utilizando C++.
+
+O primeiro modelo utilizava uma fila, tentando pular etapas, para fazer a
+complexiade menor que O (n), como o problema sugeria. Ficou o pior de todos
+os que fiz.
+
+O segundo utilizava pilha, tentando lembrar esses algoritmos.
+
+O terceiro foi baseado em uma postagem que vi, após a minha própria, que era
+baseada em uma ideia bem simples, de programação menor.
+
+O quarto foi esse mesmo modelo só que em GoLang, para comparar com a postagem
+do dia 24/10/2021.
+
+Modelo 1 (C++): 75ms. Medianamente ruim. Achei que seria o melhor, pois tentava
+pular etapas e ficar menor que O (n). Memória, horrível.
+
+Modelo 2 (C++): 63ms. Mediano. Memória, excelente. Utilizava pilha.
+
+Modelo 3 (C++): 49ms. Medianamente bom. Memória, medianamente ruim. Utilizava
+recursividade, mas era um algoritmo bem simples.
+
+Modeo 4 (GoLang): 37ms. Medianamente ruim. Memória, medianamente bom. Era o
+mesmo modelo anterior, só que em outra linguagem.
+
+Em C++, não vi abaixo de 15ms, com a maior parte acima de 30ms e a maior
+concentação acima de 60ms.
+
+Em GoLang, não vi abaixo de de 10ms. Porém, bem espalhado.
+
