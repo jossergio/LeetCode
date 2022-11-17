@@ -1,0 +1,37 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 12/10/2021.
+
+Porém, no lugar de repostar, preferi criar uma nova abordagem.
+
+Rapidinho.
+
+Meu código anterior era um pouco extenso.
+
+Cometi um errinho que tinha cometido na versão anterior. Assim, não passou de
+primeira.
+
+O tempo, considero questões da plataforma.
+
+A plataforma apresentava soluçoes, que eu nem olhei. Mas, as duas primeiras
+abordagens apresentadas eram as mais típicas, sendo a segunda as que utilizei.
+
+A terceira tinha uma atenção mais didática no estudo de estudos de algoritmos
+e sua ordem de tempo de execução.
+
+Modelo 1 (GoLang): 2ms. Medianamente ruim. Memória, com a maioria. Quase
+excelente. Poucos menor que isso. Mas, no final do gráfico. Utilizava muitas
+variáveis e switch.
+
+Modelo 2 (GoLang): 0ms. Melhor, impossível. Memória, idem anterior. Utilizava
+bem menos variáveis e switch.
+
+Modelo 3 (GoLang): 2ms. Medianamente ruim. Memória, piorou e nem apareceu no
+gráfico. Utilizava variáveis dentro de bloco e if no lugar de switch.
+
+Modelo 4 (GoLang): 0ms. Melhor, impossível. Memória, voltou com a maioria. As
+variáveis utilizadas no bloco eram definidas fora do bloco e utilizava if no
+lugar de switch.
+
+Houve muitos 0ms. Um pouco menos de 2ms. Uns poucos 1ms. E nada fora disso.
+
