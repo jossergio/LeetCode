@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Não foi rápido porque tinha que evitar confusão de variáveis. Oito parâmetros
+com nomes parecidos.
+
+Passou de primeira, após os testes.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Minha intuição direcionava para a existência de um cálculo matemático simples.
+
+Porém, meu raciocínio só definiu com uma complexidade de if's.
+
+Após postar, vi que a solução da plataforma era o que eu imaginei de início.
+Então, decidi tentar fazer nessa forma, sem olhar a solução da plataforma mais
+uma vez.
+
+Também passou de primeira. E foi mais rápido fazer. Mas, pelas facilidades,
+resolvi utilizar outra linguagem.
+
+Modelo 1 (GoLang): 26ms. Horrível. Memória, posso dizer excelente, junto com
+uma boa parte, bem no início do gráfico. Não houve abaixo de 4ms, apesar de
+a grande maioria ser acima de 8ms.
+
+Modelo 2 (C++): 8ms. Quase excelente. Memória, horrível. Houve 0ms, mas foram
+poucos.
+
+Muitos códigos feios. Mas, a ideia geral era a mesma.
+
