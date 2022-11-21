@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Rapidinho.
+
+Era para ser o problema do dia anterior, 18/11/2022. Mas, não tive tempo. Ou
+não me dediquei tempo, apesar de ter entrado na plataforma.
+
+Então, no dia seguinte, por ter ficado encucado, resolvi fazer. Até porque o
+desse dia, 19, era meio chatinho. Nem tentei.
+
+Inicialmente, fiz por um modelo recursivo, que é como costumo pensar, com uma
+lógica bem interessante. Mas, com um modelo iterativo em mente.
+
+Após dois errinhos por bobeira (pegadinhas do LeetCode), passou.
+
+Após postar, resolvi verificar os demais e melhorei a ideia do iterativo.
+
+Modelo 1 (GoLang): 4ms. Medianamente ruim. Memória, nem apareceu no gráfico.
+Utilizava recursão, além de uma certa lógica matemática.
+
+Modelo 2 (GoLang): 0ms. Melhor, impossível. Memória, também não aparecia no
+gráfico. Era um modo iterativo, bem implementado.
+
+Todas as postagens que eu vi baseavam-se na mesma ideia, modular (resto de
+divisão sendo zero) para as combinações.
+
+Porém, algumas postagens eram relativamente complexas (ou feias).
+
