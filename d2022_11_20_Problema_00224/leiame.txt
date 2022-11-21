@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 11/09/2021. Só fiz repostar.
+
+Na época, fiz dois modelos. Resolvi postar o primeiro, que apresentou um
+erro de execução. Então, repostei o segundo modelo.
+
+É um problema um pouco chato, pelo tipo. Envolve conhecimentos de compiladores,
+automatos finitos, identificadores etc. Ou seja: só serve se programado e
+testado em computador; não pelo celular.
+
+Como eu estava bem cansado, nesse dia, optei por não refazer. Repostei.
+
+Em GoLang.
+
+11ms. Quase mediano. A postagem na época foi 10ms.
+
+Memória, mediana. Um poquinho melhor que a postagem anterior. Vai entender a
+plataforma, já que foi uma repostagem.
+
+Penso em fazer um modelo melhor. Mas, só se o interesse aumentar.
+
