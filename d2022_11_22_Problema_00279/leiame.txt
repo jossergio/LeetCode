@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 14/10/2021. Porém, na época, postei com atraso e
+não marcou como realizado, na plataforma.
+
+Era uma questão complexa, sem uma solução matemática direta ou de alguma
+otimização de busca. Pelo menos, não vi nas postagens dos demais participantes.
+
+Então, resolvi simplesmente repostar. Nem olhei questões de melhorar o código.
+
+Em GoLang.
+
+50ms. Mediano. Mas, melhor que a postagem anterior. Vai entender.
+
+Memoria, excelente. Porém, um pouquinho melhor que a postagen anterior. De novo,
+vai entender.
+
