@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Era a mesma questão do dia 20/08/2021. Para mim, aparece como tendo sido postado
+em 21/08/2021, em uma hora um pouco avançada, mas que a plataforma acatou.
+
+Analisando o código, decidi alterar a linguagem e reestruturar, visando
+otimizar.
+
+Porém, não foi um resultado bem esperado, apesar de ter melhorado bastante.
+
+Talvez a questão alocar dentro de bloco possa ter aumentado esse tempo. Porém,
+ou era isso ou ter que fazer laços para zerar um mapa. Ou utilizar slice, mas
+com cálculo de posição a cada iteração.
+
+Decidi deixar como está e não tentar outros modelos.
+
+Em GoLang.
+
+9ms. Medianamente ruim. Mas, não há como comparar com a postagem anterior, pois
+são linguagens distintas, apesar de ter ficado quase excelente naquele momento.
+E olha que fiz melhorias, utilizando tudo em uma função só e outros fatores.
+
+Memória, mediano. No outro, apesar de não ser comparável, por ser linguagem
+diferente, também foi mediano.
+
+Houve muito 0ms. E códigos bem complexos, apesar de a ideia geral ser a mesma.
+
