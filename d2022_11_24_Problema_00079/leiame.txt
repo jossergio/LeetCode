@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Rapidinho. Já tinha uma ideia.
+
+Em GoLang, pela simplicidade.
+
+Após um erro bobo, passou. A falha foi não ter atentado, apesar de ter pensado,
+e implementado uma forma de evitar ciclos. Não produziria excesso de tempo, por
+haver outra forma de limite.
+
+Se não fosse essa bobeira, teria passado de primeira. Bobeira, mesmo. Sabia
+que precisaria checar isso e não implementei.
+
+56ms. Excelente. Houve, até, acima de 2000ms.
+
+Memória, medianamente bom.
+
+Utilizei, com recursividade, uma busca em profundidade. Não vi outra forma, a
+não ser que utilizasse pilha. Mas, isso complicaria.
+
+As postagens, dos demais participantes, que vi, utilizavam algo similar.
+
+Alguns eram bem complexos, para fazer a mesma coisa.
+
+Outro fator é que fiz um conjunto de if's, no lugar de fazer um laço com vetor
+para incremento cruzado. E muitos fizeram dessa forma. Mais simples e eficiente,
+sim, e menos memória.
+
