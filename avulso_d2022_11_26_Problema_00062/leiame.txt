@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Era para ser o problema do dia 17/11/2021, que eu tentei mas produziu um
+excesso de tempo. Além disso, aparentava ser um código um pouco feio. Havia
+uma recursividade com acúmulo.
+
+Com o aprendizado e treino de programação dinâmica, permitiu-me brincar com
+outras linguagens, inclusive Rust.
+
+Modelo 1 (GoLang): 0ms. Melhor, impossível. Memória, bem ruinzinha, mas com a
+maioria. Não houve acima de 3ms.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, nem apareceu no gráfico. Era
+a tradução do anterior. Não houve acima de 7ms.
+
+Modelo 3 (Rust): 1ms. Podia ser melhor. Memória, mediana. Era a tradução dos
+anteriores. Não houve acima de 2ms.
+
+Muitos códigos dos demais participantes continham recursividade. Mas, com uma
+lógica similar ao que fiz de forma iterativa. E passaram.
+
+O 0ms de Rust era com recursividade. O de 2ms era uma lógica interativa, mas com
+muita conversão, no lugar de utilizar uma variável já convertida (i32 x usize,
+para os tamanhos da tabela).
+
+
+Também houve alguns códigos com uma lógica bem interessante.
+
