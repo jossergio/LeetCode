@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava algumas soluções, que eu nem olhei.
+
+Após refletir um pouco, tive uma ideia bacana e implementei.
+
+Inicialmente em Python, por conta da estrutura da linguagem. Mas, como ficou
+bem simples, fiz modelos utilização de recursos, para comparação, e arrisquei
+um C++, para brincar.
+
+Ao final, comparando minha solução com as da plataforma, considerei a minha
+mais "bonitinha".
+
+Modelo 1 (Python 3): 2923ms. Medianamente bom. Memória, ruim. Utilizava recursos
+de Python para ter menos linhas de programação. Porém, fazia ordenações
+(distintas em áreas distintas) com sort, que utiliza área para um vetor
+de retorno, e isso aumentou o consumo de memória.
+
+Modelo 2 (Python 3): 4845ms. Ruim. Memória, mediano. Era o mesmo do anterior,
+mas tentava utilizar o sort embutido, nas duas listas individuais.
+
+Modelo 3 (Python 3): 4150ms. Medianamente bom. Memória, igual ao anterior. Era
+o mesmo do anterior, mas, em um laço, utilizava uma variávei única no lugar
+de duas para a segunda dimensão do vetor de entrada.
+
+Modelo 4 (C++): 932ms. Medianamente bom. Memória, mediana. Utilizava map, que
+já deixa o set ordenado, e produzia um laço para filtrar, já preparando o vetor
+de resposta.
+
+Modelo 5 (C++): 1337ms. Mediano. Memória, melhorou um pouquinho. Utilizava
+unordered_map, havendo a necessidade de ordenar as respostas, ao final.
+
+Os modelos em Python utilizavam defaultdict, que minha lógica dependia de
+seu conceito.
+
