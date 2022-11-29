@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/10/2021. Aproveitei para fazer uma abordagem
+diferente.
+
+Inicialmente, utilizei mapas. Depois, um vetor, tentando otimizar a inserção
+e remoção.
+
+Modelo 1 (C++): 1748ms. Nem apareceu no gráfico, que ía até 800ms. Memória, nem
+sei se poderia ter aparecido no gráfico. Utilizava mapa não ordenado e um vetor
+temporário quando preparando um retorno de um dos métodos agregados.
+
+Modelo 2 (C++): 1635ms. Idem. Memória, igual ao anterior. Igual ao anterior, só
+substituindo o mapa não ordenado por um ordenado
+
+Modelo 3 (GoLang): 1890ms. Horrível. Memória, mediana. O mesmo do modelo,
+só traduzido.
+
+Modelo 4 (C++): 808ms. Ainda não apareceu no gráfico, apesar de chegar perto.
+Memória, excelente. utilizava um vetor, com um gerenciamento e otimização para
+a inserção e a remoção.
+
+Antes de passar o modelo 4, houve um errinho. Havia utilizado o tamanho integral
+do vetor, no lugar da variável de controle.
+
+Muitos códigos com tempo excelente utilizavam mapa não ordenado. Porém,
+utilizava funções embutidas para localizar se o valor existia. Os meus códigos
+utilizavam o índice de forma direta. Vai antender.
+
+Fico para analisar melhor em outro momento. Temos outros compromissos.
+
