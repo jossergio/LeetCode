@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que resolvi confirmar que tinha e bastou
+ver um título para ter uma ideia otimizada.
+
+Após uns errinhos por bobeira, passou.
+
+Em Python, para poupar código.
+
+Após postar, vendo as postagens dos demais participantes, tive uma ideia de
+outra abordagem. Vendo, posteriormente, as soluções da plataforma, vi que essa
+ideia baseava-se na segunda solução da plataforma. Mas, com Python, ficava bem
+mais prático.
+
+Modelo 1 (Python 3): 75ms. Medianamente ruim. Memória, medianamente bom.
+Baseava-se em defaultdict.
+
+Modelo 2 (Python 3): 72ms. Mediano. Memória, igual ao anterior. Igual ao
+anterior, mas o laço em si iniciava pelo segundo elemento, após ter trabalhahdo
+o primeiro.
+
+Modelo 3 (Python 3): 64ms. Medianamente bom. Memória, melhorou um pouquinho,
+mas se manteve no mesmo nível. Baseava-se em Counter e set.
+
+Não houve abaixo de 19ms, sendo bem parecido com o meu terceiro modelo. E a
+grande maioria era acima de 30ms, com grande concentração no entorno de 75ms.
+
