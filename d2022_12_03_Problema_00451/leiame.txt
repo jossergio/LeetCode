@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+Em Python, para aproveitar os recursos da linguagem.
+
+Depois de postar, notei que era o mesmo problema do dia 22/10/2021, que eu já
+tinha feito, porém, em Python 2.
+
+Aproveitei e fiz um segundo modelo, pois ficou lento.
+
+Ficou mais lento, o segundo modelo.
+
+O modelo de 22/10/2021 era meio lerdinho. Mesmo assim, ficou em um tempo
+excelente, mesmo no gráfico dos de mesma linguagem.
+
+Antes de postar, ainda enveredei por outra linguagem, C++, para praticar.
+
+Modelo 1 (Python 3): 76ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 89ms. Mediano. Memória, quase excelente.
+
+Modelo 3 (C++): 31ms. Posso dizer mediano. Memória, mediana. Postagens melhores
+eram bem parecidas com a minha.
+
+Modelo 4 (C++): 39ms. Ruim. Memória, apesar de informar que era igual ao
+anterior, o gráfico mostrava bem pior, ruim.
+
+Em Python, não vi abaixo de 23ms. A grande maioria era acima de 31ms.
+
+Em C++, vi 0ms. Mas a grande maioria era acima de 6ms.
+
+Foi um bom estudo, incluindo as postagens dos demais participantes.
+
+Também foi bom brincar com as estruturas de C++.
+
