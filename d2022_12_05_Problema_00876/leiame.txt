@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 28/12/2021. Mas, resolvi gerar uma nova abordagem.
+
+Ficou bem melhor. Estou aperfenciçoando minha forma de programar.
+
+Fiz, ainda, um segundo modelo.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, nem apareceu no gráfico. Mas,
+por pouco, e a maioria era ruinzinha, também. Utilizava um vetor.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, igual ao anterior. Utilizava
+uma abordagem "rápido-devagar", para atingir o objetivo.
+
