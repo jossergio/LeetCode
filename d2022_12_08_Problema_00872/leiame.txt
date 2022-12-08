@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Demorei para pegar a ficha, pois desejava utilizar uma técnica de navegação
+em uma árvore utilizando pilha no lugar de recursividade.
+
+Após postar, vi que poderia evitar um laço para comparar dois vetores,
+utilizando, somente, o sinal comparador.
+
+A solução da plataforma utilizava recursicidade. Então, também fiz um terceiro
+modelo com essa abordagem.
+
+Modelo 1 (C++): 11ms. Medianamente ruim. Memória, medianamente ruim. Utilizava
+uma estrutura de pilha, em uma função auxiliar, para varrer as árvores.
+
+Modelo 2 (C++): 20ms. Horrivelmente de feio. Memória, piorou um pouco e ficou
+bem ruim. Era igual ao modelo anterior, mas utilizava o sinal comparador direto
+entre vetores no lugar de um laço.
+
+Modelo 3 (C++): 4ms. Medianamente bom. Memória, medianamente bom. Utilizava
+recursividade, em uma abordagem de busca em produnfidade.
+
+Houve 0ms. Mas a grande concentração era acima de 3ms.
+
+Os que vi, utilizavam recursão.
+
