@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Meio chatinho, até entender alguns detalhes, apesar de a ideia geral ser
+simples.
+
+Ainda tentei fazer uma outra abordagem, sem sucesso.
+
+Em Python, para aproveitar recursos da linguagem.
+
+2572ms. Mediano.
+
+Memória, mediana.
+
+A plataforma foi muito benevolente, com o gráfico indo até acima de 3500ms.
+
+Não vi abaixo de 804ms. A grande concentração foi acima de 900ms.
+
+Fico para atualizar a segunda abordagem. As implementações da plataforma e
+dos demais participantes eram bem crueis. A minha, também.
+
