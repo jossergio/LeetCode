@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Rapidinho.
+
+Era o mesmo problema do dia 02/12/2021. Mas, decidi mudar a linguagem e tentar
+uma função direta.
+
+Após postar, vi uma ideia mais interessante, com código menor. Então, decidi
+fazer o meu próprio.
+
+Modelo 1 (C++): 28ms. Medianamente ruim. Memória, medianamente ruim. Tentava
+alternar baseado em um contador.
+
+Modelo 2 (C++): 25ms. Mediano. Memória, igual ao anterior.
+
+Houve 0ms. Mas a grande maioria era acima de 3ms com a concentração acima de
+11ms.
+
+No geral, as abordagens eram similares.
+
