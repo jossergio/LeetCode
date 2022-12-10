@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 31/12/2021. Só fiz repostar.
+
+Ainda pensei em fazer um novo modelo. Mas, pela condição do dia, fica para
+uma outra vez.
+
+A plataforma apresentava algumas soluções. Nem olhei. Nem para ter ideias novas.
+
+Repostei o que tinha menor tempo. Ficou pior que o pior modelo da época.
+
+Em C++.
+
+8ms. Mediano.
+
+Memória, ruim.
+
+Houve 0ms. Mas, a grande maioria era acima de 3ms, além de uns poucos bem
+espalhados acima de 25 até uns 300ms.
+
