@@ -1,0 +1,29 @@
+Depois de algumas tentativas erradas, passou.
+
+Lento. Muito lento.
+
+Memória, nem apareceu na relação de tanto consumo.
+
+Direto no editor do LeetCode e pelo celular.
+
+Fiz enquanto esperava Marcos, Diretor, na antessala e, na sala, enquanto atendia
+outra pessoa.
+
+=============
+Em 10/12/2022
+=============
+
+Procurando exemplos para estudar Rust, resolvi brincar com esse.
+
+Na prática, acabei melhorando o código.
+
+Mas, eita! Linguagem cheia de fricotes e firulas. Após alguns erros, passou.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Utilizei uma abordagem recursiva. Após postar, vendo postagens de outros
+participantes, vi que poderia ter utilizado uma abordagem iterativa. Mas,
+implementar fica para uma outra oportunidade. Basta de Rust, por hoje.
+
