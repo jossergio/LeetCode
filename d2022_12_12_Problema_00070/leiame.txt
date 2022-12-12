@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Decidi fazer direto em Rust. Era fácil, apesar de não tão intuitivo.
+
+Percebi que poderia utilizar Fobonacci, para formar a solução. E foi.
+
+Passou de primeira.
+
+Não fiz em outras linguagens. Teste de domínio de Rust.
+
+1ms. Com a maioria e não houve após esse tempo. Houve 0ms.
+
+Memória, excelente e para poucos. Nesse nível, vi um código bem longo e
+complexo, mas excelente para estudar a linguagem.
+
+A maioria usava Fibonacci, de uma for ou de outra. Menos esse que igualava
+o meu em memória.
+
