@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 01/12/2021, que eu não consegui resolver (ou errado
+ou excedia o limite de tempo), mesmo tentando em outros momentos.
+
+Tentado novamente, apresentando erro e estouro de tempo, tive uma ideia de
+utilizar memoization. PASSOU! Finalmente, passou. E, até, bem.
+
+Poderia ter ficado mais ágil. Fica para outro momento.
+
+Em GoLang, para brincar.
+
+2ms. Mediano. Mas, os mais lentos ficaram em 3ms.
+
+Memória, no melhor dos patamares. A maioria acima disso.
+
+Apesar de estar bem prático com memoization, ainda preciso melhorar. Se tivesse
+pensado em um modo iterativo acumulativo, como vi o do 0ms, poderia ter sido
+mais rápido e sem memoization.
+
+Meu modelo utilizava recursividade, com uma função auxiliar, e um ponto no
+memoization para não percorrer novamente o que calculado já estivesse.
+
+Notei, nos códigos dos demais participantes, que eu analisei, que preferem
+criar uma função de máximo que utilizar a disponivel nas bibliotecas de Golang.
+
+Mas, achei meu código bonitinho.
+
