@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Tive uma intuição e segui.
+
+Apesar de envolver uma "memoization", tentei e fiz pelo celular. E, de quebra,
+ainda utilizei a própria matriz parâmetro, para poupar memória. Tou ficando
+bom nisso.
+
+Após uma bobeira por conta de um parâmetro uma subtração (digitei errado),
+passou.
+
+Porém, ainda tinha cometido uma segunda bobeira, que foi deixar um trecho de
+código para debug. Removi e repostei.
+
+Modelo 1 (C++): 103ms. Nem apareceu no gráfico. Memória, medianamente bom. Tinha
+o código para debug.
+
+Modelo 2 (C++): 22ms. Medianamente bom. Memória, quase excelente. Era o mesmo
+do modelo anterior, só que sem o trecho para debug.
+
+Não vi abaixo de 3ms. E olha que era um código com vários laços.
+
+Consierei meu código o mais bonito dos que vi.
+
