@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+A plataforma apresentava algumas soluções, que eu nem olhei.
+
+Algumas postagens dos demais participantes bem complexas. Considerei minhas
+postagens mais singelas. Inclusive, comparando com as da plataforma.
+
+Modelo 1 (GoLang): 14ms. Medianamente bom. Memória, mediana.
+
+Modelo 2 (GoLang): 12ms. Medianamente bom. Memória, mediana e igual ao anterior.
+
+Houve 0ms. 
+
+Todas as soluções que eu vi, incluindo as da plataforma, testavam para quando
+a quantidade era 1. Acho que esse valor atrapalhava mesmo.
+
