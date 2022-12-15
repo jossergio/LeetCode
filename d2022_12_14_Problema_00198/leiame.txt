@@ -26,3 +26,19 @@ criar uma função de máximo que utilizar a disponivel nas bibliotecas de Golan
 
 Mas, achei meu código bonitinho.
 
+===========================
+Em 15/12/2022, tinha ficado encucado para fazer em Rust. Alem disso, utilizar
+uma ideia que vi em uma das soluções que, ao invés de utilizar uma memorização,
+ía acumulando, conforme o melhor para cada etapa. De certo modo, uma forma
+de "memoization".
+
+Após um errinho, por uma questão de número em uma soma (bobeira), corrigi e
+passou.
+
+1ms. Ou era isso ou 0ms. Não houve acima disso. Mas, ainda acho que é por
+conta daquela questão do LeetCode..
+
+Memória, excelente. Houve um nível melhor, com pouquíssimos, e nem sei porque,
+pois utilizava um vetor a mais. O meu continuou utilizando, sombreando para
+tornar mutável, o próprio parãmetro da função.
+
