@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Tirando os detalhes que se tratava de criar uma classe, rapidinho.
+
+Em C++, para aproveitar as estruturas.
+
+Ainda pensei em fazer em Rust, para treinar.
+
+Também pensei em fazer em GoLang, para praticar classes. Mas, essa linguagem não
+tem bem as questões necessárias implementadas e só pensava formas mais simples.
+
+Talvez eu poste em outro momento nessas linguagens. Em Rust, para praticar mesmo
+e em GoLang para ver como os demais implementaram.
+
+4ms. Medianamente ruim.
+
+Memória, quase excelente.
+
+Utilizei situações para que somente uma das funções agregadas tivesse
+complexidade, em O(n), e as demais em O(1).
+
+Na verdade, O(n) é em termos, já que ficou O(2n).
+
+O de 0ms era bem parecido com o meu. Porém, de forma geral utilizava mais
+memória e tinha mais de uma função em O(n). Outros, tinham um código meio feio.
+
+Nas soluções, havia uma ideia bem interessante.
+
+Talvez eu também volte a implemetar isso em outro momento.
+
