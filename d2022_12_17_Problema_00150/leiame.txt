@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+Não foi rapidinho por conta de algumas chatices de código, apesar de eu ter
+refletido, e não ter conseguido, imaginar uma forma mais prática. Ou seja:
+eu já sabia que, ao final, seria um código chato, quase repetitivo.
+
+Só não passou de primeira porque a pegadinha dessa questao era: long int. O
+cálculo, apesar de números pequenos, poderia produzir resultados intermediários
+nesse patamar.
+
+Após postar, analisando os códigos dos demais participantes, em especial o do
+0ms, vi uma forma de utilizar funções de modo genérico (ponteiro para). Resolvi
+estudar essa técnica e, em seguida, postar o meu próprio. Assim, pude
+implementar a ideia de um código mais enxuto. Mesmo assim, com questões chatas
+e cheia de detalhes
+
+Modelo 1 (C++): 23ms. Mediano. Memória, mediana, mas com a maioria.
+
+Modelo 2 (C++): 10ms. Excelente. Memória, igual ao anterior.
+
+Apesar de ter havido 0ms, a grande concentração era acima de 7ms. E havia alguns
+códigos bem feios. E tudo abaixo de 50ms.
+
+No geral, a ideia era a mesma: uma pilha para os operandos. E grande parte era
+bem similar ao meu primeiro modelo.
+
