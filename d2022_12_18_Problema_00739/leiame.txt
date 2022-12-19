@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 13/11/2021. Só fiz repostar.
+
+Ainda pensei em compor alguma ideia, com um melhor dinamismo e, talvez, uma
+memorização. Mas desisti. Mesmo posteriormente.
+
+Ficou com tempo pior. E a memória, também.
+
+Em GoLang.
+
+3869ms. Horrível.
+
+Memória, excelente. Ainda.
+
+O gráfico foi, até, benevolete, indo até um pouco mais de 4000ms. Não vi abaixo
+de 139ms. A grande maioria era abaixo de 470ms.
+
