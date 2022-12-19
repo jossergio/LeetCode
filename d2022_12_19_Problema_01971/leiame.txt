@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+A plataforma apresentava algumas soluções, que eu nem olhei.
+
+Após um errinho bobo, de uma quase pegadinha, bobeira mesmo, produziu um
+excedente de limite de tempo. Eu considerei que precisaria restaurar os caminhos
+para desconsiderar o passado. Vi que a memorização podereia a ajudar, tirei
+a linha de resturação do andamento e passou. Tipo: ao atingir uma posição e ver
+que não haveria resposta por ali, não atentei que se viesse por outro caminho
+era melhor já ficar a indicação de que por ali não tinha caminho.
+
+Após postar, vi que alguns detalhes que eu imaginei estavam nas soluções
+apresentadas pela plataforma, sendo uma delas bem parecida com a minha.
+
+Utilizei recursividade, no primeiro modelo, em uma ideia de busca em
+profundidade.
+
+Após postar, vi que uma das ideias da plataforma envolvia iteratividade e um
+modelo baseado em busca em largura, talvez mais eficiente para a proposta.
+
+Mesmo assim, ainda desejei criar uma busca em largura modificando minha primeira
+ideia. Ficou, até, bem melhor, apesar de uma possibilidade de repetir um laço
+(um laço para uma atividade e o mesmo laço, apesar de um filtro, semelhante,
+logo em seguida, para uma segunda atividade).
+
+Modelo 1 (C++): 1771ms. Bem ruim. Memória, bem ruim.
+
+Modelo 2 (C++): 1447ms. Medianamente ruim. Memória, mediana.
+
+Modelo 3 (C++): 720ms. Quase excelente. Memória, mediana. Um pouco pior que o
+anterior.
+
+O gráfico ía até um pouco mais de 2000ms.
+
+Não vi abaixo de 366ms.
+
+No geral, ficou bem espalhado, sem grandes concentrações.
+
