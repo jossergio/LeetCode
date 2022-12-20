@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Fiz uma tentativa pelo celular, com uma ideia meio boba, que não passou.
+
+Em seguida, melhorei a ideia mas fui para o computador. Ao final, fiz três
+modelos, para brincar com sintaxe, fazer testes etc.
+
+Em Python, para proveitar estruturas da linguagem.
+
+Ainda pensei em fazer em uma ou outra linguagem. Mas, aumentaria a programação.
+
+Modelo 1 (Python 3): 167ms. Ruim. Memória, quase excelente.
+
+Modelo 2 (Python 3): 158ms. Medianamente ruim. Memória, igual ao anterior.
+
+Modelo 3 (Python 3): 148ms. Mediano. Memória, um pouquinho melhor, mas ainda
+quase excelente.
+
+No geral, utilizavam uma mesma ideia, só alternando aplicação de recursos da
+linguagem, e bem parecido com a idema da plataforma. Uma fila/pilha que vai
+memorizando por onde passa.
+
+No modelos 1 e 2 ainda havia uma tentativa de checar se já tinha atingido o
+final memo sem ter percorrido toda a estrutura.
+
+Não vi abaixo de 52ms. Os tempos ficaram bem espalhados, com o gráfico indo até
+pouco mais de 200ms, com duas grandes concentrações em torno de 70ms e de
+155ms.
+
