@@ -1,0 +1,33 @@
+Direto no LeetCode. Algumas vezes, pelo celular. Ao final, pelo computador.
+
+Achava que seria simples. Porém, detalhes e muito tempo excedido, passou. Muito
+trabalho e muitas versões.
+
+Após alguns dias sem postar, pela complexidade dos desafios diários, resolvi
+postar esse como avulso. Só consegui no dia seguinte, de pois de meditar um
+pouco e mais alguns tempos excedidos.
+
+Após postar, vi algumas ideias para "abortar" antes de varrer tudo, por
+situações que não permitiriam, a partir daquele ponto, uma solução. Então,
+fiz um segundo modelo.
+
+Em princípio, O(n.log(n)), mas, há condições de término antecipado.
+
+Escolhi esse pela sequência, dos desafios de ordem baixa que ainda faltavam.
+
+Modelo 1 (Python 3): 2608ms. Medianamente ruim. Memória, horrível. Utilizava
+uma maneira de aglutinar dois laços, evitando O(n^3), que produzia o timeout.
+
+Modelo 2 (Python 3): medianamente quase excelente. Memória, igual ao anterior.
+Tinha condição de chegar situação que não levaria mais a uma resposta, para
+abortar o laço primário.
+
+O gráfico ía até pouco mais de 8000ms. Ou seja, a plataforma sabia que era
+um desafio chato.
+
+Não vi abaixo de 232ms.
+
+Alguns modelos eram de codificação bem feia. E outros até bonitinhos.
+
+No geral, ideias similares.
+
