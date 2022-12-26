@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Após um estouro de tempo, modifiquei, um pouco, a forma e... outro estouto de
+tempo.
+
+Após isso, notei que um avariável que deveria receber por referência estava
+recebendo por valor. Além de utilizar muita memória, pois era recursivo, a ideia
+não deveria ser essa, pois, por utilizar uma técnica de memorização, testes
+obtidos no "futuro" deveriam não mais ser tratados. E não era isso o que acabava
+acontecendo, por a variável voltar ao seu estado anterior, acabava repetindo
+testes.
+
+Assim, corrigi e, também, corrigi no primeiro teste, que passou a ser o segundo
+modelo.
+
+Ainda pensei em fazer uma forma iterativa, por pilha (stack). Mas, fica para
+uma outra oportunidade.
+
+Modelo 1 (C++): 215ms. Medianamente ruim. Memória, medianamente ruim, após
+um grande agrupamento.
+
+Modelo 2 (C++): 468ms. Ainda medianamente ruim. Memória, igual ao anterior. Esse
+seria o modelo 1, e talvez o único, caso não tivesse o erro na variável de
+memorização (referência x valor).
+
+Poderia ter poupado memória. Após postar, vi que poderia ter utilizado o mesmo
+vetor de entrada para a memorização de soluções.
+
+Fica para uma outra implementação.
+
