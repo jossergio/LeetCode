@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Após um errinho, por não atentar para um detalhe da questão, corrigi e passou.
+
+Em C++.
+
+159ms. Horrível.
+
+Memória, muito ruim. Nem apareceria no gráfico. Usei tanta memória que teria que
+multiplicar (ou dividir) por 10 para chegar a aparecer.
+
+Não vi abaixo de 7ms.
+
+Os que eu vi baseavam-se na ideia de, inicialmente, ordenar.
+
+Verificadas as soluções da plataforma, notei que muitos as seguiram.
+
+Tempos bem espalhados.
+
