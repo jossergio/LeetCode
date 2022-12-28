@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Inicialmente, tive uma ideia, que seria uma excelente solução. Após postar, vi
+que a ideia básica era a que eu tinha imaginado.
+
+Após uma falha, por não prestar atenção que ao modo de ordenar, passou.
+
+Peguei o embalo e fiz mais dois modelos, para comparar e brincar com a sintaxe
+de Python e seus recursos.
+
+Modelo 1 (Python 3): 974ms. Quase excelente. Memória, medianamente bom.
+
+Modelo 2 (Python 3): 977ms. Quase excelente. Memória, medianamente ruim.
+
+Modelo 3 (Python 3): 904ms. Excelente. Memória, mediana.
+
+Basicamente, os modelo só alternavam a abordagem. O modelo 1 ainda fazia
+um laço adicional para filtro.
+
+Não vi abaixo de 876ms. O gráfico ia até um pouco acima de 3000ms. Ficou bem
+espalhado, com uma grande concentração em 1000ms e outras pequenas acima de
+2000ms e abaixo de 2700ms.
+
+Memória, ficou com uma grande concentração no entorno onde os meus estavam.
+
