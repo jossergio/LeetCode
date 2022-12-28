@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Eu imaginava que poderia produzir excesso de tempo. Então, iniciei tendo uma
+ideixa de otimivar a busca, de forma a evitar estourar o tempo.
+
+Nos testes simples, passou. Porém, produziu erro na basteria de testes da
+plataforma.
+
+Tive, então, uma outra ideia: utilizar heap. Isso é equivalente à minha ideia
+inicial, só que não precisaria ficar fazendo ajustes. Inclusive, esses ajustes
+não foram ideais e produziram o erro.
+
+Em C++, para aproveitar as estruturas. Poderia ter sido em Python.
+
+Modelo 1 (C++): 502ms. Excelente. Memória, excelente e bem isolado, em meio a
+poucos. A maioria foi bem acima, com duas grandes concentrações.
+
+Modelo 2 (C++): 556ms. Ainda excelente. Memória, bem excelente (melhor que o
+anterior). Foi igual ao modelo anterior, só que uma variável era definida
+em um bloco de um laço, enquanto o anterior era fora. Para ver questões de
+otimização.
+
+Modelo 2 (C++): 527ms. Excelente. Memória, medianamente boa. Utilizava uma
+outra estrutura para heap de C++ e contava dentro do próprio laço. Os demais,
+faziam uma soma ao final para ver o resultado. Isso foi necessário por questões
+da própria estrutura utilizada.
+
+Não vi abaixo de 172ms. Poucos abaixo de 500ms e a grande maioria era acima
+disso, com o gráfico indo até um pouco acima de 1300ms.
+
