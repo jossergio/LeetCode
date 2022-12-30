@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+O mesmo problema do dia 28/11/2021. Só fiz repostar. Estava com preguiça e
+ainda encucado com o problema do dia anterior, que estava me dedicando um
+pouco, tentando ver uma forma. Então, não quiz raciocinar.
+
+Em GoLang.
+
+6ms. Excelente. E melhor que a postagem anterior.
+
+Memória, igual ao modelo anterior, mediano.
+
+Não vi abaixo de 3ms.
+
