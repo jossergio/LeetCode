@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Inicialmente, tive problemas com os índices da matriz, não conseguindo
+raciocinar direito com eles. Após meditar, passou, de primeira.
+
+Ache, até, que haveria pegadinha para estourar o tempo. Mas, foi, até, razoável.
+
+Em C++.
+
+2ms. Quase excelente. Houve bem piores, concentrados até por volta dos 20ms e
+espalhados até acima de 250ms.
+
+Memória, excelente. Mas, poderia ter sido melhor.
+
+Utilizei recursividade, com a própria matriz sendo utilizada para memorizar
+caminhos por onde já tinha passado.
+
