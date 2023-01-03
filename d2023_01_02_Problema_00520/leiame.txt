@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Era o mesmo problema do dia 24/01/2021. Então, peguei o de menor tempo e
+repostei.
+
+Melhorou um pouquinho. Inclusive, memória.
+
+Após postar, vi uma ideia interessante, que evitava a possibilidade de dupla
+checagem, com uma checage única. Fiz um modelo baseado nesse. Após alguns
+erros, passou. Piorou um pouquinho o tempo, mas melhorou a memória.
+
+Modelo 1 (Python 3): 31ms. Excelente. Memória, mediana.
+
+Modelo 2 (Python 3): 35ms. Quase excelente. Memória, excelente.
+
+Não vi abaixo de 19ms, apesar de a concentração se iniciar em 23ms.
+
