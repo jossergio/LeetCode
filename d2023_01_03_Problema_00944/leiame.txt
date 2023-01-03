@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Rapitinho. Passou de primeira.
+
+A plataforma apresentava uma solução que, ao final, vi que era idêntica à
+minha solução.
+
+Em Python.
+
+633ms. Ruim.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 74ms, em um gráfico que ía até pouco acima de 900ms.
+
+Alguns códigos utilizando recursos Python de forma bem interessante. Outros,
+apesar de melhores, similares ao meu.
+
+Meu modelo utilizava dois laços, agregados. Alguns utilizavam um laço, apesar
+de fazer ordenação embutida, ou seja, outro laço.
+
+Eu tinha pensado nessa ideia, mas, deixei de lado por achar que não valeria
+a pena. Vê que o LeetCode não é bom comparação de tempo.
+
