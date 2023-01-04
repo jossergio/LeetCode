@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Inicialmente, tive uma ideia: um modelo matemático, realizando uma iteração em
+uma contagem e aplicando certas regras.
+
+Passou de primeira. Posso dizer que fiz rapidinho.
+
+Minha solução era bem parecida com a solução da plataforma. Pelo menos, em
+ideia. A diferença é que eu considerava um resto de cálculo e aplicava uma
+condição, enquanto eles aplicavam a condição para fazer o cálculo.
+
+Em Python, para aproveitar recursos da linguagem. E diminuir o código.
+
+Após postar, fiz um segundo modelo só para diminuir uma linha no código. Coisas
+de Python.
+
+Modelo 1 (Python 3): 1705ms. Mediano. Memória, medianamente bom.
+
+Modelo 2 (Python 3): 2295ms. Ainda mediano, mas, quase medianamente ruim.
+Memória, excelente. Não entendi essa diferença. Era o mesmo código anterior,
+sá aglutinando duas linha em uma.
+
+Não vi abaixo de 901ms. O gráfico ía até pouco mais de 3000ms.
+
+Ficou bem espalhado, com uma grande concentração em torno de 1000ms.
+
+Vi uns códigos bem feios. Outros, bem elegantes.
+
