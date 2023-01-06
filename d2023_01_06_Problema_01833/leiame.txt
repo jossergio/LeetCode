@@ -1,0 +1,40 @@
+Direto no LeetCode.
+
+Rapidinho. Bem rapidinho, mesmo.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Só não passou de primeira porque houve um erro em tempo de excução, por não
+atentar a um operador. E olha que joguei todos os três exemplos que a plataforma
+apresentava na própria descrição do problema. Bobeira grande.
+
+Após postar, vi que minha solução era bem idêntica à primeira da plataforma.
+
+A segunda solução era mais complexa e não sei em que melhoraria. Só crescia o
+código, na minha opinião.
+
+Também após postar, vi uma abordagem que, apesar de ser similar, também tinha
+uma singeleza. Então, fiz meu próprio modelo, ajustando.
+
+Após uma resposta errada (maior é diferente de maior ou igual, oras!), passou.
+
+Resolvi, ainda, quebrar a cabeça. Então, fiz um terceiro modelo, baseado, um
+pouco, na segunda solução da plataforma e em postagens dos demais participantes
+tentando melhorar, um pouco, especialmente quanto ao uso da memória.
+
+Foi bem útil, inclusive, pois quebrei, um pouco, a cabeça, tanto com a sintaxe
+e algumas estruturas de C++, quanto com o problema em si.
+
+Modelo 1 (C++): 400ms. Medianamente ruim. Memória, medianamente boa.
+
+Modelo 2 (C++): 237ms. Mediano. Memória, um pouquinho melhor que o anterior,
+mas ainda medianamente boa.
+
+Modelo 3 (C++): 522ms. Bem horrível. Memória, nem apareceu no gráfico. Utilizava
+um mapa, para manter um agrupamento de contagem. De quebra, mapas comuns em C++
+já são ordenados. Porém, quebrei a cabeça achando que melhoraria e ficou muito,
+mas muito mesmo, pior. Mas, serviu para estudar C++ e rachar a cuca.
+
+O gráfico ía até pouco mais de 500ms, havendo uma grande concentração em torno
+de 200ms. Não vi abaixo de 131ms, bem idêntico à 2a solução da plataforma.
+
