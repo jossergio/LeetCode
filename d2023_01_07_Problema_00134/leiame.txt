@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Era o mesmo desafio do dia 21/01/2022.
+
+Porém, resolvi partir do zero, esperando melhorar o desempenho do cógido.
+
+Não ficou bom.
+
+Após erros e um excesso de tempo, passou.
+
+Em C++.
+
+2360ms. Nem apareceu no gráfico, que ía até um pouco acima de 260ms.
+
+Memória, horrível.
+
+Não vi abaixo, isolado, de 55ms. Porém, a grande maioria era acima de 63ms, com
+uma grande concentração no entorno de 90ms.
+
+Vi alguns códigos complexos e outros simples. Alguns tão simples que aparentam
+se basear em alguma lógica de probabilidade.
+
+Acho que um bom desempenho da maioria era, de cara, ver a possibilidade, por
+soma, de haver resposta.
+
