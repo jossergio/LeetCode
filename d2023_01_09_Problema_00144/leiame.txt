@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava soluções, que eu nem olhei.
+
+Utilizei um modelo recursivo. Esse modelo, tirando a forma de implementação,
+era bem similar ao primeiro modelo das soluções da plataforma.
+
+Após postar, e vendo as soluções tanto da plataforma quando de outros
+participantes, resolivi brincar e testar outras formas, incluindo uma baseada
+na segunda ideia da plataforma.
+
+Modelo 1 (C++): 3ms. Mediano. Memória, horrível. Utilizava recursividade, com
+uma alocação para utilizar a pŕopria função do problema.
+
+Modelo 2 (C++): 6ms. Medianamente ruim. Memória, excelente. Igual ao anterior,
+mas tirava uma ideia de preencher e juntar, com uma função auxiliar para não
+precisar acumular antes de retornar a resposta.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Modelo
+iterativo, utilizando uma pilha para isso.
+
+Gráfico até 16ms. Não vi acima de 7ms, nas soluções postadas.
+
