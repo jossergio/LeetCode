@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, com uns cálculos matemáticos, até,
+intuitivos, mas que eu não pesei da mesma forma, apesar de a ideia básica ser a
+mesma.
+
+Após um erro, por uma desatenção nas possibilidades do problema, já que envolvia
+uma ideia matemática, passou.
+
+Em Python 3.
+
+98ms. Medianamente bom. Memória, medianamente boa.
+
+Não vi abaixo de de 43ms. O gráfico ía até mais de 3000ms, com grande
+concentração entre 50ms e 130ms. Após 200ms, bem homogêneo quase na linha da
+base.
+
