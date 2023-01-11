@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema que eu tinha postado, de forma avulsa, em 19/02/2022. Só
+fiz repostar. Tava com preguiça, sem tempo ou qualquer outra desculpa.
+
+A plataforma apresentava duas soluções, uma recursiva, como a minha ideia, e
+outra iterativa, com fila.
+
+Em GoLang, como na postagem já resolvida.
+
+2ms. Mediano. Piorou. LeetCode. O original era 0ms. Mesmo código, só repostado.
+
+Memória, igual ao anterior. Não compreendi o gráfico, mas, considero excelente.
+
+Não vi acima de 3ms. O gráfico ía até 12ms.
+
