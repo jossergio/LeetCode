@@ -1,0 +1,40 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução que, inicialmente, nem olhei.
+
+Tentei dois modelos baseados em memorização. Ambos estouraram o tempo.
+
+Então, decidi olhar a solução da plataforma. Vi que utilizava uma abordagem
+matemática, com uma tese bem complexa, que a plataforma demonstrava. Porém,
+sozinho, eu nem faria ideia.
+
+Mas, decidi postar, transcrevendo, por dois motivos: a) há alguns dias, apesar
+de a plataforma me apresentar soluções para os desafios do dia, não vinha
+postando nada, apesar de entrar na plataforma, analisar, tentar ter ideias e,
+inclusive, postar algumas tentativas em alguns casos; b) aprender e pontuar;
+deixar de ser bobo.
+
+Muitos também copiaram. Alguns no ctrl c v puro.
+
+Depois de postar, decidi brincar com GoLang. Depois, vou ver Rust.
+
+Modelo 1 (C++): estourou o tempo. Aborgadem de memorização
+
+Modelo 2 (C++): estourou o tempo. Abordagem, um pouco diferente, de memorização.
+
+Modelo 3 (C++): 52ms. Quase excelente. Memória, mediana. Utilizava mapa não
+ordenado, para registrar valores.
+
+Modelo 4 (GoLang): 53ms. Não tenho como afirmar a posição, pois o mapa não me
+apresento um percentual. Mas, estava nos melhores. Memória, excelente.
+Basicamente, a tradução de modelo 3.
+
+Modelo 5 (GoLang): 41ms. Um dos melhores. Memória, medianamente bom. Utilizava
+um vetor, já definido no início, em vez de mapa.
+
+Em C++, não vi abaixo de 25ms e o gráfico ía até pouco mais de 200ms, bem
+espalhado, mas com boa concentraçãoentre 40 e 80ms.
+
+Em GoLang, poucas postagens. Não vi abaixo de 35ms e o gráfico ía até pouco
+mais de 100ms.
+
