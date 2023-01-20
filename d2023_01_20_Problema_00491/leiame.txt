@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu tive que olhar, mas embasei a
+minha própria.
+
+Uma das respostas utilizava força bruta e, inclusive, explicava que as
+limitações discutidas no problema permitiriam isso, pela baixa quantidade
+de entradas.
+
+A outra era baseada num princípio matemático, porém, mantinha sequencia
+similar. Ou seja, poderia ser, até, mais ágil. Porém, bem mais complicado.
+
+Meu raciocínio direciona para força bruta e para recursão. Então, fiz
+baseado na primeira solução da plataforma, apesar de não utilizar a mesma
+sintaxe e estruturação.
+
+Outro fato foi a introdução que fiz a funções embutidas em C++. Não utilizei,
+mas o primeiro modelo da plataforma utilizava. Então, resolvi estudar para
+testar em outros momentos.
+
+Só fiz um modelo, mesmo.
+
+Em C++.
+
+74ms. Medianamente bom.
+
+Memória, também medianamente bom.
+
+Não vi abaixo de 22ms. O gráfico ía até pouco mais de 550ms. Porém, a
+concentração era entre abaixo de 16ms.
+
