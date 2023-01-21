@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Tive uma abordagem recursiva. Passou de primeira.
+
+Após postar, vi que a primeira solução da plataforma também era baseada em uma
+forma recursiva, mas considero a minha mais estruturada.
+
+Também após postar, tive a ideia de utilizar a função auxiliar no formato
+embutido, para estudar. Melhorou o tempo.
+
+Vi que a segunda solução da plataforma tinha um conceito iterativo, que eu
+também tinha imaginado antes de postar o primeiro, mas, a condição recursiva
+me é mais prática.
+
+Realmente, tive um bom trabalho para formar o raciocínio para uma abordagem
+interativa. Depois de penar um bocado, passou.
+
+Todas passaram sem erros.
+
+Modelo 1 (C++): 6ms. Ruim. Memória, mediana. Recursivo.
+
+Modelo 2 (C++): 3ms. Medianamente bom. Memória, medianamente ruim. Recursivo,
+mas a função auxiliar era no próprio corpo da principal.
+
+Modelo 3 (C++): 4ms. Mediano. Memória, medianamente boa. Abordagem interativa.
+Interessante é que quantidade de memória indicada era a mesma de 1. Talvez,
+questões de arredondamento.
+
+O de 0ms era um código recursivo e bem complexo. Coisas do LeetCode.
+
+Não vi acima de 18ms.
+
