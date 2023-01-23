@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 03/01/2022. Apesar de pensar em repostar, decidi
+ver se poderia melhorar a abordagem. Analisando as soluções de outros
+participantes, tive uma ideia e fiz o meu, bem baseado nessas ideias.
+
+Após um erro, por não ter prestado atenção em uma condição que minha própria
+postagem anterior previa, mas, nessa nova, negligenciei, passou.
+
+Em C++, como na postagem anterior.
+
+203ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+E olha que na postagem anterior eu utilizava dois vetores, contra somente um
+nessa nova, além de mais variáveis auxiliares, além do próprio código fonte
+ser menor que o anterior.
+
+Não vi abaixo de 139ms. Mas as concentrações começavam após 152ms. O gráfico
+ía até perto de 600ms.
+
