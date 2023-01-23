@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+O problema do dia me pareceu meio cheio de firulas e resolvi não tentar.
+
+Passou de primeira.
+
+Após postar, decidi fazer uma nova abordagem. Depois de alguns erros, por não
+interpretar direito uma situação na questão, além de também não atentar que
+estava testando uma variável duas vezes no lugar de fazer um teste com uma
+segunda variável, passou.
+
+A primeira abordagem utilizava uma função embutida. Fiz para praticar.
+
+A segunda foi baseada em ideia que vi em postagens dos demais, onde se
+aproveitava a própria função para uma recursividade. Mas, fiz ao meu modo.
+
+Modelo 1 (C++): 591ms. Horrível. Memória, nem apareceu no gráfico. Recursividade
+em função embutida.
+
+Modelo 2 (C++): 658ms. Nem apareceu no gráfico. Memória, medianamente ruim.
+Utilizava a própria função do problema para recursão.
+
+Não vi abaixo de 133ms, utilizando recursos avançados de entrada de dados. Mas
+a grande concentraçao principiava por volta de 250ms, com o ápice por volta de
+280ms. O gráfico ía até pouco mais de 600ms.
+
+Posso dizer que as postagens dos demais utilizavam a mesma do meu segundo
+modelo. Vai entender o LeetCode.
+
