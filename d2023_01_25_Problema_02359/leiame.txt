@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu só olhei por uma pequena questão.
+
+Após penar um bastante por um detalhe de interepretação do problema, que estava
+em sua estrutura correto, mas em alguns testes não passou, olhei para ver se
+conseguia interpretar melhor. E consegui. Questão de montagem de um condicional.
+
+A questão envolvia uns máximos de mínimos, que não me inteirei direito dessa
+ordem, apesar de passar bem perto já na primeira postagem. Interpretado a
+condição que deveria ser utilizada, passou, após dois erros.
+
+A segunda solução da plataforma era bem parecida com a minha. Não olhei antes
+de ter a ideia. Olhei, após um bom tempo, por conta da falha de interpretação
+do pequeno detalhe que eu não conseguia chegar a uma conclusão.
+
+Em C++.
+
+175ms. Posso dizer excelente.
+
+Memória, mediana. Mas, sei que devo ter utilizado menos memória que a solução
+da plataforma que o meu era similar, pois eu reutilizava um vetor.
+
+Não vi abaixo de 147ms. O gráfico ía até pouco mais de 1100ms. A grande
+concentração era no entorno de onde fiquei.
+
