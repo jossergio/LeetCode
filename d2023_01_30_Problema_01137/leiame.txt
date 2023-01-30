@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 24/09/2021. Mas, decidi fazer uma abordagem
+diferente, no lugar de simplesmente postar novamente um dos modelos.
+
+Mantive a linguagem, GoLang.
+
+Utilizei uma técnica de memorização, para ir gerando valores conforme demanda e
+evitar recálculos.
+
+A memória melhorou.
+
+0ms. Melhor, impossível.
+
+Memoria, excelente. E melhorou um pouquinho em relação às postagens anteriores.
+Poucos nesse patamar.
+
