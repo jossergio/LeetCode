@@ -1,0 +1,42 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, passou.
+
+Era bem intuitiva a ideia da solução do problema. Porém, na implementação,
+alguns detalhes faziam penar.
+
+Em Python, para aproveitar a estrutura e os recursos da linguagem.
+
+Após postar, decidi utilizar variáveis para guardar valores que seriam
+reutilizados e fiz o segundo modelo.
+
+Após postar e analisar as soluções da plataforma, notei que o meu era diferente
+de ambas, apesar de se parecer, um pouco, com a primeira.
+
+Então, decidi criar meu próprio modelo baseado na segunda solução da plataforma,
+que envolvia um princípio bem interessante e uma questão mais da matemática.
+
+Modelo 1 (Python 3): 38ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 39ms. Mediano. Memória, melhroou um pouquinho e ficou
+medianamente bom. Diferenciava do modelo anterior só por utilizar variáveis a
+mais para conter valores e não ficar fazendo chamadas a funções só para checar
+esses valores. Mesmo assim, melhorou o uso da memória.
+
+Modelo 3: (Python 3): 33ms. Medianamente bom. Memória, igual ao modelo 2.
+Utilizava a ideia da segunda solução da plataforma.
+
+Não vi abaixo de 19ms. E era praticamente idêntico ao meu modelo 3. Não vi
+acima de 109ms. Alguns códigos bem diferentes, apesar de as ideias serem
+basicamente as mesmas.
+
+Ainda pensei em fazer uma implementação em C++. Mas, desisti.
+
+A plataforma apresentava suas soluções em Python 3, C++ e Java. Mas, não tive
+ideias para melhorar a implementação da plataforma. Especialmente da ideia 1 ou
+da minha própria do modelo inicial.
+
+Era, basicamente, para utilizar uma função de forma interna, bloco.
+
