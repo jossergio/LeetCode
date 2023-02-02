@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que foi bem parecida com minha ideia,
+apesar de uma estruturação um pouco diferente em termos de implementação, como
+utilizar um vetor (eu usei um mapa) e fazer tudo dentro de um laço (eu usei
+uma função, para auxiliar o laço).
+
+De início, tive a ideia, e implementei, de testar funções de bloco no C++.
+
+Não fiz outro modelo. Nem para comparação.
+
+Em C++.
+
+7ms. Mediano.
+
+Memória, mediana.
+
+O 0ms era um código bem amador. Muitos eram assim. Mesmo algums com menor tempo.
+Vi alguns bem parecidos com o meu, só que utilziando função normal; e com tempo
+melhor.
+
+Não vi acima de 18ms.
+
