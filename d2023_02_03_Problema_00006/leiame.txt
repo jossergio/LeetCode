@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Era o mesmo problema que eu resolvi, de modo avulso, no dia 15/12/2022. Só fiz
+repostar o modelo que considerei mais elegante e que nem era o mais rápido.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Em GoLang.
+
+3ms. Excelente. Bem mais rápido que o modelo mais rápido da vez anterior.
+
+Memória, mediana.
+
+Houve 0ms, com um código que eu considero feio.
+
