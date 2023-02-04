@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 11/02/2022. Mas, decidi fazer uma abordagem melhor.
+
+A plataforma apresentava seis soluções.
+
+Tive uma ideia inicial e olhei as soluções para ver se alguma seria semelhante.
+
+Mas, fiz com meus próprios recursos.
+
+Utilizei a ideia de janela com uma estrutura auxiliar de dicionários.
+
+Em Python, igual à anterior, para aproveitar facilidades da linguagem. Mas,
+poderia ter sido em outra linguagem, pela forma que implementei.
+
+Após postar, olhando os modelos dos demais participantes, sendo uma delas bem
+semalhante a minha postagem anterior, decidi adaptar, formando um modelo
+diferente, sem ordenação mas com situação para um laço interno em uma iteração
+de chamada de função. Ficou razoável e de código menor.
+
+Modelo 1 (Python 3): 50ms. Excelente. Memória, Ruim.
+
+Modelo 2 (Python 3): 1398ms. Ruim. Memória, excelente.
+
+Não vi abaixo de 41ms. O gráfico ía até quase 8000ms. Bem generoso.
+
+A grande concentração era abaixo de 200ms.
+
