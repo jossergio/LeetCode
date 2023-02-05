@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 02/02/2022, que eu não tinha conseguido concluir.
+Ou apresentava erro ou estourava o tempo. As tentativas foram em GoLang.
+
+Era bem similar ao dia anterior, 04/02/2023. Com pequenos ajustes, passou de
+primeira. Por isso, rapidinho. Bem rapidinho, mesmo.
+
+Em Ptyhon, para aproveitar estruturas.
+
+7635ms. Horrível de feio de péssimo.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 85ms, na região onde havia grande concentração abaixo de 200ms,
+uma segunda em torno de 350ms, depois bem espalhado e uma boa concentração de
+espalhamento na região meu código ficou.
+
+O gráfico era bem generoso, indo até pouco mais de 8000ms. Porém, pela
+semelhança com o código anterior, não entendi o porquê de ficar nessa região.
+
+Meu código, pelo menos, era pequeno. Até similar com os da região acima de
+7000ms. Os mais rápicos eram grandinho e faziam, de uma forma ou de outra,
+o mesmo trabalho.
+
