@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia de fazer com memorização. Ficou lento. Muito lento. Achava,
+inclusive, quando submeti, que iria disparar estouro de tempo.
+
+Após postar, vi modelos interessantes, que utilizavam uma ideia matemática de
+janela deslizante, tentando chegar ao final logo.
+
+Então, resolvi tentar fazer o meu, com o que me lembrava e aplicando meu modo
+de programar. Ficou bem mais rápido. Mas, essa ideia não me é muito intuitiva,
+para o meu modo de pensar. Tenho que incorporar.
+
+O modelo da plataforma era um pouco similar, mas o laço era bem mais simples,
+para esse caso.
+
+Poderia ter sido implementado em qualquer linguagem que eu domino. Mas, fiz
+em Python, para embelezar o uso de funções de mínimos em lista.
+
+Modelo 1 (Python 3): 9743ms. Muito lento. Memória, horrível de triste. Utilizava
+memorização.
+
+Modelo 2 (Python 3): 124ms. Excelente. Memória, mediana. Mas, dentro da
+concentração. Não entendo a plataforma. Modelos de memória melhor utilizavam
+uma lista estática para trabalhar. Modelos de memória pior eram variáveis
+simples e com implementação também bem simples.
+
+Não vi abaixo de 113ms. O gráfico era bem generoso, indo, até, pouco mais de
+13000ms.
+
+Ou seja: a plataforma sabia que seria bem complexo. E, também, estava preparado
+para modelos com memorização que, em casos como esse, ficariam lentos. Os
+modelos matemáticos seriam mais ideais aos seus testes.
+
