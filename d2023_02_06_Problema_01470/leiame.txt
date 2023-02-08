@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Fiz seguindo minha intuição, de um modo bem simples, utilizando um vetor
+auxiliar.
+
+Passou de primeira.
+
+Após postar, tive a ideia de fazer com chaves e utilizando direto o próprio
+vetor de entrada. Mas não saiu do pensamento. Nem tive noção de como iniciar.
+Talvez, com papel, saísse.
+
+Em C++.
+
+3ms. Excelente.
+
+Memória, nem apareceu no gráfico de tão horrível. Mas, a maioria já era chegando
+ao limite.
+
+Houve 0ms, com uma ideia bem parecida com a minha. Porém, eu utilizei push_back
+e esse já criava o vetor de resposta de tamanho definido e utilizava índices
+para atualizá-lo, de forma direta.
+
