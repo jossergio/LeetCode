@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma soluçao, que eu nem olhei.
+
+Em GoLang, para brincar e aproveitar estruturas da linguagem.
+
+Inicialmente, fiz um modelo bem complexo, que passou de primeira.
+
+E, seguida, fui tentar enxugar o código. Depois de alguns erros, passou. Mas
+ficou muito lento.
+
+Então, fiz mais algumas abordagens. Não melhorou em relação ao primeiro.
+
+Modelo 1 (GoLang): 28ms. Medianamente bom. Memória, mediano.
+
+Modelo 2 (GoLang): 469ms. Horrível. Memória, também horrível.
+
+Modelo 3 (GoLang): 27ms. Quase excelente. Memória, mediana.
+
+Modelo 4 (GoLang): 32ms. Mediano. Memória, mediana.
+
+Não vi abaixo de 18ms. O gráfico foi até generoso, indo acima de 1200ms.
+
+Todos os meus códigos ficaram extensos. A solução da plataforma tinha uma
+abordagem mais matemática, apesar de algumas de minhas ideias serem, até, na
+mesma linha. Porém, não na implementação.
+
