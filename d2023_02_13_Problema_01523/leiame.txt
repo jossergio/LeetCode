@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após um tempo excedido, por achar que um código de uma linha em Python, mas
+utilizando uma contagem para formar um um vetor com filtro, ou seja, laço, que
+poderia ser bem grande, seria prático, fiz um outro modelo com uma abordagem
+mais matemática.
+
+Copiei o primeiro modelo só por ilustração e por ter ficado "bonitinho".
+
+A solução da plataforma envolvia um modelo matemático. O meu ficou um pouco
+diferente, apesar de ser na mesma base.
+
+Modelo 1 (Python 3): excedeu o limite de tempo. Copiado só para ilustração.
+
+Modelo 2 (Python 3): 41ms. Horrível. Memória, mediana, mas já no final do
+gráfico.
+
+Não vi abaixo de 8ms. Porém, a grande parte era acima de 20ms. Todos com uma
+abordagem parecida. Vai entender o LeetCode.
+
