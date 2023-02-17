@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 14/02/2022. Mas, no lugar de repostar, decidi
+fazer uma nova abordagem. E em C++.
+
+Após postar, por considerar bem lento, e vendo as postagens dos demais, vi
+que fiz um código bem complexo. Então, fiz uma segunda postagem, com uma ideia
+mais simples que vi.
+
+Modelo 1 (C++): 16ms. Ruim. Memória, fora do gráfico, apesar de todos estarem
+no limite. Utilizava uma fila para varrer os níveis.
+
+Modelo 2 (C++): 7ms. Quase excelente. Memória, apareceu no fim do gráfico.
+Utilizava uma abordagem recursiva da própria função de testes.
+
+Houve 0ms. E o código do modelo 2 era bem parecido com ele. Vai entender o
+LeetCode.
+
