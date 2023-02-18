@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 26/10/2021. Só fiz repostar, por não ter muito o
+que fazer. Já estava ideal.
+
+Em C++, como a postagem antereior. Nem converti.
+
+0ms. Melhor, impossível. Igual à postagem anterior.
+
+Memória, quase excelente. Mas a ideia de não utilizar variável temporária,
+como as estruturas contidas em GoLang ou Python, foi bem tentadora para fazer
+uma tradução. Em C++, temos a função swap.
+
+Não houve acima de 8ms.
+
