@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Inicialmente, fiz uma abordagem bem complexa e redundante. Porém, após postar,
+vi uma ideia bem enxuta, apesar de eu não ter entendido bem a lógica. Mesmo
+assim, resolvi fazer baseada nessa ideia, com o que me lembrava e poderia
+utilizar.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, ruim. Tinha um código
+um pouco redundante mas bem funcional. Utilizava um deque (double ended queue)
+como estrutura base.
+
+Modelo 2 (C++): 9ms. Bem ruinzinho. Memória, medianamente boa. Achei que seria
+eficiente igual ao anterior. Utilizava uma lógica para definir a posição. Só
+não entendi o motivo do enfileiramento do próximo nível funcionar.
+
