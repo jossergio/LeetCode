@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+Era o mesmo problema do dia 20/11/2021. Porém, decidi fazer uma abordagem
+totalmente nova e em Python, para utilizar a "programação de uma linha".
+
+Ficou muito lento.
+
+Em Python 3.
+
+359ms. Muito lento.
+
+Memória, nem apareceu no gráfico.
+
+Utilizei estruturas de Counter e filtro, para chegar à resposta.
+
+Não vi abaixo de 148ms, que utilizava uma perfeita busca binária. Grande parte
+estava no entorno de 180ms, com estruturação de busca binária.
+
