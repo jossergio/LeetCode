@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 01/02/2022. Mas, decidi fazer uma nova abordagem.
+
+A primeira tentativa fiz em GoLang, igual à postagem anterior. Mas, estourou o
+tempo, em um algoritmo O(n . Log n), apesar de eu ter feito bem rapidinho.
+
+Aí, resolvi fazer uma abordagem O(n). Mas, mudei para C++, achando que haveria
+pois não precisaria de alguns detalhes de GoLang.
+
+Ficou um pouco parecido com a postagem anterior. Mas, diferente, um pouquinho.
+
+Após postar, vi que poderia ter poupado uma variável, analisando as postagens
+dos demais participantes. Então, decidi fazer minha abordagem nesse formato.
+Piorou o tempo um pouquinho.
+
+Em seguida, resolvi fazer uma postagem em GoLang, utilizando um padrão similar
+a essa segunda abordagem, só para haver um comparativo nessa linguagem com a
+postagem do dia 01/02/2022.
+
+Modelo 1 (C++): 133ms. Medianamente bom, quase excelente. Memória, excelente e
+com a maioria.
+
+Modelo 2 (C++): 136ms. Medianamente bom, mas dentro da concentração da maioria.
+Memória, excelente. Acho que melhor não poderia ter sido.
+
+Modelo 3 (GoLang): 125ms. Mediano. Memória, medianamente ruim. Acho que utilizar
+uma função, mesmo que inline, ajudou nesse consumo de memória e no desempenho
+relativamente ruim.
+
+Em C++, os que eram abaixo de 65ms, be destacado no gráfico, utilizavam a
+técnica de entrada direta por std.
+
