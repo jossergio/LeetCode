@@ -1,0 +1,41 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Fiz uma primeira ideia, que passou bonitinho, após um errinho, apesar de lento.
+
+Ao ver as postagens dos demais, vi que eles utilizavam tando strings como
+o índice (eu utilizei tuplas) como utilizavam funções embutidas (eu utilizei
+função membro).
+
+Então, resolvi fazer o meu com base na ideia de string, mas mantendo a ideia
+de função membro. Após um errinho, no mesmo ponto do anterior, passou.
+
+A velocidade melhorou. Porém, o consumo de memória, também.
+
+Depois disso, fiz mais dois modelos, para testar, cruzando função membro x
+tuplas como índices. 
+
+A segunda ideia da plataforma utiliza uma forma um pouco diferente ideia que
+utilizei com tuplas. Mas utiliza tuplas, de toda forma, só fazendo uma
+conversão para um índice-incremento, enquanto eu utilizava direto em um
+dicionário.
+
+Modelo 1 (Python 3): 152ms. Muito lento. Memória, muito excelente de top.
+Utilizava função membro e índice por tupla de forma direta.
+
+Modelo 2 (Python 3): 51ms. Medianamente bom. Memória, medianamente boa.
+Utilizava função membro e índice pela formação de uma string. Vi umas falhas,
+após postar, de detalhes meus. O erro na preliminar foi por conta da
+possibilidade de gerar, em uma leitura em-ordem, igual em estruturas de folhas
+diferentes. Passando a considerar a raíz como base, passou.
+
+Modelo 3 (Python 3): 59ms. Mediano. Memória, ainda medianamente boa. Utilizava
+uma função embutida e índices por string.
+
+Modelo 4 (Python 3): 158ms. Muito lento. Memória, excelente, mas não chegou
+tão bom quanto o modelo 1. Era o modelo com função embutida e índice por
+tuplas.
+
+Não vi abaixo de 30ms. O gráfico era, até, generoso, indo a pouco mais de 450ms.
+
