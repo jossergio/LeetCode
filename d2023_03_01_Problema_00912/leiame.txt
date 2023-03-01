@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma apresentava diversas soluções. De quebra, ainda mostrava um resumo
+sobre algoritmos populares de ordenação.
+
+Após alguns tempos excedidos e um erro, resolvi olhar as soluções da plataforma.
+
+Achava que a estrutura de minha ideia bateria com o limite que eles pediam.
+
+Então, fiz um algoritimo próprio meu, baseado em uma das soluções da plataforma,
+mas próximo do que eu poderia pensar.
+
+Em seguida, resolvi traduzir para GoLang, só para brincar.
+
+Modelo 1 (C++): 253ms. Mediano. Memória, medianamente ruim.
+
+Modelo 2 (GoLang): 150ms. Medianamente bom. Memória, mediana.
+
+Em C++, não vi abaixo de 79ms, utilizando aquela forma de entrada direta. Muitos
+com bom tempo utilizaram função de ordenamento embutida da linguagem. O gráfico
+era bem generoso, indo a pouco mais de 1500ms.
+
+Em GoLang, não vi abaixo de 96ms. O gráfico ía até quase 5000ms. Os concorrentes
+nessa linguagem aparentam serem mais honestos.
+
