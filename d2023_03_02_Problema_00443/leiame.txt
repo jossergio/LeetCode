@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Rapidinho. Mas, após dois errinhos por bobeira, um por não prestar atenção, pois
+eu já sabia que tinha a situação apresentada, e outro por utilizar uma variável
+quando deveria utilizar outra, passou.
+
+Em C++, pois poderia ser em qualquer uma. Não haveria vantagens.
+
+Após postar, resolvi ver a solução da plataforma. Então, fiz um modelo meu
+baseado nessa ideia, para treinar minha lógica de programação.
+
+Modelo 1 (C++): 10ms. Medianamente ruim. Memória, quase excelente e com a
+maioria. Utilizava, como o problema sugeria, um vetor auxiliar, que eu permutava
+com o original antes de retornar. A questão pedia para as modificações serem
+retornadas no vetor original. Também utilizava uma função para reduzir código e
+fazer refatoração.
+
+Modelo 2 (C++): 5ms. Medianamente bom. Memória, igual ao anterior. Não entendi
+o motivo, pois agia diretamente no vetor original. Além disso, era bem
+idêntico à solução da plataforma.
+
+Houve 0ms, utilizando vetor auxiliar, mas era bem similar ao modelo da
+plataforma. Porém, não permutava, limitando-se a atribuir a variável antes de
+retornar.
+
+No geral, os códigos lembravam muito a solução da plataforma. Tovadia,
+meio desorganizados. No geral, muitos códigos que eu vi eram desorganizados.
+
+Não houve acima de 13ms.
+
