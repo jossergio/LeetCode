@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava algumas soluções. Uma bem simples e as demais mais
+complexas, com nomes dos autores.
+
+O meu primeiro ficou quase parecido com o modelo simples da plataforma. Mas, o
+meu utilizava uma função interna, em algum momento.
+
+Depois de postar, vi que poderia fazer algo sem macetes de funções internas. Aí,
+fiz uma postagem nesse modelo, que ficou bem parecido com o modelo simples
+da plataforma.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, medianamente ruim, mas, com a
+maioria. Para evitar um controle de laço interno, utilizava uma função
+pré-definida da própria linguagem, o que considerei uma trapaça.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, medianamente ruim, similar ao
+modelo anterior. Evitava a mutreta de utilizar uma função interna e ficou bem
+similar ao modelo simples que a plataforma apresentava.
+
+Porém, vi que muitos utilizavam uma mutreta total, utilizando totalmente uma
+função interna da linguagem, mascarando, ou a forma que utilzei em modelo 1.
+
+Não vi acima de 6ms.
+
