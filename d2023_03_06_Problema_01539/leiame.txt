@@ -1,0 +1,33 @@
+Direto no LeetCode. Inicialmente, pelo celular. Mas, após precisar verificar
+um erro, passei para o computador.
+
+O problema é que um set, quando convertido para uma lista, pode não vir
+ordenado.
+
+Após postar, vi que poderia fazer um algoritmo mais direto, sem uma estrutura
+auxiliar.
+
+Aí, aproveitei para fazer testes da linguagem, ver se alguma lógica poderia
+melhorar o tempo. Não houve muita variação, a não ser pela memória.
+
+Modelo 1 (Python 3): 54ms. Medianamente bom. Memória, no final do gráfico, mas
+ainda assim, medianamente bom. Utilizava uma estrutura intermediária, para
+gerar os elementos faltantes, e um pequeno laço, que nem sempre seria
+necessário ser executado, para complementar os elementos faltantes ao final.
+
+Modelo 2 (Python 3): 55ms. Mediano. Memória, medianamente muito bom. Foi simples
+e pouco intuitivo. ìa removendo elementos já tratados no vetor original.
+
+Modelo 3 (Python 3): 65ms. Medianamente ruim. Memória, bateu no final do
+gráfico. Era similar ao anterior, mas invertia o vetor para ir tirando pelo
+final não pelo início.
+
+Modelo 4 (Python 3): 51ms. Medianamente bom. Memória, similar aos dois
+anteriores, apesar de não utilizar estrutura auxiliar e, no lugar, utilizar
+um índice para caminhar pelo vetor.
+
+Não vi abaixo de 35ms. Alguns códigos parecidos com os meus. Outros, bem
+complexos, mesmo nos melhores tempos.
+
+A grande concentração foi no entorno onde os meus modelos ficaram.
+
