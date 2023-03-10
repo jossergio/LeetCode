@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 07/01/2022. Não consegui pensar em outra forma.
+Então, só repostei.
+
+Em C++.
+
+16ms. Excelente. E bem melhor que a postagem anterior.
+
+Memória, horrível, no final do gráfico.
+
+Não houve 0ms. O gráfico ía até 60ms. Concentração no entorno de 25ms.
+
+Meu modelo era bem parecido com o primeiro modelo, de dois, da plataforma.
+Muitos também o eram, alguns mal implementados e, mesmo assim, de memória
+menor e tempo melhor.
+
