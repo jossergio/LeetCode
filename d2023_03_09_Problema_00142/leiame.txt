@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 19/01/2022, que eu já tinha resolvido. Não desejei
+pensar outra solução. Só fiz repostar.
+
+Em GoLang.
+
+131ms. Lento. Muito lento. Nem apareceu no gráfico, que ía, até, 40ms. Mas,
+melhor que a postagem anterior.
+
+Memória, medianamente ruim. Mas, também, melhor que a postagem anterior.
+Interessante.
+
+Houve 0ms.
+
