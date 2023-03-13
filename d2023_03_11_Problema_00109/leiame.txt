@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+Inicialmente, tive uma ideia.
+
+Após postar, decidi ver como enxugar o código. Ficou bem melhor.
+
+Então, decidi brincar com GoLang. Depois, vi a possibilidade de uma modificação
+na sintaxe, para testar consumo de recursos.
+
+Modelo 1 (C++): 20m. Excelente. Memória, mais excelente ainda. Ficou um código
+um pouco extenso.
+
+Modelo 2 (C++): 23ms. Quase excelente. Memória, medianamente ruim. É um código
+bem mais enxuto. Pelo menos, em termos de linha de codificação.
+
+Modelo 3 (GoLang): 11ms. Bem ruim. Memória, nem apareceu no gráfico. É a
+tradução do modelo 2.
+
+Modelo 4 (GoLang): 11ms. Bem ruim. Memória, medianamente ruim. Era uma alteração
+de sintaxe de modelo 3, utilizando fragmentos de vetor no lugar de índices.
+
+Em C++, não houve 0ms. O menor tempo era em 7ms, em um código de baixa
+compreensao. Muitos era assim.
+
+Em GoLang, houve 0ms. Porém, com um código que não entendi o motivo da
+velocidade, já que fazia laços nas recursões.
+
