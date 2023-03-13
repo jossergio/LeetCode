@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Era o mesmo problema que eu tinha resolvido como avulso em 03/04/2022.
+
+Pensei em repostar e desisti, decidindo fazer uma abordagem iterativa.
+
+Ficou péssimo. Péssima ideia. O código ficou bem feio e extenso.
+
+Em C++.
+
+1349ms. Nem sei como a plataforma aceito em um grafico indo até 23ms.
+
+Memória, horrível. Mais de dez vezes o limite do gráfico.
+
+De toda forma, ficou o estudo e o conhecimento.
+
+Em meio aos códigos dos demais, vi uma implementação que deveria ter sido
+a forma que eu imaginei, que acabou ficando "troncha". Mas, fica para uma outra
+oportunidade.
