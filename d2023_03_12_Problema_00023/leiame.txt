@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 05/02/2022, que eu já tinha postado.
+
+Inicialmente, só fiz repostar. Isso foi pela manhã.
+
+Porém, na parte da tarde, resolvi utilizar uma nova abordagem, com uma ideia
+que ficou me martelando. Como ainda não tinha publicado no GitHub, ainda pelo
+celular, fiz um novo modelo.
+
+Modelo 1 (GoLang): 229ms. Bem ruim. Memória, medianamente boa. Era repostagem
+de desafio anterior. Porém, ficou bem melhor a execução.
+
+Modelo 2 (GoLang): 293ms. Horrível. Memória, medianamente boa. Era, até, um
+código menor e mais direto. A execução ainda ficou melhor que a postagem
+anterior.
+
+Houve 0ms e a grande concentração era em torno de 10ms.
+
+Vi algumas implementações bem interessantes.
+
