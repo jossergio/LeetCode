@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 03/11/2021. Só fiz repostar.
+
+Inicialmente, pensei em ter uma nova abordagem. Mas, não tive ideias.
+
+Após postar, decidi utilizar uma variável global no lugar de passar um parâmetro
+por referẽncia. Não mudou nada em termos de memória.
+
+Modelo 1 (GoLang): 2ms. Medianamente bom. Memória, medianamente ruim. Era
+repostagem de solução anterior. Porém, tinha ficado em 0ms.
+
+Modelo 2 (GoLang): 0ms. Melhor impossível. Memória, igual ao anterior. O detalhe
+é que eu achei que economizaria memória, pois é o mesmo código anterior só que
+com uma variável global no lugar de passar uma por referễncia.
+
