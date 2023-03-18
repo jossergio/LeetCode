@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que eu nem olhei.
+
+Minha solução ficou um pouco parecica com a terceira.
+
+Após postar e ver as soluções da plataforma, decidi fazer uma segunda
+implementação, baseada na primeira solução da plataforma e utilizando meus
+conceitos.
+
+Modelo 1 (C++): 136ms. Quase excelente. Memória, medianamente ruim. Utilizava
+um vetor, que ía se ajustando dinamicamente. Diferenciava um pouco da terceira
+solução da plataforma por ajustar o vetor, em alguns momentos, enquanto a da
+plataforma utilizada uma segunda variável para checar essa necessidade.
+
+Modelo 2 (C++): 209ms. Medianamente ruim. Memória, bem ruim. Utilizava uma
+estruturação com duas pilhas.
+
+Não vi abaixo de 102ms. A grande maioria era no entorno de 145ms.
+
+O gráfico ía até pouco mais de 300ms.
+
