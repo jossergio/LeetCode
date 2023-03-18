@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 08/10/2021. Só fiz repostar.
+
+A plataforma apresentava uma solução.
+
+Em C++.
+
+67ms. Mediano. Um pouco pior que a postagem anterior. LeetCode.
+
+Memória, excelente. Um pouco melhor que a postagem anterior. Vai entender.
+
+Não vi abaixo de 24ms e bem isolado. A maioria estava no entorno de 60ms.
+
+O gráfico ía até 220ms.
+
