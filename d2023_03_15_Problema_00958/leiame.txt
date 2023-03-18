@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+A primeira solução da plataforma foi parecida com a que imaginei, apesar de
+minha implementação ter ficado um pouco complexa e redundante.
+
+Em C++.
+
+7ms. Mediano.
+
+Memória, medianamente ruim, mas com a maioria.
+
+
