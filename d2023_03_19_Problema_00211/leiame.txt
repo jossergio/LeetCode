@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 28/01/2022.
+
+Resolvi fazer uma abordagem um pouco diferente, tentando reduzir as iterações
+de laços. Após um errinho, por bobeira, passou.
+
+Após validar, tentei fazar uma outra abordagem, que produzia excesso de tempo.
+Então, desisti. Já foi suficiente.
+
+Em GoLang, como na postagem anterior.
+
+676ms. Medianamente bom mas bem pior que a postagem anterior.
+
+Memória, excelente e bem melhor que a postagem anterior.
+
+Não vi abaixo de 593ms. O grafico era, até, bem generoso, indo a mais de 2400ms.
+
