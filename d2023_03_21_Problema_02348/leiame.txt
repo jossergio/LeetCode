@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia matemática, que passou, após um errinho, por não observar que
+o tipo de retorno poderia chegar a um inteiro bem longo. A estrutura da função
+já usava esse tipo. Bobeira, por não prestar atenção.
+
+Após postar, vi que minha solução era bem parecida com a da plataforma. Porém,
+essa economizava variáveis e cálculos.
+
+Em C++.
+
+166ms. Medianamente bom.
+
+Memória, excelente.
+
+A maioria das soluções dos demais participantes era com uma ideia bem parecida
+ao conceito matemático que eu utilizei, apesar de ter alguns códigos um pouco
+complexos. Mas, as diferenças de memória e tempo foram perceptíveis.
+
+Não vi abaixo de 115ms, bem isolado. O gráfico ía até 260ms. A concentração
+era no entorno de 180ms
+
