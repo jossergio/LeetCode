@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 18/01/2022. Só fiz repostar a que ficou com menor
+tempo.
+
+A plataforma apresentava duas soluções. Mas, nem olhei para comparar.
+
+Estava muito cansado para tentar alguma ideia diferente.
+
+Em GoLang.
+
+20ms. Medianamente ruim mas bem melhor que a postagem anterior. LeetCode.
+
+Memória, mediana e igual à postagem anterior.
+
+Não vi abaixo de 7ms. O gráfico ía até pouco mais de 40ms.
+
