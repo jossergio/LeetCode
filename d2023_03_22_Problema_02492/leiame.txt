@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que eu nem olhei.
+
+Após um limite de tempo excedido, passou.
+
+Em seguida, fiz uma segunda postagem, alterando, somente, uma construção de
+uma lista auxiliar.
+
+Posso dizer que a ideia do meu era parecida com a primeira da plataforma, pois
+também era com busca em largura. Mas ou meu aplicava uma lista auxiliar e um
+laço, ao final, para produzir um filtro, enquanto o da plataforma realizava os
+testes de modo direto, sem a necessidade desses auxiliares.
+
+De início, o probmema parecia um pouco complexo. Mas, ao final, foi só mais
+um de grafo, que tenho certas repulsas.
+
+Modelo 1 (Python 3): 1600ms. Excelente. Memória, mediano.
+
+Modelo 2 (Python 3): 1573ms. Mais excelente que o anterior. Memória, mediana,
+mas um pouco melhor que o anterior. Era o mesmo modelo 1, mas montava uma lista
+auxiliar de uma forma diferente.
+
+Não vi abaixo de 1567ms. O gráfico ía até um pouco mais de 6000ms. Ou seja, a
+plataforma já esperava códigos lentos.
+
