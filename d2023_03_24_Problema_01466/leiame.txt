@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Passou de primeira.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Passou de primeira. Tive uma ideia, utilizando pilha, para fazer uma busca
+em profundidade, que era a ideia geral da solução 1 da plataforma, porém,
+utilizando recursividade. A 2a era por busca em largura.
+
+Após postar, vendo as postagens dos demais participantes, vi que poderia
+utilizar estruturas mais simples. Então, resolvi brincar e fiz mais três
+modelos.
+
+Modelo 1 (C++): 873ms. Bem ruim. Memória, Ruim. Utilizava estruturas de map,
+que são pesadas, e uma pilha para fazer uma busca em profundidade.
+
+Modelo 2 (C++): 595ms. Medianamente bom. Memória, medianamente bom. Era o mesmo
+modelo anterior, mas, utilizada um único map, com uma opção para o sentido
+da ponte.
+
+Modelo 3 (C++): 392ms. Medianamente bom. Memória, medianamente bom. No lugar
+de map, utilizava um vector e adicionava sinal de negativo para indicar o
+sentido contrário da ponte.
+
+Modelo 3 (C++): 427ms. Mediano. Memória, mediano. Era o mesmo modelo anterior,
+mas, recursivo.
+
+O gráfico ía até cerca de 1000ms. Não vi abaixo de 258ms, bem isolado. A grande
+concentração era no entorno de 380ms.
+
