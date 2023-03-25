@@ -10,7 +10,7 @@ Em C++.
 
 Memória, nem apareceu no gráfico.
 
-O gráfico ía até cerca de 1500ms. Não vi abaixo de 416ms. um pouco isolado. A
+O gráfico ía até cerca de 1500ms. Não vi abaixo de 416ms, um pouco isolado. A
 grande concentração ficava em torno de 650ms.
 
 Tenho que estudar mais isso. Fica para depois.
