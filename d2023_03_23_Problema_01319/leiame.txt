@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que, inicialmente, nem olhei.
+
+Tentei em Python 3. Depois de produzir um errinho, emputeci, copie o código
+em C++ da plataforma, e passou.
+
+Depois, fui traduzir a solução da plataforma para Python. Não passava. E era
+no mesmo que produziu o erro do meu modelo em Python. Fiquei sem explicação.
+
+Em C++.
+
+132ms. Medianamente bom.
+
+Memória, mediana.
+
+Era cópia fiel de um modelo da plataforma na linha em que eu imaginava.
+
+Ctrl + c ctrl + v puro.
+
