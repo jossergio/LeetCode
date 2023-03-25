@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que eu nem olhei. Nem para comparar.
+
+Após dois tempos excedidos, passou, com alguns detalhes para evitar isso.
+
+Em C++.
+
+1459ms. Bem horrível.
+
+Memória, nem apareceu no gráfico.
+
+O gráfico ía até cerca de 1500ms. Não vi abaixo de 416ms. um pouco isolado. A
+grande concentração ficava em torno de 650ms.
+
+Tenho que estudar mais isso. Fica para depois.
+
