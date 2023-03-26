@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções.
+
+A primeira era baseada em uma ideia inicial minha. Mas optei por utilizar
+outras estruturas, apesar de o conceito geral, de busca em profundidade,
+permanacer.
+
+Após um tempo excedido por bobeira (eliminava/desconsiderava itens de uma
+lista mas buscava o índice na completa), um erro bobo (confundi mínimo com
+máximo) e mais um tempo excedido (realmente, eu varria/testava uma lista à
+procura de um valor quando podia utilizar uma forma mais ágil, sem repetir
+esse processo a cada iteração), passou.
+
+Após postar, vendo as soluções da plataforma, vi que poderia eliminar uma
+repetição e um laço, com uma forma bem simples. Então, fiz um segundo modelo,
+só para acrescentar essa ideia.
+
+Modelo 1 (Python 3): 1320ms. Medianamente bom. Memória, mediana.
+
+Modelo 2 (Python 3): 1247ms. Um pouquinho melhor, mas ainda medianamente bom.
+Memória, melhorou um pouquinho, mas ainda mediano. Era o mesmo código anterior,
+mas utilizava um laço direto no lugar de ficar o repetindo, apesar de haver,
+no primeiro, uma condição para não iniciar sempre do início de um vetor.
+
+O gráfico ía até pouco mais de 2600ms. Bem generoso. Não vi abaixo de 999ms, com
+uma ideia que eu também tinha imaginado mas não conseguiria estruturar.
+
