@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+Em GoLang, pois o problema não apresentaria necessidade de recursos específicos
+de linguagens. Então, terinar um pouquinho.
+
+Tive uma ideia inicial, que envolveria mais memória. Porém, após "rabiscar"
+um pouco na plataforma e fazer os testes, decidi utilizar o próprio vetor de
+entrada para a resposta.
+
+Passou de primeira.
+
+Em GoLang.
+
+5ms. Meianamente bem bom.
+
+Memória, meianamente bem boa.
+
+O de 0ms era bem idêntico à minha ideia. Mas os laços eram crescentes (os meus,
+decrescentes) e utilizava uma array paralelo, que eu evitei, utilizando o
+próprio de entrada.
+
+O com menos memória que o meu também era crescente, utilizava o mesmo vetor e
+não sei porque ambos funcionavam. Só imaginava laços regressivos, com
+acumuladores do final para o começo.
+
