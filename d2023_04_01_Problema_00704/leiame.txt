@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma apresentava quatro soluções. A primeira era bem similar à minha.
+
+Era o mesmo problema do dia 26/03/2022. Só tirer uma declaração de uma variável
+de dentro de um laço para a parte externa e anterior.
+
+Em GoLang, como na postagem anterior.
+
+38ms. Medianamente ruim. Mas, melhor que a postagem anterior.
+
+Memória, mediana. Mas, melhor que a postagem anterior.
+
+Não vi abaixo de 18ms.
+
+Em 27ms, havia um modelo que era um laço simples, buscando interativamente.
+
+Em 24ms, uma closure recursiva.
+
