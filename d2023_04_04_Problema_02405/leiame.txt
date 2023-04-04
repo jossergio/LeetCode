@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Ao final, vi que a ideia era idêntica à minha, apesar de a minha utilizar mapas
+e a da plataforma um vetor fixo.
+
+Em GoLang, para brincar, reviver e aproveitar a forma de gerenciamento de mapas.
+
+28ms. Não tão bom. Tinha poucas postagens nessa linguagem e a plataforma não
+especificou uma estatística.
+
+Memória, medianamente boa. Utilizar vetor, no lugar de mapa, poderia ter
+melhorado.
+
+Não vi abaixo de 6ms. O gráfico ía até 80ms.
+
