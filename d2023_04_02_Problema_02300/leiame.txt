@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que, após um erro e vários estouros
+de tempo, decidi olhar, para ter ideias. Então, fiz o meu.
+
+Como, inicialmente, tive uma ideia de fazer em Python 3 para aproveitar
+a biblioteca Numpy, que mesmo assim produziu estouro de tempo, e, mesmo
+adaptando sem ela, de formas, até, tentando otimizar, ficou nessa linguagem.
+
+Em Python 3.
+
+1366ms. Mediano. Baseado na segunda solução da plataforma.
+
+Memória, horrível.
+
+A primeira solução da plataforma utilizava uma biblioteca que eu não conhecia.
+
+A segunda, utilizava uma ideia bem bacana.
+
+Não vi abaixo de 10197ms. A grande concentração era em torno de 1200ms, havendo
+outra em torno de 2000ms.
+
