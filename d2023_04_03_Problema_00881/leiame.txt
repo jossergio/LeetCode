@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 24/03/2022. Inicialmente, desejei implementar
+uma nova forma, em GoLang. Mas, pelo tempo, decidi repostar a anterior, que
+era em Python 3.
+
+Em seguida, testei refazer em GoLang, mas alterando uma sequência. Erro.
+
+Refiz, em GoLang, como deveria, ou seja, só traduzindo o de Python.
+
+Modelo 1 (Python 3): 446ms. Excelente. Memória, nem entrou no gráfico. Era,
+simplesmete, a repostagem do anterior, que tinha ficado horrível. LeetCode.
+
+Modelo 2 (GoLang): 84ms. Medianamente bom. Memória, medianamente ruim. Era a
+tradução do modelo 1.
+
+Em Python 3, não vi abaixo de 428ms. Em GoLang, não vi abaixo de 72ms.
+
+O modelo de 24/03/2022 já era cópia da solução da plataforma.
+
