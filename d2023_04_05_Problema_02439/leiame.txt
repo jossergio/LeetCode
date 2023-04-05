@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução que, inicialmente, nem olhei.
+
+Após três tempos excedidos, decidi ver a solução da plataforma.
+
+Então, utilizei, para ganhar os pontos da plataforma e deixar de ser bobo.
+
+Valeu o estudo.
+
+De toda forma, trouxe os modelos que excederam o tempo, pois os achei
+bonitinhos.
+
+Dois deles utilizavam heap, para ir moldando a resposta. O primeiro, ía de
+unidade em unidade, até nivelar. O segundo utilizava média, para agilizar.
+
+O terceiro era pela força bruta, mesmo.
+
+819ms. Medianamente bom.
+
+Memória, medianamente bom.
+
+Não vi abaixo de 739ms. E olha que o modelo da plataforma já era interativo.
+
+O gráfico ía até mais de 2400ms. Bem generoso.
+
