@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, por não fazer uma subtração quando deveria, passou. E olha
+que esse erro só foi percebido lá pela metade da quantidade de testes.
+
+Após postar, analisando as respostas da plataforma, decidi fazer um modelo
+um pouco diferente, sem passos distintos, como foi o meu, fazendo duas
+passadas primárias para detectar situações para, depois, analisar de "vera".
+
+Meus dois primeiros modelos utilizavam recursividade. Então, decidi fazer um
+teceiro modelo utilizando pilha, de forma interativa.
+
+Modelo 1 (C++): 17ms. Medianamente ruim. Memória, excelente. Utilizava
+recursividade com duas passadas primárias para destacar situações.
+
+Modelo 2 (C++): 8ms. Excelente. Memória, mediana. Piorou um pouquinho de nada
+em relação ao anterior. Utilizava recursividade. Mas em um bloco único, sem
+passadas preliminares.
+
+Modelo 3 (C++): 18ms. Ainda medianamente ruim. Memória, horrível.
+
+Não vi abaixo de 3ms, em um algoritmo bem redundantezinho.
+
+A grande concentração era em torno de 15ms, com o gráfico indo até pouco mais
+de 55ms.
+
+Os modelos mais otimizados, das soluções dos demais participantes, utilizavam
+recursividade. Os piores, pilha ou fila.
+
