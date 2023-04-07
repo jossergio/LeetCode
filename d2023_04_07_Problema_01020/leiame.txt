@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, por bobeira (e que bobeiras!), falhas de digitação, passou.
+
+Após postar, vendo a resposta dos demais, tive uma ideia de fazer uma checagem
+inicial, preliminar, para, em seguida, contar o que sobraria.
+
+Em seguida, decidi fazer sem recursividade, para testar. E repeti esse mesmo
+modelo, só que declarando algumas variáveis utilizadas no laço fora do bloco.
+
+Anotação mental: declarar variáveis dentro do bloco dos laços, em especial do
+tipo conteiner, pode tornar mais lento e utilizar bem mais memória.
+
+Modelo 1 (C++): 84ms. Mediano. Memória, mediana. Utilizava recursividade, com
+uma forma de ir fazendo checagens a cada passo e o acumular.
+
+Modelo 2 (C++): 69ms. Excelente. Memória, mediana e igual à anterior. Utilizava
+recursividade, porém, limitando-se a excluir, preliminarmente, o que não deveria
+contar e fazendo uma contagem, posterior, do que sobrou. Ou seja: menos
+passos na recursividade.
+
+Modelo 3 (C++): 115ms. Horrível. Memória, muito horrível. Utilizava uma pilha,
+tentando imitar modelo 1. As variáveis no laço eram declaradas no bloco.
+
+Modelo 4 (C++): 87ms. Medianamente ruim. Memória, excelente. Era o mesmo
+modelo do anterior, porém, as variáveis do laço eram declaradas fora do bloco.
+
+Não vi abaixo de 51ms. A concentração era no entorno de 80ms. O gráfico ía até
+200ms.
+
