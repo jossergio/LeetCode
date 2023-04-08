@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Após um errinho, por não prever vazio, passou.
+
+Em GoLang, para brincar. E brincar mesmo.
+
+Em seguida, converti o primeiro modelo para C++, só para ver como a sintaxe
+ficaria, pois, para esse caso, GoLang era bem mais simples.
+
+Modelo 1 (GoLang): 0ms. Melhor, impossível. Memória, com a maioria. Utilizava
+recursividade, com uma forma de memorização em um mapa.
+
+Modelo 2 (GoLang): 4ms. Medianamente ruim. Memória, igual ao anterior. O modelo
+era igual ao anterior, só que trazendo a função para dentro do corpo da fução
+principal (closure).
+
+Modelo 3 (GoLang): 2ms. Medianamente bom. Memória, igual aos anteriores. Igual
+ao anterior, só que utilizando os próprios ponteiros como índice.
+
+Modelo 4 (GoLang): 3ms. Medianamente bom. Memória, igual aos anteriores. Era o
+mesmo modelo 3, só que reduzia uma passagem de parâmetro, utilizando, plenamente
+a condição da "closure" e eliminando o retorno da função, ficando o valor de
+retorno na ponteira do mapa.
+
+Modelo 5 (C++): 11ms. Medianamente horrível. Memória, mediana. Era a tradução
+de modelo 1.
+
+Ainda seria interessante, para brincar, especialmente com sintaxe, um modelo
+interativo em C++ e um outro recursivo com a propria função de chamada, mantendo
+um mapa como variável global.
+
+Mas, fica para uma outra oportunidade.
+
