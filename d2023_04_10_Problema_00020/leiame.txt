@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Era o mesmo problema que eu havia resolvido avulso em 10/11/2021 e o problema
+do dia 13/03/2022, que eu havia resolvido em GoLang e C++, respectivamente.
+
+Porém, resolvi diminuir o código, tirando uma certa redundância, através de
+um mapa.
+
+Em C++.
+
+0ms, melhor impossível e igual às postagens enteriores.
+
+Memória, nem apareceu no gráfico, apesar de por pouco. Piorou um pouquinho em
+relação à postagem anterior.
+
