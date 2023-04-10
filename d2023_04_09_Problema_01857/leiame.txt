@@ -1,0 +1,36 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após um estouro de tempo, esperado, pois eu já desconfiava que uma abordagem
+sem memorização provocaria essa condição, e um erro, passou.
+
+PORÉM, passou uns poucos minutos (menos de dez) depois da hora limite do dia e,
+consequentemente, não pontou na plataforma.
+
+Minha solução era parecida com a segunda da plataforma, em termos de ideias
+estruturais: uma busca em profundidade com memorização. Porém, a minha utilizava
+mapa de mapa, enquanto a plataforma utilizava vetor de vetor.
+
+Apesar de ter utilizado o tamanho de um dos vetores de entrada para saber a
+quantidade de arestas do grafo, não me toquei que esse também seria o limite
+para um vetor. Por isso, utilizei mapa.
+
+Utilizava recursividade. Tive o desejo de fazer sem recursividade, utilizando
+alguma estrutura tipo pilha, só reestruturando. Mas não consegui converter meu
+algoritmo, mesmo no dia seguinte.
+
+Fica para um outro momento.
+
+A primeira solução da plataforma utilizava um algoritmo sem recursividade,
+baseada em uma ideia apresentada e estudada.
+
+Em C++.
+
+2074ms. Horrível. Nem apareceu no gráfico, que ía até pouco mais de 1100ms.
+
+Memória, péssimo, também. Nem apareceu no gráfico, que ía até cerca de metade.
+
+Não vi abaixo de 388ms. Bem espalhado. Grande parte no entorno entre 600 e
+800ms.
+
