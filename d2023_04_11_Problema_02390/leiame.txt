@@ -1,0 +1,44 @@
+Direto no LeetCode e pelo celular.
+
+Bem rapidinho. Pensei em algumas possíveis soluções e implementei uma delas.
+
+A plataforma apresentava três soluções, que eu nem olhei.
+
+A minha ficou bem arecida com a primeira solução da plataforma, apesar de
+eu considerar que a terceira, que era mais parecida com minha primeira ideia,
+mais elegante.
+
+Inicialmete em Python, para aproveitar estruturas. Mas, antes de postar, decidi
+brincar, inclusive com outras linguagens.
+
+Modelo 1 (Python 3): 226ms. Medianamente bom. Memória, horrível. Utilizava uma
+lista como pilha e, ao final, fazia a junção, para apresentar a resposta.
+
+Modelo 2 (Python 3): 227ms. Medianamente bom. Memória, mais horrível ainda.
+Utilizava uma lista de tamanho definido onde ía produzindo alterações. Ao
+final, fazia a junção, igual ao anterior, até o limite que ficou a utilização
+da lista.
+
+Modelo 3 (C++): 71ms. Excelente. Memória, medianamente bom. Utilizava uma
+string, que seria a resposta, e jogava comandos de pop e push, dependendo
+da situação.
+
+Modelo 4 (C++): 75ms. Ainda excelente. Memória, bem horrível. Utilizava uma
+string, que seria a resposta, de tamanho estabelecido, inicialmente, onde as
+alterações eram feitas, retornando parte dessa string até o ponto estabelecido,
+ao final. Achava que pouparia memória em relação ao anterior.
+
+Modelo 5 (GoLang): 4123ms. Nem apareceu no gráfico. Memória, idem. Utilizava
+forma de adicionar ou truncar, a cada iteração, uma string, que seria a
+resposta.Bem, isso criaria várias strings pelo meio da execução.
+
+Modelo 6 (GoLang): 35ms. A plataforma não aprensentava uma estatísica. Memória,
+excelente. Utilizava um slice, de tamanho já definido, de characteres, que seria
+composto na resposta, ao final.
+
+Muitos modelos mais complexos e com mais variáveis acabaram tendo melhor
+execução e melhor uso de memória que meus códigos.
+
+Foi bom brincar com as sitaxes e conceitos de programação e utilizaçao de
+recursos.
+
