@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que eram bem similares.
+
+Porém, o meu utilizava uma passada externa. Então, decidi fazer um segundo
+modelo com a passada internamente no laço principal para testes de tirada.
+Após um errinho, por ainda conter uma estrutura do primeiro código (eu ajustei),
+passou esse segundo modelo.
+
+Modelo 1 (C++): 14ms. Medianamente ruim. Memória, medianamente ruim, mas com a
+maioria.
+
+Modelo 2 (C++): 15ms. Horrível. Memória, igual ao anterior. Mas a plataforma
+indicava que tava melhor. Era igual ao anterior, mas uma passagem, que era
+fora do laço principal, passou para dentro desse.
+
+Houve 0ms. Mas não entendo o motivo de tantas diferenças, pois os códigos eram
+bem similares. A maioria era acima de 7ms. Não houve baixo de 18ms.
+
