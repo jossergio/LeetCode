@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Tive uma ideia que, ao final, vi que os que olhei eram bem idênticos em termos
+de ideia.
+
+Rapinho. Passou de primeira.
+
+Após postar, vi que poderia organizar melhor o código. Porém, não foi uma boa
+ideia. Produziu um erro. E a ideia não era aplicável. Então, desisti de
+fazer um modelo diferente.
+
+Em Python, para aproveitar recursos.
+
+31ms. Medianamente bom.
+
+Memória, horrível. Mas, com a maioria.
+
+Não houve abaixo de 12ms, bem isolado. A maioria ficou no entorno de 35ms, não
+passando dos 48ms.
+
+Reforçando. Os códigos que eu olhei eram bem similares. Não entendo essas
+diferenças.
+
