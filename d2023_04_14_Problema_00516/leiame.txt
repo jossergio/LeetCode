@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções. Eu não teria ideia alguma. Então,
+resolvi fazer uma olhadinha.
+
+A mais próxima de minhas ideias era a primeira. Então, com um direcionamento
+formado, fiz minha própria implementação.
+
+Após um estouro de tempo, por não ter utilizado o memo no lugar que deveria,
+consertei e passou.
+
+Após postar, decidi transformar um trechinho e postei novamente. Só para ficar
+mais a minha cara.
+
+Modelo 1 (C++): 80ms. Posso dizer excelente. Memória, mediano, mas pelo fim
+do graico, em uma concentração nessa região.
+
+Modelo 2 (C++): 90ms. Medianamente bom. Memória, piorou um pouquinho, apesar
+de o valor absoluto ser o mesmo do anterior. Era uma pequenina alteração, sem
+modificar o algoritmo em si, só para ficar mais meu estilo.
+
+Não vi abaixo de 31. Havia concentrações uniformes pelo gráfico, que ía até
+300 ms.
+
+Aproveitei para estudar um pouco, especialmente a segunda solução da plataforma.
+
