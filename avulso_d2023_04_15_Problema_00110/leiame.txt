@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Era um problema que eu já havia tentado resolver, como avulso, em 01/10/2022,
+mas estava pendente.
+
+Após mais um errinho, passou.
+
+É um algoritmo, realmente, chato.
+
+Em C++.
+
+8ms. Posso dizer excelente.
+
+Memória, horrível.
+
+O 0ms era, até, isolado. Havia uma grande concentração em torno de 15ms. O
+gráfico ía até poco depois de 120ms, bem espalhado.
+
+A sistemática das soluções dos demais participantes seguiam uma linha geral
+bem parecida.
+
