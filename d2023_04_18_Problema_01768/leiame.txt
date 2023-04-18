@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Bem rapidinho mesmo.
+
+Tive uma ideia, que passou de primeira.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Considero a minha mais elegante que as da plataforma, mantidas certas
+proporcionalidades.
+
+Vi algumas postagens que considero bem criativas.
+
+Em Python, para aproveitar estruturas.
+
+36ms. Medianamente ruim.
+
+Memória, nem apareceu no gráfico
+
+Não vi abaixo de 15ms. O gráfico ía até 50ms. Grande parte estava entre 28 e
+40ms.
+
+Alguns algoritmos que considero mais lentos tiveram tempo melhor que o meu.
