@@ -1,0 +1,37 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Tive uma ideia inicial, que passou de primeira.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, comparando com a solução da plataforma e com as dos demais
+participantes, e por se tratar de Python, a linguagem escolhida, decidi fazer
+brincadeiras com a estrutura da linguagem.
+
+Meu primeiro modelo, tirando questões estruturais, era bem parecido com a da
+plataforma.
+
+Modelo 1 (Python 3): 37ms. Medianamente bom. Memória, mediana. Uma estrutura
+que considerei melhor que a da plataforma.
+
+Modelo 2 (Python 3): 42ms. Mediano. Memória, igual à anterior. Era o mesmo do
+anterior. Mas, no lugar de utilizar uma ordenação para encontrar o maior,
+utilizava a própria função de máximo.
+
+Modelo 3 (Python 3): 32ms. Excelente. Memória, nem apareceu no gráfico. Era um
+algoritmo um pouco mais complexo, que utilizava dois laços, em sequência, e um
+dicionário, de forma a mitigar a passagem no segundo laço. A ideia veio de uma
+das postagens dos participantes.
+
+Modelo 4 (Python 3): 37ms. Medianamente bom. Memória, meidana, mas melhor que
+os anteriores. Reduzia a duas linhas todo o algoritmo, utilizando a função
+de máximo e a função map para aplicar uma função (lambda) a cada membro da
+lista.
+
+Modelo 5 (Python 3): 44ms. Medianamente ruim. Memória, mediana. Era o mesmo
+do modelo anterior, mas evitada o uso da função map, através de redutor de
+lista.
+
+Não vi abaixo de 19ms, bem isolado. A maior parte era entre 35 a 50ms. O gráfico
+ía até 60ms.
+
