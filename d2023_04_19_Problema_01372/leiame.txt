@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Ao final, notei que eram bem semelhantes. Mas, utilizava uma variável global,
+que eu tenho ranço de usar. Meu modelo considero mais elegante, por conta
+disso.
+
+Após postar, parece que todo mundo se baseou no modelo da plataforma. Todos as
+postagens que eu vi eram assim.
+
+Foi bem interessante o raciocínio. Quase que frito o cérebro. Achava, inclusive,
+que o código iria ficar maior. Mas, ao final, ficou bem enxuto, depois de alguns
+testes, que fui vendo como proceder.
+
+Em C++.
+
+144ms. Excelente de muito excelente.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 138ms. A concentração era entre 150 e 200ms. O gráfico ía até
+pouco mais de 500ms.
+
+Apesar de os mais lentinhos utilizarem estruturas mais complexas, apesar de
+algoritmos similares, não entendo o motivo de tanta disparidade.
+
