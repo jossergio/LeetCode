@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+Era o problema do dia anterior, 20/04/2023, que não consegui resolver. Nesse
+dia, produzi dois tempos excedidos.
+
+Após várias versões, utilizando os testes dessas duas postagens, e sem sucesso,
+no dia 21/04/2023 tentei novos modelos e, após uma ideia, até simples, passou.
+
+Em C++.
+
+11ms. Mediano.
+
+Memória, ruim, mas com a maioria.
+
+O 0ms lembra muito o meu modelo, mantidas umas proporões de cálculos para não
+chegar a unsigned long long int. Ou seja: fazia uns ajustes para sempre ficar
+em int.
+
+Aliás. Todas as postagens dos demais pariticipantes que eu olhei utilizavam
+estrutura similar.
+
+O gráfico ía até pouco mais de 27ms.
+
+Não copiei os que estouraram o tempo. Nem modelos funcionais, intermediários,
+que também estouraram o tempo nos testes. Mas era bem estruturados.
+
