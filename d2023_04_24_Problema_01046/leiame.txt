@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 07/04/2022. Porém, decidi "ajeitar" um pouco.
+
+E, até, melhorou.
+
+Havia duas postagens. Inicialmente, postei a "mais bonita", apesar de ser
+um pouco mais lenta.
+
+Mas, em seguida, analisando as postagens dos demais, observei que a base da
+"mais feia" era, sempre, melhor. Então, também repostei essa, ajeitando.
+
+O "ajeitar" foi, só, retirar a utilização de duas variáveis, jogando, tudo, para
+um cálculo único.
+
+Modelo 1 (Python 3): 40ms. Horrível. Memória, mediana e com a maioria. Utilizava
+heap, da própria linguagem, similar à segunda postagem do dia 07/04/2022.
+
+Modelo 2 (Python 3): 36ms. Mediano. Memória, igual ao anterior. Utilizava
+um sistema de ordenamento a cada iteração. Ou seja, heap perdeu.
+
+Não vi abaixo de 13ms, bem isolado, utilizando heap e bem parecido com o meu
+da postagem anterior.
+
+A grande concentração era entre 28 e 40ms. O gráfico ía até 50ms. 
+
