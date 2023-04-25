@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, em Python, para aproveitar recursos.
+
+Em seguida, fiz outro modelo.
+
+Após, convertir, na sequência, o segundo modelo e o primeiro, para C++, só
+para ver como ficaria.
+
+O primeiro modelo, em Python, e o respectivo modelo, em C++, aparentavam o
+primeiro da plataforma, só que esse utilizava estruturas mais robustas.
+
+Os outros dois foi para simplificar programação.
+
+Modelo 1 (Python 3): 119ms. Medianamente bom. Memória, medianamente ruim.
+Utilizava estrutura de um contador com um heap auxiliar. O modelo da plataforma
+utilizava outras estruturas, para otimizar.
+
+Modelo 2 (Python 3): 119ms. Medianamente bom. Memória, mediana. Utilizava uma
+lista simples, que era ordenada a cada inclusão, e não utilizava o contador.
+
+Modelo 3 (C++): 65ms. Excelente. Memória, muito excelente. Era a tradução de
+modelo 2, devidamente adequado, que foi em Python.
+
+Modelo 4 (C++): 74ms. Posso dizer excelente, ainda. Memória, excelente. Era a
+tradução de modelo 1, devidamente adequado, que foi em Python.
+
+Em Python, não vi abaixo de 102ms e o grafico ía até 850ms, com grande
+concentração entre 100 e 150ms.
+
+Em C++, não vi abaixo de 53ms e o gráfico ía até pouco mais de 300ms, com
+concentrações no entoro de 80ms e, também, no de 125ms.
