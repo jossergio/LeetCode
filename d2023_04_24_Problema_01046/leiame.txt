@@ -24,3 +24,19 @@ da postagem anterior.
 
 A grande concentração era entre 28 e 40ms. O gráfico ía até 50ms. 
 
+================
+Em 01/05/2023, alguns dias depois, decidi ver como ficaria em c++.
+
+E fiz dois modelos. Um utilizando ordenação e outro utilizando heap (fila de
+prioridade, como sua estrutura é chamad em C++).
+
+Foi um bom estudo.
+
+Modelo 3 (C++): 5ms. Horrível. Memória, bem no limite do gráfico. Ficava
+ordenando a cada iteração.
+
+Modelo 4 (C++): 0ms. Melhor, impossível. Memória, igual ao anterior. Utilizava
+uma fila de prioridades (heap) do C++.
+
+Em C++, o gráfico ía até 14ms. Não vi acima de 5ms.
+
