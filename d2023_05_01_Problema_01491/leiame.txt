@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Ao final, ao olhar a solução da plataforma, decidi fazer uma similar, mas com
+meu estilo.
+
+Modelo 1 (Python 3): 44ms. Horrível. Memória, nem apareceu no gráfico. Ordenava
+o vetor, desprezava o primeiro e o último elementos, somava e dividia pelo
+tamanho menos dois. Nos moldes de uma linha de código, que o Python permite.
+
+Modelo 2 (Python 3): 44ms. Horrível. Memória, igual ao anterior. No lugar de
+ordenar, somava, subtraía do menor e do maior e fazia a divisão pelo tamanho
+menos dois. Também nos moldes de uma linha.
+
+Modelo 3 (Python 3): 40ms. Ruim. Memória, pior um pouquinho que os anteriores.
+Era baseado na ideia da plataforma. Utilizava variáveis, laço etc. Código de
+estrutura comum em outras linguagens.
+
+Não vi abaixo de 12ms, bem isolado. Sem entender o porquê, pois buscava o menor
+e o maior e buscava novamente para os retirar, fazia a soma e a divisão.
+
+O gráfico ía até pouco mais de 50ms.
+
+Também não entendi o uso excessivo de memória.
+
