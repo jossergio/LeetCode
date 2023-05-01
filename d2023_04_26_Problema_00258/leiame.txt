@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 08/02/2022. Não vi como otimizar, pois já estava
+bem otimizado. Então, só repostei.
+
+A plataforma apresentava duas soluções. Uma com interação e outra com cálculo,
+que a minha é bem parecida. Nessa de cálculo, a plataforma ainda apresentava
+uma redução de código.
+
+Em GoLang, como na postagem anterior.
+
+0ms. Melhor, impossível.
+
+Memória, horrível. Mas, com a maioria.
+
+Interessante é que a postagem anterior era 2ms.
+
+Não vi acima de 6ms.
+
