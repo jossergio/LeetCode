@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a minha era bem parecida com a segunda da plataforma, apesar
+de que utilizei minhas ideias.
+
+Em seguida, fiz uma segunda postagem, para tentar utilizar recursos Python, com
+a finalidade de reduzir código.
+
+Para essa segunda postagem, ocorreram dois errinhos. Apertei o botão de postar
+no lugar de testar e, em seguida, não corrigi o código todo e postei.
+
+Modelo 1 (Python 3): 74ms. Horrível. Memória, nem apareceu no gráfico.
+
+Modelo 2 (Python 3): 78ms. Pior ainda. Memória, igual ao antereior.
+
+Não vi abaixo de 42ms, bem isolado. A grande concentração era no entorno de
+63ms.
+
