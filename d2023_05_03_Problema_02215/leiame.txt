@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava duas soluções, que eu nem olhei. Modéstia à parte,
+considero o meu modelo melhor.
+
+Após postar, vi que os demais concorrentes possuíam ideia similar à minha.
+
+Modelo 1 (C++): 72ms. Medianamente ruim. Memória, mediana.
+
+Modelo 2 (C++): 56ms. Medianamente bom. Memória, um pouquinho melhor que o
+anterior, mas, no mesmo nível. Era igual ao modelo anterior, porém tirava
+ordenação inicial, que, realmente, era desnecessária.
+
+Não vi abaixo de 15ms, isolado. A grande concentração era no entorno de 60ms.
+O gráfico ía até perto de 400ms.
+
