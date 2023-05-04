@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Posso dizer que rapidinho.
+
+A plataforma apresentava quatro soluções, que eu nem olhei.
+
+Na abordagem geral, posso dizer que a minha ideia ficou parecida entre a
+primeira e a segunda solução da plataforma. Porém, uma abordagem totalmente
+minha.
+
+Após um errinho, por bobeira, pois eu imaginava que precisaria do detalhe que
+produziu o erro, passou.
+
+Em C++
+
+345ms. Nem apareceu no gráfico.
+
+Memória, idem.
+
+O gráfico ía até cerca de 150ms.
+
+Após postar, analisando algumas postagens e a quarta solução da plataforma,
+pensei em fazer uma nova postagem. Mas, não seguria muito com minha forma
+de pensar.
+
+utilizei algumas ideias para otimização de tempo. Mas, não foram bem elegantes.
+
