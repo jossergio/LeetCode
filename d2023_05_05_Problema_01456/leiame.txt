@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Rapidinho. Após um errinho, por, apesar de perceber uma possibilidade, não
+ter atinado, passou.
+
+A plataforma apresentava uma solução, que eu nem olhei. Ao final, era bem
+similar à minha ideia, com duas diferenças básicas: a minha continha uma forma
+de, ao perceber que atingiu o valor ideal, encerrava; o da plataforma utilizava
+uma ideia mais elegante para gerenciar o acumulado.
+
+Em C++.
+
+69ms. Horrível.
+
+Memória, medianamente boa.
+
+Uma outra diferença do meu modelo para o da plataform era que eu utilizava uma
+função que, apesar de ser lambda, não deixava de ser uma chamada a função, e a
+da plataforma utilizava um set, que o meu também continha, de forma direta.
+
+Não vi abaixo de 3ms, bem isolado. A grande concentração ficava o entorno entre
+11 e 30ms.
+
