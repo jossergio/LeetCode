@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Rapidinho.
+
+A plataforma apresentava uma solução, que eu nem olhei. Após postar, era bem
+identica à minha.
+
+Analisando as postagens dos demais participantes, vi alguns códigos bem feios,
+alguns, inclusive, utilizando laço duplo, tipo O(n2), que ainda por cima ficaram
+melhor posicionados que minha solução.
+
+Em C++.
+
+7ms. Muito excelente.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 3ms. Inclusive, era o com laço duplo.
+
