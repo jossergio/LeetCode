@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, similares, sendo uma iterativa e outra
+recursiva.
+
+Tive um trabalhão. Utilizei técnicas que, depois de postar, vi em ambas as
+soluções da plataforma (eu fiz por ambas as formas). Mas, sempre ocorreu
+tempo excedido.
+
+Até que tive uma ideia de abortar um laço interno em uma situação. Passou.
+
+Posso dizer que minha solução é similar à primeira da plataforma, apesar de essa
+produzir de uma outra forma um pouco diferente para não ter um laço interno,
+bastando checar o próximo, definindo o último na largada e começar o laço
+decrescente a partir do penúltimo.
+
+Em C++.
+
+413ms. Horrível.
+
+Memória, excelente.
+
+Não vi abaixo de 315ms, bem isolado. Grande parte no entorno de 380ms. Não vi
+acima de 460ms. O gráfico ía até um pouco depois disso.
+
