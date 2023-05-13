@@ -10,3 +10,28 @@ Havia meios mais práticos para solução.
 
 Memória, com a maioria, apesar de não tão boa.
 
+=======
+Em 13/05/2023, procurando algo para fazer, decidi pegar esse para fazer ajustes
+de forma avulsa.
+
+Devo acrescentar que esse desafio foi um que resolvi como avulso em 20/10/2021.
+
+A ideia inicial era Rust, quando procurando. Porém, decidi permanecer em GoLang
+e fazer um código mais simplificado.
+
+Funcionou. Um bom teste para varrer listas juntando-as utilizando uma variável
+auxiliar como resposta. Uma técnica que aprendi depois de ficar fazendo os
+desafios do LeetCode, que dispensa o uso de um if para ver se é o primeiro que
+está sendo alocado, dispensando o ponteiro inicial na resposta.
+
+Em GoLang.
+
+2ms. Mediamente bom.
+
+Memória, posso dizer excelente.
+
+Após postar, analisando o código em 0ms, notei que eu poderia ter evitado correr
+o laço todo, pois a ideia minha seria essa. Mas, valeu o estudo.
+
+Ah! E isso poderia ter deixado o código menos redundante.
+
