@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo desafio do dia 04/04/2022. Porém, decidi ver se conseguiria melhorar
+o desempenho.
+
+E melhorou, um pouco.
+
+Após postar, analisando códigos dos demais participantes, fiz uma segunda forma,
+achando que seria melhor ainda. Piorou. Mas, talvez, seja a questão LeetCode.
+
+Modelo 1 (C++): 683ms. Mediano. Memória, horrível.
+
+Modelo 2 (C++): 715ms. Horrível. Memória, quase excelente.
+
+Não vi abaixo de 606ms, bem isolado. A grande concentração era entre 640 e
+740ms.
+
