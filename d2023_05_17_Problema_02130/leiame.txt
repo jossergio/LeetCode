@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Inicialmente, custei a entender. Achei a explicação da plataforma um pouco
+chata. Mas, depois que entendi, fiz rapidinho.
+
+A plataforma apresentava três soluções. A primeira era bem parecida com a minha
+ideia. As outras duas, considerei desnecessárias.
+
+Em C++.
+
+293ms. Horrível.
+
+Memória, medianamente ruim.
+
+Não vi abaixo de 81ms, bem, mas bem isolado. A concentração era no entorno de
+275ms. O gráfico ía até pouco mais de 350ms.
+
