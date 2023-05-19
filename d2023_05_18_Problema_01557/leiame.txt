@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Tive uma intuição que, após postar, notei que era a mesma da plataforma.
+
+Em seguida, tive a ideia de postar em Python, para brincar com a redução de
+linhas de código. Vendo as postagens dos demais participantes, reduzi mais
+ainda, apesar que ficou mais pesadinho.
+
+Modelo 1 (C++): 380ms. Medianamente ruim. Memória, mediana.
+
+Modelo 2 (Python 3): 1193ms. Mediano. Memória, medianamente ruim.
+
+Modelo 3 (Python 3): 1271ms. Horrível. Memória, medianamente ruim. Mas, um
+pouco melhor que o anterior. Utilizava uma ideia de cálculo com conjuntos.
+
+Em C++, não vi abaixo de 227ms, bem isolado. Grande parte era entre 275 e
+375ms. O gráfico ía até pouco mais de 500ms.
+
+Em Python 3, não vi abaixo de 1107ms, isolado. Grande parte era acima de 1125
+até 1250ms. O gráfico ía até pouco mais de 1375ms.
+
