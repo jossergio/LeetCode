@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 09/04/2022. Porém, decidi "diminuir" o código,
+fazendo em uma linha única.
+
+Após postar, vi que poderia utilizar uma função membro de um objeto que eu tinha
+utilizado. Então, fiz um segundo modelo. Porém, piorou o tempo. LeetCode. A
+ideia, inclusive tinha tirado de uma postagem de tempo excelente.
+
+Modelo 1 (Python): 103ms. Muito bom. Memória, bem ruim. Ficou melhor que a
+postagem anterior.
+
+Modelo 2 (Python): 121ms. Bem ruim. Memória, medianamente boa. Ficou bem pior
+que a postagem anterior, apesar de ser uma cópia de uma ideia bem melhor.
+
+Não vi abaixo de 53ms, bem isolado. O gráfico ía até pouco mais de 220ms. A
+grande concentração era entre 90 e 140ms.
+
+Obs.: desta vez, a plataforma não me mostrava soluções. Na vez anterior,
+mostrava.
