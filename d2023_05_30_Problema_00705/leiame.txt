@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/04/2022. Porém, decidi "ajeitar", tornar o código
+mais atual em relação ao meu aprendizado.
+
+Só questões de sintaxe e outras otimizações.
+
+Após postar, decidi fazer com outro modelo da postagem anterior, que tinha
+cinco que foram aceitas.
+
+Modelo 1 (C++): 87ms. Quase excelente. Memória, mediana. Era o mesmo primeiro
+modelo, e com tempo melhor, da postagem anterior. E melhorou bastante o tempo.
+A diferença básica foi tirar um laço no construtor e inicializar um vetor direto
+na definiçaõ da classe.
+
+Modelo 2 (C++): 132ms. Medianamente ruim. Memória, mediana. Era o mesmo segundo
+mdelo, e com tempo bem melhor, da postagem anterior, fazendo uma adaptação
+para só ordenar se fosse necessário.
+
+Não vi abaixo de 55ms. O gráfico ía até pouco mais de 700ms. A grande
+concentração era no entorno de 100ms.
+
