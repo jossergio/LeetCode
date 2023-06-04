@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que eu nem olhei.
+
+Fiz rapidinho.
+
+Após postar, vi que poderia economizar tempo e memória, utilizando, diretamente,
+a entrada de dados, sem fazer um tratamento para converter em um grafo de lista.
+
+Modelo 1 (C++): 33ms. Medianamente ruim. Memória, muito horrível.
+
+Modelo 2 (C++): 24ms. Medianamente bom. Memória, posso dizer excelente.
+
+O 0ms, bem isolado, era o que me baseei para fazer o segundo modelo. Nâo vi
+acima de 70ms e o gráfico ía até pouco mais que isso. Grande parte era entre
+19 34ms.
+
