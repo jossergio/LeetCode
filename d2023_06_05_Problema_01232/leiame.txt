@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a intuição era a mesma da minha, apesar de ser bem mais
+simples a da plataforma. Aliás: não haveria outra intuição, só questão de
+implementação.
+
+Então, decidi postar uma minha, mais simples ainda.
+
+Escorreguei, diversas vezes, em pequenos erros bobos e em cascas de banana que a
+plataforma dispunha. Na segunda postagem, inclusive, os testes preliminares
+puderam ajustar, apesar de que tive muita dificulade para concluir.
+
+Modelo 1 (C++):1 3ms. Medianamente ruim. Memória, nem apareceu no gráfico. Eu
+ainda suspeitei que a casca de banana seria questão de ordem e fiz isso,
+preliminarmente. Nem precisaria ordenar.
+
+Modelo 2 (C++): 13ms. Medianamente ruim. Memória, melhorou um pouquinho. Mas,
+nem tanto e nem apareceu no gráfico. Era mais direto.
+
+Houve 0ms, bem isolado, com um código que tinha dois laços, separados, para
+testes, em um código bem feio. Muitos códigos foram assim.
+
