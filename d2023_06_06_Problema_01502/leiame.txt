@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após postar, decidi ver como ficariam a utilização de outros recursos de Python.
+
+Meu último modelo ficou bem parecido com a primeira da plataforma.
+
+Modelo 1 (Python 3): 62ms. Horrível. Memória, nem apareceu no gráfico. Utilizava
+sorted para ordenar e varria o vetor a partir do terceiro elemnto, de forma
+direta, guardando o atual para ser o anterior da próxima iteração.
+
+Modelo 2 (Python 3): 52ms. Mediano. Memória, idem anterior. Só modificava a
+utilização para a função membro sort de listas.
+
+Modelo 3 (Python 3): 49ms. Mediano. Memória, idem anteriores. Fazia um código
+mais enxuto, utilizando numeração da iteração da lista.
+
+Não vi abaixo de 23ms, nem tanto isolado. O gráfico ía até pouco mais de 70ms.
+A partir de 38ms, bem homogêneo até finalizar em 65ms.
+
