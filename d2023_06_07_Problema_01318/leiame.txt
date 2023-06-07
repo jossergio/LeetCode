@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Tive uma intuição e fiz rapidinho.
+
+Ao final, a minha é bem parecida com a solução 1 da plataforma, apesar de um
+trechinho, da plataforma, eu considerar mais elegante. A lógica era a mesma.
+
+A segunda solução era uma forma que utilizava funções embutidas do C++ que eu
+desconhecia, aliada a uma teoria matemática bem complexa, que eu demoraria para
+chegar. Não vi postagens com essa abordagem.
+
+Em C++.
+
+3ms. Péssimo, o pior tempo mas a plataforma considerava mediano.
+
+Memória, mediana. Mas, preferi utilizar variáveis extras, para um aspecto
+visual melhor.
+
+O gráfico ía até 12ms. Mas, o meu tempo foi o pior, mesmo. A grande concentração
+era no 0ms.
+
