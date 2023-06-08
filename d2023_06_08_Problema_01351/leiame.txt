@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Fiz rapidinho.
+
+A plataforma apresentava três soluções. A minha era similar à terceira.
+
+As duas primeiras eram por força bruta, que eu já tinha descartado, imaginando
+estouro de tempo, e uma busca binária, que eu imaginei, mas, considerei bem
+complexo e descartei.
+
+Após postar, fiz um segundo modelo só alterando uma sintaxe de uso laço em
+vetores, pois, era assim que eu imaginava mas, nos testes, por uma pequena
+falha minha, não estava testando quando chegava ao final. Quando percebi,
+testando e postando o primeiro modelo, corrigi na ideia inicial e a postei,
+como segundo modelo.
+
+Serviu para comparação, apesar de que... LeetCode.
+
+Modelo 1 (C++): 14ms. Quase excelente. Memória, nem apareceu no gráfico.
+Utilizava uma variável incremental para varrer os itens internos.
+
+Modelo 2 (C++): 17ms. Mediano. Memória, horrível e no limite do gráfico.
+Utilizava as próprias estruturas de vetor para verrê-lo.
+
+O menor tempo foi 3ms. Nem tão destacado. A maioria ficava entre 11 e 23ms,
+quando não havia mais seguintes. O gráfico ía até pouco mais de 30ms.
+
+Nas postagens dos demais participantes, vi uma ideia bem interessante,
+considerando busca na coluna da matriz no lugar de linha. Mas, decidi não postar
+ideia minha que fosse similar.
+
