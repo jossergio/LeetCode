@@ -1,0 +1,37 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Inicialmente, tive uma ideia de fazer com mapa. Excedeu o tempo mas, não por se
+tratar dessa estrutura. Mas, por uma falha minha, que não considerava uma
+situação para o término de um laço.
+
+Após um segundo tempo excedido, tive uma ideia de fazer com vetor. Passou.
+
+Tentei voltar a ideia de mapa, convertendo a ideia que passou. Excedeu o tempo
+novamente.
+
+Tive uma ideia de utilizar com mapa não ordenado. Estruturas desse tipo
+necessitam de um índice simples ou uma forma de converter em um formato
+simplista, coisa que não tive paciência para estudar. Mas, poderia.
+
+Em seguida, antes de terminar e vendo postagens dos demais, tive uma ideia de
+navegar de modo mais direto por um mapa. Piorou.
+
+Modelo 1 (C++): 2202ms. Nem apareceu no gráfico, que ía até cerca de metade
+disso. Memória, medianamente ruim. Na busca, utilizava um laço onde testava
+valores possíveis até uma determinada marca.
+
+Modelo 2 (C++): 2934ms. Tamém nem apareceu no gráfico. Memória, um pouquinho
+melhor que o anterior, mas, ainda medianamente ruim. Utilizava um iterador da
+estrutura de mapa para não precisar varrer uma quantidade maior de
+possibilidades. Nem adiantou.
+
+O menor tempo, bem isolado, era 288ms. O gráfico ía até pouco mais de 1200ms.
+A grande concentração era no entorno de 400ms.
+
+Novamente, sem entender o porquê de tanta lendidão em meu código.
+
+Mantidas algumas questões, tanto a solução da plataforma quando as postagens
+dos demais participantes utilizavam de estruturas e ideias similares.
+
