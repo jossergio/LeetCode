@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Todas as minhas tentativas foram de alguma forma por força bruta, similar à
+ideia da primeira solução da plataforma, com pequenas modificações, tentando
+retornar o mais rápido possível.
+
+A segunda solução da plataforma utilizava busca binária. Porém, nem considerei
+raciocinar dessa forma, devivo a possibilidade de o valor pode nem existir,
+retornando ou valor superior ou o primeiro da lista.
+
+Modelo 1 (C++): 19ms. Mediano. Memória, medianamente boa.
+
+Modelo 2 (C++): 22ms. Medianamente ruim. Memória, apesar de indicar a mesma do
+anterior, o gráfico demonstrava excelente.
+
+Modelo 3 (C++): 26ms. Horrível. Memória, piorou um pouquinho, mas, o gráfico
+indicava medianamente boa.
+
+Houve 0ms, bem isolado, por força bruta. Vai entender o LeetCode.
+
+O gráfico ía até 35ms, tendo o meu terceiro modelo ficado no final de todos.
+
+A concentração ía de 11 a 22ms.
+
