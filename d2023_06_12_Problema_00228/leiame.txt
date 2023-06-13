@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 28/02/2022. Inicialmente, repostei, em GoLang.
+
+Em seguida, decidi fazer em C++, para comparar, pois o tempo do repostado tinha
+ficado pior. Coisas do LeetCode.
+
+Modelo 1 (GoLang): 2ms. Nem houve como comparar. Memória, idem. Era repostagem
+de momento anterior, que tinha ficado em 0ms. Vai entender o LeetCode.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, mediana. Com pequenas
+alterações, era uma tradução do modelo anterior.
+
+Em GoLang, o gráfico ía até 10ms. Mas, só havia basicamente, coluna em 0ms.
+
+Em C++, o gráfico ía até 12ms. Mas, alguns ficaram até o 2ms.
+
