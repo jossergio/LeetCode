@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Inicialmente, tive uma ideia. Mas, decidi fazer uma espiadinha nas soluçoes da
+plataforma, que eram três, para ver se melhoravam as ideias.
+
+A primeira seria bem similar aos meus pensamentos. As outras duas, nem tanto,
+apesar de que imaginava que houvesse um modo bem mais prático que pudesse ser
+apresentado pela plataforma.
+
+Então, resolvi fazer conforme minhas ideias, mesmo.
+
+Fiz dapidinho, apesar de, inicialmente, considerar utilizar uma função auxiliar,
+pelo modelo primeiro da plataforma, notei que seria mais prático e viável fazer
+um terceiro laço, intereno. E assim ficou.
+
+Em C++.
+
+572ms. Horrível.
+
+Memória, excelente.
+
+O gráfico ía até pouco mais de 800ms. Houve uma grande concentração no entorno
+de 100ms, com alguns picos mais baixos posteriores. No geral, ficou bem
+espalhado.
+
+Não houve 0ms. O menor tempo era em 61ms.
+
