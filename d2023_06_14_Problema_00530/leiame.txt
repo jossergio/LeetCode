@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava três soluções, que eu nem olhei.
+
+Tive uma ideia inicial, um pouco mais complexa, porém, cedi fazer de uma forma
+mais simplista.
+
+Porém, produziu um erro. Tentava utilizar a própria função de forma recursiva.
+Mas, notei que, realmente, isso produziria o tipo de erro que apresentou.
+
+Refiz, de uma forma mais simplista, ainda, e passou.
+
+Ao final, era parecida com a solução segunda da plataforma.
+
+A terceira solução era a que eu imaginava.
+
+E, ainda, tive um pensamento de fazer utilizando pilha. Mas, deixei para lá.
+Não estava muito afim de raciocinar nesse dia.
+
+Em C++.
+
+23ms. Mediano.
+
+Memória, horrível.
+
+O menor tempo foi em 3ms, podendo-se dizer isolado junto com o 4ms. Grande parte
+era entra 11 e 27ms.
+
+A de 4ms era bem parecida com a minha solução.
+
