@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, relativamente parecidas.
+
+Minha solução lembra bem a segunda.
+
+Após um errinho, pois precisaria de um tipo maior que inteiro e eu nem me
+atentaria para isso, passou.
+
+Em C++.
+
+257ms. Mediano.
+
+Memória, excelente.
+
+Bem isolado, 153ms foi o melhor tempo. A concentração era entre 220 e 300ms,
+formando um pico pelo meio.
+
