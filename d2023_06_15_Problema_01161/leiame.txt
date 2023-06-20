@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas ideias, que eu nem olhei.
+
+Tive uma ideia inicial, que passou de primeira.
+
+Em seguida, tive uma segunda ideia, que também passou de primeira.
+
+As duas ideias da plataforma eram similares às minhas e na mesma ordem. A
+diferença básica, na segunda, era que eu utilizei mapa e a plataforma vetor.
+
+Modelo 1 (C++): 207ms. Mediano. Memória, bem bacana. Utilizava uma fila de modo
+interativo para varrer níveis da árvore.
+
+Modelo 2 (C++): 224ms. Bem ruim. Memória, excelente. Utilizava recursividade
+para varrer os níveis da árvore, acumulando em um mapa por nível. Poderia ter
+feito como a solução da plataforma, com vetor. Mas, foi bem mais prático.
+
+O menor tempo, muito bem isolado, foi 107ms. Grande parte entre 170 e pouco mais
+de 230ms, formando um pico mais pelo centro.
+
