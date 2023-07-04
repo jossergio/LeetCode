@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após dois errinhos, por pegadinhas da plataforma, passou.
+
+Posso dizer que rapidinho.
+
+Basicamente, as soluções que vi, incluindo da plataforma, utilizavam o mesmo
+modo de pensar, apesar de algumas que eu vi complicarem bastante.
+
+Considero a minha, ainda, mais organizada, em relação à solução da plataforma.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, muito excelente.
+
+O gráfico ía até30ms. Grande parte em 3ms a 7ms.
+
