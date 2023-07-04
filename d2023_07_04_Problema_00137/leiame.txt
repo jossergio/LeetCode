@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+Em Python, para aproveitar estruturas. Ficou usando muita memória. Então, fiz
+um segundo modelo, para melhorar isso.
+
+Em seguida, decidi fazer em C++, para testar.
+
+Modelo 1 (Python 3): 65ms. Excelente. Memória, nem apareceu no gráfico.
+
+Modelo 2 (Python 3): 76ms. Medianamente bom. Memória, meio ruim. Similar ao
+anterior, porém, tirando uma variável conjunto e sua utilização.
+
+Modelo 3 (C++): 13ms. Medianamente ruim. Memória, meio ruim. Basicamente, era
+a tradução do anterior, porém, sem as estruturas de Python.
+
+Em Python, o menor tempo era 50ms, com o gáfico indo a pouco mais de 1200ms. A
+grande concentração era no entorno de 75ms, com outra menor no entorno de 130ms
+e outra em 1150ms.
+
+Em C++, muitos utilizava um modelo matemático, com operações nível bits. Houve
+0ms, mas os demais eram entre 2 a 17ms.
+
+Ainda pensei em fazer um modelo com menos linhas, em Python, tentando utilizar
+seus recursos. Porém, não tive ideia para isso.
+
