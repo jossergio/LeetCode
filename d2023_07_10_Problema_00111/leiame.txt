@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Era o mesmo problema que eu resolvi como avulso no dia 22/01/2023. Mas decidi
+fazer uma abordagem diferente.
+
+Ficou bem similar ao segundo modelo da plataforma. Os do anterior eram bem
+semelhantes ao primeiro modelo.
+
+A diferença básica era que o primeiro era DFS e o segundo era BFS, que se
+demonstrou, para esse caso, mais eficiente.
+
+Em C++.
+
+296ms. Mediano.
+
+Memória, quase excelente.
+
+Não houve abaixo de 145ms, bem isolado. A maioria era entre 260 e 325ms (não
+houve acima disso).
+
