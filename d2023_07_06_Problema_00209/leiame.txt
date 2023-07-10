@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a ideia era parecida com a da plataforma. Porém, meu código
+acabava ficando um pouco maior, na implementação. E a da plataforma utilizava
+a constante de inteiro máximo, que eu não gosto de utilizar.
+
+Em C++.
+
+45ms. Mediano.
+
+Memória, mediano para bom.
+
+O menor tempo era 11ms e bem isolado. A maior parte entre 30 e 55ms.
+
