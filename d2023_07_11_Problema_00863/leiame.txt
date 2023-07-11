@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma apresentava trẽs soluções, que eu tive que olhar para ter ideias.
+
+Uma ideia básica era transformar a árvore binária de entrada em grafo. Então,
+fiz meu código com base nessa ideia.
+
+Após um errinho, coisas do LeetCode, passou.
+
+Após postar, tive ideia de não utilizar recursividade para gerar o grafo. Além
+disso, praticar funções lambda em C++.
+
+Modelo 1 (C++): 7ms. Mediano pra bom. Memória, ruim. Utilizava uma função
+recursiva para montar o grafo. Em seguida, fazia uma busca em largura.
+
+Modelo 2 (C++): 13ms. Ruim. Memória, melhrou um pouquinho mas ainda ruim.
+Utilizava uma fução lambda, varrendo a árvore através de uma fila, para evitar
+recursividade.
+
+Modelo 3 (C++): 7ms. Mediano para bom. Memória, igual a modelo 1. A diferença
+para modelo 2 é uma definição de variável antes de um laço, para evitar ficar
+alocando a cada iteração. Ou seja: não sei porque piorou o uso da memória,
+apesar de entender a melhoria do tempo.
+
+Modelo 4 (C++): 14ms. Ruim. Memória, igual a modelo 2. Era igual ao modelo 3,
+mas utilizava, para a variável checadora de visita ao nó, mapa no lugar de
+conjunto. Vai entender o LeetCode.
+
+Houve 0ms. Mas não era um código mirabolante. Grosso modo, utilizando técnicas
+similares.
+
