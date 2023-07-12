@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Posso dizer que fiz rapidinho. Passou de primeira. Tou entendendo bem grafos e
+memorização.
+
+Após postar, vi que minha solução era parecida com a segunda da plataforma. Mas
+posso dizer que minha implementação era mais bela.
+
+A primeira solução da plataforma utilizava um conceito de reverso, buscando a
+solução dos possíveis finais para o início, no lugar de DFS com memorização, que
+era a ideia da segunda e, também, a minha.
+
+Em C++.
+
+169ms. Medianamente bom.
+
+Memória, muito excelente.
+
+O gráfico era bem espalhado, com o menor tempo em 132ms e o maior em 346ms,
+formando duas montanhas no entorno dos tempos 165 e 231ms.
+
