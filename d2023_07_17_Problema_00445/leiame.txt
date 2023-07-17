@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Rapidinho. A lógica me era comum. Apesar de que, na hora de ver se havia
+solução pela plataforma, na primeira linha abservei uma ideia mais simples.
+
+Após dois errinhos, por desatenção na implementação da lógica, passou.
+
+A plataforma apresentava duas soluções, onde a primeira me era mais comum e a
+segunda da forma como eu pensaria há algum tempo.
+
+Em C++.
+
+39ms. Medianamente bom.
+
+Memória, bem ruim.
+
+Não vi abaixo de 8ms, bem isolado. Grande parte o entorno de 40ms. Não houve
+acima dde 60ms.
+
