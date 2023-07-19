@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu aproveitei para estudar. Nos
+últimos dias, o LeetCode vem apresentando problemas que eu não estou com
+motivação para resolver mas que me apresentam resposta.
+
+Então, meio que copiando, viz a meu jeito.
+
+Em C++.
+
+648ms. Muito horrível.
+
+Memória, bem ruinzinha.
+
+Não vi abaixo de 295ms, meio que bem isolado. Grande parte era no entorno de
+500ms.
+
+Algumas ideias bem bacanas do uso da linguagem.
+
