@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que, passar pelo título, já tive uma
+sacada.
+
+Após dois errinhos, um por questões bobas e outro por não ter entendido direito,
+reforçando que só tive a sacada e não analisei o código da solução da
+plataforma, passou.
+
+Após postar, vendo o código da solução, notei que a ideia geral eram bem
+parecidas. Mas, ao final, havia um modo de otimzizar a preparação da resposta,
+que precisava de uma certa inversão.
+
+Por conta disso, fiz um segundo modelo, utilizando minha forma de programar,só
+para fazer constar esse detalhe, que, por sinal, otimizou bem.
+
+Modelo 1 (C++): 24ms. Ruim. Memória, nem apareceu no gráfico (por pouco).
+
+Modelo 2 (C++): 12ms. Quase excelente. Memória, medianamente ruim, no final do
+gráfico. Era o mesmo do anterior, só alterando a parte final, onde há um
+reordenamento (inversão), para tornar a sequência como na entrada, pois os dados
+eram tratados em pilha.
+
+Houve 0ms, bem isolado, com uma ideia fantástica. Mas, quis seguir a ideia de
+pilha da plataforma... Porém, acho que esse algoritmo falharia em algum momento,
+por não verificar em sequência no que já constaria acumulado em bloco e, talvez,
+a plataforma não tenha utilizado uma conformação para essa situação.
+
