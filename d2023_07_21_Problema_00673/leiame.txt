@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que, inicialmente, eu nem olhei.
+
+Mas, após postar, produzir erro e estar com a mente cansada, decidi aproveitar a
+chance e pontuar, aproveitando para estudar um pouco, apesar de não assimilar e
+de não dedicar tanto tempo a esse estudo.
+
+Copiei na íntegra o segundo modelo, que era um pouco como poderia em mesmo ter
+raciocinado, só alternando para minha forma de codificar.
+
+Em C++.
+
+380ms. Nem apareceu no gráfico.
+
+Memória, medianamente bom. Na maior fatia do gráfico.
+
+O menor tempo, razoavelmente isolado, era em 3ms, com um código bem extenso.
+
+O maior pico era no entorno de 215ms. Acima de 100ms era bem contínuo, formando
+alguns picos.
+
