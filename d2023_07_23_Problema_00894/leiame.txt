@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu olhei, mais uma vez, para deixar
+de ser besta, estudar e pontuar.
+
+Peguei a primeira, que era parecida com o que eu poderia imaginar, e transcrevi,
+alterando nomes de variáveis e acrescentando comentários, para estudos.
+
+Em C++.
+
+108ms. Mediano.
+
+Memória, mediana.
+
+Não vi abaixo de 75ms. Grande parte era no entorno entre 90 e 135ms.
+
