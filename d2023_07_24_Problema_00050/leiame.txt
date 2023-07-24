@@ -1,0 +1,21 @@
+Direto no LeetCode. Inicialmente, pelo celular. Depois, no computador.
+
+A plataforma apresentava duas soluções que, após errar algumas vezes em algo
+que me parecia tão simples, tive que olhar.
+
+E foi bem útil ter olhado. Um de meus erros, apesar de o código estar correto,
+era por uma situção de estouro. Além disso, as soluções da plataforma eram
+baseadas em uma questão matemática que tirava a iteratividade plena (um por vez)
+de um cálculo que podia ser dividido em partes. Inclusive, a primeira era de
+forma recursiva. A solução, entao, ficava (O) log (n).
+
+Fiz tradução direta, mesmo, modificando nomes e acrescentando comentários, para
+melhor entender. Após postar, fiz a tradução da segunda solução da plataforma.
+
+Modelo 1 (C++): 4ms. Mediano. Memória, mediana.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, igual ao anterior, apesar de
+um pouquinho melhor, ficando no excelente.
+
+Teve gente utilizando a própria função pow, do C.
+
