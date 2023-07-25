@@ -1,0 +1,18 @@
+Direto no LeetCode. Tentei pelo celular. Mas, continuei no computador.
+
+A plataforma apresentava duas soluções, que, antes, tentei raciocinar em uma
+solução O (log (n)), pois o problema pedia para que fosse assim e eu achei
+que produziria estouro de tempo se fosse linear.
+
+Após pensar bastante, resolvi olhar as soluções da plataforma. E qual foi minha
+surpresa? A primeira era linear. Poderia ter feito pelo celular.
+
+Postei bem parecida/igual. Em seguida, tentei pensar em um modo binário. Não
+consegui sozinho e fiz meus ajustes e comentários, copiando da plataforma.
+
+Modelo 1 (C++): 139ms. Horrível. Memória, mediana, com maior nível do gráfico.
+
+Modelo 2 (C++): 133ms. Medianamente ruim. Memória, igual ao anterior.
+
+O menor tempo, bem isolado, foi 59ms. A concentração era acima dos 120ms.
+
