@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu tive que olhar, por não ter ideia
+alguma, a não ser por busca linear, que eu tenho certeza que produziria tempo
+excedido.
+
+A ideia básica era por busca binária. Tenho que pensar melhor isso. Eu só
+imaginava busca linear.
+
+Porém, havia alguns ajustes de cálculos que, também, eu não teria conseguido
+imaginar.
+
+Transcrevi, ajustando, a solução da plataforma. Após um errinho, por não prestar
+atenção em um pequeno detalhe ao ajustar, passou.
+
+Em C++.
+
+229ms. Muitíssimo excelente. Por pouco não foi o melhor.
+
+Memória, medianamente ruim.
+
+O melhor tempo foi 224ms, seguido por 228ms.
+
+O gráfico ficou bem espalhado.
+
