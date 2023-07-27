@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu tive que olhar, para pontuar
+(estou deixando de ser besta, quando a plataforma me apresenta soluções de
+problemas que eu não conseguiria fazer sozinho ou teria muito trabalho) e,
+também, para estudar. Nem que seja recursos, sintaxe etc.
+
+Traduzi a primeira solução, que era em Java (ou Python) e postei.
+
+Em C++.
+
+166ms. FUI O MELHOR TEMPO! Mas a solução apontada no gráfico utilizava aqueles
+recursos de IO. E era uma ideia similar à segunda solução.
+
+Memória, ruim.
+
+Esse tempo foi bem isolado. O demais eram acima de 150ms, razoavelmente
+espassados, com o gráfico indo até pouco mais de 325ms.
+
+Seria um típico caso para estouro de tempo.
+
