@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma apresentava quatro soluções, até certo ponto similares. Inclusive,
+todas eram O(n^2).
+
+A primeira me pareceu mais prática. Utilizava recursividade. As demais faziam
+uma memorização.
+
+Apesar de tentar raciocinar, e estar bem perto, meu modelo, não sei porque,
+não passava nos testes básicos.
+
+Então, copiei a primeira solução da plataforma, traduzindo (era Java e Python),
+e postei. Ao traduzir, claro, fiz comentários e tentei embelezar o código ao
+meu jeito de programar.
+
+Ao final, não entendi direito o raciocínio. Mas, estudei e pontuei.
+
+Em C++.
+
+144ms. Medianamente ruim.
+
+Memória, mediana.
+
+Muitos em 0ms. A maior parte próxima disso.
+
+O gráfico era um pouco espalhado, com o limite indo até nas proximidades de
+400ms.
+
