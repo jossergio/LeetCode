@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu tive que olhar, para pontuar
+(estou deixando de ser besta), estudar e ver se aprendo mais.
+
+Não entendi patativas nem da questão nem de como solucioná-la. Copiei a
+primeira solução da plataforma, quase que sem alterar, e postei.
+
+Em C++.
+
+286ms. Horrível.
+
+Memória, medianamente ruim.
+
+Muitos em 0ms. A maior parte abaixo de 50ms, em um gráfico que ía até pouco
+mais de 400ms.
+
