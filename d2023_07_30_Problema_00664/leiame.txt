@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções (em C++, em Java e em Python 3). Tentei
+fazer a minha. Mas, após a segunda postagem errada, vi que meu entendimento do
+problema estava bem equivocado.
+
+Então, peguei a segunda solução da plataforma e codifiquei, com pequenos
+ajustes na sintaxe. Não saberia fazer sozinho, apesar de ter entendido, mesmo
+superficialmente, a questão, após essa postagem baseada na da plataforma.
+
+Mais um que posto assim. Pelo menos, fica o estudo, inclusive da utilização
+de recursos, sintaxe etc.
+
+Em C++.
+
+300ms. Ruim.
+
+Memória, medianamente ruim.
+
+O menor tempo foi 11ms. A concentração era entre esse valor e 50ms, com um pico
+próximo a esse limite. O gráfico ía até pouco mais de 600ms.
+
