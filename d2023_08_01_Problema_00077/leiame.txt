@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Tive uma ideia, que passou de primeira, após um tempinho e alguns testes.
+
+Após postar, vendo os demais participantes, tive uma ideia de utilizar um vetor
+temporário estático, o que melhou um pouco o tempo.
+
+Em seguida, no lugar de passar esse vetor por valor, decidi fazê-lo por
+referência, gerando uma variável a mais na função membro base (a área dessa
+variável já era reservada, na chamada da função auxiliar; criei a variável
+para o parâmetro poder ser por referência). E ISSO MELHOROU MUITO!!!
+
+Modelo 1 (C++): 396ms. Ruim. Memória, horrível. Utilizava recursão, com uma
+variável temporária vetor iniciada na chamada e passada por valor. Nas
+execuçoes, um monte de push_back's e pop_back's.
+
+Modelo 2 (C++): 249ms. Ruim, apesar de um pouco melhor. Memória, um pouco
+melhor, apesar de o gráfico apontar na mesma posição (LeetCode). Era similar ao
+anterior, mas o parâmetro da variável (tamanho) já era definido na primeira
+chamada, evitando os push's e pop's.
+
+Modelo 3 (C++): 12ms. Excelente. Memória, muito excelente. Nem sei porque não
+foi tão melhor. Bem no início do gráfico por pouquinho coisa. Era similar ao
+anterior, mas a variável temporária vetor era por referência.
+
+Houve 0ms, com uma ideia bem diferentona, mas bem bacana e sem recursitivade,
+incrementando elemento a elemento. Bem interessante a ideia, mesmo. O gráfico
+ía até pouco mais de 550ms. As soluções ficaram bem espalhadas pelo gráfico,
+mas uma grande concentração, com pico no entorno de 29ms e um outro relevo acima
+de 500ms.
+
