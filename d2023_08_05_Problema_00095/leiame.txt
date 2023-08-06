@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, Em C++, em Java e em Pyton 3, que eu
+olhei para pontuar e para estudar. Copiei a primeira solução, pois seria mais ou
+menos como eu raciocinaria, mas sem acrescentar nada, nem comentários.
+
+Em C++.
+
+7ms. Excelente. Bem poucos melhores.
+
+Memória, quase excelente.
+
+Alguns poucos acima de 3ms, até chegar na minha posição. Não houve acima de
+29ms. O gráfico ía até pouco mais de 35ms. Não houve, portanto, 0ms. A grande
+concentração era entre 12 e 25ms.
+
