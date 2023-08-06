@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 09/05/2022. Só fiz repostar.
+
+Ainda pensei em refazer, de uma outra forma. Mas, a postagem anterior já estava
+em 0ms. Porém, seria uma boa, inclusive em outra linguagem e, também, com uma
+técnica de memorização.
+
+Em GoLang.
+
+1ms. O gráfico não mostrava percentuais. Mas, era com a maioria. Detalhe é que
+a postagem anterior era 0ms.
+
+Memória, excelente e com a maioria, pelo início do gráfico, apesar de esse não
+mostrar percentuais.
+
+Não houve de 2ms acima. O gráfico ía até 10ms.
+
