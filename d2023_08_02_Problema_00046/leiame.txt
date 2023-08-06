@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a ideia do meu era bem similar que a da plataforma. Mas
+considero a minha solução mais elegante e mais otimizada em relação tempo.
+
+Também após postar, analisando as postagens dos demais, vi uma ideia bem bacana
+para econimizar tempo e espaço. Então, fiz minha própria postagem com essa
+ideia.
+
+Modelo 1 (C++): 4ms. Mediano. Memória, muito bom. E olha que achei que teria
+problemas por utilizar variáveis extras. Mas, como utilizei vetores fixos, com
+tamanho já preestabelecido no início, em vez de dinâmico, pode ter sido por
+isso.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, muito bom. O tamanho
+apresentado, era melhor que o anterior. Porém, no percentual do gráfico, era
+de mesmo tamanho.
+
+Não houve acima de 9ms, apesar de o gráfico ir até 18ms. Grande parte em 0ms.
+
