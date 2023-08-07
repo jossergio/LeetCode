@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 30/03/2022, que fiz dois modelos. Só fiz repostar
+o que, ao pensar na solução, considerei mais eficiente, apesar de não ter sido
+o de menor tempo e o que eu faria se fosse hoje. Não tive ideia melhor. Então,
+pontuar logo e ganhar tempo.
+
+Em GoLang, igual à postagem anterior.
+
+4ms. Mediano. A mesma postagem anterior era 7ms.
+
+Memória, seria depois do gráfico. Mas esse foi um pouco homogêneo.
+
+Muitos em 0ms. Não houve de 5ms acima. Nem sei se o anterior de 7ms está
+registrado no gráfico, pois não havia volume da barra.
+
+Poderia ter feito mais um modelo, imitando o que vi em 0ms. Mas, considero
+que ambos possuíam eficiência similar. Deixei para lá.
+
