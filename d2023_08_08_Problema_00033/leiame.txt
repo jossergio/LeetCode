@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma apresentava três soluções, que eu tive que olhar, após algumas
+tentativas, com dois erros.
+
+Meu raciocínio era com base na terceira solução da plataforma. Então, só chequei
+detalhes, questões de sinal de igualdade com maior/menor quê e if's else's. Só
+olhei porque estava com uma grande preguiça de pensar, após mais de uma hora de
+tentativas.
+
+A ideia da plataforma era interativa. A minha, deixei como eu estava
+raciocinando: recursivamente. Utilizei uma função embutida.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, nem apareceu no gráfico.
+
+O gráfico ía até 20ms. Mas as soluções apresentadas íam até 10ms. A maior parte
+em 3ms, apesar de que 0ms era a segunda barra mais alta.
+
