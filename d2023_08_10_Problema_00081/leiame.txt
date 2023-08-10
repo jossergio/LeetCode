@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 28/03/2022, que eu já tinha postado.
+
+Então, só fiz repostar. Estava sem saco para raciocinar.
+
+A plataforma apresentava uma solução, que eu nem olhei. Na vez passada, também
+não tinha olhado e muito menos essa, que foi só repostar.
+
+E melhorou o tempo. Vai entender o LeetCode.
+
+Em GoLang, como da vez anterior.
+
+0ms. Melhor, impossível.
+
+Memória, excelente e com a maioria. Mas piorou um pouquinho, apesar de ser uma
+repostagem. Vai ver que é compilador atualizado.
+
+Na postagem anterior, foi em 4ms.
+
+O gráfico íá até 18ms. Mas as postagens não passaram de 9ms.
+
