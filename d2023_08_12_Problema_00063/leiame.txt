@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Não posso dizer que fiz rapidinho, pois houve dois errinhos. Um, por bobeira
+minha, por não perceber uma situação que, com certeza, a plataforma poderia
+jogar. A outra, por estouro de tempo. Nada que um memo não resolvesse. Mas,
+inicialmente, achei que não seria necessário.
+
+TOU FICANDO BOM NISSO!!! Em programas com memorização (memoization).
+
+E, também, em grafos.
+
+Em C++.
+
+18ms. Horrível, no final do gráfico.
+
+Memória, também horrível e no final do gráfico.
+
+Muitos em 0ms e um pico em 4ms. Não houve, tirando o meu, acima de 9ms.
+
+Não entendo o motivo do meu ser tão lento. Basicamente, os que vi, utilizavam a
+mesma ideia. O em 0ms utilizava uma forma de variáveis globais no objeto de
+solução. O em 4ms era iterativo e bem complexo.
+
+Não sei, também, se ficar testando o limite de um vetor, que é uma função
+membro e faz chamadas, influencia. Ou se seria melhor consumir memória de uma
+variável para armazenar e ser utilizado quando necessário
+
