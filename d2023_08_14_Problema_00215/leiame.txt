@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 22/06/2022.
+
+Fiz algumas pequenas modificações nas soluções anteriores e postei. As
+modificações visavam "embelezar" o código. A solução em Python 3 transformei em
+uma única linha e a em C++ utilizei uma função lambda no lugar de uma normal.
+
+A plataforma aprentava quatro soluções. A primeira, bem parecida com as que
+eu postei. A segundao eu também tinha imaginado. As terceira e quarta bem
+interessantes de raciocínio. A terceira, eu poderia ter pensado, mas notei que
+consumiria muita memória. A quarta utilizava um pouco mais de memória, mas
+também, assim como a terceira, evitava ordenar, tornando o código quase O (n).
+
+Modelo 1 (Python 3): 434ms. Excelente, apesar de bem pior que a postagem
+anterior, que só modificava o sort da lista pela função sorted, para tornar em
+uma única linha. Memória, posso dizer excelente, apesar de que a postagem
+anterior nem aparece no gráfico, de tão excelente. Mas, na época, aparecia e era
+razoável. Pode ser questão de atualização de compilador, pois foi o dobro de
+memória.
+
+Modelo 2 (C++:) 94ms. Medianamente bom, apesar de, também, pior que a postagem
+anterior, onde eu só substituí uma função pela utilização de uma lambda.
+Memória, quase cinco vezes mais que a postagem anterior. que nem aparecia no
+gráfico, sendo quse cinco vezes o tamanho utilizado. Mais uma vez, ou é coisa da
+plataforma ou de atualização de compilador.
+
+Em Python 3, no geral, o menor tempo, foi em 140ms, relativamente isolado. A
+concentração era 380 e 600ms, com o gráfico indo até pouco mais de 2000ms e
+muitos, bem distribuídos, indo até esse limite.
+
+Em C++, no geral, o menor tempo foi 19ms, relativamente isolado, utilizand-se
+daquelas funções especiais de IO. O gráfico ía até pouco mais de 220ms, com uma
+grande concentração entre 70 e 180ms, e bem distribuído até o final.
+
