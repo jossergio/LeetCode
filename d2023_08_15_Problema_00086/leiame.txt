@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 22/07/2022. Só fiz repostar o mais rápido. Não tive
+ideia melhor.
+
+O detalhe é que ficou bem mais lento. LeetCode.
+
+Em C++.
+
+8ms. Medianamente ruim.
+
+Memória, mediana.
+
+A postagem anterior, mesmo código, ficou em 0ms.
+
+Não houve acima de 11ms. O gráfico ía até 20ms.
+
