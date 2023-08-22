@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho, apesar de demorar para ver que precisaria ajustar, pois a questão não
+era 0-begin. Mas passou de primeira.
+
+A plataforma apresentava uma solução, que eu nem olhei. A minha foi bem
+parecida, alterando, somente, forma de implementação.
+
+Um detalhe é que, apesar a plataformar categorizar como fácil, e era, a taxa de
+erros de postagem era acima de 70%.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memoria, medianamente ruim, no final do gráfico.
+
+O gráfico ía até 11ms. Mas o maior tempo era 3ms. Tudo similar à da plataforma.
+
