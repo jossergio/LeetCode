@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 05/05/2022. Porém, decidi fazer novas abordagens.
+
+Além disso, a plataforma me apresentava uma solução, que era, até, parecida
+com uma das minhas anteriores.
+
+Após um errinho, por bobeira (grande), passou. Fiz um total de quatro
+abordagens.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Utilizava
+o deque, que, além de poder ser utilizado como fila, também é utilizado como
+pilha. Só porque a plataforma indicava essa possibilidade, na definição.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, Nem apareceu no gráfico.
+Utilizava lista ligada (da própria estrutura do LeetCode), similar à primeira
+postagem geral, que era em GoLang.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Mas, o
+gráfico aparentou meio bugado. Era a mesma do anterior, porém, liberava a
+memória (delete), do nó da lista, a cada descarte de valor.
+
+Modelo 4 (C++): 0ms. Melhor, impossível. Memória, medianamente ruim. Utilizava
+uma fila, que era rotacionada, através de uma fila auxiliar, a cada retirada.
+
+Muitos em 0ms. O máximo foi em 3ms, com o gráfico indo até 12ms.
+
