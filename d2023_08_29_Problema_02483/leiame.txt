@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a minha era bem parecida com a primeira da plataforma.
+
+Vendo a segunda solução da plataforma, era uma ideia inicial que eu imaginei.
+Mas, achei que teria pegadinha, pois estava complicado entender a questão.
+
+Assim, fiz uma segunda postagem, com a ideia que eu teria.
+
+Tive uma outra ideia inicial, ainda, com acumulador duplo. Mas, desconsiderei.
+A situação pôde ser resolvida com a segunda postagem, de acumulador único.
+
+Modelo 1 (C++): 23ms. Quase excelente. Muito bom. Memória, quase escelente,
+também.
+
+Modelo 2 (C++): 22ms. Quase excelente. Memória, muito boa (mas o gráico estava
+bugado, pois, em termos de valor absoluto, era igual ao anterior).
+
+O menor tempo foi em 11ms. O gráfico ía, até, mais de 300ms. Mas, poucos
+passaram de valores acima de 70ms. Havia uma grande concentração, entre 15 e
+70ms, com picos, sendo o maior deles em 24ms.
+
