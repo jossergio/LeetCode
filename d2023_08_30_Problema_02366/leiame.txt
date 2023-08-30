@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução que, inicialmente, nem olhei, fiz o meu,
+mas... Tive que olhar.
+
+Não entendi bem a diferença do meu para o da plataforma. Em termos de ideia,
+eram idênticos. Na implementação, o meu era mais complexo (utilizava pilha, por
+exemplo, e alguns conceitos matemáticos) e não entendi a razão de, em algumas
+situações, apresentar diferenças nas respostas desejadas. Fiz alguns testes
+meus e não consegui entender lógica desses momentos errados.
+
+Então, "copiei", ao meu estilo, o código da plataforma, que utilizava,
+simplesmente, um conceito matemático.
+
+Transcrevi o código errado, também. Vai que, no futuro, alguém explica ou eu
+venha a compreender essa falha da lógica em certas situações.
+
+Em C++.
+
+79ms. Excelente.
+
+Memória, fora do gráfico, horrível.
+
+Apesar de soluções que não passaram nos testes a plataforma não apresentar
+informações das atividades (tempo, memória etc.), tenho certeza que era muita,
+principalmente por conta da pilha.
+
+Não houve 0ms. Bem isolado, 39ms, com aquelas técnicas de fast_io. O gráfico ía
+até 400ms. Mas, a grande concentração era em torno de 69 a 155ms, com dois picos
+no entorno de 92 e 130.
+
