@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma apresentava quatro soluções, que eu tive que olhar, para estudar.
+
+Fiz uma adaptação da primeira solução da plataforma, para deixar mais meu
+estilo, e postei.
+
+Porém, depois, tentei fazer com minha forma. Após alguns erros e tempos
+excedidos, NÃO passou. E não entendi o porquê de ficar apresentando erro em um
+dos testes, mesmo com diversos ajustes, não passaria. Então, desisti. Gastei
+muito tempo tentando fazer passar (mais de três horas). Mas, estudei.
+
+De toda forma, transcrevi o último postado, apesar de ter apresentado erro. Vai
+que algum dia alguém me auxilie a pensar e ver onde está o problema.
+
+Não transcrevi os demais com erro ou tempo excedido.
+
+Era um código O (n x m), onde n era o tamanho de uma string e m era o tamanho
+de um array, fornecidos. Poderia não ser ótimo, pois as soluções da plataforma
+ utilizavam memorização. Mas, é um bom algoritmo.
+
+Modelo 1 (C++): 196ms. Mediano. Memória, mediana. Era a primeira solução da
+plataforma, ajustado para ficar mais meu estilo.
+
+Modelo erro (C++): só para registrar, mesmo. O único comentário é que iria
+pressupondo uma memorização, com base no ponto atual, sem necessidade de um
+rascunho (memo). Posso dizer que era um algoritmo de guloso para heurístico,
+com pontos de saída para otimização.
+
+O gráfico ía até cerca de 1000ms. Ficou bem espalhado. O menor tempo foi em
+36ms. A maioria ficou abaixo de 300ms.
+
