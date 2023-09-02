@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/03/2022. Porém, resolvi fazer uma pequena
+melhoria no código, onde um vetor de resposta, que eu utilizava push_back na
+postagem anterior, como o tamanho final já era conhecido, já era definido com
+seu tamanho.
+
+Mas isso não ajudou muito. Pelo contrário. Piorou o tempo. Apesar de que
+melhorou a memória (talvez, questão de compilador atualizado, também).
+
+Em C++.
+
+10ms. Ruim.
+
+Memória, medianamente boa.
+
+No gráfico, a pior postagem era em 12ms. Apesar de haver 0ms, a concentração
+era bem nivelada, com um pico em 3ms.
+
