@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 08/03/2022, onde fiz três modelos em Python.
+
+Então, fiz um modelo em C++, baseado no último da postagem anterior.
+
+20ms. Horrível.
+
+Memória, horrível.
+
+Utilizada um conjunto, para ir guardando e checando se já havia passado.
+
+O gráfico ía até pouco mais de 30ms. Mas, ninguém passou de 23ms.
+
+Pouquissimos em 0ms. Muitos que vi, incluindo o 0ms, utilizavam o conceito de
+fast-slow. Mas, outros utilizavam modelo semelhante à minha ideia.
+
