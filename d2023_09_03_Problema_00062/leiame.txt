@@ -1,0 +1,13 @@
+Direto o LeetCode e pelo celular.
+
+Era o mesmo problema do dia 17/11/2021, que eu não consegui resolver, mas que
+resolvi, como avulso, em 26/11/2022.
+
+Só fiz repostar o modelo em C++. Tinha feito em GoLang, C++ e Rust.
+
+0ms. Igual à postagem anterior.
+
+Memória, nem apareceu no gráfico. Parece que piorou um pouquinho.
+
+O gráfico ía até 13ms. Mas, ninguém passou dos 4ms.
+
