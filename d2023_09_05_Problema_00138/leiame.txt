@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Refleti sobre uma solução e encontrei. Os demais participantes tiveram ideia
+similar. Porém, os que vi, utilizavam dois laços, um para a linha principal e
+outro para os possíveis secundários. O meu, era recursivo. Mas, a ideia geral
+era a mesma: um memo.
+
+Posso dizer que rapidinho, apesar de ter demorado em uma sintaxe na
+inicialização (constructor) de um objeto.
+
+Em C++.
+
+13ms. Horrível.
+
+Memória, nem apareceu no gráfico.
+
+Houve poucos 0ms. O gráfico ía até pouco mais de 22ms. Mas, não houve acima de
+15ms, com um pico em 7,5.
+
+Ainda pensei em fazer interativamente. Mas, deixei para lá.
+
