@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia. Só foi chato digitar. Passou de primeira.
+
+Posso dizer que era similar à primeira solução da plataforma. Porém, eu
+utilizava um vetor, temporário. A segunda solução utilizava uma lista ligada
+temporária. No geral, as ideias eram bem parecidas.
+
+Ao postar, foi que vi que era o mesmo problema do dia 29/09/2021, que eu havia
+feito em GoLang. Nem tinha percebido isso, antes de postar. De toda forma, a
+ideia foi a mesma.
+
+Em c++.
+
+9ms. Medianamente ruim.
+
+Memória, nem apareceu no gráfico.
+
+Poucos em 0ms. O gráfico ía até 21ms. Mas o pior foi 12ms. A grande parte foi
+entre 3 e 9ms.
+
