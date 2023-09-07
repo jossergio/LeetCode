@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 21/07/2022, que eu não tinha postado a tempo e
+ficou, para a plataforma, como dia 22, pois já tinha virado o relógio.
+
+Peguei o de tempo 0ms e repostei. Porém, fiquei com uma ideia meio maluca na
+cabeça e fui para o computador tentar.
+
+A lógica ficou muito complexa. Mas passou. Em termos de tempo e memória, ficou
+igual ao da postagem anterior. Ou seja, não compessou queimar as pestanas. Mas
+ficou o aprendizado. Só em linhas de código a mais, efetivamente (dispensadas
+linhas de espaço), foram dezenove. Muito pouco prático.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, mediana. A memória melhorou um
+pouquinho em relação à postagem anterior, sendo uma repostagem. Coisas do
+LeetCode. Vai ver, atualizaram o compilador.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, no final do gráfico. Era um
+código de lógica bem complexa, tentando ser o mais O (n) possível em todas as
+hipóteses. Ou seja: não compensou muito torrar tempo e cérebro a não ser pelo
+estudo. A memória ficou como da postagem anterior (antes de "atualizar" o
+compilador). Mas, não tão diferente. e a respostagem ainda ficou melhor.
+
+O gráfico ía até 14ms. Mas não houve acima de 5ms.
+
