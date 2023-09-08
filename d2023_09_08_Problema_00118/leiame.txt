@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 19/07/2022, que eu tinha feito alguns modelos em
+GoLang. Porém, resolvi ignorar isso e fazer em C++, do zero, no lugar de
+repostar.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, mediana. Foi um código ruim,
+complexo. Mas, ficou bacana, na execução.
+
+Modelo 2 (C++): 4ms. Medianamente ruim. Memória, ruim. Foi um código mais curto.
+Porém, na execução, se não for coisa do LeetCode, ficou ruim.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Memória, horrível. Posso dizer que é um
+algoritmo básico.
+
+Muitos em 0ms. Ninguém acima de 4ms. O gráfico ía até 13ms.
+
+Pela simplicidade, ainda pensei em fazer em outras linguagens, tipo GoLang,
+Rust e Python, além de ficar brincando com implementações. Mas, deixemos, por
+enquanto.
+
