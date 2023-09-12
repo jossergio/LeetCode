@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Após um errinho, por não ter pecebido que precisaria de um módulo (o problema
+indicava isso), pois estouraria o limite de um inteiro, passou.
+
+Raciocinei um pouco, antes, e notei que seria uma solução matemática.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim. Talvez, por ter sido recursivo, quando poderia ter
+sido iterativo, como percebi nas soluções de outros participantes, após postar.
+Utilizava a própria função para recursividade, como fatiamento de problemas.
+
+Achei bem simples o meu código, em detrimento dos demais.
+
+O gráfico ía até mais de 40ms. A maioria ficouo antes de 4ms e uma linha rasa
+após isso até os 34ms.
+
