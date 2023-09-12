@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Não passou de pirmeira. Mesmo cosiderando uma otimização, com um ordenamento
+inicial dos valores de entrada e uma condição de saída antecipada, produzia um
+estouro de tempo.
+
+Entendi melhor o problema. Vi que seria necessária uma programação dinâmica com
+memorização. E passou. ESTOU FICANDO BOM NISSO!
+
+Em seguida, fiz uma segunda postagem, só para, basicamente, tirar a ordenação no
+início e outras coisas ainda da postagem com estouro de tempo. Mas, nem
+precisaria, pois ficou na mesma.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, ruim. Provavelmente, pela
+utilização de um mapa. As melhores postagens de memória utilizava um vetor e
+eram intrativos. Bem interessante a ideia.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, ruim. Era a mesma ideia do
+modelo 1, mas sem algumas baboseiras do modelo que não foi aprovado.
+
+O gráfico ía até pouco mais de 27ms, mas ninguém passou 19ms. A concentração
+era em 0ms, mesmo, com poucos passando os 5ms.
+
