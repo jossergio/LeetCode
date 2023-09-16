@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Passou de primeira.
+
+Após postar, vi que muitas das ideias dos demais eram bem similares à minha,
+utilizando, inclusive, dois laços em sequência.
+
+A da plataforma, apesar de eu considerar um pouco mais complexa em termos de
+implementação, também era bem similar, mas evitada dois laços, fazendo em
+uma exeução só.
+
+Em C++.
+
+4ms. Excelente.
+
+Memória, medianamente boa.
+
+Houve 0ms. O gráfico ía até pouco mais de 27ms. Mas, ninguém passou de 18ms.
+
