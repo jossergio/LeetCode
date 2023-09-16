@@ -1,0 +1,12 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 04/07/2022, que eu havia feito em duas linguagens,
+GoLang e Python 3. Só fiz repostar o modelo em GoLang.
+
+16ms. Medianamente bom.
+
+Memória, ruim.
+
+O menor tempo foi 7ms. O gráfico ía até cerca de 450ms. Havia uma grande
+conentraçãoem torno do pico de 18ms. Poucos passaram de 50ms, bem espalhado.
+
