@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 29/03/2022. Não vi forma de melhorar.
+
+Aliás! Considero o meu uma boa estruturação. Muitos apresentavam uma codificação
+bem complexa.
+
+Então, só fiz repostar.
+
+Em GoLang.
+
+88ms. Muito bom. A postagem anterior era bem após isso (130ms).
+
+Memória, quase excelente.
+
+O menor tempo, bem destacado, era em 60ms. O gráfico ía até pouco mais de 160ms.
+Não houve acima de 152ms. Formava uma grande concentração entre 84 e 116ms. Mas
+não é bem delimitado isso.
+
