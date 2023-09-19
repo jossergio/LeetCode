@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 27/03/2022, que eu havia feito dois modelos em
+Python 3. Porém, resolvi "brincar" um pouco com sintaxes e recursos e fiz mais
+três modelos.
+
+Modelo 1 (Python 3): 105ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 101ms. Muito bom. Memória, muito boa.
+
+Modelo 3 (Python 3): 103. Medianamente bom. Memória, medianamente boa.
+
+O menor tempo, bem destacado, era 85ms. O gráfico ía até pouco mais de 135ms.
+Não houve acima de 126ms. Formava uma montanha, entre 88ms e 126ms, com o pico
+em 107ms.
+
