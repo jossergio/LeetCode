@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Era o mesmo problema que eu havia tentando resolver como avulso em 22/01/2022 e
+o concluí em 21/03/2022, também como avulso. Em 15/10/2022, fiz modificações
+para brincar com Rust e outras funcionalidade de GoLang, que era a linguagem
+que utilizei como original.
+
+Só fiz, então, repostar o de Rust, que teve um tempo de 0ms, e o melhor tempo
+de GoLang, para ver como ficaria nas "coisas do LeetCode".
+
+A plataforma apresentava apresentava três soluções, que eu nem olhei.
+
+Modelo 1 (Rust): 3ms. Mediano. Memória, medianamente ruim. Em termos de memória,
+melhorou um pouquinho. Em termos de tempo, piorou. Mas é a mesma postagem.
+
+Modelo 2 (GoLang): 11ms. Medianamente bom. Memória, mediana. Piorou o tempo e
+manteve a memória. É, também, a mesma postagem.
+
+Em Rust, o gráfico ía até pouco mais de 16ms, mas ninguém chegou em 8ms.
+
+Em GoLang, o gráfico ía até pouco mais de 30ms, mas nínguem passou de 23ms.
+
+Houve 0ms em ambos.
+
