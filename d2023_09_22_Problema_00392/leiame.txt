@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 02/03/2022. Porém, decidi fazer uma nova abordagem.
+
+Após postar, analisando o código dos demais participantes, decidi fazer uma
+segunda que, após um errinho (em uma situação particular), passou também.
+
+Rapidinho.
+
+Modelo 1 (C++): 3ms. Mediano. Memória, horrível.
+
+Modelo 2 (C++): 3ms. Mediano. Memória, idem anterior.
+
+O gráfico ía até 15ms. Porém, ninguém passou dos 7ms.
