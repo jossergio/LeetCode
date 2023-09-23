@@ -1,0 +1,39 @@
+Direto no LeetCode.
+
+Após um errinho, por bobeira (uma linha fora de lugar), passou.
+
+Vendo as postagens dos demais, tentei fazer uma forma iterativa. Mas, não
+consegui. Não era um simples problema de busca, pois havia uma condição que
+poderia produzir caminho diferente no decurso da solução.
+
+Mas, minha ideia, de uma programação dinâmica com memória, ficou excelente.
+
+Então, após desistir do modo iterativo, resolvi retomar e organizar um pouco o
+código, que era recursivo. Mas, piorou.
+
+Mesmo assim, ainda fiquei encucado em utilizar uma forma iterativa. Antes de
+finalizar, fiz um modelo que passou. Ficou melhor ainda.
+
+E, ainda assim, resolvi testar o modo recursivo com unordered_map no lugar de
+map. Então, fiz um quarto modelo.
+
+Modelo 1 (C++): 77ms. Muito bom. Memória, mediana.
+
+Modelo 2 (C++): 97ms. Mediano. Memória, mediana e um pouco pior que o anterior.
+Eram relativamente idênticos. Mas, criei uma função para um trecho mais complexo
+e eliminei uma variável que não era necessária.
+
+Modelo 3 (C++): 66ms. Excelente. Memória, mediano. Iterativo e utilizava
+unordered_map, no lugar de map.
+
+Modelo 4 (C++): 52ms. Mais excelente ainda. Memória, mediana. Era o mesmo modelo
+1, utilizando unordered_map.
+
+Em temos de memória, como a memorização baseava-se em um mapa de índice string,
+realmente, foi problema. Além disso, fazia uma lista com tamanhos das strings
+passadas para o problema, visando otimizar a busca pelo próximo.
+
+O gráfico ía até cerca de 2000ms, com uma boa parte chegando próxima a isso,
+acima de 1700ms. Mas o pico ficou no entorno de 79ms. O menor tempo era em 17ms,
+com um algoritmo meio complexo.
+
