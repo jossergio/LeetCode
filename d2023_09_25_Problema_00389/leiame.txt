@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 07/02/2022, que eu havia feito em GoLang, obtendo
+desempenho 0ms.
+
+Porém, resolvi testar linguagens e fiz mais dois modelos, em C++ e em Python 3.
+
+Mas as abordagens foram um pouco diferentes, apesar de a ideia ser a mesma.
+
+Modelo 1 (C++): 5ms. Medianamente ruim. Memória, horrível.
+
+Modelo 2 (Python 3). 47ms. Medianamente ruim. Memória, excelente.
+
+Em C++, houve muito 0ms, o gráfico chega perto de 16ms, mas ninguém passou dos
+6ms.
+
+Em Python, o menor tempo foi 22ms, o gráfico passava um pouco de 65ms, mas não
+houve após 67ms, com uma grande concentração pelo meio do tempo das postagens.
+
+Em princípio, esses algoritmos utilizavam três laços simples. Mas o de GoLang
+previa uma forma de sair no segundo, o que pode ter otimizado muito.
+
