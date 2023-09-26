@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Após postar, vendo as dos demais participantes, decidi fazer uma otimização
+no código e, em seguida, uma ideia que poderia otimizar, pois já definia o
+tamanho do vetor, no lugar de push_back.
+
+No geral, as ideias são semelhantes. Inclusive com a da plataforma.
+
+Modelo 1 (C++): 7ms. Mediano. Memória, ruim.
+
+Modelo 2 (C++): 10ms. Medianamente ruim. Memória, mediana. Igual ao anterior,
+mas já definia o tamanho que seria utilizado do vetor, evitando push_back e
+evitava utilizar swap, na substituição dos vetores.
+
+Modelo 3 (C++): 14ms. Ruim. Memória, mediano e um pouco pior que o anterior.
+Utilizava uma forma de acumular já para o próximo. Mas, ficou pior. Pode ser
+coisas do LeetCode. Esse modelo era quase similar ao da plataforma, apesar de
+eu considerar mais organizado.
+
+Houve muitos 0ms. Grande parte ficou entre 3 e 12ms, com alguns indo até 31ms.
+O gráfico ía até pouco mais de 40ms.
+
