@@ -1,0 +1,16 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 02/05/2022. Mas, resolvi fazer uma nova abordagem,
+apesar de que a ideia era a mesma, para ver se otimizaria o tempo.
+
+Modelo 1 (C++): 14ms. Ruim. Memória, medianamente ruim.
+
+Modelo 2 (C++): 3ms. Excelente. Memória, igual ao anterior. A modificação foi
+eliminar o else.
+
+Houve 0ms. O gráfico ía até pouco mais de 55ms. As postagens íam até 45ms, mas
+poucos passaram de 15ms.
+
+Bem. Os códigos são bem parecidos, no geral, tirando a questão de que alguns
+insistem em complicar.
+
