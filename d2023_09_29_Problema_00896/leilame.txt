@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Tive uma ideia rápida, apesa de a implementação não ter tido o tanto de rapidez,
+pois ficou extensa. Mas, vendo as postagens dos demais participantes, tá na
+média.
+
+Em C++.
+
+135ms. Ruim.
+
+Memória, posso dizer excelente.
+
+Poucos abaixo de 100ms, com o menor em 43ms. O gráfico ía até pouco mais de
+150ms. Porém, não houve após 147ms. Uma boa montanha entre 100 e 147ms, com
+pico em 127ms.
+
