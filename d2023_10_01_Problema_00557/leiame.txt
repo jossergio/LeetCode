@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Era o mesmo problema do dia 22/09/2023, que eu havia postado dois modelos em
+Python 3.
+
+Então, peguei o que achei mais "bonitinho" em termos de código (e de velocidade
+também) e repostei. Ambos utilizavam a ideia de linha única de Python, que eu
+gosto muito de fazer, quando é possível. Aliás, se houver possibilidade de linha
+única em Python, nem tento outra linguagem.
+
+Porém, após postar, imaginei como ficaria em C++. E fiz um modelo nessa
+linguagem.
+
+Modelo 1 (Python 3): 37ms. Posso dizer excelente. Memória, medianamente boa. Era
+uma repostagem de solução anterior.
+
+Modelo 2 (C++): 24ms. Ruim. Memória, medianamente ruim. Ficou um código bem
+extenso. Mas, até as ideias da plataforma eram assim, pois C++ não possui as
+facilidades que Python possui e temos que implementar na tora. Um detalhe é que
+eu utilizava uma pilha. Mas as ideias gerais eram as mesmas.
+
+Em Python, o menor tempo foi 23ms, com o gráfico indo até pouco mais de 100ms.
+Mas, ninguém passou dos 96ms. Uma boa concentração entre 35 e 50ms.
+
+Em C++, houve 0ms bem murchinho e isolado, com o gráfico indo até mais de 90ms,
+com alguns atingindo essa marca. A concentração mesmo era entre 8 e 21ms.
+
