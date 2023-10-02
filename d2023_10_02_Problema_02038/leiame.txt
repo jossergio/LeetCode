@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma apresentava uma solução, que eu tive que olhar, porque imaginei que
+haveria algum macete em cima de programação dinâmica e memorização, que eu não
+via como utilizar.
+
+Porém, não havia necessidade, por uma questão lógica do próprio problema, que
+facilitava, também, a solução.
+
+Decidi fazer em Python 3, para aproveitar questões das facilidades da linguagem.
+Mas, não ajudou muito na redução do código.
+
+Após postar, vendo as ideias dos demais, resolvi fazer um segundo modelo. Após
+um errinho, bobo, e um tempo excedido, passou. Mas não entendi o porque de ter
+ficado um pouco mais lento, já que foi baseado em um de desempenho melhor das
+postagens dos demais.
+
+Modelo 1 (Python 3): 131ms. Excelente. Memória, medianamente boa.
+
+Modelo 2 (Python 3): 148ms. Ainda excelente. Memória, medianamente boa.
+
+O menor tempo foi 66ms. O gráfico ía até 400ms. Uma boa concentraão entre 180 e
+240ms.
+
