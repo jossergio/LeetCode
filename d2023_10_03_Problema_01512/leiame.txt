@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava duas soluções, que eu nem olhei.
+
+Após postar, decidi fazer outras abordagens.
+
+Modelo 1 (C++): 4ms. Horrível. Memória, medianamente ruim, já no final do
+gráfico. Utilizava laço aninhado. Similar à primeira solução da plataforma.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, mediana. Ía diminuindo o vetor
+a cada passagem, com a finalidade de, a cada iteração, reduzir as comparações,
+utilizando de uma fórmula matemática para análise combinatória para acumular o
+cálculo. Mas é um algoritmo ruim, apesar de ter batido 0ms.
+
+Modelo 3 (C++): 3ms. Mediano. Memória, mediana, mas melhor que o anterior. Era
+uma forma otimizada do modelo anterior. Mas ficou pior. LeetCode.
+
+A outra ideia da platorma utilizava uma eficiência por tabela hash, com uma
+ideia que eu poderia pensar, salvo um pequeno detalhe de a soma ser antes.
+
+O gráfico chegava até 13ms, mas, não havia coluna depois de 3ms. O meu de 4ms
+não marcou coluna no gráfico.
+
