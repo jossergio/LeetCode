@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava quatro soluções, que eu nem olhei, sendo as duas
+primeiras baseadas em programação dinâmica e as outras duas baseadas em
+conceitos matemáticos, com a última bem interessante.
+
+Apesar de pensar bastante, um fato interessante é que os primeiros valores
+seguiam (ou deviam seguir) caminhos diferentes, coisa que eu não percebi, mas
+os algoritmos da plataforma, e dos demais participantes, seguiam isso, não
+realizando cálculos complexos para eles, retornando de imediato o valor.
+
+Em C++.
+
+4ms. Ruim.
+
+Memória, medianamente ruim.
+
+Apesar de ser uma ideia similar à primeira da plataforma, intuitivamente eu
+gerei um código para os números menores, citados, e um ajuste por não considerar
+isso de forma imediata.
+
+Muitos em 0ms. O gráfico ía até perto de 22ms, apesar de não haver barra depois
+do 12ms.
+
