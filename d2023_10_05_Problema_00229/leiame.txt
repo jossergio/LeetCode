@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho. Tive uma ideia e passou de primeira.
+
+Não ficou uma ideia tão boa. Para evitar um segundo laço, utilize um conjunto
+(set). Mas, aparentemente, seria melhor um segundo laço, posterior, para marcar
+os que atingissem o objetivo.
+
+Em C++.
+
+16ms. Bem horrível.
+
+Memória, mediana.
+
+O gráfico ía até 25ms. Mas não houve quem passasse do meu. Aliás, o meu nem
+serviu para marcar barra.
+
+O do 0ms, e outros, utilizavam os dois laços em sequência, que eu dispensei, em
+prol de utilizar um set, apesar de, ao final, ao produzir a resposta, mesmo de
+forma direta, o efeito era de um laço nesse set.
+
