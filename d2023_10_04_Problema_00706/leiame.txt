@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 22/04/2022, que eu havia feito três modelos. Peguei
+o primeiro, mesmo não tendo sido o mais rápido, e repostei. Era o de menor uso
+de memória.
+
+Depois, fiquei imaginando uma forma de fazer diferente. Mas, abandonei a ideia.
+
+Em C++.
+
+123ms. Mediano.
+
+Memória, medianamente boa. Mas, pior que a postagem anterior, de mesmo código.
+
+O menor tempo, bem isolado, foi 50ms. com um algoritmo que exigia muitos
+recursos e dependia dos limites fornecidos pelo problema, para não estourar.
+
+Concentração entre 80 e 180ms, com pico em torno de 107ms. O gráfico ía até
+próximo de 325ms e uma linha de barra chegava próximo a isso.
+
