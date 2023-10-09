@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 25/07/2022, que eu havia feito em GoLang.
+
+Porém, como o problema indicava tentar fazer em O(log(n)), e a minha postagem,
+apesar de tender a O(n/2) possuía algumas complicações, revolvi fazer uma nova
+aborgadem.
+
+Após postar, como tinha feito essa nova em C++, decidi traduzir para GoLang e
+postar novamente, para comparar.
+
+Após um errinho bobo, essa tradução passou. Inicializei uma variável de limite
+0-begin com um final no simples tamanho do vetor, sem calcular -1.
+
+Modelo 1 (C++): 11ms. Horrível. Memória, também horrível.
+
+Modelo 2 (GoLang): 4ms. Excelente. Memória, excelente. Basicamente, era a
+tradução do modelo 1.
+
+Apesar de ser O(log(n)), em alguns momentos, ao final do algoritmo, poddia ser
+O(n).
+
+Algumas postagens aparentando ser uma forma mais simplificada que a minha
+anterior foram bem melhores. A de 0ms de GoLang era bem extensa.
+
+Em ambos, houve 0ms.
+
+Em C++, o gráfico ía até 20ms, não havendo barra depois de 10ms.
+
+Em GoLang, o gráfico ía até 18ms, não havendo barra depois de 8ms, que foi a
+grande maioria.
+
+Poderia ter testado outras ideias, como ajustar a ideia anterior, para ser menos
+extensa. Mas estava sem saco.
+
