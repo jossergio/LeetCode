@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 10/07/2023, que eu havia feito em GoLang.
+
+Inicialmente, só fiz repostar. Porém, antes de fazer o registro no GitHub,
+por ser um modelo que se pode resolver por programação dinâmica com memorização,
+decidi fazer uma versão mais nessa estrutura e em C++. A postagem em GoLang era
+mais interativa, um laço único decrescente.
+
+Modelo 1 (GoLang): 0ms. Melhor impossível. Memória, mediana. A postagem
+anterior, com o mesmo código, tinha ficado em 8ms e a memória maior. Vai
+entender o LeetCode. Utilizava um modelo interativo, com um laço decrescente,
+que ía acumulando valores, de acordo com as regras do problema.
+
+Modelo 2 (C++): 3ms. Medianamente muito bom, na maior das barras do gráfico.
+Memória, horrível. Era mais uma cara de programação dinâmica com memorização.
+
+Analisando muitos modelos em C++, eram bem diversos, alguns fazendo buscar
+direta, similar ao modo interativo, e outros acumulando interativamente em um
+laço crescente, e outros com função recursiva da busca utilizando as duas
+formas.
+
+Em C++, houve 0ms. O gráfico ía até 20ms, mas a última barra era em 10ms.
+
+Em GoLang, o gráfico ía até 16ms, mas a última barra era em 6ms.
+
