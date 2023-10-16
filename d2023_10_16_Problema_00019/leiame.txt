@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Era o mesmo problema que eu havia resolvido como avulso em 10/09/2022 e feito
+outros modelos em 14/09/2022. Só fiz repostar um modelo em GoLang com menos
+memória, apesar de ser o mais lento. Tinha feito em Rust, tambem.
+
+Em GoLang.
+
+1ms. O gráfico não mostrava um percentual, mas era a maior coluna do gráfico.
+
+Memória, melhorou em relação à postagem anterior, sendo pelo início do gráfico,
+apesar de a plataforma não apresentar um percentual.
+
+Houve 0ms. O gráfico ia até 10ms. Não houve coluna depois do dois em diante.
+
