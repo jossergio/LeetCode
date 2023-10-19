@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/05/2022, que eu havia feito em GoLang. Porém,
+resolvi formar um novo modelo.
+
+Após três bobeiras, uma por não passar por referência (esquecer o marcador), um
+por não considerar que, por fazer um laço único para tamanhos diferentes,
+utilizar o comparador && no lugar de || para checar quando atinge o final do
+maior, e outro por não considerar que o LeetCode pode apresentar situações de
+acúmulo vazio e ainda retirar, passou.
+
+Em C++.
+
+3ms. Mediano.
+
+Memória, medianamente ruim.
+
+Houve grande maioria em 0ms. O gráfico ía até 12ms, mas ninguém passo de 3ms e
+poucos em 1 e 2ms.
+
+Ainda pensei em fazer um outro modelo, utilizando, como outros modelos dos
+demais participantes, diretamente em strings, para serem comparadas ao final,
+pois utilizei pilhas, mas dexei para lá.
+
