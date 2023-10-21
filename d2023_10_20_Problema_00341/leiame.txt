@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 08/05/2022, que eu havia tentado resolver e não
+consegui no dia. Porém, fiquei criando, a partir do dia 12 até o dia 21,
+diversos modelos, em um total de nove, em C++, e ficou como avulso do dia
+21/05/2022, quando fechei.
+
+Só fiz repostar o que estava com tempo menor. E melhorou. LeetCode.
+
+Em C++.
+
+3ms. Excelente.
+
+Memória, mediana.
+
+Houve 0ms. O gráfico ía até cerca de 22ms, mas a útila barra do gráfico era em
+13ms.
+
+Após postar, tentei fazer um modelo com menos memória. Mas, após várias
+tentativas, nos testes, apresentava um erro de execução que eu não consegui
+entender, apesar de gerar inúmeros códigos e acompanhamentos de código para
+tentar entender.
+
+Náo identifiquei o motivo. Então, não postei. Uma condição de um laço,
+aparentemente, era o problema. Mas, antes de retornar, usei, nos testes um if,
+que passava sem problemas.
+
