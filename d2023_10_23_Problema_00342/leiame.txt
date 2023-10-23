@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 22/08/2022. Porém, fiz uma pequena modificação,
+apesar de o tempo da postagem anterior ter sido 0ms, já.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim. Piorou, não sei o porquê. A modificação básica era
+tirar um incremento por multiplicação e fazer por deslocamento de bits.
+
+O gráfico ía até 14ms. Mas a pior barra era em 4ms.
+
