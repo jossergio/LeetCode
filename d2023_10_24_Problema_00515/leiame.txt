@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei e fiz em C++.
+
+Após postar, vendo uma das soluções, vi que poderia brincar com GoLang. E fiz um
+segundo modelo, utilizando mapa, que seria utilizado para gerar a base da
+resposta.
+
+Em seguida, vendo que poderia, com base em uma das ideias da plataforma,
+utilizar um vetor no lugar de um mapa, para já obter o vetor de resposta, perdi
+um tempinho numa solução como essa. Em C++, seria prático. Mas, em GoLang,
+demorei a tender que um slice é passado por referễncia em uma função, mas não
+permite adicionar valores, só modificá-los. Resovil com uma variável global que
+era inicializada no início da chamada à função para um valor vazio.
+
+Nem gosto de variáveis globais e se fosse em C++ vector permite adicionar,
+quando o passando por referência.
+
+Modelo 1 (C++): 3ms. Excelente. Memória, medianamente ruim. Era interativo,
+utilizando uma fila, bem prático.
+
+Modelo 2 (GoLang): 5ms. Medianamente bom. Utilizava map e, ao final, a partir
+desse, gerava um vetor de resposta.
+
+Modelo 3 (GoLand): 7ms. Medianamente bom. Utilizava um vetor global para a
+resposta, que era inicializado a cada chamada à função principal.
+
+Em C++, houve 0ms e era bem similar ao meu. O gráfico ía até 25ms, mas a última
+coluna era em 16ms.
+
+Em GoLang, também houve 0ms e utilizava a forma, que eu não lembrava, de
+permitir passar um slice por ponteiro, o que permitia adicionar elementos. A
+diferença para ou meu era, basicamente, essa. O gráfico ía até 22ms, mas a
+última barra era em 12ms.
+
