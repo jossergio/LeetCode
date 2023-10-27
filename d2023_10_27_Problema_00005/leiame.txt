@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 16/06/2022, que eu havia feito dos modelos, em
+GoLang. Só fiz repostar o mais rápido e de menor memória.
+
+A plataforma apresentava quatro soluções, bem interessantes de serem estudadas,
+mas eu estava sem paciência.
+
+Em GoLang.
+
+5ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+O gráfico ía até mais de 1200ms. Mas a grande concentração era acima de 7ms e
+havia 0ms.
+
