@@ -1,0 +1,12 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 07/08/2022. Só fiz repostar o menor tempo e memória.
+
+Em C++.
+
+3ms. Igual ao anterior. Excelente.
+
+Memória, piorou um poquinho e ficou medianamente boa.
+
+Houve 0ms. O gráfico ía até 600ms, mas poucos passaram de 100ms.
+
