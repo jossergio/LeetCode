@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Tive uma ideia, direta, que ficou meio parecida com a primeira da plataforma.
+Aliás, tirando pequenos ajuste, todas tinham o mesmo embasamento.
+
+Inicialmente, fiz em C++, para aproveitar estruturas. Em seguida, fiz em Python
+3, para ver se economizava código. Porém, nem tanto. E ainda, por incrivel que
+pareça, não foi tão intuitivo. E olha que foi, só, tradução.
+
+Modelo 1 (C++): 12ms. Medianamente ruim. Memória, mediana.
+
+Modelo 2 (Python 3): 85ms. Ruim. Memória, mediana.
+
+Em C++, houve 0ms. O gráfico ía até pouco mais de 35ms mas não houve barra acima
+de 29ms.
+
+Em Python, o menor tempo foi em 47ms. Tanto que iniciava pouco antes de 40ms,
+indo até perto de 120ms, mas não havia barra acima de 109ms.
+
