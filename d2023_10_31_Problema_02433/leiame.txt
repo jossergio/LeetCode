@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+É um problema que desprende uma certa lógica e me foi difícil imaginar, apesar
+de ter uma ideia.
+
+Após postar, vendo a solução dos demais, decidi fazer outros modelos.
+
+A última era, basicamente, minha ideia inicial. Mas não consegui ver um
+raciocínio de imediato que chegasse até ele. Questões mentais.
+
+Modelo 1 (C++): 91ms. Medianamente ruim. Memória, medianamente boa. Utilizava
+um acumulador e um vetor auxiliar, para a resposta.
+
+Modelo 2 (C++): 87ms. Mediano. Memória, mediana. Utilizava o vetor auxiliar e
+dispensava a variável do acumulador, obtendo do próprio vetor de entrada.
+
+Modelo 3 (C++): 97ms. Ruim. Memória, mediana. Utilizava um acumulador, uma
+memória auxiliar e dispensava um vetor auxiliar, utilizando o próprio vetor de
+entrada para gerar o de resposta.
+
+Modelo 4 (C++): 87ms. Mediano. Memória, mediana. Era o menor dos códigos,
+fazendo o laço de forma inversa, que eu imaginava no início, mas estava fraco
+das ideias.
+
+Não houve 0ms. O menor tempo, bem isolado, 43ms. grande concentração no entorno
+de 85ms. Não houve acima de 102ms.
+
+Parece que os testes da plataforma eram bem pesados, envolvendo grande
+quantidade de elementos nos vetores de entrada dos testes, pois todas as
+soluções consistiam de um laço simples e uma operação de bites a cada iteração.
+
+
