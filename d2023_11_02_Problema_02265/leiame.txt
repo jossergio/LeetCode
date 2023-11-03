@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Inicialmente, pensei em fazer em GoLang, pois precisaria de resposta para dois
+valores, em uma função. Após postar, vi que a solução da plataforma resolvia
+isso retornando pair. Eu utilizei duas variáveis por referência.
+
+Mas postei uma versão em GoLang, ainda assim.
+
+Minha solução era bem parecida com a da plataforma.
+
+Modelo 1 (c++): 7ms. Mediano. Memória, ruim.
+
+Modelo 2 (GoLang): 5ms. Mediano. Memória, quase excelente.
+
+Em C++ e e GoLang houve 0ms.
+
+Em C++, o gráfico passava de 40ms, mas não houve acima de 35ms.
+
+Em GoLang, o gráfico ía até 18ms. Mas não houve acima de 9ms.
+
