@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Pensei em uma solução e consegui implementar rapidinho.
+
+A solução da plataforma utilizava laço aninhado. A minha eliminava isso, fazendo
+com que os valores necessários fossem realizados em um laço único, com uma
+condição verifiando se haveria incremento de uma das variáveis e a outra era
+contínua. Porém, esse laço interno não apresentava interferência no externo, na
+solução da plataforma.
+
+Em c++. 0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Com poucas exceções, todos eram em 0ms.
+
+O gráfico ía até 12ms. Mas não houve acima de 3ms.
+
