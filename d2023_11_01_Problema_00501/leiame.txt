@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava seis soluções, que eu nem olhei.
+
+A minha solução era bastante parecida com a primeira da plataforma.
+
+Em C++.
+
+16ms. Mediano.
+
+Memória, medianamente ruim.
+
+As soluções da plataforma eram boas para estudo.
+
+Houve 0ms, bem isolado. O gráfico ía ate pouco mais de 35ms. Mas não houve acima
+de 26ms.
+
