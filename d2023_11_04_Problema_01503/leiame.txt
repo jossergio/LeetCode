@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Inicialmente, as ideias que eu tive, com toda certeza, produziriam estouro de
+tempo. Então, decidi olhar a solução, que era única, da plataforma.
+
+A estrutura do modelo envolvia uma ideia sem muitos desgastes. Então, notei que
+poderia ser uma daquelas ideias que podem ser resolvidas com uma linha única de
+Python. E assim, fiz uma leve tradução.
+
+Após alguns erros, por não interpretar direito, passou.
+
+Em seguida, decidi fazer uma abordagem um pouco modificada e fiz um novo modelo.
+
+Modelo 1 (Python 3): 152ms. Medianamente ruim. Memória, nem apareceu no gráfico.
+Basicamente, era uma linha que traduzia o modelo da plataforma, com alguns
+ajustes, claro.
+
+Modelo 2 (Python 3): 151ms. Mediano. Memória, medianamente boa. Era o mesmo do
+anterior, mas utilizava ordenamento para pegar o maior (ou o menor) em uma
+lista.
+
+Não houve 0ms. O menor tempo, bem isolado, era 129ms. O gráfico ía atá mais de
+170ms, mas não houve acima de 163ms.
+
