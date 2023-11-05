@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, tive uma ideia que, após postar, vi que era semelhante à primeira
+da plataforma.
+
+A segunda era com pequeno ajuste, para não precisar utilizar objeto do tipo
+fila.
+
+Não passou de primeira, pois houve um estouro de tempo. Realmente, a plataforma
+criou situação simples para isso e bastou adicionar um teste onde não haveria
+mais possibilidades que passou. Esse teste também estava presenve nas soluções
+do LeetCode.
+
+Em C++.
+
+99ms. Ruim.
+
+Memória, bem ruim.
+
+Não houve 0ms. O menor tempo, bem isolado, era 43ms. O gráfico ía até 180ms, mas
+a última barrinha ficou em 150ms
+
+Os melhores tempos não utilizavam fila. Os piores, sim. Isso também serve para
+memória. E ainda havia alguns mais complexos ainda, utilizando pilha,
+dqueue e/ou vetor. 
+
