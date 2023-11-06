@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após um tempo excedido, passou.
+
+Após postar, vi que a primeira solução da Plataforma era bem similar à minha.
+
+Ainda fiz uma segunda postagem, ajustando a função de uma fila de prioridades,
+que era necessária para não haver o estouro de tempo.
+
+Lendo as soluções do LeetCode, vi que a terceira era bem similar a uma ideia que
+tive inicialmente. Então, fiz mais um modelo utilizando essa técnica.
+
+Modelo 1 (C++): 197ms. Medianamente bom. Memória, mediana. Utilizava uma fila
+de prioridade, guardando valores convertidos para negativo, para ter uma ordem
+crescente
+
+Modelo 2 (C++): 305ms. Mediano. Memória, mediano. Era igual ao anterior, mas já
+definia uma função de ordem da fila de prioridade.
+
+Modelo 3 (C++): 260ms. Excelente. Memória, excelente. Só utilizava a fila de
+prioridade quando necessário.
+
+Estou decidindo utilizar o novo visual do LeetCode. Algumas coisas para me
+adaptar. Pricipalmente pela questão de meu tipo de monitor.
+
+Não vi abaixo de 229ms. O gráfico ía até cerca de 495ms. Concentração no entorno
+de 300ms.
+
