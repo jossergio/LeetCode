@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a primeira era bem similar à minha. E a segunda era bem
+similar e eu também poderia ter tido a ideia. Modificava, somente, a estrutura
+utilizada para conter as informações, que era uma fila de prioridades.
+
+Fiz em Python, para reduzir código, apesar de que optei por não forçar tanto,
+pois o entendimento era um pouco chato. Fácil, não complexo, mas chato.
+
+695ms. Mediano.
+
+Memória, ruim.
+
+Penei um pouco, até ver melhor a lógica e não confundir. Mas, passou.
+
+Não vi abaixo de 662ms. O gráfico ía até 822ms. Grande concentração no entorno
+de 695ms.
+
