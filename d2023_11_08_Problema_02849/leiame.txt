@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Inicialmente, achava que teria que ser por programação dinâmica. Mas, vendo como
+implementar, vi uma forma mais simples e direta.
+
+Após dois erros, que eu imaginava haver pegadinhas da plataforma, passou.
+
+Minha ideia era bem similar à da plataforma, que envolvia, simplesmente, uma
+questão matemática.
+
+Em C++.
+
+2ms. Medianamente ruim. Não sei o motivo, pois os do 0ms eram semelhantes.
+
+Memória, ruim. Também não sei o motivo.
+
+Muitos em 0ms. O gráfico terminava em 3ms.
+
