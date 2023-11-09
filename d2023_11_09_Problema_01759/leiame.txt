@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Fiz um modelo baseado em memorização. Mas, o da plataforma era uma condição
+matemática simples. Posso ter chegado perto da ideia, mas não teria essa
+intuição.
+
+Fiz em GoLang, dois modelos, para brincar. Depois, traduzi o segundo para C++,
+que passou, após um errinho. Questão de como o inteiro é tratado, pois a própria
+questão falava em módulo, que eu só usava no acumulador.
+
+Modelo 1 (GoLang): 42ms. Medianamente ruim. Memória, medianamente ruim.
+Utilizava mapa, para lembrar de valores já calculados.
+
+Modelo 2 (GoLang): 20ms. Mediano. Memória, medianamente ruim e similar ao
+anterior. Utilizava um vetor, no lugar de um memo.
+
+Modelo 3 (C++): 35ms. Ruim. Memória, péssimo. Era, basicamente, uma tradução do
+anterior, com pequenos ajustes pela sintaxe da linguagem e da utilização de
+estruturas.
+
+Em C++, o menor tempo era 9ms, com o grárico indo até 110ms. Concentração no
+entorno de 25ms.
+
+Em GoLang, houve 0ms, com o gráfico indo até 502ms.
+
+No geral, códigos bem semelhantes. Não vi nada parecido com os meus.
+
