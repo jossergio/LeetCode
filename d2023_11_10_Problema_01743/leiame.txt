@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era um pouco parecida com as da plataforma, que
+diferenciavam, basicamente, por uma ser recursiva e a outra interativa.
+
+A minha era interativa. Porém, utilizava estruturas a mais, apesar de similar às
+da plataforma.
+
+Após postar, vendo as soluções da plataforma, notei que eu poderia eliminar
+algumas estruturas, com uma técnica utilizando uma variável simples. Então, fiz
+uma segunda postagem.
+
+Modelo 1 (C++): 908ms. Muito ruim. Memória, mediana.
+
+Modelo 2 (C++): 704ms. Ruim. Memória, mediana, mas um pouco melhor. Igual ao
+modelo anterior, mas utilizava uma variável simples e removia uma estrutura.
+
+Não vi abaixo de 283ms. O gráfico ía até 768ms. Os melhores ficaram abaixo de
+420ms.
+
+Haveria a ideia de dimplificar a forma de encontrar o primeiro elemento, que
+poderia melhorar o tempo. Mas deixei para lá.
+
