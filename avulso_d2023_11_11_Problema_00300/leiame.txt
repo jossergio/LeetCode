@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Era um problema que eu já havia tentando em outras trẽs ocasiões anteriores,
+sendo o problema do dia 09/07/2021, com tentativas em 2022 (08/08) e em 2023 
+(14/01).
+
+Envolvia memorização, que estou tentando ter domínio.
+
+Relativamente, fiz rapidinho.
+
+Após postar, vi que poderia economizar uma unidade no vetor de memória.
+
+Modelo 1 (C++): 257ms. Mediano. Memória, mediana.
+
+Modelo 2 (C++): 257ms. Mediano. Memória, mediana, mas um tiquinho pior que o
+anterior, apesa de ter diminuído o vetor de memória e ajustado um pequeno
+detalhe na forma de cálculo, fazendo uma adição, somente, ao final.
+
+O menor tempo foi em 0ms, com uma lógica confusa em sintaxe, mas pequeno, porém,
+observei que a ideia era interessante. Mas ía até 1000ms, com muitos chegando
+nesse patamar e barrinhas por toda a linha do gráfico, grande concentração
+perto do 0ms e algumas menores espalhadas pelo gráfico.
+
