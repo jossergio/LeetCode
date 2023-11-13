@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+Era o problema do dia anterior, que eu havia feito três postagens, sem sucesso.
+
+Fiquei, então, encucado. Após fazer o do dia, decidi retomar essa questão.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Também não fui
+fazer comparações, pois os códigos, os meus e os da plataforma, eram
+relativamente grandinhos. Posso dizer que, em termos de ideia, o meu era similar
+à primeira solução da plataforma. Porém, o meu era recursivo e utilizava umas
+ideias nada convencionais. Além disso, era regressivo, inicialdo do alvo e sem
+fazer ideia se o início seria atingido. Em outras palavras: passaria por todas
+as soluções. E retornava o valor que ficou no ponto de início.
+
+As postagens que foram problemáticas tentavam, à partir do início, atingir o
+destino. Houve tempo excedido. A primeira ideia da plataforma era enfileirar,
+até atingir o destino, de modo iterativo.
+
+Modelo 1 (C++): 819ms. Medianamente ruim. Memória, medianamente ruim.
+
+Modelo 2 (C++): 813ms. Medianamente ruim. Memória, medianamente ruim. Era o
+mesmo anterior, mas ajustava um treco de código para evitar redundância.
+
+Modelo 3 (C++): 727ms. Medianamente ruim. Memória, medianamente ruim, apesar de
+bem melhor que os modelos anteriores. Utilizava mapa não ordenado, no lugar de
+ordenado, como nos modelos anteriores.
+
+Não vi abaixo de 78ms. O gráfico ía até 1850ms e muitos passavam de 1000ms. Não
+posso falar nas concentrações, pois o gráfico era bem distribuído e extenso, com
+picos em alguns trechos.
+
+Ainda pensei em fazer um modelo que utilizasse fila, como a primeira solução da
+plataforma. Ficaria bem direto e mais real. Mas, pela complexidade do problema,
+desistir. Fica para uma outra oportunidade.
+
