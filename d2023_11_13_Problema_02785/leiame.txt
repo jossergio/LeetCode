@@ -1,0 +1,42 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha solução era similar à primeira da plataforma.
+
+Inicialmente, fiz em Python, para aproveitar sistemática da linguagem. Mas uma
+ideia que tive no início, e Python não permitia, pois não permite alterar um
+cacactere unitário em uma string e nem possui forma prática para isso, não foi
+possível.
+
+Após postar, então, fiz em C++, pois permite altetar, diretamente, um cacactere
+em uma string.
+
+Modelo 1 (Python 3): 186ms. Medianamente ruim. Memória, mediana.
+
+Modelo 2 (Python 3): 135ms. Medianamente bom. Memória, medianamente boa. Era uma
+pequena alteração do anterior, pois tinha o conjunto de vogais considerando
+ambos os casos (maiúscula e minúscula), não fazendo conversões no percurso.
+
+Modelo 3 (Python 3): 142ms. Medianamente bom. Memória, mediana. Era similar ao
+anterior, mas utilizava uma string diretamente para a resposta, no lugar de uma
+lista com um join no final.
+
+Modelo 4 (C++): 61ms. Ruim. Memória, medianamente ruim. Era, basicamente, a
+ideia que eu teria feito em Python, caso esse permitisse alterar diretamente em
+uma string. Poderia ser a tradução do modelo 3, mas utiliza a própria string
+de entrada para a resposta.
+
+Modelo 5 (C++): 87ms. Horrível. Memória, muito boa. Era o mesmo modelo anterior,
+mas utilizava uma lista de prioridades no lugar de ordenar um vetor. Além disso,
+utilizava uma função para ver se era uma vogal, no lugar de ter um conjunto de
+vogais.
+
+Em Python, não vi abaixo de 82ms. O gráfico ía até 2536ms. O gráfico era bem
+homogêneo durante todo o gráfico, com picos entre 117 e 187ms.
+
+Em C++, não vi abaixo de 16ms. O gráfico ía até 116ms, bem homogêneo e com
+grande concentração entre 30 e 45ms.
+
+Muitos códigos bem idiotas e complexos. Mas alguns continham ideias bacanas.
+
