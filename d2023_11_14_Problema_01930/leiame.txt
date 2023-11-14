@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Além dessas, na
+linguagem Python, ainda apresentava uma forma de uma linha. Não era muito
+intuitivo.
+
+O meu modelo, apesar de ter uma semelhança com a ideia do primeiro da
+plataforma, no lugar de ter um acumulador, preenchia um conjunto com todas as
+possibilidades encontradas e retornava o seu tamanho. Então, assim, demoraria
+mesmo e usaria muita memória.
+
+Antes de postar, decidi ver se conseguia fazer algo semelhante ao segundo modelo
+da plataforma. Então, fiz mais alguns, tentando diminuir o código. Só não fiz em
+uma linha porque já estava um pouco exausto. Mas, vi como fazer à partir dos
+modelos adicionais, baseado no segundo da plataforma.
+
+Modelo 1 (Python): 2028ms. Medianamente ruim. Memória, mediana. Montava todas
+as possibilidades e retornava o tamanho final.
+
+Modelo 2 (Python): 690ms. Mediano. Memória, mediana. Montava um índice de todas
+as possíveis letras ('a' a 'z') e, através de um laço interno, varria unidades
+de letras.
+
+Modelo 3 (Python): 699ms. Mediano. Memória, mediana. Era similar ao anterior.
+Porém, fazia o laço "executar já filtrado" no lugar de testar dentro do laço.
+
+Modelo 4 (Python): 135ms. Excelente. Memória, horrível. Era um código bem
+minimalista e que, com poucas alterações, poderia se transformar em uma linha.
+Pela estrutura de Python, um laço interno era dispensado.
+
+Não vi abaixo de 132ms. O gráfico era bem generoso, indo até 3257ms. Bem
+continuado.
+
