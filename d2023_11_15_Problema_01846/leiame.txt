@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia de solução, que dependia de ordenação. Passou sem erros já na
+primeira postagem.
+
+Essa minha ideia era similar à da plataforma, apesar de que considero a da
+plataforma mais simples quando varrendo o vetor após a ordenação.
+
+Utilizava fila de prioridade. Então, após postar, decidi fazer um que ordenasse
+o vetor de entrada e o usar diretamente. A plataforma era assim.
+
+Fiz mais duas postagens, para diferenciar, definindo uma variável utilizada no
+laço fora (antes) dele.
+
+Modelo 1 (C++): 119ms. Horrível. Memória, idem. Utilizava uma fila de
+prioridade.
+
+Modelo 2 (C++): 86ms. Ruim. Memória, mediana. Utilizava o próprio vetor de
+entrada ordenado.
+
+Modelo 3 (C++): 78ms. Medianamente bom. Memória, excelente (por incresça que
+parível, era só um pouquinho de nada melhor que o anterior). Era o mesmo modelo
+anterior, mas uma variável utilizada no laço era definida antes.
+
+Modelo 4 (C++): 130ms. Horrível. Memória, idem. Era igual ao modelo 1, mas com
+uma variável utilizada no laço definida antes desse.
+
+O segundo modelo da plataforma utilizada uma ideia bem interessante mas pouco
+intuitiva.
+
+Não vi abaixo de 57ms. O gráfico ía até 96ms. A concentração ficava entre 73
+e 89ms.
+
