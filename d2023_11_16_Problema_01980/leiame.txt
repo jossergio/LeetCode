@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Posso dizer que minha ideia era parecida com a segunda da plataforma.
+
+Após postar, tive outras ideias. Inclusive, de utilizar algumas funções
+built-in, de Python, que foi a linguagem escolhida, pelas estruturas e recursos
+disponiveis.
+
+Modelo 1 (Python 3): 5795ms. Horrível. Memória, idem. Utilizava a ideia de gerar
+todas as possibilidades, jogr em um um conjunto, ver a diferença com o parẫmetro
+doproblema e extrair um.
+
+Modelo 2 (Python 3): 159ms. Ruim. Memória, horrível. Similar ao anterior. Mas
+fazia os testes com inteiros convertidos e, ao retornar, "desconvertia-o".
+
+Modelo 3 (Python 3): 44ms. Mediano. Memória, mediana. Utilizava a ideia de ir
+gerando as possibilidades sequencialmente e verificar a condição, retornando,
+imediatamente, quando satisfeita. Conversões necessárias eram feitas por funções
+built-in.
+
+Não vi abaixo de 24ms, com uma implementação parecida com meu terceiro modelo,
+mas com uma estrutura bem de iniante. O gráfico ía até 1079ms, bem uniforme e
+com alguns pontos d epico.
+
+A quarta solução da plataforma era uma ideia pouco intuitiva, porém, bem
+interessante. No início, pensei em algo similar. Mas não consegui evoluir.
+
