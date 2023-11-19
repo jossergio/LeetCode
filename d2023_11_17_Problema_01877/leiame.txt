@@ -1,0 +1,21 @@
+Direto o LeetCode e pelo cleular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma intuição, inicialmente, que se mostrou o caminho correto. Após postar,
+vi que era bem similar à da plataforma e de muitas postagens dos demais
+participantes.
+
+Passou de primeira.
+
+Tentei se bem minimalista, abusando dos recursos de C++, linguagem escolhida
+para solucionar.
+
+Em C++.
+
+181ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 63ms, com um código bem complexo/redundante. O gráfico ía até
+pouco mais de 200ms. Uma boa concentração após 170ms, com uma lombada.
