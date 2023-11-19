@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+a minha solução ficara complexa. A da plataforma baseava-se numa intuição que
+me forçava ter pensado um pouco mais, apesar de que, em um modelo que estourou o
+tempo, fazia. Mas com estruturas, o que demorava. A da plataforma era puramente
+matemática em um laço que fazia acúmulos.
+
+Após um erro de compilação (sim, apertei, por bobeira, o botão de postar no
+lugar do executar), um tempo excedido (onde refiz a ideia, apesar de utilizar,
+ainda, estruturas, mas, em um número menor) e um erro (resposta errada), passou.
+
+Com o auxílio do cpp.sh, que me ajudou a testar a sintaxe de uma forma de
+ordenação para fila de prioridades (que não precisava, pela ideia da
+plataforma).
+
+Em C++.
+
+315ms. Medianamente ruim.
+
+Memória, mediana.
+
+Se não fosse ter utilizado estruturas de dados, a ideia era bem similar à da
+plataforma. Mas ou meu ficou muito complexo e extenso.
+
+Não vi abaixo de 85ms. O gráfico ía até 473ms.
+
+No início do gráfrico, os códigos também não eram simples, como o da plataforma.
+
