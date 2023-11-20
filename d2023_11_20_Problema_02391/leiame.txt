@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, considero a minha mais enxuta. As ideias da plataforma utilizavam
+mapa, que, apesar de eu, inicialmente, considerar utilizar, dispensei e assim
+postei, além de utilizarem mais de um laço, sendo um primário, para preparo,
+e outros para trabalho. O meu modelo nem utilizava mapas e fazia tudo em uma
+passada só. Porém, fazia algumas condições de cálculos matemáticos, para isso.
+
+Muitas postagens dos demais participantes muito complexas.
+
+Em C++.
+
+164ms. Medianamente bom.
+
+Memória, medianamente ruim. Não entendo o motivo, pois, com certeza, utilizava
+muito menos memória que a maioria, pois não utilizava estruturas auxiliares.
+
+O menor tempo que eu vi foi em 120ms. O gráfico ía até 246ms. Grande
+concentração, em forma de montanha, no entorno de 185ms.
+
