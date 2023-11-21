@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu tive que olhar, pois minha ideia
+estava apresentando tempo excedido e eu não tinha noção de como proceder, além
+de ter ficado curioso.
+
+A minha ideia era O(n log(n)) e a da plataforma O(n), através de uma
+reestruturação e uma lógica matemáticas, apesar de utilizar mapa não ordenado,
+que não é tão veloz.
+
+Em C++.
+
+90ms. Medianamente bom.
+
+Memória, ruim.
+
+Não vi abaixo de 57ms, com uma ideia de fazer o mesmo conceito da plataforma,
+porém com uma passada única (a da plataforma eram duas).
+
+O gráfico ía até 171ms, mas poucos chegaram nesse nível, com concentração entre
+85 e 115ms.
+
+A parte boa ficou por conta de uma função auxiliar, que foi uma ideia bem
+bacana, mas esse não foi o problema do tempo excedido e a plataforma também
+utilizava a mesma ideia, para converter.
+
+Muitos códigos bacanas e bem interessantes, dos demais participantes.
+
