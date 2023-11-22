@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu tive que olhar, pois minha
+solução apresentava tempo excedido e eu não tinha ideia de como proceder.
+
+Achei estranho, pois, relativamente, minha ideia deveria ter um tempo similar.
+Mas foi útil para aprender uma condição matemática interessante para indexação
+de matrizes.
+
+Após um erro de execução, passou. A falha foi iniciar uma idexação reversa de
+vetor sem levar em consideração o 0-begin. Nos testes, passou. Mas, na execução,
+empacou nesse erro em um dos testes.
+
+Aprendi, também, que, em uma matriz, size retorna zero em um índice que não
+exista. Mas, nesse caso específico, forçava uma indexação falha na referência
+da própria célula.
+
+Em C++.
+
+208ms. Mediano.
+
+Memória, mediana.
+
+O segundo modelo da plataforma não me era intuitivo, mas era uma ideia bem
+interessante.
+
+Não vi abaixo de 84ms. O gráfico ía até 372ms. Havia algumas "montanhas", pelo
+gráfico, formando concentrações baseadas nos modelos da plataforma.
+
