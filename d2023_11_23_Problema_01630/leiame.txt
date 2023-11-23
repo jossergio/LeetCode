@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Passou de primeira, após um pouco de raciocínio e testes com o padrão [), onde
+o último elemento não entra nas verificações e temos que adicionar mais um.
+
+Minha solução é similar à primeira da plataforma. A segunda é mais perfumaria,
+pois há uma certa complexidade e testes.
+
+Em C++.
+
+42ms. Quase excelente.
+
+Memória, medianamente boa.
+
+Não vi abaixo de 18ms, com um código bem mais extenso. O gráfico ía até 132ms.
+
