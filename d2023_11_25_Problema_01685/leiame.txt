@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que meu modelo não tinha muito a ver com os da plataforma. Meu
+modelo era recursivo e os da plataforma eram interativos, apesar de ter um laço
+primário (2n). Porém, em termos de tempo, posso dizer que era idênticos.
+
+Questão que envolve um bom raciocínio lógico matemático e uma atenção em
+pequenos detalhes.
+
+Em C++.
+
+75ms. Muito excelente.
+
+Memória, ruim.
+
+Não vi abaixo de 52ms. O gráfico ía até 109ms. Muito concentrado após 75ms,
+formando picos e valoes variados.
+
