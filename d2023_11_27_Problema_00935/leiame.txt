@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma. Utilizavam
+programação dinâmica, com a difença que o memo meu era um mapa e a da plataforma
+uma matriz simples, consequentemente mais rápido.
+
+Tentei ver uma forma de o memo ser um vetor/matriz. Mas, não expandi a ideia.
+
+A segunda e a terceira eram modificações de programação dinâmica, reversa e
+interativa.
+
+As outras duas eram ideias bem matemáticas.
+
+Em C++.
+
+2420ms. Muito horrível. Nem apareceu no gráfico, que ía até cerca de 1000ms.
+
+Memória, muito horrível.
+
+Houve muito 0ms, com uma ideia similar à minha. Porém, com memo em vetor/matriz.
+
+Também houve muitos abaixo de 10ms.
+
+Obs.: para ver o gráfico real, tive que reverter para a versão antiga do
+LeetCode, pois a nova só mostra trecho do gráfico onde minha postagem fica. As
+postagens anteriores podem estar com essas informações distorcidas.
+
+Programar e testar na nova versão da plataforma é muito bom e ideal. Mas é
+horrível para ver os gráficos. A partir de hoje, vou programar na nova versão,
+mas pegar as informações sobre gráfico na versão antiga.
+
+Ah! E a nova versão não presta em aparelho celular.
+
