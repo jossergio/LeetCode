@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei.
+
+Após postar, posso dizer que o meu é diferente de todas, apesar de tender à
+última ideia da plataforma, por não utilizar acumuladores do tipo memo ou
+similares.
+
+Após um errinho, por não atentar para uma possibilidade simples, outro, por não
+atentar para a questão módulo, e outro, por não utilizar o temporário do tipo
+longo e o cálculo produzir estouro na multiplicação, passou.
+
+Em C++.
+
+128ms. Medianamente bom.
+
+Memória, quase excelente.
+
+Ainda pensei em transformar duas funções auxiliares em embutidas, para ver se
+melhoraria o tempo, mas desisti. Fica para a próxima vez que esse desafio voltar
+ao do dia.
+
+O menor tempo foi 91ms. O gráfico passava um pouco de 1200ms, com alguns códigos
+por essa região, após pouquíssimos, bem espalhados, acima de 200ms. Uma grande
+concentração entre 107 e 141ms.
+
