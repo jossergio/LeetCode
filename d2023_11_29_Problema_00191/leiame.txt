@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 26/05/2022. Mas resolvi não repostar.
+
+A postagem inicial era em GoLang, que tinha ficado em 3ms. Mas, deve ter sido
+coisa da plataforma.
+
+Após postar, vi que utilizava operações diferentes (binário x matemática
+básica). A original era binária e a nova com operaçẽos matemáticas simples.
+Então, fiz uma segunda postagem, com operadores binários, só para comparativo.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, ruim. Nem sei o porquê, pois.
+de uma certa forma, até aproveitava variáveis.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, mediana. Era idêntico ao
+anterior, mas utilizava operadores binários no lugar de matemáticos simples. Vai
+ver isso interfere na compilação.
+
+Muitos 0ms. O gráfico ía até 12ms. Mas ninguém passou dos 3ms.
+
