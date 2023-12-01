@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 25/10/2022. Mas, resolvi não repostar.
+
+A plataforma me apresentada duas soluções que olhei, para curiar se havereia uma
+outra forma, para não repetir a simplicidade de uma linha única em Python 3,
+como foi a postagem anterior.
+
+Então, vi que, apesar de ser um pouco complexa, uma ideia que eu tinha era a
+segunda solução da plataforma. A primeira era similar à postagem anterior.
+
+Após um errinho, por achar que sempre teriam o mesmo tamanho, passou.
+
+Em C++.
+
+4ms. Mediano.
+
+Memória, muito excelente.
+
+Achava que a memória seria ruim, pois, para o problema tive que abusar do uso
+de variáveis.
+
+Houve muitos em 0ms. A maioria em 4ms. O gráfico ía até 16ms. Não houve acima de
+8ms
+
+Todos os que vi, incluindo em 0ms, utilizavam concatenação de string, que era
+menos eficiente, pois, além de utilizar muita memória, tinha que percorrer todo
+o array, mesmo quando a diferença era pelo início.
+
