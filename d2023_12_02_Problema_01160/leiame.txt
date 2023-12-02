@@ -1,0 +1,41 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha solução tinha ideia similar à primeira da plataforma.
+Porém, considero meu código um pouco mais organizado.
+
+Vi, também, que a segunda solução da plataforma utilizava lista, no lugar de
+dicionário, como da minha solução e da primeira da plataforma. Então, decidi
+fazer uma postagem utilizando esse tipo de estrutura.
+
+Após postar esses dois modelos, vi que um item que, inicialmente, eu considerava
+necessário (copiar um dicionário ou lista, conforme postagem), pois eu achava
+que seria envolvido em cálculo que alteraria seus valores, eram desnecessários,
+pois seriam, somente, utilizados em comparações. Então, removi e fiz mais outras
+duas potagens.
+
+Modelo 1 (Python 3): 213ms. Ruim. Memória, ruim. Utiliava dicionários, como
+estruturas básicas.
+
+Modelo 2 (Python 3): 210ms. Ruim. Memória, igual ao anterior. Utilizava uma
+lista (base vetor), no lugar de dicionário, calculando os índices.
+
+Modelo 3 (Python 3): 198ms. Medianamente ruim. Memória, ruim. Era o mesmo modelo
+1, porém, sem um trecho em que copiava um dicionário.
+
+Modelo 4 (Pytyon 3): 233ms. Ruim. Memória, ruim. Era o mesmo modelo 2, pois
+esqueci de ajustar o código antes de repostar.
+
+Modelo 5 (Python 3): 215ms. Ruim. Era o mesmo model 2, porém, finalmente, sem um
+trecho em que copiava uma lista.
+
+Uma observação interessante é que, apesar de, em termos de memória, terem ficado
+em patamar bem próximo, a retirada do trecho acabou aumentando o uso de memória,
+em comparação com as duas primeiras, em cada modelo. Ou seja: mesmo menor o
+código fonte e a supressão de uma área temporária, usou mais memória.
+
+O menor tempo, relativamente isolado, foi 76ms. O gráfico formou duas montanhas,
+no entorno de 96ms e 162ms. Mas, foi bem espalhado entre 80 e 291ms, com alguns
+passando dos 350ms, onde, pouco adiante, o gráfico encerrava.
+
