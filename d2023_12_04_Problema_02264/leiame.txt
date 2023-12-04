@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+A plataforma me aprentava duas soluções, que eu nem olhei. Após postar, vi que
+era similar à segunda ideia da plataforma. Porém, a da plataforma era um pouco
+mais enxuta, fazendo considerações mais simplistas.
+
+Em C++.
+
+2ms. Mediano.
+
+Memória, excelente. Mas poderia ter sido melhor.
+
+A maioria em 0ms. O gráfico ía até 16ms. Mas ninguém chegou em 7ms.
+
