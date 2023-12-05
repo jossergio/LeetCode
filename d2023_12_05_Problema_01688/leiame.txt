@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após matutar um pouco, entendi a lógica e postei.
+
+Meu modelo era recursivo. Então, resolvi fazer um interativo.
+
+Esse segundo era similar com o primeiro da plataforma, que não possuía modelo
+recursivo.
+
+O segundo modelo da plataforma apresentava uma solução bem lógica e prática. Um
+cálculo simples, bem simples, sem laços ou outros recursos.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Era
+recursivo, utilizando a própria função para montar subproblemas.
+
+Modelo 2 (C++): 2ms. Mediano. Memória, medianamente boa. Interessante ter ficado
+pior que o recursivo. Não utilizava estrutura ou variável alguma adicionais. Só
+o da resposta e a própria variável do parâmetro.
+
+Muitos em 0ms. Ninguém acima de 2ms. O gráfico ía até 12ms.
+
