@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Passei muito tempo achando que haveria alguma fórmula matemática prática. Mas
+acabei me rendendo e postando com laço, mesmo para, pelo menos, pontuar. Não
+tinha forma que produziria tempo excedido, pois era só um laço único com alguns
+cálculos.
+
+Após postar, notei que era similar à primeira ideia da plataforma. E a segunda
+ideia tinha uma tendência matemática. Porém, ainda continha um laço, apesar de
+menor, um pouco próximo do que eu imaginava, mas que não cheguei.
+
+Em C++.
+
+2ms. Mediano.
+
+Memória, ruim.
+
+A maioria em 0ms. O gráfico ía até 12ms. Não houve acima de 2ms.
+
