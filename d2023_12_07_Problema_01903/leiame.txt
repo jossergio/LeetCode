@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a minha ideia era similar à da plataforma, mantidas alguma
+ou outra forma de implementação.
+
+Após postar, também, resolvi fazer uma implementação um pouco diferente.
+
+Fiz tudo em Python, para aproveitar estruturas da linguagem.
+
+Modelo 1 (Python 3): 47ms. Quase excelente. Memória, medianamente boa.
+
+Modelo 2 (Python 3): 44ms. Excelente. Memória, ruim.
+
+Não vi abaixo de 27ms, bem isolado. A concentraçãõ formava uma montanha, entre
+35 a 75ms. O gráfico ía até pouco mais de 180. Porém, poucos passaram do "pé da
+montanha", ficando relativamente espalhado, até próximo ao final do gráfico.
+
