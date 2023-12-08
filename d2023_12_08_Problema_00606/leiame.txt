@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Tive uma ideia inicial, que passou de primeira.
+
+Só após postar, vi que era o mesmo problema do dia 07/09/2022. Distração.
+
+Após postar, vi que os códigos eram bastante semalhantes, em termos de
+implementação. Talvez a plataforma mostrasse solução para os demais
+participantes.
+
+Utilizei a própria função como retorno de partes. Mas, a grande maioria dos
+códigos dos demais utilizavam uma variável global, para preparar a respota e uma
+função auxiliar, retornando void, para montar a resposta.
+
+Em C++
+
+12ms. Medianamente bom.
+
+Memória, mediana.
+
+O código ficou mais enxuto que as postagens anteriores.
+
+Houve 0ms. O gráfico ía até pouco mais de 55ms. Não houve acima de 47ms. Vários
+picos entre 3 e 38ms.
+
