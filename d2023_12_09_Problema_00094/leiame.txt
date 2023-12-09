@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Era o mesmo problema que eu havia resolvido como avulso em 14/05/2022 e que fora
+o problema do dia 08/09/2022, que eu também havia resolvido. Mas, resolvi fazer
+abordagem nova.
+
+Após postar, vi que era semelhante à primeira solução da plataforma. Era uma
+abordagem interativa e demorei a raciocinar com a questão da pilha.
+
+Resolvi, também, refazer as postagens anteriores, que possuíam uma abordagem
+recursiva, mas, de uma forma mais similar à primeira da plataforma, Minha
+solução, apesar de utilizar a própria função como retorno das partes, continha
+muitos inserts, para concatenação, do vetor resposta.
+
+A nova utilizava uma função auxiliar, sem retorno, com o vetor resposta sendo
+retornado por referência.
+
+Modelo 1 (C++): 2ms. Mediano. Memória, Medianamente ruim. Interativa, com pilha.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, muito boa. Recursiva, com uma
+função auxiliar retornando por referência o vetor resposta.
+
+Muitos em ms. O gráfico ía até 14ms. Ninguém passou dos 4ms.
+
