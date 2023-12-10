@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o mesmo problema do dia 02/06/2022, que eu havia feito em GoLang.
+
+Porém, decidi ver se fazendo em C++ melhoraria o tempo, pois essa linguagem
+permite alocar uma matriz em um único bloco.
+
+Posso dizer que meu código ficou idêntico ao da plataforma.
+
+Em C++.
+
+14ms. Ruim.
+
+Memória, muito boa.
+
+Bem isolado, houve 0ms. Não entendo o motivo, pois os códigos que eu vi são bem
+semelhantes. Inclusive era bem semelhante ao meu. E ainda considero o meu
+otimizado, por não ficar chamando função de tamanho de vetor, utilizando
+constantes no lugar. A plataforma também utilizava constantes para tal
+finalidade.
+
+O gráfico ía até 22.5ms. Ninguém passou dos 14ms. concentração entre 3 e 13ms,
+com pico em 7ms.
+
+Mais uma vez, não entendo o motivo do meu apresentar tempo tão diferente, se
+todos os códigos que eu vi são semelhantes e, inclusive, considero o meu mais
+otimizado que o do 0ms.
+
