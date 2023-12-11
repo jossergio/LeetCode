@@ -1,0 +1,41 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Tive uma ideia, visando utilizar as estruturas de Python. Após postar, posso
+dizer que minha ideia era similar à primeira da plataforma, apesar de que fiz em
+Python, para utilizar a técnica de linha única.
+
+Em seguida, resolvi fazer uma abordagem diferente, mas mantendo a questão da
+ideia de linha única. Produziu um erro, por não atentar para uma questão de
+desigualdade (tinha que ser maior que e não maior ou igual). A primeira não
+questionava isso, pois só pegava o que tinha maior número, simplesmente.
+
+Em seguida, fiz mais duas, dessa vez em C++, para ver como ficariam sem as
+estruturas de Python. Posso dizer que era a mesma ideia mas com um aspecto de
+otimização, retornando assim que percebesse que já tinha encontrado a solução.
+
+E fiz mais uma outra postagem, também em C++.
+
+Modelo 1 (Python 3): 82ms. Excelente. Memória, ruim. Utilizava linha única do
+Python, retornando o mais comum de um Counter.
+
+Modelo 2 (Python 3): 93ms. Mediano. Memória, ruim. Fazia um filtro, em uma
+lista, trabalhada com Counter, mantendo a ideia de linha única.
+
+Modelo 3 (C++): 8ms. Medianamente bom. Memória, excelente. Utilizava um laço,
+que retorna imediatamente ao tomar conhecimento da resposta.
+
+Modelo 4 (C++): 9ms. Medianamente bom. Memória, mediana. Utilizava a ideia de
+valor pré-calculado que, ao ser atingido, estava na resposta. Uma modificação do
+anterior.
+
+Em Python, o menor tempo em 75ms, forando uma montanha até 109ms, onde houve uma
+grande concentração. O gráfico ía até quase 1500, com algumas poucas e pequenas
+concentrações isoladas, depois dos 109ms.
+
+Em C++, houve 0ms, que posso dizer que era bem semelhante à minha ideia. O
+gráfico ía até pouco mais de 30ms, mas não houve acima de 21ms. Apesar de uma
+"quebra" na continuidade do gráfico, posso dizer que era concentrado entre
+0ms e 21ms.
+
