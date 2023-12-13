@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho bobo, confundir o tamanho da contagem de uma das dimensões da
+matriz, passou.
+
+Posso dizer que minha solução era semelhante à segunda da plataforma, apesar de
+utilizar estruturas um pouco diferentes, recorrendo a mais memória.
+
+Em C++
+
+11ms. Excelente.
+
+Memória, horrível.
+
+Houve 0ms, com um código bem complexo, bem isolado. Mas, a concentração foi
+entre 10 e 22ms. O gráfico ía até pouco mais de 40ms, mas não houve acima de
+33ms.
+
