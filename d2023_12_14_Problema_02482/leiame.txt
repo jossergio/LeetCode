@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Rapidinho.
+
+Após postar, vi que a minha soluão era bem semelhante à da plataforma.
+
+Em C++.
+
+204ms. Mediano.
+
+Memória, medianamente boa.
+
+O menor tempo, bem isolado, 120ms. Não entendo o motivo, pois eram laços após
+laços e com aninhamentos mais complicados.
+
+O gráfico ía até 400ms. Concentração, formando uma montanha, entre 169 e 225ms.
+Alguns poucos passaram desse valor e, após 312ms, ficou bem espalhado.
+
