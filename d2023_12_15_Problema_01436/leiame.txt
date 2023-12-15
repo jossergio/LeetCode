@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Fiz em Python, para aproveitar estruturas, apesar de que não seria uam boa ideia
+fazer em uma linha, pois produziria dois laços, de toda forma.
+
+Mesmo os modelos da plataforma em Python utilizavam dois laços. O meu, tirando a
+forma como a linguagem trata conjuntos (sets), era um laço único.
+
+Após postar, tentei ver um modelo que utilizasse menos memória. Após um erro, vi
+que só com dois laços mesmo.
+
+Modelo 1 (Python 3): 54ms. Excelente. Memória, ruim. Utilizava recursos de set
+para chegar ao valor único, com dois conjuntos em paralelo e uma subtração
+deles.
+
+Modelo 2 (Python 3): 63ms. Mediano. Memória, mediana. Apesar de ainda utilizar o
+conceito de conjunto, de Python, era com dois laços em sequência, pois não
+consegui manter em laço único e ainda tirar um dos conjuntos.
+
+O menor tempo, isolado, 42ms. O gráfico ía até pouco mais de 80ms. Concentração,
+em forma de montanha, entre 48 e 72ms. Ninguém ultrapasso esse tempo.
+
