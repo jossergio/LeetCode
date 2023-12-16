@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 28/07/2022, que eu havia feito em GoLang e, em
+17/08/2022, feito em Rust, para estudos.
+
+Porém, resolvi fazer em C++ e ver alguma codificação diferente.
+
+Resolvi, também, brincar com Rust, para estudar conceitos da linguagem, apesar
+de ser, praticamente, o mesmo código da postagem anterior.
+
+Modelo 1 (C++): 3ms. Excelente. Memória, mediana. Posso dizer que era uma
+tradução do menor tempo em GoLang das postagens anteriores.
+
+Modelo 2 (Rust): 1ms. Quase na excelência. Memória, no topo (100%) melhor que
+os demais. Desprendi um pouco de tempo, tentando ver uma forma bem otimizada de
+codificar.
+
+Em C++, houve 0ms. Mas a concentração era entre 3 e 15ms, com ninguém passando
+esse valor e o gráfico indo até 25ms.
+
+Em Rust, a concentração foi entre 0 e 4ms, com pico em 3ms, com o gráfico indo
+até 18ms, porém, alguns poucos chegaram em 8ms.
+
