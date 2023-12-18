@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me aprentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a minha era bem idêntica à primeira da plataforma. Uma leve
+diferença era eu utilizar uma variável para armazenar o tamanho do vetor,
+visando otimização.
+
+A segunda era mais complexa e, acho, mais demorada.
+
+Em C++.
+
+27ms. Medianamente ruim.
+
+Memória, medianamente boa.
+
+O menor tempo foi em 3ms, bem isolado. O gráfico ía até 40ms, mas ninguém passou
+dos 30ms. Concentração entre 15 e 30ms. Não entendo tamanha discrepância, pois
+a maioria dos códigos ou era bem similar ao meu, incluindo variável extra, ou ao
+segundo da plataforma.
+
