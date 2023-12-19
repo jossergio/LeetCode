@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Apesar de o LeetCode classificar como fácil, e um problema chato.
+
+Minha solução era bem parecida com a primeira da plataforma, ressalvada a forma
+de implementação, que eu optei por fazer uma refatoração com uma função
+embutida.
+
+A quarta solução continha uma ideia bem interessante, para aproveitamento de
+memória e, consequentemente, redução de uso, por uma condição da forma do
+próprio problema, deslocando valores binariamente dentro da própria matriz. Ou
+seja: utlização de espaço ocioso pelo tamanho dos valores e capacidade de tipos.
+
+Em C++.
+
+52ms. Ruim.
+
+Memória, mediana.
+
+O menor tempo, bem isolado, 25ms. O gráfico ía até cerca de 280ms. Concentração,
+em forma de montanha, entre 30 e 56ms. Poucos, bem espalhados, passaram desse
+valor.
+
