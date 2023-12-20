@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após postar, posso dizer que atirei no que vi e acertei o que não vi, pois
+imaginava que a ordem seria regressiva. Não sei por que pensei isso. Mas a ordem
+crescente era a correta, mesmo.
+
+Julguei que ordenar me facilitaria o resultado. E estava correto. Porém, logo em
+seguida, fiz um laço aninhado que era totalmente desnecessário, pela utilização
+do ordenamento. Inclusive, complicando, para o caso ideal.
+
+Esses laços aninhados só seriam utilizados em caso de nã fazer ordem.
+
+O modelo 1 da plataforma fazia os dois laços porque não fazia a ordem. O segundo
+fazia, e não precisaria de nada além de um cálculo simples.
+
+Assim, posso dizer que o meu se assemelha ao segundo modelo da plataforma. E,
+então, resolvi fazer uma segunda postagem, com meus critérios e dispensando os
+laços aninhados desnecessários.
+
+Modelo 1 (C++): 19ms. Ruim. Memória, medianamente ruim. Cometi a bobeira de
+utilizar um laço aninhado desnecessário. Na primeira passada, era a solução. As
+demais, que só ocorreriam se não houvesse solução, só causaram desgaste de
+tempo.
+
+Modelo 2 (C++): 15ms. Mediano. Memória, mediana. Era o mesmo código anterior,
+mas só checava os dois primeiros valores após ordenar crescentemente.
+
+Houve, bem isolado, 0ms, similar à minha segunda postagem, apesar de eu ainda
+considerar o meu mais organizado. Mantidos os picos, a concentração era entre 9
+e 22ms, com o gráfico indo até pouco mais de 30ms. Mas, não houve após os 22ms.
+
