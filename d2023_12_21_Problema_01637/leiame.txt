@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que que era bem semelhante à da plataforma. A diferença é que eu
+fiz uma função para ordenar, pois achava que seria necessária, pois era uma
+matriz o parâmetro do problema.
+
+Após postar, e vendo a solução da plataforma, notei que não era necessária a
+utilização de uma função para indicar a ordem, pois o compilador já interpretava
+que era o primeiro índice da matriz.
+
+Então, fiz uma segunda postagem, só com essa pequena alteração.
+
+Pela discrepância de tempo, quando fui registrar, decidi refazer o primeiro
+modelo, alterando função de ordem para receber os valores por referência. E fez
+uma enorme diferença essa terceira postagem.
+
+Modelo 1 (C++): 1718ms. Horrível. Memória, horrível. Utilizava uma função para
+indicar a ordem.
+
+Modelo 2 (C++): 244ms. Mediano. Memória, medianamente boa. Idêntica ao modelo 1,
+só removendo a função auxiliar de indicação da ordem, deixando o compilador
+reconhecer e utilizar a interna.
+
+Modelo 3 (C++): 270ms. Ruim. Memória, quase na excelência. Era igual ao primeiro
+modelo, porém, a função de ordem recebia os parâmetros por referência. E esse
+tempo deve ser coisa do LeetCode.
+
+O menor tempo, bem isolado, foi 109ms. Após 161ms, formava duas montanhas, sendo
+a maior iniciando após 197ms. Não houve acima de 289ms, no gráfico, que ía, até,
+somente, a cerca de 300ms. Ou seja, o primeiro nem apareceu nos gráficos, de
+tempo e de memória.
+
