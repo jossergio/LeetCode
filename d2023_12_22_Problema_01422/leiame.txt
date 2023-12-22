@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentada três soluções, que eu nem olhei.
+
+Após postar, vi que a minha postagem era bem semelhante à segunda ideia da
+plataforma.
+
+A primeira era uma forma bem "burrinha" e a terceira era uma que eu fiquei
+imaginando (passada única) mas, pela pressa, decidi não por para a frente, já
+que a tinha uma outra forma para implementar.
+
+Em Python. Mas o modelo da plataforma em C++ me mostrou como utilizar uma função
+da linguagem para poupar linhas de código. Então, decidi fazer uma nova
+postagem, utilizando melhor condições do Python.
+
+Modelo 1 (Python 3): 38ms. Muito bom. Memória, nem apareceu no gráfico. Fazia
+uma lista temporária, por filtro, e pegava o tamanho, para contar os 1s.
+
+Modelo 2 (Python 3): 36ms. Muito bom. Memória, apesar de um pouquinho melhor,
+também não apareceu no gráfico. Era idêntico ao anterior, mas uilizava o método
+de contagem, natural das listas em Python, no lugar de fazer uma lista
+temporária e pegar seu tamanho.
+
+O menor tempo foi em 26ms. O gráfico ía até 13ms, mas poucos chegaram próximos
+desse tempo. Concentração, com diversos picos, entre 30 e 53ms.
+
