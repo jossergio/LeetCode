@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a minha ideia era similar à da plataforma, com a diferença
+em alguma sintaxe e por a da plataforma utilizar set, no lugar de list, que eu
+utilizei.
+
+Então, resolvi fazer uma segunda postagem, para organizar um pouco mais o código
+e para utilizar set e comparar.
+
+Em Python, para aproveitar estruturas da linguagem.
+
+Modelo 1 (Python 3): 35ms. Medianamente bom. Memória, muito ruim.
+
+Modelo 2 (Python 3): nos gráficos, tudo idêntico ao anterior. No código, a
+direrença era utilizar set no lugar de list.
+
+O menor tempo, bem isolado, foi 22ms. Concentração, em forma de cordilheira com
+três picos, formou-se entre 28 e 48ms, ponto em que ninguém ultrapassou. O
+gráfico ía até pouco mais de 55ms.
+
