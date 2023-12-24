@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, que eu imaginava que tal situação ocorreria, passou. Não
+atentei para um leve detalhe.
+
+Antes de postar, vendo que o tempo foi bem ruim, decidi refazer, reduzindo a um
+laço único. A original utilizava dois, seguidos e independentes, para fazer
+tarefa similar, porém, com uma leve diferença.
+
+Apesar de a ideia ser levemente diferente da primeira da plataforma, considero
+bem similar, pois só alterava a forma do teste. A da plataforma noto que seria
+mais simples. E bem intuitiva.
+
+A segunda ideia da plataforma não me era bem intuitiva.
+
+Modelo 1 (C++): 7ms. Bem ruim. Memória, bem ruim. Utilizava dois laços
+independentes, para fazer dois testes similares.
+
+Modelo 2 (C++): 6ms. Medianamente ruim. Memória, medianamente ruim. Transformava
+os dois laços do modelo anterior em um só, fazendo os testes independentes
+internamente a esse laço.
+
+Modelo 3 (C++): 4ms. Mediano. Memória, quase excelente, apesar de ser só um
+poiquinho melhor que o anterior. Idêndico a modelo 2, só que utilizava operador
+ternário no lugar da instrução "if".
+
+Alguns em 0ms. Pico em 3ms. Ninguém visual no gráfico acima de 6ms, que ía até
+16ms.
+
+Alguns códigos meio tronchos em relação a ideia segunda da plataforma, que,
+apesar de não me ser muito intuitiva, foi a maioria dos códigos que vi espalhado
+pelo gráfico.
+
