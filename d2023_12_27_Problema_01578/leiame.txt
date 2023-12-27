@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Tive uma ideia, que passou de primeira.
+
+Após postar, vendo que o tempo e a memória estavam altos, fiz um novo modelo,
+mais simples, que ficou bem melhor.
+
+Modelo 1 (C++): 192ms. Ruim. Memória, ruim. Utilizara uma fila de prioridade
+para organizar os que seriam eliminados.
+
+Modelo 2 (C++): 109ms. Quase excelente. Memória, quase excelente. Era similar ao
+anterior, porém, eliminava a necessidade da fila de prioridades e utilizava
+variáveis simples para o controle dos que seriam eliminados, com algo similar a
+um acumulador.
+
+O menor tempo, bem isolado, foi em 68ms, com um código bem similar ao meu, porém
+utilizando reursos de ios. O gráfico ía até pouco mais de 350ms. Concentração,
+em forma de montanha, entre 95 e 141ms, com poucos, bem espalhados,
+ultrapassando esse tempo e pico em 123ms.
+
+Vi códidos com dois laços, independentes, em tempo melhor que ou meu melhor.
+
+No geral, considero meu código bem organizado, em comparação com a maioria.
+
