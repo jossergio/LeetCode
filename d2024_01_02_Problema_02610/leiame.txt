@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar,
+considero a solução da plataforma bem interesante, em termos de organizar
+recursos. Um bom exemplo para estudos.
+
+Após dois errinhos, por não ter entendido direito a questão, passou. O segundo
+erro, inclusive, levou a erro em tempo de execução, pois não reforcei que era
+1-begin.
+
+Utilizava, para controle, um vetor. Após postar, resolvi fazer com mapa, pois
+otimizaria memória e um pouco de tempo de execução.
+
+Modelo 1 (C++): 35ms. Muito ruim. Memória, muito boa. Utilizava um vetor, para
+controle.
+
+Modelo 2 (C++): 16ms. Medianamente ruim. Memória, medianamente boa. Era similar
+ao anterior, mas reduzia memória e tempo de execução, utilizando mapa, no lugar
+de um vetor, onde haveria um laço integral a cada iteração, mesmo para itens
+não utilizados. Mapa dispensava os itens que não seriam utilizados.
+
+Ainda pensei em fazer um modelo em Python. Mas, desisti. Seria, só, mais
+trabalho.
+
+Alguns em 0ms. Até com uma boa distribuição, com picos diversidficados, até
+27ms. O gráfico não marcou soluções acima desse tempo.
+
