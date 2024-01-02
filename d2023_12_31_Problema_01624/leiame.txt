@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, um por não me atentar que o tamanho de um vetor auxiliar era
+fixo e utilizei, sem querer e por não prestar atenção mesmo, o tamanho da string
+de entrada, o que fez acessar endereço não existente, e outro por também não me
+atentar que não precisava atualizar o índice quando localizando o segundo, pois
+a referência deveria permanecer no primeiro, implícito na questão, passou.
+
+Posso dizer que a minha era similar à segunda da platforma. Porém, a minha
+utilizava vetor (memória fixa) em face a utilizar mapa.
+
+Após postar, decidi testar com mapa e fiz um segundo modelo.
+
+Modelo 1 (C++): 6ms. Medianamente ruim. Memória, medianamente boa.
+
+Modelo 2 (C++): 3ms. Mediano. Memória, mediana. Similar à anterior. Mas
+utilizava mapa e, consequentemente, bem similar à segunda ideia da plataforma.
+
+Grande parte em 0ms. O gráfico ía até 18ms. Porém, ninguém passou dos 8ms.
+
