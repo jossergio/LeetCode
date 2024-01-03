@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que poderia ter utilizado menos linhas, com menos testes, apesar
+de a sequência se manter.
+
+Então, fiz uma segunda postagem.
+
+Vendo o código dos outros, vi a possibilidade de utilizar ponteiro/endereçamento
+em um laço. Então, fiz uma terceira postagem só alterando isso na segunda.
+
+Modelo 1 (C++): 91ms. Mediano. Memória, excelente. Um código um pouco prolixo,
+apesar de poder ser considerado um laço único, porém, dividido e com mais
+testes.
+
+Modelo 2 (C++): 89ms. Medidano. Memória, medianamente ruim. Era mais organizado
+que o anterior, baseado na solução da plataforma.
+
+Modelo 3 (C++): 84ms. Medianamente bom. Memória, muito boa. Era o mesmo código
+anterior, porém, utilizava endereçamento, em um laço, para cada item do vetor de
+entrada.
+
+Vi alguns códigos bem prolixos, incluindo vetores auxiliares e dois laços e que
+ficaram com melhor tempo.
+
+Menor tempo, bem isolado, 32ms. Concentração, em forma de montarnha, entre 70 e
+118ms. O gráfico ía até cerca de 200ms. Mas poucos passaram dos 120ms.
+s
