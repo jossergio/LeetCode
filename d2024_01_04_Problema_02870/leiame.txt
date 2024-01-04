@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, bobo, por esquecer uma divisão, passou.
+
+Minha ideia era similar à da plataforma. Porém, considero que a minha ficou um
+pouco mais complexa, em termos de implementação. Na realidade, não percebi uma
+leve questão matemática que reduziria todas as situações a duas (ou três, se
+considerarmos não ter situação). Então, a minha tinha linhas a mais.
+
+Em C++.
+
+127ms. Mediano.
+
+Memória, medianamente ruim.
+
+O menor tempo, bem isolado, foi 72ms. Concentração, em forma de montanha, entre
+92 e 146ms. O gráfico ía até pouco mais de 300ms. Mas poucos passaram da área de
+concentração.
+
