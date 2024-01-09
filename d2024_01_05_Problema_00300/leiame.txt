@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era um problema que eu já havia resolvido como avulso em 11/11/2023, sendo o
+problema do dia 09/07/2021 que eu havia tentado, sem sucesso, resolver.
+Inclusive em outros momentos.
+
+Só fiz repostar a segunda solução.
+
+Em C++.
+
+254ms. Medianamente ruim.
+
+Memória, mediana.
+
+Um pouquinho melhor que o anterior, que foi 257ms.
+
+Muitos em 0ms. Grande concentraçõe entre 0 e 11ms, com uma outra pequena
+montanha entre 220 e 280ms. O gráfico ía até cerca de 1000ms e havia
+preenchimento, em forma de gramínea, por todo o espaço.
+
