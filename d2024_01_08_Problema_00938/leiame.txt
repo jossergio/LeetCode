@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 14/12/2021. Só fiz repostar.
+
+Porém, resolvi ver se faria com menos linhas de código e fiz um segundo modelo.
+
+De quebra, ainda relembrei GoLang, pois havia muito tempo que não posto nada
+nessa linguagem e, como o anterior era, o novo modelo também foi.
+
+Modelo 1 (GoLang): 80ms. Mediano. Memória, excelente. Repostagem de solução
+anterior, que foi em 92ms.
+
+Modelo 2 (GoLang): 80ms. Mediano. Memória, bem ruim. Era uma tentativa de
+reduzir as linhas de código. Porém, acabava varrendo toda a árvore, por retirar
+alguns testes que evitavam varrer tudo e isso deve ter aumentado o uso de
+memória.
+
+O menor tempo, bem isolado, foi 46s. Concentração entre 59 e 97ms. O gráfico ía
+até cerca de 200ms. Os que ficaram fora da concentração ficaram um pouco
+espalhados.
+
