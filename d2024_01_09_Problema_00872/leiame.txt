@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 08/12/2022. Inicialmente, só fiz repostar o modelo
+de tempo menor.
+
+Porém, antes de registrar, resolvi fazer um modelo mais prático.
+
+Por conta de uma falha de rede na plataforma, esse segundo modelo acabou sendo
+postado duas vezes. Apesar da falha, tinha sido aceito e eu não fui informado.
+Então, postei, achando que não tinha sido alimentado na plataforma. Somente
+quando vi a lista de postagens é que vi os dois.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, medianamente ruim. Era
+repostagem de modelo anterior, que fora em 4ms. Utilizava recursão e parâmetro
+por referência, para retornar estrutura para comparação.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Em
+contraponto ao modelo anterior, era interativo e retornava, na própria chamada
+da função auxiliar, a estrutura de comparação, o que permitiu tornar o código
+mais simples. A função auxiliar só foi utilizada porque eram duas árvores os
+parâmetros do problema. A função principal tornou-se, então, um comparativo
+entre os retornos com cada árvore.
+
+Modelo 3 (C++): 3ms. Medianamente bom. Memória, mediana. É o mesmo modelo
+anterior que foi repostado por conta de uma falha de rede na plataforma. Vai
+entender a plataforma.
+
+Muitos em 0ms e 3ms (maior). O gráfico ía até cerca de 16ms. Porém, ninguém
+passou de 7ms.
+
