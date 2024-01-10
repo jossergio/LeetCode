@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, tive uma ideia de converter em um grafo geral e fazer uma busca em
+largura.
+
+Passou de primeira.
+
+Após postar, tive uma ideia que poderia poupar um pouco memória. Então, fiz um
+segundo modelo, semelhante ao anterior, mas sem um vetor para gerenciar visitas.
+Mantinha o "parent", na chamada da função de busca.
+
+Vendo as soluções da plataforma, a ideia do meu é semelhante à primeira da
+plataforma, apesar de a forma de implementação ser diferente.
+
+A segunda ideia da plataforma era semelhante a uma que não consegui idealizar
+para postar. Mas, apesar de ser uma implementação não tão trivial, é ótima para
+estudos, especialmente para interpretações de árvores binária como grafo.
+
+Modelo 1 (c++): 359ms. Mediano. Memória, horrível.
+
+Modelo 2 (C++): 338ms. Mediano. Memória, ruim.
+
+O menor tempo, bem isolado, foi em 87ms. Algumas concentrações no entorno de
+130, 300 e 475ms. Porém, foi bem espalhado, com o gráfico indo até pouco mais de
+900ms.
+
