@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 31/12/2021 e do dia 09/12/2022. Inicialmente, só
+fiz repostar o modelo de menor memória, acreditando que poderia ser mais rápido.
+
+Em seguida, tive uma outra ideia que, apesar de já saber que seria com tempo
+maior e com muito mais memória, fiz para fazer, mesmo.
+
+Depois, ainda tive ideia de fazer esse novo modelo otimizando condições de
+GoLang (retorno de duas ou mais variáveis por função; obs.: poderia ser pair, em
+C++. Mas, para brincar/estudar, serviu.
+
+Modelo 1 (C++): 7ms. Mediano. Memória, muito boa. Era uma repostagem de modelo
+anterior, que utilizou menos memória. A memória aumentou um pouco.
+
+Modelo 2 (C++): 915ms. Horrível. Memória, horrível. Utilizava vetor, que ía
+acumulando e sendo ordenado a cada passo recursivo.
+
+Modelo 3 (GoLang): 3ms. Medianamente bom. Memória, muito excelente. Seria uma
+tradução do anterior. Porém, sem utilizar vetor, retornando, simplesmente, o
+menor e o maior valor, que era o desejado.
+
+Em C++, houve 0ms. O maior pico foi em 3ms. Após 9ms, só gramínieas espalhadas.
+O gráfico ía até pouco mais de 110ms.
+
+Em GoLang, houve 0ms. O maior pico foi em 3ms. Não houve coluna após 7ms. O
+gráfico ía até 16ms.
+
