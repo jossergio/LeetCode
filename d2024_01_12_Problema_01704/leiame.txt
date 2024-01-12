@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 01/12/2022. Porém, considerei fazer uma nova
+abordagem.
+
+Rapidinho. Passou de primeira. E ainda foi mais rápido que as postagens
+anteriores, apesar de eu achar que não seria, pois o tempo dos anteriores era
+com um laço n/2 e essa nova era O(n), pois dividia esses laços.
+
+De todo modo, só considerei fazer uma nova abordagem pela ideia de reduzir o
+código. Ficou com três linhas, pois sempre considero jogar em uma variável o
+tamanho, quando necessário usar mais de uma vez, e outra para definir um
+conjunto (set) com os valores que seriam utilizados duas vezes, tabém. Se não
+fosse isso, seria em uma linha.
+
+Em Python 3.
+
+35ms. Excelente.
+
+Memória, horrível. Não sei o motivo.
+
+O menor tempo, com um código bem feio, foi em 22ms. O gráfico ía até 80ms, mas o
+maior tempo foi em 70ms. Vi, somente, um código semelhante ao meu e em menos
+tempo. A maioria dos códigos eram meio extensos, similares aos meus anteriores.
+Grande parte mais extenso ainda.
+
