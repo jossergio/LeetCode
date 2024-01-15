@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 28/11/2022. Porém, resolvi fazer uma nova abordagem
+para utilizar operações com conjuntos, em Python.
+
+Desta vez, a plataforma não me apresentava soluções.
+
+Após postar, resolvi fazer uma leve modificação e fiz um novo modelo.
+
+As postagens anteriores foram em Python e em C++. Mas não quis fazer, novamente,
+em C++
+
+Modelo 1 (Python 3): 1422ms. Quase excelente. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 1444ms. Medianamente bom. Memória, horrível.
+
+O menor tempo, bem isolado, foi em 1313ms. Houve uma relativa concentração, com
+duas montanhas, até cerca de 1700ms. Muitos passaram, indo até perdo de 3000ms,
+que era perto do final do gráfico, formando uma gramínia espalhada.
+
