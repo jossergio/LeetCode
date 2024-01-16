@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema dos dias 21/10/2021 e 29/11/2022. Mas, decidi, assim como
+no dia 29/11/2022, fazer uma nova abordagem, utilizando método mais simples, com
+estruturas mais avançadas de conjuntos (set).
+
+Pensei em fazer em Python 3, para incluir mais uma linguagem. Porém, observei
+que poderia utilizar estruturas semelhantes mesmo em C++. E ficou nessa
+linguagem.
+
+Modelo 1 (C++): 340ms. Horrível. Memória, muito horrível. Utilizava
+unordered_set.
+
+Moelo 2 (C++): 420ms. Horrível. Memória, muito horrível. Utilizava set.
+
+Não seguiu bem a ideia que a plataforma indicava, que era O(1). Considero que
+não haveria condição para isso. A não ser que seja, somente, para a função
+específica do problema.
+
+Menor tempo, isolado, em 100ms. O gráfico ía até cerca de 500ms, preenchendo até
+478ms, com concentração, formando uma montanha, até 250ms, com pico em 173ms.
+
+O código mostrado em 478ms era bem similar ao meu que utilizava set.
+
+Vi um modelo, dos demais participantes, que era bem interessante, que fazia um
+cruzamento entre um mapa e um vetor. Seria uma ideia que eu teria pensado,
+apesar de ter um trabalho mental fantástico, com um final espetacular simples.
+
+Tive outras ideias de uso de outras estruturas, para testes. Mas, deixemos para
+outros momentos.
+
