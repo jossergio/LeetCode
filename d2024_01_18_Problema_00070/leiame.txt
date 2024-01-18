@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 12/12/2022, que eu havia feito em Rust.
+
+Como não tive ideia melhor, só repostei.
+
+Em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A postagem anterior era em 1ms. Mas, apesar de sinais, não houve barra nesse
+nível, ficando todo mundo em 0ms. O gráfico ía até 10ms.
+
+Em termos de memória, o meu piorou muito. E, olha, foi só uma repostagem.
+
