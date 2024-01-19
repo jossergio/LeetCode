@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 13/12/2022. Só fiz repostar o de menor tempo. Aliás,
+era o mesmo do de maior tempo. Porém, eu não tinha tirado trecho de debug.
+
+Em C++.
+
+7ms. Excelente.
+
+Memória, muito horrível.
+
+A postagem anterior fora em 22ms. E não entendi a questão de aumentar o consumo
+da memória, pois era o mesmo código. Vai ver, questão de compilador. Mas, piorou
+muito.
+
+O menor tempo, isolado, foi 2ms. Em 3ms. um código bem parecido com o meu. O
+gráfico ía até 50ms, mas ninguém passou de 38ms. Concentração, em forma de
+montanha, entre 6 e 20ms, com pico em 12ms. Após isso, uma leve gramínea.
+
