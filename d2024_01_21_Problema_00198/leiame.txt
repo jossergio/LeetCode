@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/12/2021, que eu não havia conseguido resolver,
+após diversas tentatias, e que reapareceu em 14/12/2022 e eu concluí. Em
+seguida, em 15/12/2022, fiz um modelo em Rust, para estudos, baseado em um novo
+conceito.
+
+Só fiz repostar esse modelo em Rust. Não desejei pensar. Preguiça e querendo
+aproveitar o tempo, pois já tinha me frustrado com o problema do dia anterior.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+O modelo anterior foi em 1ms (coisas do LeetCode) e a memória tinha sido
+excelente (também, coisas do LeetCode).
+
+O gráfico ía até 10ms. Mas só houve zero (maioria) ou 1ms.
+
