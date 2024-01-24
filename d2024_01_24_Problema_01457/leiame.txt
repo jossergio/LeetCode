@@ -1,0 +1,46 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, a
+minha ideia utilizava um vetor, para definir testes, enquanto as da plataforma
+utilizavam operações bit a bit para definir cada acúmulo, com um cálculo, bit a
+bit, bem interessante para checar a condição.
+
+Demorei um pouquinho a fazer, porque não estava entendendo bem o que a
+plataforma definia. Porém, passou de primeira, após passar nos testes
+preliminares.
+
+Após postar, tive uma ideia de utilizar variáveis de classe, no lugar de passar
+para as chamadas da função (recursiva). Então, fiz uma nova postagem, com essa
+forma.
+
+A primeira postagem ficou "feia" em termos de programação, pois ficou código
+fora de especificações de private/public, além de a edentação não seguir regras
+de alinhamento de nível interno. Corrigi isso na segunda postagem.
+
+A diferença básica entre a primeira ideia da plataforma e a segunda era que a
+primeira utilizava uma pilha para navegar na árvore e a segunda era recursiva.
+
+Porém, para utilizar a sistemática de pilha, tinha que utilizar uma segunda
+variável, formando um par, que era o elemento da pilha: nó e acumulador.
+
+Então, posso dizer que a minha, mantidas as proporções de checagem por cálculos
+de bits, era semelhante a essa segunda.
+
+Modelo 1 (C++): 246ms. Posso dizer excelente. Memória, muito excelente.
+
+Modelo 2 (C++): 242ms. Excelente. Memória, mais excelente ainda. Era o mesmo
+modelo da postagem anterior, modificando que não passava variáveis para as
+funções, mantendo-as no escopo do objeto (global).
+
+O menor tempo, bem isolado, foi 154ms. Era recursivo e utilizava uma base do
+cálculo por bit da plataforma, com ajustes. A concentração foi entre 231 e
+325ms, em forma de uma montanha repicada. O gráfico ía até cerca de 1400ms, com
+alguns repiques e picos após a concentração.
+
+Tive uma ideia de fazer uma nova postagem, similar à primeira, porém, sem
+utilizar referências, deixando o acumulador retornar ao estado anterior sem
+precisar "desacumular". Mas, isso só utilizaria mais memória, pois eram vetores.
+Deixei para lá, mesmo que para testes.
+
+De toda forma, foi um bom estudo as ideias da plataforma.
+
