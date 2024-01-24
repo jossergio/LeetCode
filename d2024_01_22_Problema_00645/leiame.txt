@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 23/10/2022. Só fiz repostar o último postado e de
+menor código.
+
+Em Python 3.
+
+157ms. Medianamente bom.
+
+Memória, muito excelente.
+
+Apesar de ser uma repostagem, ficou com o tempo melhor que a da anterior. E a
+memória ficou pior, mesmo indicando que, também, era medianamente boa, a
+anterior, e a atual muito excelente.
+
+Nas informações da postagem anterior, indiquei que não houve abaixo de 169ms. Ou
+seja, melhorou bem, no geral de todos os participantes.
+
+O menor código foi em 129ms, com uma lógica curta e matemática. Interessante. O
+gráfico ía até cerca de 8000ms. A concentração foi entre 131 e 200ms, com pico
+em 157ms. Após isso, só repicado.
+
