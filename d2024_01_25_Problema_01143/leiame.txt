@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Inicialmente, pensei que era um problema simples de programação dinâmica para
+ver sequências maiores. Após produzir o primeiro erro, vi que necessesitaria
+acumular, em alguma forma de recursividade com memo. Mesmo assim, tentei uma
+forma relativamente simples, pois, também, imaginei que seria prático e era uma
+pegadinha do LeetCode. E foi o segundo erro.
+
+Imaginei algo linear, iterativo e sem recursividade, com um memo em forma de
+tabela em um laço aninhado. Após alguns testes frustrados, com os exemplos da
+plataforma, incluindo os que produziram erro nos testes anteriores, passou.
+
+Não entendi direito a situação do código. Mas, passou. Posso dizer que estou
+melhorando em programação dinâmica e/ou memoization.
+
+Ou seja: tive uma ideia, não sei como cheguei na implementação, mas, de alguma
+forma, passou e isso é o importante. Se me pedir para explicar, não saberia.
+
+Em C++.
+
+29ms. Muito bom.
+
+Memória, horrível.
+
+O menor tempo foi 3ms, com um código horrível e extenso. O gráfico tinha colunas
+por toda a extensão até 123ms, com concentração, e forma de cordilheiras,
+entre 11 e 88ms, com diversos picos. O gráfico ía até pouco mais de 130ms.
+
+De toda forma, ainda considero que o tempo poderia ter sido melhor e foi coisa
+da plataforma.
+
