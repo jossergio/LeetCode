@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+Era o mesmo problema dos dias 13/11/2021 e 18/12/2022, que eu havia feito em
+GoLang. Tentei repostar, como fiz em 18/12/2022 e tinha ficado com tempo bem
+maior. Porém, desta vez, produzia estouro de tempo.
+
+Acredito que o LeetCode tenha percebido que, com um código tão simples como o
+meu, passava, mesmo com tempo longo, e adicinou mais alguns testes que viriam a
+produzir excesso de tempo com esse tipo de código.
+
+Nas postagens anteriores, eu já comentava sobre memorização. E foi o que tive
+que fazer. E aproveitei para fazer em C++.
+
+Demorei a postar por uma breve questão. Apesar de eu ter uma ideia boa e
+simples, a imaginação ía ao limite, por questões de vínculos no memo. E, sem
+perceber, no lugar de chamar a função, na recursão, retornava uma "tupla" dos
+parâmetros. Fiz vários debugs até chegar a perceber essa bobeira.
+
+O novo código passou de primeira.
+
+Em C++.
+
+84ms. Muito excelente.
+
+Memória, medianamente ruim.
+
+O menor tempo, bem isolado, foi 53ms, com um código não tão bem intuitivo,
+porém, eivado de uso recursos de forma interessante. O gráfico ía até cerca de
+400ms, com colunas indo bem próximo, em forma de gramínea, até 375ms.
+Concentração, em forma de montanha, entre cerca de 95 a 180ms.
+
