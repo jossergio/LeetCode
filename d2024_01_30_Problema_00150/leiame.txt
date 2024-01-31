@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 17/12/2022. Só fiz repostar o de menor tempo. E mais
+bonito, também.
+
+Em C++.
+
+6ms. Muito bom.
+
+Memória, horrível.
+
+A postagem anterior desse código foi 10ms. O uso da memória aumentou. Talvez,
+questão de compilador.
+
+Poucos em 0ms. O gráfico ía até pouco mais de 27ms. Porém, não houve coluna após
+18ms. Não há como falar de concentração, mas o pico foi em 8ms.
+
