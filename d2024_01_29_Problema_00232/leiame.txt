@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 16/12/2022. Tentei ver se melhorava e produziu um
+erro. Não tinha muito o que fazer e a ideia foi boba. Achava que era uma coisa e
+era outra.
+
+Então, repostei a postagem anterior.
+
+Em C++.
+
+3ms. Meianamente ruim.
+
+Memória, medianamente ruim.
+
+A postagem anterior foi 4ms. E a memória aumentou muito. Talvez, compilador.
+
+Muitos em 0ms. Não houve coluna em 4ms e após. O gráfico ía até 12ms.
+
+O código que vi em 0ms não era muito elegante. O meu tinha uma implementação que
+eliminava a implementação de laço, quando realizando uma busca.
+
