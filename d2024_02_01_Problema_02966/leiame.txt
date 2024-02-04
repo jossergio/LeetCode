@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia que, após um erro, bobo, por não interpretar direito, passou.
+
+Após postar, vi que era com a mesma base da solução que a plataforma
+apresentava, apesar de utilizar uma forma de salto que visava agilizar a
+execução. Porém, considero que um teste interno em um laço poderia produzir uma
+resposta errada, dadas algumas situações, para o código da plataforma.
+
+Em C++.
+
+189ms. Medianamente ruim.
+
+Memória, ruim.
+
+O menor tempo, bem isolado, foi em 60ms, com um código bem feio, mas, utilizando
+estrutuas de C++ de otimização de entrada e saída. Concentração, em forma de
+montanha, entre 100 e 180ms, mas, após isso, manteve uma gramínia alta,
+incluindo uma leve saliência, até 243ms. O gráfico ía até pouco mais de 240ms.
+
