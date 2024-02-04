@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 23/01/2022. Só fiz repostar. Não tive ideia melhor.
+
+Em GoLang.
+
+1ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+A postagem anterior foi em 0ms. O uso da memória foi um poquinho melhor, apesar
+de a plataforma não sugerir bem isso no gráfico.
+
+No gráfico, que ía até 10ms, só havia coluna em 0ms.
+
