@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 16/08/2022, que eu tinha feito várias postagens e
+em C++ e em GoLang. Só fiz repostar a última.
+
+Em GoLang.
+
+7ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+O pico maior era no 7ms. Mas, havia outros dois picos em 0ms e em 3ms. O gráfico
+ía até pouco mais de 60ms, mas, no geral, era uma leve gramínea até 53ms.
+
