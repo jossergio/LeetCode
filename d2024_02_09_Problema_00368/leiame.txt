@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Inicialmente, tentei em Python. Porém, minhas ideias não vingaram em duas
+tentativas. Então, tive uma ideia de um memo em C++ (sou mais familizarizado).
+Após um erro, por ter esquecido de ordenar no início (na ideia inicial e nas
+postagens em Python, eu, de cara, tive essa imagem da necessidade), passou.
+
+Em C++.
+
+78ms. Muito ruim.
+
+Memória, muito ruim de horrível.
+
+O menor tempo, isolado, foi em 3ms. A concentração, em forma de duas montanhas
+irregulares, foi entre 7 e 40ms. Após isso, uma gramínea irregular até 93ms.
+
+Os códigos que vi eram bem complexos. O meu também foi. Vi alguns interativos,
+enquanto o meu código era recursivo.
+
+Considero o meu mais simples que os que vi. Porém, muita memória e muito lento.
+
