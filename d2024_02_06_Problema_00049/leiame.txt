@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 12/08/2021, que foi, também, do dia 28/10/2022. Só
+fiz repostar o último, apesar de não ser o mais rápido, mas era o mais objetivo.
+
+Em Python.
+
+92ms. Mediano.
+
+Memória, medianamente boa.
+
+O menor tempo, isolado, era em 36ms. O gráfico ía até cerca de 200ms. A partir
+de 40ms, formou-se uma leve gramínea, com concentração, em forma de montanha, a
+patir de 59ms até 130ms. A gramínea anterior à concentração é mais baixa que a
+posterior.
+
