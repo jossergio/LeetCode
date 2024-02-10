@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+Rapidinho. Tive uma ideia e implementei. Passou de primeira.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memoria, muito boa.
+
+Achei que ficaria muito lento. Mas, fiquei surpreso.
+
+Muitos (maior pico) em 0ms. Concentração, em forma de descida irregular, até
+45ms. O gráfico ía até cerca de 800ms e houve uma leve gramínea até próximo do
+final.
+
+Os mais rápidos eram bem similares ao meu. O meu era recursivo, mas, os que vi,
+era interativos, mesmo em função auxiliar. Alguns códigos eram bem complexos. O
+meu ficou bem simples.
+
