@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Fiz rapidinho. Tive uma ideia que passo de primeira.
+
+Após postar, vi que minha ideia era semelhante à primeira solução da plataforma,
+apesar de considerar minha ideia mais simples. Tinha, de toda forma, menos
+linhas.
+
+Decidi, também, fazer uma segunda abordagem, com base na segunda ideia da
+plataforma. Ficou um pouco complexo. Se eu tivesse refatorado, criando uma
+função auxiliar (a ideia da plataforma usava), talvez ficasse mais apresentável.
+
+Modelo 1 (C++): 55ms. Medianamente ruim. Memória, ruim. Criava uma string,
+baseada nas do vetor, porém, invertida, e checava com a original.
+
+Modelo 2 (C++): 57ms. Ruim. Memória, medianamente ruim. Utilizava ponteiro duplo
+para varrer cada string.
+
+O menor tempo, bem isolado, foi em 18ms. Concentração, em forma de montanha
+irregular, entre 34 e 62ms. Após isso, uma gramínea, irregular e com algumas
+falhas, até 96ms. O gráfico ía até pouco mais de 100ms.
+
