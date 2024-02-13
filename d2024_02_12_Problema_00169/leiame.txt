@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 21/02/2022, que eu havia feito em GoLang.
+
+Porém, ele utilizava dois laços em sequência e eu percebi que poderia utilizar
+um só. Então, fiz uma nova abordagem.
+
+Após postar, vendo a solução dos demais, notei uma forma mais simples, que
+utilizava uma lógica que eu poderia chegar, se observasse com mais cautela.
+Então, fiz um segundo modelo.
+
+Modelo 1 (C++): 11ms. Muito bom. Memória, horrível. Utilizava mapa.
+
+Modelo 2 (C++): 12ms. Medianamente bom. Memória, melhor um pouquinho, mas, ainda
+horrível. Ordenava o vetor e retornava com base em uma lógica para a maioria
+(baseada em mediana).
+
+Houve 0ms, isolado, com uma lógica bem interessante. Concentração entre 7 e
+24ms. Após isso, uma gramínea até 38ms. O gráfico ía até pouco mais de 45ms.
+
