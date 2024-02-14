@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Minha solução utilizava, somente, uma passada de laço para todo o trabalho.
+
+Após postar, tive uma outra ideia, de utilizar dois laços, fazendo o primeiro
+acumular e o segundo descarregar. O código fica menor.
+
+Após postar, vi que a solução da plataforma era mais simples, apesar de a ideia
+geral ser bem similar. O problema é que eu tive a péssima ideia de utilizar
+filas, quando poderia aproveitar a própria ideia e utilizar apontamentos.
+
+Antes de registrar, decidi fazer meu próprio modelo baseado na ideia da
+plataforma, só para comparar.
+
+Modelo 1 (C++): 152ms. Medianamente bom. Memória, medianamente ruim. Utilizava
+duas filas e um laço único para gerenciar o andamento.
+
+Modelo 2 (C++): 154ms. Mediano. Memória, medianamente ruim, pior que o modelo
+anterior. Utilizava dois laços, um para acumular nas filas e outro para
+descarregar na resposta. O código ficou menor, quase a metade.
+
+Modelo 3 (C++): 133ms. Excelente. Memória, mediana. Utilizava poucos recursos e
+é baseada na solução da plataforma. Não utilizei filas e o vetor resposta era
+preenchido de um modo quase que direto, em um laço único. O código ficou menor
+ainda.
+
+O menor tempo foi em 72ms, iniciando uma leve gramínea que, a exceção da
+concentração, permeava, de forma um pouco irregular e falhada, todo o gráfico. A
+concentração, em forma de montanha irregular, ficou entre 118 e 194ms. O gráfico
+ía até cerca de 350ms. Mas a gramínea ía, somnete, até 341ms.
+
