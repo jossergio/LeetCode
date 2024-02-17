@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi que
+minha ideia era similar à primeira da plataforma. Porém, era um pouco lento,
+pois utilizava processamentos desnecessários.
+
+Então, decidi fazer uma nova abordagem, ainda sem olhar as soluções da
+plataforma. E ficou bem melhor. E mais similar à da plataforma. Porém, o meu
+ainda utilizava menos linhas, agregando sintaxe (pois foi em Python 3).
+
+Quando fui registrar, percebi que tinha deixado uma impressão de variável para
+debug. Decidi fazer uma nova postagem, sem essa linha. O registro só fiz no dia
+seguinte. Então, ficaram postagens e dias distintos.
+
+Modelo 1 (Python 3): 1071ms. Muito horrível. Memória, muito excelente.
+
+Modelo 2 (Python 3): 317ms. Excelente. Memória, muito boa. Utilizou um pouco
+mais que o modelo anterior. Não entendi o motivo.
+
+Modelo 3 (Python 3): 316ms. Excelente. Memória, excelente. Era o mesmo do modelo
+anterior, só que sem a linha de impressão de variável para debug (bug deixado).
+
+O menor tempo, isolado, foi 288ms. Após isso, uma concentração, em forma de
+montanha bem irregular, entre 299 e 389. Em seguida, uma outra pequena
+saliência, também bem irregular, até 544ms. Após isso, diversos picotes até
+pouco mais de 1000ms, quando o gráfico acaba (por volta de 1100ms).
+
