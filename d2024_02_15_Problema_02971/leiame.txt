@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um erro em tempo de execução, por não atentar ao tipo da respota, que
+deveria ser um inteiro longo (a própria definição da função problema já trazia),
+passou.
+
+Após postar, vi que a ideia básica era a mesma da plataforma. Porém, o meu, não
+sei o porquê de ter tido a ideia, utilizava um vetor (que não era necessário)
+para ir guardando valores anteriores.
+
+Então, decidi fazar uma segunda abordagem sem esse vetor, utilizando uma
+variável simples para ir registrando os valores acumulados.
+
+Modelo 1 (C++): 138ms. Mediano. Memória, horrível.
+
+Modelo 2 (C++): 129ms. Muito bom. Memória, medianamente boa. Era o mesmo do
+anterior, porém, não utilizava um vetor acumulador, utilizando uma variável
+simples.
+
+Menor tempo, isolado, 33ms. Após isso, uma leve gramínea, contínua e irregular,
+até 111ms, quando inicia uma montanha, até 170ms, formando a concentração. O
+gráfico ía até 180ms.
+
