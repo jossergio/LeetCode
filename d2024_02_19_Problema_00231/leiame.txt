@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/12/2021. Porém, reduzi o código para uma linha,
+inclusive tirando uma variável desnecessária, e fiz uma nova abordadem, apesar
+de ser um problema simples e eu não teria outra ideia. Não envolvei laço, era um
+simples cálculo matemático e o teste só foi necessário por conta de pegadinhas
+do LeetCode, que poderia fornecer números inválidos.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A postagem anterior ficou em 4ms. E a memória aumentou bastante. Talvez,
+questões de compilador.
+
+A maioria em 0ms e uns poucos até 4ms, em um gráfico que ía até 14ms.
+
+O do 0ms utilizava, inclusive, laço. O meu, era um simples cálculo matemático.
+
+Em 2ms vi um código bem similar ao meu em que, através de cálculo matemático,
+dispensava o teste (condição).
+
