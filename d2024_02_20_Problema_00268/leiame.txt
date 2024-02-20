@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 28/05/2022, onde fiz duas postagens. Porém, tive uma
+ideia melhor, aproveitando sintaxe e estruturas de Python (operações com sets,
+conjuntos), que foi a linguagem das postagens anteriores.
+
+Rapidinho. Passou de primeira.
+
+Em Python.
+
+100ms. Excelente.
+
+Memória, horrível e bem pior que as postagens anteriores.
+
+Não entendi a questão de ter utilizado bem mais memória, uma vez que o código se
+resumiu a uma linha envolvendo operação de dois conjuntos.
+
+Concentração, em forma de montanha com um pico bem acentuado, entre 91 e 135ms.
+O gráfico ía até mais de 1500ms, região onde houve uma leve gramínea com uma
+leve e discreta saliência. Houve uma gramínea, irregular, a partir de 33ms e
+outra após a concentração e até 270ms, onde ficou uma gramínea bem irregular até
+perto do final do gráfico, onde houve a gramínea no entorno de 1400ms.
+
