@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 03/01/2022 e que tinha reaparecido em 23/01/2023.
+Não desejei pensar. Só repostei o mais recente.
+
+Obs.: no nome da pasta e no registro no GitHub eu marquei que seria 02/01/2022,
+por uma questão lógica, pois foi o dia em que o fiz, mas que foi um equívoco.
+O LeetCode muda por um fuso horário diferente do Brasil e já tinha me mostrado,
+nesse dia, o problema do dia seguinte. Ou seja: em 02/01/2022 já me mostrava o
+do dia 03.
+
+Em C++.
+
+137ms. Mediano.
+
+Memória, ruim.
+
+O tempo melhorou e o uso da memória piorou.
+
+O melhor tempo, bem isolado, foi em 72ms. A concentração, bem extensa, por
+sinal, era em forma de uma montanha com duas corcovas, entre 90 e 182ms, que foi
+o final das barras.
+
