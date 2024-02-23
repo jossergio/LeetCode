@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 10/10/2021, que eu havia feito em GoLang.
+
+Não tive ideia melhor. Só fiz repostar.
+
+Em GoLang.
+
+1127ms. Muito horrível.
+
+Memória, ruim.
+
+O tempo piorou muito em relação à postagem anterior. Memória, até que melhorou.
+Vai explicar isso.
+
+Muitos, em forma de montanha, entre 0 e 30ms, com pico em 8ms. O gráfico ía até
+pouco mais de 1100ms. E alguns estavam aí, menos ou meu, que estava fora. No
+geral, o gráfico fico bem repicado, bem espalhado, com leves pontos de
+concentração distintos.
+
+Havia uma forma de uma otimização matemática, que, mesmo vendo as postagens dos
+demais participantes, não consegui entender.
+
