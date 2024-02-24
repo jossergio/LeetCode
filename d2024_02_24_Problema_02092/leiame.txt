@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava cinco soluções, todas bem complexas, que eu nem
+olhei. Após postar, nem sei em que estilo a minha solução ficou.
+
+Tive uma ideia que, por conta de situações que é normal para a plataforma,
+causou quatro erros, sendo um deles tempo excedido.
+
+Minha ideia geral utilizava muitos conceitos de conjuntos (sets).
+
+Ainda pensei em fazer alguma outra solução, após ver as ideias da plataforma,
+mas resolvi sossegar e me considerar satisfeito.
+
+Em Python.
+
+2388ms. Medianamente ruim.
+
+Memória, ruim.
+
+O gráfico ía até pouco mais de 6000ms e houve postagens que chegaram até esse
+limite. O gráfico ficou bastante repicado, apesar de as barras, no geral, serem
+bem destacadas. A concentração ficou entre 1509m, menor tempo geral, a 1645ms,
+com uma formação bem irregular.
+
+Minha solução utilizava muitos laços, em sequência e aninhados, porém, que, de
+uma forma geral seriam curtos. As soluções da plataforma também tinham essa
+estruturação. Porém, utilizando estrutuas de forma a mitigar isso.
+
