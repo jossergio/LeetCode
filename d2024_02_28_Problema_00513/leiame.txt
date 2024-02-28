@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, posso
+dizer que minha solução era parecida com a segunda da plataforma. Porém, varria
+de uma forma invertida, durante a formação de uma fila, que era utilizada como
+estrutura para a solução.
+
+Em C++.
+
+11ms. Mediano.
+
+Memória, medianamente boa.
+
+Houve 0ms. O gráfico ficou um pouco irregular, apesar de contínuo, entre 3 e
+20ms, sem barra em 1 e 2ms, e com uma descida regular a partir de 13ms. Antes,
+os picos eram bem nítidos, tipo serra.
+
+De uma forma ou de outra, os códigos utilizava ideia similar. Vi poucos com uma
+ideia baseada na primeira da plataforma.
+
