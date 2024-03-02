@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após um erro, que se fosse no computador eu teria visto antes (o LeetCode, na
+nova versão, o que permite executar mais de um teste preliminar, não edita
+código no celular), passou. A falha foi usar o índice da variável no lugar da
+lista com o índice. Se fosse em C, nem compilava, pois o tipo de dados da lista
+era string e o índice era inteiro. Ou seja: não estava, nem, comparando o valor
+em si do item na lista, mas o índice.
+
+Após postar, para estudar, ainda fiz mais trẽs modelos. O terceiro, inclusive,
+nem utilizava a lista de entrada, criando uma lista para retorno com base em
+contagens. A quarta ainda a utilizava, mas foi para estudos.
+
+Modelo 1 (Python 3): 53ms. Muito horrível. Memória, excelente.
+
+Modelo 2 (Python 3): 48ms. Horrível. Memória, mediana.
+
+Modelo 3 (Python 3): 23ms. Muito muito excelente. Memória, medianamente boa.
+
+Modelo 4 (Python 3): 34ms. Muito bom. Memória, medianamente ruim.
+
+O menor tempo foi em 18ms, um pouco isolado, com uma ideia um pouco melhor que a
+minha terceira. O gráfico ía até pouco mais de 55ms. A concentração, em forma de
+uma montanha irregular, era entre 25 e 48ms. Não houve barra após esse tempo.
+
+Vi postagens similares, e até bem iguais, a esse 18ms e à minha, pelas postagens
+dos demais.
+
