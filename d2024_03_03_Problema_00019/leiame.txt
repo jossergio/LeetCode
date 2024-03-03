@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 28/09/2023 e que eu j'atinha resolvido como avulso
+em 23/05/2022. Só fiz repostar o melhor tempo.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim. Piorou muito. Mas, acho, é coisa de compilador.
+
+O tempo voltou a ser o original. Mas, em 28/09/2023, tinha ficado em 4ms. Foi o
+mesmo modelo, repostado, também.
+
+Muitos em 0ms. O gráfico ía até pouco mais de 16ms. Muitos, também, em 3ms. A
+última barra foi em 7ms. No geral, bem irregular o gráfico.
+
