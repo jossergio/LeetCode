@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Entendi a lógica do problema e tive uma ideia inicial. Após um errinho bobo,
+por conta de uma condição, passou.
+
+Após postar, vi que a minha era um pouco similar à primeira da plataforma. A
+segunda era similar, mas com recursão.
+
+A diferença do meu para a plataforma era que o meu fazia um teste dentro do laço
+e que poderia ficar no próprio teste. Além disso, ambos os laços internos meus
+íam até serem iguais, enquanto da plataforma somente o primeiro. Isso produzia
+um teste, de igualgade, antes de retornar a resposta, no meu caso.
+
+Em C++.
+
+27ms. Mediano.
+
+Memória, mediana.
+
+As ideias dos demais participantes eram bem parecidas com a primeira da
+plataforma. Alguns, com menor tempo, inclusive, mais complexos em tamanho de
+código. Não vi ideias baseadas no segundo modelo da plataforma.
+
+O menor tempo, bem isolado, foi em 3ms, com um código feio. Concentração
+irregular entre 19 e 33ms, com alguns poucos antes e alguns poucos depois,
+findando em 36ms e com o gráfico indo até pouco mais de 45ms.
+
