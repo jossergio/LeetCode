@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 08/03/2023, onde eu tinha feito três modelos em
+Python 3, e, também, do dia 04/09/2023, onde fiz um modelo em C++ baseado na
+última postagem em Python.
+
+Porém, dessa vez, tive uma ideia de fazer algo diferente, baseado no que venho
+acompanhando de exemplos da plataforma e de seus participantes. No caso, uma
+ideia de "fast-slow", dois ponteiros seguindo uma lista ligada, onde um anda
+mais rápido, tendo como objetivo ou atingir o final ou se encontrarem em um
+possível ciclo. Isso poupa algum tempo e memória.
+
+Após um errinho, por não gerenciar um ponteiro direito, passou.
+
+Antes de postar, decidi enxugar o código um pouco, baseado em uma das postagens
+que vi de um dos participantes. Então, fiz um degundo modelo que, por sua vez,
+após mais um erro e por não gerenciar um ponteiro direito, também passou.
+
+Modelo 1 (C++): 7ms. Muito bom. Memória, mediana. Montava um laço infinito e
+fazia testes internamente, retornando valor conforme encontrava alguma situação.
+
+Modelo 2 (C++): 11ms. Mediano. Memória, mediana. Similar ao código anterior.
+Porém, os testes eram na própria condição do laço, ficando um código menor, mais
+enxuto e melhor visualmente.
+
+Houve 0ms, com uma barra bem pequena. O gráfico era bastante irregular, indo até
+pouco mais de 27ms, mas a última barra foi em 19ms. Duas barras em destaque
+foram em 7 e 11ms.
+
