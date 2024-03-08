@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Tive uma ideia de utilizar algumas estrutuas avançadas de collections, para
+simplificar o código. Após um errinho bobo, por não me ter atentado para como o
+problema era montado, passou.
+
+Como a plataforma não utilizou essas estruturas, gerou códigos mais complexos.
+Ou seja, não posso dizer que a minha é similar. Porém, em ideia, seria à última.
+
+Em Python 3.
+
+31ms. Muito excelente.
+
+Memória, medianamente boa.
+
+O menor tempo, bem isolado, foi em 15ms, com uma forma bem complexa e, acho,
+deveria ter sido muito lenta. A concentração ficou em forma de uma montanha
+irregular, podendo-se dizer entre 30 a 52ms. O gráfico ía até pouco mais de
+60ms.
+
