@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções e meia, que eu nem olhei. A meia
+solução era por conta de uma derivação da primeira solução para uma utilização
+de recursos de Python que, ao final, se mostrou similar à minha ideia.
+
+Após postar, tive a ideia de fazer um segundo modelo, utilizando um outro
+algoritmo, que ao postá-lo, vi que era bem semelhante à segunda da plataforma.
+
+Modelo 1 (Python 3): 362ms. Medianamente ruim. Memória, medianamente ruim.
+Utilizava a ideia de intersecção de conjuntos, ordenava e pegava o menor, caso
+houvesse intersecção, ou a informação esperada pela plataforma para indicar que
+não havia. Essa última região continha algoritmos que eu havia pensado de
+início, mas achei que seriam custosos em tempo, o que se demonstrou. Tirava os
+primeiros elementos (pop), até atingir a condição de encontrar ou não (esvaziar
+uma das duas listas).
+
+Modelo 2 (C++): 70ms. Medianamente bom. Memória, mediana. Utilizava a ideia de
+percorrer os vetores-parâmetros em busca da resposta. Caso não localizasse,
+retornava a informação que a plataforma esperava para isso.
+
+Em Python, o menor tempo, be isolado, foi em 310ms. O gráfico já iniciava em
+300ms, indi até pouco mais de 1200ms. Grande concentração, em forma de montanha,
+entre 322 e 388mm, com uma leve concentração após isso, em seguida pequenas
+barras espaçadas, um vácuo entre cerca de 650ms até uma outra pequena
+concentração após 1250ms.
+
+Em C++, o menor tempo, isolado, foi em 18ms, com alguns poucos pingados até o
+início de uma grande concentração, em forma de montanha, iniciando em 51ms e
+terminando em 86ms, com uma grama alta irregular, logo em seguida, até 191ms. O
+gráfico ía até 200ms.
+
+Alguns códigos bonitos. Outros, feios.
+
