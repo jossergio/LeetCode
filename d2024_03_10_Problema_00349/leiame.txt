@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentada quatro soluções, que eu nem olhei.
+
+Fiz em Python, pois vi que poderia utilizar recursos para ficar em uma única
+linha. Após postar, vi que era similar ao segundo modelo da plataforma. Porém,
+utilizava variáveis independentes e não ficou em uma linha.
+
+Em seguida, tive uma ideia de fazer em C++, só para ver como poderia ficar em
+não utilizar os recursos de Python. A minha ideia não fazia parte das ideias da
+plataforma.
+
+Modelo 1 (Python 3): 47ms. Medianamente bom. Memória, mediano. Utilizava
+conceitos de conjuntos (set) para formar a resposta. E ficou em uma linha.
+
+Modelo 2 (C++): 4ms. Medianamente bom. Memória, ruim. Varria um dos vetores e
+fazia uma busca binária (embutida de C++) no segundo, tentando agiliar já
+definindo o tamanho máximo da resposta (alocação) baseado no parâmetro de maior
+tamanho.
+
+No geral, lembrava o problema do dia anterior. E minha ideia feita em C++ foi
+baseada em uma das soluções da plataforma para esse problema.
+
+Em Python 3, o gráfico formou uma montanha com dois cumes e com sopés bem
+descatados, entre 24ms (menor tempo isolado) e 80ms.
+
+Em C++, O gráfico ficou um pouco irregular, havendo muitos em 0ms, uma grande
+barra em 4ms e a última barra em 15ms.
+
+O modelo que vi em 0ms não acreditei que estaria nesse nível, pois, em minha
+opinião, era um código que deveria ser bastante lento, utilizando mapa e fazendo
+retiradas nele, com dois laços. O meu, pelo menos, utilizava o laço de
+construtor, para formar o conjunto para o primeiro parâmetro. No geral, uns
+códigos bem feios, sem utilizar muito da estrutura de C++.
+
