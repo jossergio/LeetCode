@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 14/07/2021, que eu havia postado em 18/07/2021 só
+pelo desejo de fazer. Só fiz repostar.
+
+Em C++.
+
+3ms. Mediano.
+
+Memória, excelente.
+
+O tempo anterior foi 0ms. E a memória piorou, mas, acho, é questão de
+compilador.
+
+Grande maioria em 0ms. Barras grandes em 3 e 4ms. Não houve barras após esse
+tempo. O gráfico ía até 14ms.
+
