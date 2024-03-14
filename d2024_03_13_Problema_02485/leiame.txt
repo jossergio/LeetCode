@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei.
+
+Após um errinho, por bobeira (apesar de ter pensado, fiz um cálculo raciocinando
+como se fosse 0-begin e um laço não incluía o último elemento; sinal de menor no
+lugar de menor ou igual), passou.
+
+Em C++.
+
+3ms. Mediano.
+
+Memória, medianamente boa.
+
+Não posso dizer que minha solução se parecia com alguma da plataforma.
+
+Muitos em 0ms. Colunas grandinhas em 3 e 4ms. No resto, pequenas colunas, tipo
+gramínea, até 48ms. O gráfico ía até pouco mais de 55ms.
+
+A solução que eu vi em 0ms lembra bastante a minha. Porém, utilizava vetor,
+coisa que a minha não fazia. Ou seja: era menos eficiente em memória, apesar de
+que, em termos de tempo, poderiam ser iguais, utilizando dois laços
+independentes e fazendo cálculos de maneira similar. E meu modelo ainda possuia
+uma condição para encerrar antecipadamente, caso encontrasse uma situação que
+indicasse não haver mais soução a partir de um certo ponto.
+
+
