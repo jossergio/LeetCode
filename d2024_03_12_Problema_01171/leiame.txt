@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluçoes, sendo a segunda com algumas
+variantes, que eu tive que olhar, pois nem fazia ideia como resolver, e
+aproveitar para estudar. Copiei, lendo e adaptando, a primeira solução da
+plataforma.
+
+Em C++.
+
+11ms. Medianamente ruim.
+
+Memória, muito boa.
+
+Muitos em 0ms. Não houve como definir uma concentração. A última barra, após um
+declínio, era em 20ms. O gráfico ía até 28ms.
+
+Muitas das postagens que eu vi dos demais participantes eram baseadas na segunda
+ideia da plataforma.
+
