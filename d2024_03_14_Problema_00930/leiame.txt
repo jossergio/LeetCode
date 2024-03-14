@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Inicialmente, nem tive ideia. Porém, tive uma ideia de "por força bruta". Passou
+de primeira. Porém, acho, que era para produzir um estouro de tempo. Só não
+produziu por eu ter identificado uma situação que poderia romper o laço interno
+antecipadamente.
+
+Em C++.
+
+2959ms. Muito horrível. Nem apareceu no gráfico.
+
+Memória, medianamente boa.
+
+Nenhuma das soluções da plataforma se pareciam com a minha. Algumas, apesar de
+eu imaginar, não conseguiria implementar.
+
+O menor tempo foi em 7ms. O gráfico ía até pouco mais de 350ms. Concentração, em
+forma de três montanhas, uma maior, uma um pouco mais baixa e uma menor em
+seguida, entre 7 e 84ms. Em seguida, uma gramínea, bastante espaçada, voltando
+a ter uma outra pequena montanha entre 332 a 355ms.
+
+Não estava com cabeça para ficar fazendo comparações ou fazer um modelo com base
+em alguma ideia da plataforma.
+
