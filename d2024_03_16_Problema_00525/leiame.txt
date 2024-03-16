@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 04/02/2022, que eu já não tinha conseguido fazer e
+tinha lido solução da plataforma, traduzindo para GoLang, que desta vez não me
+apareceu.
+
+Fiquei refletindo sobre alguma solução que pudesse sair de minha mente e não
+tive êxito. Então, só repostei mesmo.
+
+Em GoLang.
+
+81ms. Mediano.
+
+Memória, mediana.
+
+Na postagem anterior, tinha sido o dobro desse tempo. E a memória um pouco
+menor, mas deve ter sido coisa de compilador.
+
+O menor tempo foi em 60ms. O gráfico ficou bastante irregular. Posso dizer que a
+concentração foi entre 78 e 93ms, com muitos picos. O restante do gráfico era,
+praticamete, vazio, com um grande vácuo depois de 156 e uma pontinha em 238ms.
+
