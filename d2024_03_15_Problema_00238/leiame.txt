@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 27/11/2021. Inicialmente, só fiz repostar, pois não
+estava tendo ideias.
+
+Algum tempo depois de postar, e com a cabeça tendo imaginações, decidi, pelo
+celular mesmo, fazer um modelo que eu considerasse mais eficiente. Então, depois
+de um modelo que produziu estouro de tempo, e produziria, sim, eu tinha ciência
+de que produziria. Então, refiz do zero mais um modelo, que passou.
+
+Modelo 1 (C++): 19ms. Medianamente ruim. Memória, mediana. Era o mesmo modelo da
+postagem anterior.
+
+Modelo 2 (C++): 3ms. Muito excelente. Memória, quase excelente. Foi uma ideia
+que fiquei matutando. Achava que seria em 0ms. Mas, devem ter sido coisas da
+plataforma.
+
+Houve uma pequena coluna em 0ms, utilizando funções push de vector, que
+considero lento. Lembrava minha postagem anterior, que foi repostada, e que
+ficou em um tempo mediano. O meu modelo mais eficiente não utilizava isso. Era
+mais direto.
+
+O gráfico ía até pouco mais de 30ms. A concentração ficou bem irregular, com
+barras altas e baixas, entre 7 e 24ms.
+
