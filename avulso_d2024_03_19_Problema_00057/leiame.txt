@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o problema do dia 17/03/2024, que eu não havia resolvido no dia mas tinha
+ficado encucado para ter uma solução.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após ficar com a questão na cabeça, decidi formar uma solução, que passou de
+primeira.
+
+Em C++.
+
+28ms. Horrível.
+
+Memória, nem apareceu no gráfico.
+
+Houve 0ms e um gráfico um pouco irregular, com concentração entre 7 e 13ms e um
+declive após isso, até praticamete não haver altura de barra em 34ms.
+
