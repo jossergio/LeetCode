@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a minha ideia era semelhante à segunda da plataforma.
+
+Analisando às ideias dos demais participantes, resolvi tirar uma segunda ideia.
+
+Modelo 1 (C++): 190ms. Medianamente ruim. Memória, muito boa. Utilizava dois
+laços em sequência.
+
+Modelo 2 (C++): 190ms. Medianamente ruim. Memória, muito boa, um pouquinho
+melhor que a anterior. Utiilizava um laço único, com condicionais internas.
+
+O menor tempo, muito isolado, foi em 122ms. Concentração, em forma de montanha
+picotada, entre 161 e 201ms, quando deixa de existir barras em um gráfico que ía
+até pouco mais de 210ms.
+
