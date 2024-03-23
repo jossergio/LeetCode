@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Tive uma ideia e postei. Passou de primeira.
+
+Jogava tudo em um vetor e trabalhava com ele.
+
+Em C++.
+
+23ms. Medianamente bom.
+
+Memória, ruim.
+
+O menor tempo foi em 7ms. Concentração, em forma de uma montanha bem acentuada e
+com alguns serrilhamentos, entre 11 e 36ms. Após isso, pequeninhas barras, com
+pontos de concentração e espaçamentos, formando uma leve gramínea falhada, até
+próximo do final do gráfico, que era e torno de 800ms.
+
