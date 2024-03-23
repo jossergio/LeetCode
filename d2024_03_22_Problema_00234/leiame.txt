@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema que eu havia resolvido como avulso em 14/08/2022 e que
+tinha sido o problema do dia 23 do mesmo mês e ano.
+
+Porém, resolvi fazer uma abordagem. Em seguida, fiz um segundo modelo.
+
+Moeleo 1 (C++): 185ms. Medianamente ruim. Memória, ruim. Utilizava vector como
+estrutura base e checava pelas pontas.
+
+Modelo 2 (C++): 189ms. Medianamente ruim. Memória, medianamente ruim. Utilizava
+stack como estrutura base e varria novamente a lista comparando com as retiradas
+da pilha.
+
+Houve alguns 0ms, em uma coluna destacada, e alguns próximos a esse valor, mas
+utilizando algumas técnicas especiais de entrada e saída. A concentração, e
+forma de montanha serrilhada, foi entre 112 e 223ms, havendo uma leve tentativa
+de rebote, até  246ms, última barra no gráfico. O gráfico ía até pouco mais de
+250ms.
+
