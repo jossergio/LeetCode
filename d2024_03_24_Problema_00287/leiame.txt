@@ -1,0 +1,39 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 29/03/2022 e que tinha reaparecido em 19/09/2023 e
+que eu só havia repostado
+
+Porém, desta vez, resolvi fazer uma forma que eu considero mais otimizada. E eu
+não tinha olhado como foram as postagens anteriores.
+
+A linguagem anterior era GoLang. Inicialmente, fiz em C++. Em seguida, fiz em
+Python 3, para fazer em uma linha única. E, mais em seguida, e para comparativo,
+apesar de a plataforma não ser tão segura para isso, traduzi o modelo em C++
+para Python.
+
+Ao postar, vi que minha solução era a mesma feita em GoLang. Achei que estivesse
+inovando. Mas, só, joguei em novas linguagens.
+
+Modelo 1 (C++): 73ms. Medianamente bom. Memória, medianamente boa. Utilizava um
+vetor fixo, booleano, para registrar existência anterior. Consequentemente, a
+saída/finalização também seria otimizada em alguns casos.
+
+Modelo 2 (Python 3): 466ms. Medianamente bom. Memória, muito ruim de horrível.
+Utilizava um contador e fazia um filtro, retornando o único valor que poderia
+ficar. Porém, ficou em linha única.
+
+Modelo 3 (Python 3): 441ms. Excelente. Memória, mediana. Era a tradução do
+modelo 1, em C++.
+
+Em C++, o menor tempo, com uma barrinha bem discreta, foi em 19ms. Até 218ms,
+houve barras, preenchendo todo o espaço. A concentração foi entre 55 e 124ms, em
+forma de duas montanhas em sequência, sendo a primeira maior e, após isso, houve
+mais duas pequenas ondulações. O gráfico ía até pouco mais de 220ms.
+
+Em Python 3, o menor temo foi em 410ms, com uma barrinha bem discreta. O
+preenchimento do gráfico ía até 596ms e a concentração era entre 419 e 543ms, em
+forma de uma grande montanha seguida de um leve rebate para outro morro, que
+falhou e ficou só declive. O gráfico terminava pouco de pois de 600ms.
+
+Algoritmos bem interessantes, outros nem tanto, dos demais participantes.
+
