@@ -1,0 +1,23 @@
+Dreto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, por não atentar para uma condição, passou.
+
+Após postar, vendo as postagens dos demais, fiz uma nova abordagem, diminuindo o
+código. Após um errinho, onde um teste eu achava que seria por um simples if e,
+depois, vi que teria que ser um while (pois podia a condição persistir por
+algumas etapas), passou.
+
+Modelo 1 (C++): 456ms. Muito horrível. Memória, muito horrível. Utilizava um
+mapa de uma fila, apesar de essa estrutura permitir utilizar um laço simples.
+
+Modelo 2 (C++): 340ms. Ruim. Memória, medianamente ruim. Utilizava um mapa de
+inteiros, apesar de que, para isso, teria um laço interno só para simular a
+fila.
+
+Menor tempo, isolado, foi em 73ms. Após isso, uma leve montanha entre 131 e
+175ms, quando iniciava uma montanha maior até 250ms, mantendo-se uma gramínea
+baixa até inicar o esboço de uma outra montanha, entre 332 e 386ms, quando as
+barras encerram. O gráfico ía até pouco mais desse valor.
+
