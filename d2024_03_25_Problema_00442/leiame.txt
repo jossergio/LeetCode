@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 06/10/2021, que eu havia feito em GoLang.
+
+Porém, resolvi fazer nova abordagem, utilizando Python, para a condição de "uma
+linha".
+
+Em seguida, resolvi fazer um segundo modelo, utilizando outras formas e recursos
+de Python. Utilizava uma list comprehension, com Counter, para fazer um filtro e
+gerar a resposta.
+
+Modelo 1 (Python 3): 262ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (Python3): 243ms. Excelente. Memória, excelente. Utilizava set para
+fazer as checagens necessárias.
+
+Obs.: parece que a ideia de uma linha é boa, redução de código, apesar de nem
+sempre embelezar e complicar o visual.
+
+Menor tempo em 59ms, com uma barra baixa, havendo outras duas pequenas barras
+no espaço até 218ms, onde começavam outras. Concentração, em forma de montanha,
+entre 230 e 301ms, onde encerravam as postagens. O gráfico ía até pouco mais de
+300ms. O gráfico iniciava em 50ms.
+
