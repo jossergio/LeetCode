@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções que, após tentar chegar a uma minha,
+resolvi copiar a primeira da plataforma, apesar de eu fazer meus ajustes.
+
+Minhas tentativas, em testes, estavam próximos da resposta. Mas não estava
+desejando raciocinar muito. Estava desejando ganhar tempo, estudar o caso com a
+solução e, também, ganhar os pontos do dia. Obs.: eu já vinha com uma sequência
+de dez dias de postagens aceitas.
+
+Em C++.
+
+159ms. Medianamente ruim.
+
+Memória, horrível.
+
+O gráfico ficou bem serrilhado, com concentração em torno de 111ms (maior pico)
+e com alguns outro leves morros, antes e depois. O menor tempo, isolado, foi em
+8ms. O gráfico ía até carca de 220ms, com a última barra em 206ms.
+
