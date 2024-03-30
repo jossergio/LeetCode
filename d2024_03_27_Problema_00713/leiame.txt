@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, pelo valor de inicialização de um laço interno, passou.
+
+Após postar, vendo as postagens dos demais, resolvi fazer minha própriao
+implementação de uma ideia que utilizaria uma forma de ponteiro duplo (ou janela
+deslizando), de forma ao laço interno ser mais rápido. Após um errinho, pois uma
+condição do laço interno tinha que ser menor ou igual, eu eu só fiz o menor que,
+passou.
+
+Modelo 1 (C++): 1481ms. Ruim. Memória, mediana. Utilizava dois laços, tipo força
+bruta, apesar de ter uma condição para abortar o laço interno quando não fosse
+mais possível encontrar a solução.
+
+Modelo 2 (C++): 61ms. Mediano. Memória, mediana. Utilizava uma forma de janela
+deslizante.
+
+Não houve como checar o menor tempo. A concentração foi em forma de montanha bem
+acentuada, entre 25 e 74ms, com um leve aclive antes. Após isso, uma leve
+gramínea, com algumas falhas e leves pontos de acumulação, especialmente no
+entorno de 1480ms, onde pareceu principiar, e abortar, outra montanha. A última
+barra era em 1619ms e o gráfico encerrava um pouco depois desse valor.
+
