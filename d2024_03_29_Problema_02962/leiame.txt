@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após passar o dia "matutando" sobre como proceder com a solução, e com as
+tentativas de demonstração falhando, e uma resposta errada e um erro por não
+atentar para que o tipo de resposta era long long, passou.
+
+Em C++.
+
+130ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+No geral, o gráfico ficou muito irregular, bem serrilhado. Menor tempo em 61ms.
+Concentração, em forma de montanha serrilhada, entre 111 e 152ms. Última barra
+em 357ms e o gráfico encerrava um pouco depois desse valor.
+
