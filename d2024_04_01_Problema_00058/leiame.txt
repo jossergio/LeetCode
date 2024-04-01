@@ -1,0 +1,20 @@
+Direto o LeetCode e pelo celular.
+
+Tive uma ideia rapidinha e resolvi utilizar Python 3, tanto para resolver em uma
+linha quanto para estruturas já prontas.
+
+Após postar, vi que poderia utilizar outra função, com ideia mais rápida.
+
+Modelo 1 (Python 3): 44ms. Horrível. Memória, muito boa.
+
+Modelo 2 (Python 3): 37ms. Mediano. Memória, horrível. Era idêntico ao anterior,
+alterando, somente, a utilização de uma função.
+
+O menor tempo, isolado, era em 12ms. Concentração em forma de montanha rampada
+no início entre 22 e 42ms, última barra do gráfico. O gráfico ía até pouco mais
+de 50ms.
+
+O menor tempo utilizava dois laços simples, em sequência, que eu não fiz porque
+não permitiria gerar em linha única. Vi ideias parecidas com a minha e outras
+similares ao menor tempo, porém, e tempo maior. Vai entender o LeetCode.
+
