@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 12/07/2021 (meus primórdios), que eu havia feito em
+Python. Porém, resolvi fazer uma nova abordagem e utilizar Python 3.
+
+Em Python 3.
+
+51ms. Ruim.
+
+Memória, medianamente boa.
+
+Ainda tentei fazer um novo modelo, sem sucesso, baseado no menor tempo.
+
+O menor tempo, isolado, foi em 14ms. Concentração, em forma de montanha, entre
+30 e 58ms,  última barra do gráfico. O gráfico ía até pouco mais de 65ms.
+
