@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 24/11/2022. Não tive ideia melhor e só fiz repostar.
+
+Em GoLang.
+
+55ms. Muito excelente. Um pouquinho melhor que a postagem anterior.
+
+Memória, mediana. Um pouquinho pior que a anterior, mas acho que é questão de
+compilador atualizado.
+
+O menor tempo foi em 1ms, com um código bem complexo. O gráfico ficou bem
+repicado, até seu limite, que era em 1200ms, com uma concentração, em forma de
+montanha com dois picos bem destacados, entre 94 e 122ms.
+
