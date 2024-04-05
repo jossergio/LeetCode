@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 08/11/2022, que eu havia feito dois modelos em
+Python 3. Porém, fiz um pequeno ajuste no mais rápido. No lugar de utilizar uma
+lista vazia como False, optei por fazer uma linha mais precisa, com len (tamanho
+da variável igual a zero), e postei.
+
+Antes de registrar, decidi ver como ficaria em C++. Então, fiz um modelo, sem
+olhar o de Python 3, no computador mesmo.
+
+Modelo 1 (Python 3): 46ms. Ruim. Memória, mediana. O tempo melhorou bastante em
+relação à postagem anterior. Já a memória piorou muito.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, medianamente boa. Basicamente,
+era o mesmo de Python 3.
+
+Em Python 3, o menor tempo, isolado, foi em 19ms. Uma concentração, e forma de
+montanha irregular, entre 28 e 47ms, última barra, em um gráfico que ía até
+pouco mais de 55ms.
+
+Em c++, a maioria em 0ms, com a última barra em 5ms, em um gráfico que ía até
+15ms.
+
