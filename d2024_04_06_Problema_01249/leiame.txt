@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 15/03/2022. Não tive ideia melhor, era um problema
+chatinho e só fiz repostar.
+
+Em GoLang.
+
+1587ms. Muito horrível. Porém, bem melhor que a postagem anterior.
+
+Memória, ruim.
+
+Concentração, em forma de montanha de pico bem destacado, entre 0 e 36ms. O
+gráfico ía até pouco mais de 1600ms e algumas barras bem espalhadas atingiam
+essa proximodade.
+
