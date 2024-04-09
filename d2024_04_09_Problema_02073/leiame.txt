@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Rapidinho. Tive uma ideia, que não consegui mentalmente fazer cálculos, então,
+joguei uma outra ideia, que passou de primeira.
+
+Após postar, e já no computador, decidi implementar a ideia primária, que
+envolvia algum raciocínio matemático, porém, eu já tinha mais condições para
+testes.
+
+A primeira ideia era bem similar à segunda da plataforma e a minha segunda à
+terceira da plataforma.
+
+Modelo 1 (C++): 2ms. Mediano. Memória, mediana. Fazia um laço enquanto não
+concluísse chegar no objetivo, incrementando um contador para uma certa
+condição.
+
+Modelo 2 (C++): 0ms. Melhor impossível. Memória, mediana, também, apesar de um
+pouquinho melhor que o modelo anterior. Fazia um laço O(n), com uma formulação
+matemática a cada iteração, para formar o resultado final.
+
+A maior coluna foi em 0ms, a segunda maior coluna foi em 4ms e a última coluna
+foi em 5ms, em um gráfico que ía até 15ms.
+
