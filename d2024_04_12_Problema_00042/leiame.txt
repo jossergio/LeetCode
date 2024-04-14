@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 31/07/2021 que tinha reaparecido em 18/09/2022. Não
+vi outra ideia. Então só fiz repostar a primeira postagem que passou com
+sucesso, apesar de, depois, ter visto que o de bem maior tempo era, também, uma
+repostagem desse. Ou seja, tirando a segunda postagem, que foi um ajeitadinho,
+as demais foram, sempre, repostagens.
+
+Em C++.
+
+67ms. Muito horrível.
+
+Memória, mediana.
+
+O gráfico ficou bem irregular, sendo a maior barra em 7ms e a segunda maior em
+11ms. Houve 0ms. O gráfico ía até pouco mais de 35ms e as barras íam até 28ms.
+Ou seja, minha postagem nem apareceu.
+
