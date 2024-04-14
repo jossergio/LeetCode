@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem diferente das ideias da plataforma.
+
+Aproveitava uma condição de deque, de C++, para formação do resultado. A segunda
+ideia da plataforma utilizava queue. Com uma pequena variação, poderia ser igual
+à minha.
+
+Em C++.
+
+3ms. Medianamente bom.
+
+Memória, quase excelente.
+
+Duas grandes barras, sendo a de 3ms a maior e a de 0ms um pouquinho menor, em um
+gráfico que ía até 16ms. A última barra foi em 6m.
+
