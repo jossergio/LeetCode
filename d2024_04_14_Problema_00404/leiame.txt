@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 04/11/2021, que eu havia feito bem rapidinho em
+GoLang.
+
+Porém, desta vez, resolvi implementar por recursos interativos em C++, pois era
+recursivo. Após alguns erros, pois estava no celular e não podia usar a versão
+nova da plataforma, que permite fazer diversos testes antes de submeter, decidi
+postar a versão anterior em GoLang.
+
+Mesmo assim, antes de registrar, resolvi fazer a implementação em C++, já no
+computador. Percebi que estava interpretando o problema de forma errada. Se
+tivesse lido melhor a versão em GoLang, talvez, tivesse entendido e postado de
+forma correta, no máximo, na segunda tentativa, pois havia alguns detalhes, de
+toda forma, de interpretação.
+
+Modelo 1 (GoLang): 2ms. Medianamente bom. Memória, ruim. Era a repostagem de
+solução anterior. Utilizava recursividade e passagem de uma variável, por
+referência, que seria incrementada para conter a solução.
+
+Modelo 2 (C++): 3ms. Mediano. Memória, mediana. Era interativo, utilizando
+recursos de fila.
+
+Em GoLang, quase 100% em 0ms, em um gráfico que ía até 11ms.
+
+Em C++, a maioria em 0ms. Porém, havia outras barras bem destacadas, até 7ms, em
+um gráfico que ía até pouco mais de 16ms.
+
