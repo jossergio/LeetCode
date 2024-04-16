@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 03/11/2021 reaparecido no dia 14/03/2023. Só fiz
+repostar o mais recente de tempo menor.
+
+Em GoLang.
+
+1ms. Medianamente bom.
+
+Memória, horrível.
+
+Na postagem anterior tinha sido em 0ms. Coisas da plataforma.
+
+Apesar de haver alguns 0ms, a maioria foi em 1ms e não houve barras após esse
+valor, em um gráfico que ía até 11ms.
+
