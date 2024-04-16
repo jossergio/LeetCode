@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 05/10/2022. Só fiz repostar o de menor tempo e de
+menos consumo de memória.
+
+Em GoLang.
+
+0ms. Melhor impossível.
+
+Memória, medianamente boa.
+
+A postagem anterior tinha sido em 12ms. Coisas da plataforma. e a memória ficou
+um pouquinho acima. Mas deve ter sido coisas de atualização de compilador.
+
+Muitos em 0ms. Mas, a maior barra foi em 6ms e não houve outras após esse valor,
+em um gráfico que ía até 16ms.
+
