@@ -1,0 +1,28 @@
+Direto no LeetCoce e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia de fazer em Python, para aproveitar recursos da linguagem e,
+também, para estudos.
+
+Após postar, vi que a minha era bem semelhante à primeira solução da plataforma.
+Além disso, todos os códigos que vi, dos demais participantes, eram similares a
+essa forma.
+
+Após, postar, também, resolvi fazer uma similar à segunda solução da plataforma,
+como forma de estudos e prática de algumas estruturas. Então, fiz um segundo
+modelo, ainda no celular mesmo.
+
+Modelo 1 (Python 3): 45ms. Mediano. Memória, medianamente ruim. Utilizava
+recursividade em uma função embutida, formando um acumulador e, ao final, uma
+ordem, pegando a menor.
+
+Modelo 2 (Python 3): 38ms. Muito bom. Memória, mediana. Utilizava o conceito de
+pilha para navegar em uma árvore, mantendo cada etapa, junto com o nó, formando
+uma tupla, nessa base, além de descartar o acumulador, fazendo testes para a
+resposta a cada final de etapa.
+
+O menor tempo, bem isolado, foi em 23ms, BEM SIMILAR À MINHA PRIMEIRA SOLUÇÃO. A
+oncentração foi em forma de uma montanha bem irregular entre 30 e 54ms, última
+barra em um gráfico que ía até cerca de 65ms.
+
