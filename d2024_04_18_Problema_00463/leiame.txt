@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Tive uma ideia, que passou de primeira.
+
+Em C++.
+
+70ms. Medianamente bom.
+
+Memória, muito excelente, topo dos topos.
+
+O menor tempo, isolado, foi em 37ms. A concentração foi em forma de uma montanha
+bem irregular, entre 47 e 119ms. O gráfico ía até cerca de 170ms, mas a última
+barrinha foi em 159ms.
+
+Alguns códigos bem complexos. Mas outros, mais simples, faziam uma dedução
+matemática bem interessante, para diminuiur o código. Apesar de alguns serem
+similares à minha ideia, muitos extrapolaram muito condições, mesmo seguindo o
+mesmo raciocínio.
+
