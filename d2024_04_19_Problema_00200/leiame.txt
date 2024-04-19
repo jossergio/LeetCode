@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 29/08/2022, que eu havia feito em GoLang em em C++ e
+que não sei o motivo de haver uma postagem, em C++, idêntica, em 18/04/2023.
+
+Obs.: não foi o problema dos dias 17, 18 e 19/04/2023. Procurei, procurei e não
+vi motivação para essa postagem, tanto na análise das pastas quanto na análise
+do GitHub.
+
+Não tive ideia melhor. Então, só fiz repostar. 
+
+Em C++.
+
+32ms. Mediano.
+
+Memória, muito excelente.
+
+O tempo foi melhor que as anteriores em C++. Coisas do LeetCode. Porém, tinha
+sido quase excelente, no momento, e desta vez foi mediano.
+
+O menor tempo foi 7ms, com um código bastante similar ao meu. Aliás, todas as
+postagens que vi eram bem similares à minha. A concentração foi em forma de uma
+montanha irregular entre 15 e 44ms, havendo pequenas barras conjugadas até 108ms
+e com o gráfico indo até cerca de 120ms.
+
