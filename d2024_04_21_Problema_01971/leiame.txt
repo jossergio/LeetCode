@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 19/12/2022. Porém, vi que meu código era um pouco
+redundante e, consequentemente, grande e resolvi fazer uma nova abordagem.
+
+Após postar, resolvi fazer um teste, que não passou, e uma adaptação,
+substituindo o uso de uma tabela vetorial por uma tabela com mapa.
+
+Em seguida, fiz um terceiro, só adaptando unordered_map por map.
+
+Vendo as postagens dos demais, observei que poderia fazer um modo interativo,
+pois todos os que postei eram recursivos. Então, fiz um quarto modelo.
+
+Modelo 1 (C++): 1209ms. Ruim. Memória, ruim.
+
+Modelo 2 (C++): 1359ms. Ruim. Memória, horrível. Basicamente, era o mesmo do
+anterior, substituindo o uso de uma tabela com vector por unordered_map.
+
+Modelo 3 (C++): 2356ms. Horrível. Memória, horrível. Era o mesmo do anterior,
+alterando o uso de unordered_map por map.
+
+Modelo 4 (c++): 494ms. Mediano. Memória, mediana. Um modo interativo, utilizando
+fila (queue).
+
+O menor tempo foi 187ms. A concentração, bem irregular, em forma de uma montanha
+com três picos, foi entre 245 e 779ms, havendo uma sequência de barras pequenas
+e médias até o final do gráfico.
+
+Obs.: havia modelo interativo, nas postagens anteriores. Mas, não sei porque não
+tinha percebido e, de toda forma, o novo modelo era um pouquinho difente e, não
+sei por que, também, bem mais rápido.
+
