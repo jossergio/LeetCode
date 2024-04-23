@@ -20,3 +20,16 @@ Havia várias abordagens, na comparação com os demais participantes.
 Pensei em fazer em outras linguages e com outras abordagens. Mas fica para
 outro momento.
 
+=====
+
+Em 23/04/2024, para estudar Rust, fiz mais um modelo.
+
+A etrutura foi bem otimizada, em relação à primeira postagem.
+
+1ms. Muito bom.
+
+Memória, mediana.
+
+Houve 0ms, a grande maioria foi em 1ms e ainda houve 2ms, em um gráfico que ía
+até 12ms.
+
