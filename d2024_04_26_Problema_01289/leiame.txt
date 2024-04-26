@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Tive uma ideia, inicial, com programação dinâmica e memo. Penei um bocado, com
+vários recursos para depuração visual, até ver que estava utilizando uma
+variável no lugar de outra. Então, passou.
+
+Após postar, vi que poderia eliminar algumas "frescuras", o que fiz.
+Modificações simples.
+
+Também após postar, vi que meu código era bem parecido com a primeira da
+plataforma, com a diferença que o meu utilizava uma matriz booleana para saber
+se o valor já foi calculado e o da plataforma testava se o valor estaria em um
+mapa.
+
+Ainda pensei em fazer um código mais baseado no da plataforma, utilizando, 
+somente, um mapa, tanto para saber se já foi calculado quanto guardar o valor do
+memo em si. Mas deixei para lá.
+
+Modelo 1 (C++): 1139ms. Horrível. Memória, ruim.
+
+Modelo 2 (C++): 1095ms. Horrível. Memória, ruim e um pouquinho pior que o
+anterior. Era o mesmo código do anterior, só que com alguns detalhes diferentes.
+Por exemplo, utilizava a própria matriz original para retornar a linha de base.
+
+O gráfico ficou muito espalhado e só mostrava até pouco mais de 400ms. Ou seja,
+meus códigos nem entraram. Não houve como determinar uma concentração, mas houve
+um pico bem acentuado em 25ms, com outros picos próximos, e vários picos menores
+e de modo similar espalhados pelo gráfico. O menor tempo foi em 11ms, isolado e
+com um código bem complexo.
+
