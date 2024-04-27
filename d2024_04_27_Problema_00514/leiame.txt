@@ -1,0 +1,37 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Após postar, vi
+que minha solução era, com pequenos ajustes, similar à primeira, na forma e na
+ideia geral, de utilização de programação dinâmica.
+
+Após perder um tempinho com a utilização de uma variável errada, no lugar de
+outra, o que não fazia lógica nos resultados mesmo com depuração visual, as duas
+primeiras tentativas produziram estouro de tempo.
+
+Obs.: não sei porque postei duas vezes o mesmo código. Não faz sentido isso. Só
+lembrava de uma postagem com estouro de tempo.
+
+Tive uma ideia, então, de utilizar um memo, que não seria muito trivial. Após
+alguns testes, incluindo o que produziu estouro de tempo, passou.
+
+Em C++.
+
+54ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Houve muitos 0ms. Mas não saberia dizer como foi a forma da concentração, pois
+o gráfico ficou bem espalhado e irregular.Porém, a concentração das maiores
+barras ficou abaixo de 40ms, com um esboço de concentração entre 149 e 180ms. O
+gráfico ía até pouco mais de 250ms.
+
+Muitos códigos pouco intutivos, como o problema em si, nas postagens dos demais
+participantes.
+
+Alguns bons estudos.
+
+Para um próximo momento, acredito que possa otimizar, reduzindo algumas etapas,
+registrando o memo independente de ser a melhor resposta a cada iteração, já
+prevendo as próximas possíveis iterações. Resolvi não ajustar nesse momento e
+aproveitar o resto do dia.
+
