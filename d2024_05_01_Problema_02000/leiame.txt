@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha solução era semelhante à terceira da plataforma,
+apesar de eu considerar a minha mais alegante.
+
+Antes de registrar, resolvi fazer uma pequena adaptação, substituindo e
+removendo algumas linhas por uma função da linguagem utilizada.
+
+Modelo 1 (C++): 0ms. Melhor impossível. Memória, medianamente boa.
+
+Modelo 2 (C++): 3ms. Mediana. Memória, medianamente boa.
+
+Em 0ms, vi um código bem feio.
+
+Em 3ms, vi um código meio desajustado.
+
+Só houve barra de destaque em 0 e 3ms. Entre esses, bem baixinhas. Após, nem
+sinal. O gráfico ía até 12ms.
+
