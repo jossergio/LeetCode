@@ -13,3 +13,18 @@ Em C++.
 Memória, nem apareceu no gráfico, apesar de por pouco. Piorou um pouquinho em
 relação à postagem anterior.
 
+Em 02/05/2024, fiz uma atualização para gerar um modelo em Rust.
+
+1ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+A maioria em 0ms, em um gráfico que ía até 10ms e não havia outras barrinhas,
+apesar de que, pelo percentual, deveria haver.
+
+Vi, no tempo 0ms, um código bem ruim mas bacana para estudo da linguagem.
+
+Tentei utilizar match, mas não consegui, pois a sintaxe de Rusto é chatinha
+pacas. Mas, o código em 0ms utilizava e pude ver melhor como utilizar esse
+condicional e outras estruturas, como Some etc.
+
