@@ -23,3 +23,12 @@ função interna da linguagem, mascarando, ou a forma que utilzei em modelo 1.
 
 Não vi acima de 6ms.
 
+Em 02/05/2024, acrescentei um modelo em Rust, para estudar esse linguagem.
+
+Após dois errinhos, por bobeira, passou.
+
+Modelo 3 (Rust): 1ms. Ruim. Memória, ruim.
+
+A grande maioria foi em 0ms. A postagem que havia nesse tempo utilizava função
+interna da linguagem.
+
