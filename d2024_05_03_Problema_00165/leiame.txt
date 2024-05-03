@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 25/02/2025. Porém, achei o código longo e resolvi
+fazer um enxugamento. Utilizei, para isso, uma função interna, derivada de zip,
+pois tinha pensado nessa função para a redução, mas havia algo a mais. Então,
+o sucesso foi zip_longest.
+
+Poderia ter eliminado, ainda, duas linhas de definição de variável. Mas isso
+deixaria uma linha um pouco gigante, no processamento.
+
+Em Python 3.
+
+33ms. Mediano.
+
+Memória, ruim.
+
+O menor tempo foi em 19ms, em um padrão crescente, formando um aclive, e uma
+montanha irregular na sequência, até 42ms, última barrinha, em um gráfico que
+ía até pouco mais de 50ms.
+
+Em 19ms, era um código meio redundante. No geral, os códigos que eu vi eram
+longos, com exceção de um, bem elaborado e melhor que o meu, feito por alguém
+que demonstra dominar Python 3 e programação em geral, apesar de ou meu seguir
+uma linha similar, no próprio 33ms.
+
