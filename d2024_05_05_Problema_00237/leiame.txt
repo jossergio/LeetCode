@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 13/10/2022. Só fiz repostar, pois não havia como
+otimizar mais.
+
+Em C++.
+
+4ms. Medianamente bom.
+
+Memória, excelente.
+
+A postagem anterior tinha ficado em 38ms. E a memória bem melhor. Coisas da
+plataforma e do compilador.
+
+Alguns 0ms, a maior barra e a última em 9ms, em um gráfico bem irregular e que
+ía até pouco mais de 18ms.
+
