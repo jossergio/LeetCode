@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 24/05/2022, que reapareceu em 03/04/2023. Só fiz
+repostar o mais recente.
+
+Em GoLang.
+
+52ms. Posso dizer excelente.
+
+Memória, excelente.
+
+Ambos, memória e tempo, foram melhores que a postagem anterior. Coisas da
+plataforma e do compilador.
+
+O menor tempo em 36ms, bem isolado. O gráfico ía até pouco mais de 130. A última
+barrinha foi em 123ms, bem isolada também. O gráfico ficou bem irregular, mas
+posso dizer que houve algumas concentrações entre 47 e 84ms.
+
