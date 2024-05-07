@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Rapidiinho. Após um errinho, por não me atentar que um comparador tinha que ser
+maior ou "IGUAL", passou.
+
+Após postar, tive uma ideia de fazer com outra abordagem. Após o mesmo errinho
+do anterior, de esquecer do "IGUAL", passou.
+
+O primeiro modelo tinha um aspecto, ao menos em ideia, semelhante ao primeiro da
+plataforma. Porém, considero o meu mais elegante. Utilizavam uma pilha e era
+interativo.
+
+O segundo tinha um aspecto, ao menos em ideia, com o segundo da plataforma,
+apesar de que, por exemplo, removia da própria memória o que era para remover,
+enquanto o meu, simplesmente, desconsiderava.
+
+Modelo 1 (C++): 263ms. Medianamente bom. Memória, medianamente ruim. Era
+interativo, utilizando uma pilha.
+
+Modelo 2 (C++): 262ms. Medianamente bom. Memória, medianamente boa. Era
+recursivo, utilizando a própria função do problema para isso.
+
+O menor tempo foi em 182ms. Uma grande concentração, em forma de montanha bem
+irregular, a partir de 232ms e por consideração minha, terminando em 252ms,
+última barrinha de um gráfico que ía até pouco mais de 260ms.
+
