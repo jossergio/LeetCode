@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei.
+
+Rapidinho. Após um errinho bem bobo, pois eu sabia que precisaria checar se, ao
+final, havia resíduo (esqueci de jogar antes de postar, mesmo sabendo, desde o
+início, que precisaria), passou.
+
+Após postar, resolvi fazer uma outra abordagem.
+
+Meu primeiro modelo utilizava ideia similar ao segundo da plataforma, alterando
+algumas organizações, utilizando uma pilha e sendo interativo.
+
+Meu segundo modelo utilizava ideia similar ao terceiro da plataforma, sendo
+recursivo, utilizando uma função auxiliar, assim como o próprio modelo da
+plataforma fazia, apesar de pequenas modificações na implementação.
+
+Modelo 1 (C++): 214ms. Muito ruim. Memória, horrível. Era interativo, utilizando
+uma pilha.
+
+Modelo 2 (C++): 156ms. Excelente. Memória, medianamente boa. Era recursivo,
+apesar de precisar de utilizar de uma função auxiliar.
+
+O menor tempo, bem isolado, foi em 131ms. Concentração, em forma de montanha bem
+irregular, entre 143 e 231m, havendo um declive bem característico a posterior.
+A última barrinha em 268ms, em um gráfico que ía até cerca de 280ms.
+
