@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi que
+minha ideia era baseada na segunda, apesar que, de forma genérica, todas possuem
+a mesma essência.
+
+Tive uma ideia e demorei a concluir pois quis implementar com closure, para
+brincar com a sintaxe e outras coisas. Ficou charmoso, apesar de complicado.
+
+A sitaxe de closures, em C++, já é um pouco chatinha e trabalhar com parâmetros
+é mais ainda. Vê que a demora era ver uma forma de atualizar uma variável dentro
+da closure sem que ela ficasse estática, ou seja, geral para TODOS os testes.
+
+Após postar, fiz um segundo modelo, pondo a closure na própria função principal.
+
+Modelo 1 (C++): 6ms. Muito bom. Memória, muito boa. Utilizava uma lista de
+prioridades para o par nível e posição e ía preenchendo, conforme o resultado
+de uma closure, pois não quis utilizar uma variável incrementada no laço. No
+final, só ficou mais complicado, mesmo.
+
+Modelo 2 (C++): 12ms. Mediano. Memória, muito boa. Era o mesmo do modelo
+anterior, porém, a closure ficava na função principal.
+
+Alguns em 0ms. Concentração, em forma de montanha irregular, 3 e 17ms, com uma
+gramínea bem irregular até 121ms, local da última barrinha, em um gráfico que ía
+até cerca de 130ms.
+
