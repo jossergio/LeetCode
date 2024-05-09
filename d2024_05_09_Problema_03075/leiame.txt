@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia, utilizando fila de prioridade, e implementei. Rapidinho. Após
+dois errinhos, um por não atentar que deveria subtrair do próprio número e não
+por zero, em uma determinada condição, e o outro por não atentar que o tipo de
+resposta esperado era long long, o que produziu um estouro de int.
+
+Após postar, tive uma ideia de fazer com ordenação, no lugar de uma fila de
+prioridade.
+
+Minha primeira solução era similar à segunda da plataforma e minha segunda era
+similar à primeira da plataforma, alterando alguns pequenos detalhes.
+
+Modelo 1 (C++): 211ms. Ruim. Memória, muito ruim. Utilizava fila de prioridade.
+
+Modelo 2 (C++): 377ms. Horrível. Memória, posso dizer excelente. Utilizava uma
+ordenação e tratava a entrada, ordenada, a partir do final até um certo ponto.
+
+O menor tempo foi em 77ms. A concentração foi em forma de montanha, entre 135 e
+182ms. Antes da concentração, uma leve gramínea bem rasa e contínua. Após a
+concentração, uma gramínea contínua, mais alta e com produção de um esboço de
+que faria uma outra montanha, mas não cresceu muito. A última barrinha foi em
+339ms, em um gráfico que ía até um pouco mais de 240ms.
+
