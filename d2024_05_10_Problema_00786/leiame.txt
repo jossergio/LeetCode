@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que, apesar de ter alguma similaridade com a segunda da
+plataforma, por utilizar uma fila de prioridade, não era a mesma coisa. A da
+plataforma buscava otimizar, com uma lógica matemática, que eu havia pensado,
+no início, mas tive preguiça de raciocinar. A minha solução era mais voltada à
+força bruta, mesmo.
+
+Em C++.
+
+1128ms. Ruim.
+
+Memória, bem ruim.
+
+Muitos em 0ms e um grande pico em 3ms. Dirversas pequenas concentrações até
+600ms, em forma de pequenos morros irregulares. O gráfico ía até pouco mais de
+1800ms, havendo pequenas barrinhas, espalhadas, até perto do final.
+
