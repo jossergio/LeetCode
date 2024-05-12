@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, tirando
+formas de implementação, era idêntica à minha solução.
+
+Em C++.
+
+10ms. Medianamente bom.
+
+Memória, mediana.
+
+Apesar de haver algumas soluções dos demais participantes que possuíam
+implementação "suja", as ideias eram bem similares.
+
+Bem isolado, houve 0ms. A concentração, bem irregular, era entre 3 e 15ms,
+última barrinha em um gráfico que ía até 25ms.
+
