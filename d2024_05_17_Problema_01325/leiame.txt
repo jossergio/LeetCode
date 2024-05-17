@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Poderia ter sido feito pelo celular. Comecei. Mas, fui para o computador e
+poupei a bateria.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia inicial e postei. Ficou um pouco deselegante, com uma certa
+redundância. Mas o raciocínio estava baixo, na hora.
+
+Após postar, vi que a ideia era bem similar à da plataforma, tirando a
+redundância que ficou.
+
+Era uma forma recursiva.
+
+A segunda forma da plataforma era interativa. Porém, bem complexa, apesar de ser
+um bom estudo.
+
+Em C++.
+
+10ms. Medianamente bom.
+
+Memória, excelente quase top.
+
+Houve 0ms, bem isolado. Concentração, bem irregular, entre 3 e 18ms, última
+barrinha, em um gráfico que ía até cerca de 28ms.
+
