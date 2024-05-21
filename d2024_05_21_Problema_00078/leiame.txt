@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Rapidinho. Tive uma ideia inicial, que poderia fazer pelo celular. Mas preferi
+fazer pelo computador.
+
+Achei que produziria estouro de tempo, pois considerava que era um algoritmo
+muito lento. Mas passou. E passou bem.
+
+Poderia ter utilizado com variáveis globais ou alterado outros aspectos para
+fazer uma segunda ou terceira implementações. Mas não as fiz, pois, de todo
+jeito, seria a mesma ideia. Fica para outra oportunidade fazer comparativos ou
+pensar em outras formas.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+A grande maioria em 0ms. Mas houve uma pequena montanha, entre 2 e 6ms, com um
+pico bem acentuado em 4ms, em um gráfico que ía até 16ms.
+
