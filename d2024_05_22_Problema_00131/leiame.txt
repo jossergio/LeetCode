@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Após um errinho, por não notar que não precisaria de um laço externo, passou.
+
+Em C++.
+
+142ms. Ruim.
+
+Memória, ruim.
+
+Interessante é que TODAS as postagens dos demais participantes que eu curiei
+eram bem similares à minha.
+
+O menor tempo, isolado, foi em 44ms. Concentração, em forma de montanha com duas
+elevações, sengudo a segunda mais alta, entre 51 e 126ms. Emendando, uma grama
+bem alta e ondulada até 207ms, com uma mais uma gramínea, logo em seguida, mais
+baixinha, até 265ms, última barrinha de um gráfico que ía até 275ms.
+
