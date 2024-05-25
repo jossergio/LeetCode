@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Rapidinho. Há alguns dias, um problema que eu tinha resolvido de foram similar
+tinha aparecido e o raciocínio estava bem na memória.
+
+Fiz em Python 3, para quebrar, um pouco, da hegenomia de C++ em minhas
+postagens e treinar essa linguagem.
+
+Em Python 3.
+
+43ms. Mediano.
+
+Memória, muito excelente.
+
+O menor tempo foi em 15ms, relativamente isolado. A concentração, em forma de
+montanha irregular, foi entre 26 e 42ms, última barrinha do gráfico, que ía até
+pouco mais de 50ms.
+
+Apesar de muitos utilizarem ideia similar, alguns códigos eram bem complexos. O
+meu foi bem simples, inclusive utilizando função interna, para reduzir
+parâmetros.
+
+Não quis fazer conversão para C++. Fica para uma próxima oportunidade.
+
