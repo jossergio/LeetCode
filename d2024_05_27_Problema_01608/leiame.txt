@@ -1,0 +1,40 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, considerei a ideia de fazer em Python, pois achava que a estrutura
+da linguagem seria ideal. Após duas falhas, entendi melhor o problema, que não
+estava entendendo, realmente, e resolvi fazer em C++.
+
+Inicialmente, fiz pelo celular. Mas, a postagem em C++, foi no computador,
+mesmo, pois desejava penar melhor.
+
+Após postar, vi que tinha deixado código de depuração. Então, tirei e postei o
+mesmo código, novamente, só que sem os trechos para depuração.
+
+Antes de registrar, tive a ideia de fazer uma abordagem diferente. Então, fiz um
+segundo modelo. Após mais um errinho, passou.
+
+Nenhuma de minhas soluções foi, sequer, similar às da plataforma. A minha era um
+pouco por "força bruta" e as da plataforma consideravam busca, mesmo que
+binárias, pela posição.
+
+Era um código que possuía uma certa lógica e forcei bastante a mente para não
+ficar confundindo condições. Um bom "racha-cuca".
+
+Modelo 1 (C++): 4ms. Medianamente ruim. Memória, ruim. Utilizava um laço, com
+duas variáveis no teste, onde ía as incrementando, conforme situação. Obs.:
+tinha ficado trecho de código de depuração.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, bem mais ruim. Era o mesmo
+modelo anterior, só que sem os trechos de depuração.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Memória, quase excelente. Era um modelo
+com laço simples, apesar de haver uma variável incrementada internamente.
+Poderia ter colocado uma condição de saída antecipada.
+
+O pico foi em 0ms. A segunda maior, e última, barrinha foi em 5ms, em um gráfico
+que ía até 15ms.
+
+O código em 5ms era totalmente força bruta.
+
