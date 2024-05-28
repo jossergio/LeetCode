@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, posso
+dizer que a minha solução é bem similar à da plataforma, diferenciando, somente,
+a forma de implementação.
+
+Tive uma ideia inicial, que tive que meditar e aperfeiçoar um pouco, até passar
+nos preliminares. Após um errinho, por não ter prestado atenção que quando não
+houvesse solução a resposta seria zero e não menos um (-1), passou.
+
+Utilizava uma forma de janela deslizante, para ir buscando a solução.
+
+Antes de registrar, tive a ideia de tentar otimizar um pouco, fazendo uma
+memorização, para evitar fazer um mesmo cálculo duas vezes, apesar de que isso
+iria aumentar o consumo de memória. E acabou melhorando, descontado que pode ter
+sido coisa da plataforma.
+
+Modelo 1 (C++): 6ms. Medianamente bom. Memória, medianamente boa.
+
+Modelo 2 (C++): 3ms. Excelente e quase top. Memória, horrível, como era de se
+esperar. Era a mesma solução de modelo 1, mas utilizando um memorizador para
+evitar recálculo.
+
+Alguns poucos em 0ms. Grande maioria em 9ms, em um gráfico bem irregular. A
+última barrinha foi em 13ms, com o gráfico indo até cerca de 23ms.
+
+O do 0ms utilizava a ideia de um memorizador, como na minha segunda ideia, mas
+com um agravante que utilizava dois laços em sequência, para formar,
+primeiramente, o padrão de valores, no lugar de ir formando no mesmo laço dos
+testes, como era a minha solução.
+
