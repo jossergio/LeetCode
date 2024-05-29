@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A paltaforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+a primeira era bem parecida com minha segunda que, na realidade, era um ajuste
+das anteriores. Ou seja: posso dizer que as quatro eram semelhantas, apesar de
+a da plataforma fazer uma implementação um pouco diferente em uma das funções
+auxiliares.
+
+Inicialmente, pensei que poderia fazer com valores numéricos simples. Porém,
+após um estouro de inteiro (desconfiava que haveria) e a impossobilidade de
+utilizar long long para quardar os possíveis valores (seria maior que essa
+capacidade), fiz de forma direta, com alguma otimização, pois, também
+desconfiava que poderia produzir estouro de tempo.
+
+A segunda ideia da plataforma era bem interessante, pois era baseada em uma
+situação matemática que o problema vinha a conter.
+
+Modelo 1 (C++): 9ms. Muito ruim. Memória, muito ruim. Tive a ideia de considerar
+possível conversão em Rust, retornando a stringa passada no parâmetro para as
+funções auxiliares como uma nova string.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, ruim. Era o mesmo do modelo
+anterior, porém, passando a string, para as funções auxiliares, por referência.
+
+Modelo 3 (C++): 0ms. Melhor, impossível. Memória, ruim (igual ao anterior). Era
+o mesmo do modelo anterior, porém, utilizava um apontador para cada item da
+string, nas funções auxiliares, no lugar de utilizar iterador.
+
+A maioria em 0ms. A segunda maior barrinha em 3ms, em um gráfico irregular, que
+ía até cerca de 23ms, com a última barrinha, bem pequena, em 13ms.
+
