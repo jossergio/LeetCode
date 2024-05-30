@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Após postar, vi
+que a minha solução de sucesso era bem similar à primeira da plataforma.
+
+Fiz um modelo inicial, considerando um memo, que julgava importante por achar
+que uma força bruta simples produziria um estouro de tempo. E, mesmo com o memo,
+produziu o estouro de tempo.
+
+Então, resolvi fazer a força bruta simples, para ver o que ocorreria. E passou.
+
+Em C++.
+
+18ms. Medianamente ruim.
+
+Memória, quase excelente.
+
+As demais soluções da plataforma utilizavam uma forma de um prefixo, estilo memo
+simples, que formava um bom estudo da matemática da operação XOR.
+
+Uma grande coluna em 0ms e outras espalhadas, sendo as maioreszinhas até 6ms e
+as demais até 59ms, em um gráfico que ía até pouco mais de 65ms.
+
