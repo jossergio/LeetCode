@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+minha solução era idêntica à da plataforma, com a simples diferença de que o
+laço iniciava no início e encerrava no penúltimo (plataforma) e a minha iniciava
+no segundo e encerrava no último.
+
+Em C++.
+
+2ms. Mediano.
+
+Memória, horrível.
+
+Grande maioria em 0ms. Segunda barrinha em 2ms. Última barrinha em 4ms, em um
+gráfico que ía até 14ms.
+
+O código em 0ms era bem similar ao meu.
+
