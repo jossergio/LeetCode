@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/04/2022, que eu havia feito em GoLang.
+Inicialmente, só fiz repostar. Em, seguida, resolvi fazer uma nova abordagem,
+alterando a forma do laço para não precisar calcular os itens a cada iteração,
+formando um laço com duas variáveis.
+
+Modelo 1 (GoLang): 32ms. Medianamente ruim. Memória, quase excelente. Era a
+mesma postagem anterior, que foi em 61ms. A memória, foi um pouquinho pior, mas
+deve ser questão de atualização do compilador.
+
+Modelo 2 (GoLang): 28ms. Medianamente bom. Memória, mediana.
+
+Meno tempo em 13ms, com um código bem idêntico ao meu segundo. Concentração, em
+forma de montanha irregular, entre 18 e 36ms, última barrinha em um gráfico que
+ía até pouco mais de 45ms.
+
+Os códigos dos demais eram bem similares, uma hora ao meu primeiro, outra hora
+ao segundo modelo.
+
