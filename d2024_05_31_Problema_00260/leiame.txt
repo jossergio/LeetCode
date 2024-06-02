@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 06/11/2021, que eu havia feito em GoLang. Porém,
+resolvi fazer em Python 3, para estruturar em linha única.
+
+Em seguida, resolvi fazer em C++, para comparar e estudar as estruturas da
+linguagem.
+
+Modelo 1 (Python 3): 45ms. Muito excelente. Memória, horrível.
+
+Modelo 2 (C++): 3ms. Muito excelente. Memória, ruim.
+
+Em Python 3, um a grande concentração, em forma de um grande pico, entre 37 e
+71ms, em um gráfico que ía até perto de 3000ms e com pequenos agrupamentos
+espalhados até o final.
+
+Muitos códigos, incluindo o em 37ms, complexos e utilizando vários laços em
+sequência.
+
+Em C++, concentração bem irregular entre 0ms e 17ms, com uma leve gramínea logo
+em seguida, até 103ms, última barrinha do gráfico, com um esboço de fazer uma
+montanha, que falhou, após 93ms, em um gráfico que ía até pouco mais de 110ms.
+
+O código em 0ms era idêntico ao meu, com uma leve direrença que, no segundo
+laço, a variável era definida por referência.
+
