@@ -24,3 +24,17 @@ montanha, que falhou, após 93ms, em um gráfico que ía até pouco mais de 110m
 O código em 0ms era idêntico ao meu, com uma leve direrença que, no segundo
 laço, a variável era definida por referência.
 
+Em 04/06/2024, resolvi fazer um modelo em Rust. Só fiz a tradução da solução em
+C++, com os devidos ajustes, pois Rust tem umas coisas estranhas.
+
+Utilizei HashMap, para ir acostumando.
+
+2ms. Medianamente ruim.
+
+Memória, medianamente boa.
+
+Houve alguns 0ms. Um agrande barra e 1ms. Nenhuma após isso. O gráfico ía até
+11ms.
+
+Ambos os códigos, nesses tempos, pareciam ser a mesma postagem.
+
