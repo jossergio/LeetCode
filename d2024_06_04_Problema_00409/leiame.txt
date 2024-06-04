@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi que
+minha ideia era similar à primeira da plataforma.
+
+Após postar, vendo as postagens dos demais participantes, vi que poderia
+utilizar conjunto, no lugar de mapa, como foi a primeira ideia. Então, fiz uma
+nova postagem, utilizando essa estrutura.
+
+Em Python 3, para aproveitar código mínimo.
+
+Como registro, a segunda ideia da platforma era uma modificação da primeira e,
+de certa forma, intermediária para a terceira.
+
+Modelo 1 (Python 3): 42ms. Ruim. Memória, muito excelente. Utilizava mapa, para
+gerar os valores e utilizar em um laço. Ao final, considera-se dois laços em
+sequência.
+
+Modelo 2 (Python 3): 37ms. Mediano. Memória, medianamente boa. Utilizava set
+(conjunto) para, a cada iteração, ir checando o andamento. Essa etapa pode ser
+considerada um laço interno, porém, simples, sem muito acúmulo.
+
+Menor tempo, relativamente isolado, em 15ms, com uma pequena otimização na ideia
+que utilizava conjunto. Concentração, em forma de montanha irregular, entre 27 e
+45ms, última barrinha em um gráfico que ía até 55ms.
+
+Vi muitos códigos bem redundantes, nas postagens dos demais participantes.
+Parece que a maioria dos programadores não conhecem bem as ideias por trás de
+Python, arrastando ou formas de outras linguagens ou mesmo uma infantilidade em
+programação.
+
