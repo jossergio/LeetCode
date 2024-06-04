@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+minha ideia era bem similar à da plataforma.
+
+Após um errinho, por usar uma variável no lugar de outra (distração, errei na
+digitação), passou.
+
+Em C++.
+
+18ms. Medianamente bom.
+
+Memória, muito boa.
+
+Menor tempo em 3ms, relativamente isolado. Concentração, bem irregular, entre
+15 e 23ms, última barrinha de um gráfico que ía até pouco mais de 30ms.
+
+Os códigos que vi eram bem iguais.
+
