@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era, com alguns ajustes, similar à da
+plataforma.
+
+Depois de um certo tempo, ainda no mesmo dia, resolvi fazar alguns pequenos
+ajustes, para ficar mais a cara Python e programar.
+
+Modelo 1 (Python 3): 52ms. Mediano. Memória, ruim.
+
+Modelo 2 (Python 3): 51ms. Mediano. Memória, mediana. Era o mesmo modelo do
+anterior, com alguns ajustes para ficar mais o jeitão Python de programar. A
+memória foi só um pouquinho melhor que o anterior.
+
+O menor tempo, isolado, foi em 24ms. Concentração, em forma de montanha, entre
+35 e 64ms, última barrinha de um gráfico que ía até pouco mais de 70ms.
+
+
