@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, bobo, por não perceber que estava fazendo uma permuta em um
+local equivocado, passou.
+
+Após postar, posso dizer que minha ideia é muito melhor que as da plataforma,
+pois essas utilizavam dicionário (map) e a minha não.
+
+Em C++.
+
+29ms. Muito excelente.
+
+Memória, muito excelente.
+
+Menor tempo, bem isolado, em 15ms. Concentração, em forma de montanha
+serrilhada, entre 42 e 88ms, com um leve agrupamento um pouco antes e uma leve
+gramínea até 123ms, última barrinha de um gráfico que ía até pouco mais de
+130ms.
+
