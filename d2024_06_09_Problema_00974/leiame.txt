@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 19/01/2013, que eu havia feito em C++ e em GoLang.
+
+Só fiz respostar o melhor tempo em GoLang.
+
+Obs.: eu não saberia resolver essa questão, como mencionado na própria postagem
+anterior.
+
+Em GoLang.
+
+29ms. Muito bom.
+
+Memória, medianamente ruim.
+
+Menor tempo em 24ms. Gráfico bem irregular. Última barra em 47ms, em um gráfico
+que ía até pouco mais de 55ms.
+
