@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, não
+consegui definir com qual delas minha ideia se parecia, pois continham código
+complexo e minha solução tinha estrutura de gerar pouco código.
+
+Após postar, vendo as dos demais participantes, vi que poderia ter utilizado
+um método de objeto da própria linguagem e poupar mais código. Então, resolvi
+fazer essa modificação, para testar e fixar na mente.
+
+Modelo 1 (Python 3): 39ms. Medianamente bom. Memória, medianamente boa.
+
+Modelo 2 (Python 3): 36ms. Muito bom. Memória, ruim. Era o mesmo modelo do
+anterior, substituindo trecho de código por função já existente na linguagem.
+
+Menor tempo em 21ms. Concentração, em forma de montanha irregular, entre 26 e
+55ms, última barra em um gráfico que ía até 65ms.
+
