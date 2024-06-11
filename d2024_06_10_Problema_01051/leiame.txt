@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei. Após postar, não
+consegui ver com qual minha ideia se parecia. Minha ideia seguia o sistema de
+linha única em Python. E todas as soluções da plataforma eram complexas, apesar
+de uma dica do problema (olhei depois, também) indicar a simplicidade da
+questão.
+
+Após um errinho, passou. Não tinha observado que a condição era para ser com o
+operador "diferente" e não de igualdade.
+
+Em Python 3.
+
+39ms. Mediano.
+
+Memória, medianamente boa.
+
+Menor tempo em 19ms. Concentração, em forma de montanha irregular, entre 28 e
+50ms, última barra em um gráfico que ía até 60ms.
+
