@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma certa dificuldade de criar um modelo, sem uma boa concentração, apesar
+de não ser tão complexo. Porém, passou de primeira.
+
+Não tive como considerar minha ideia similar à primeira da plataforma, apesar de
+essa lembrar a ideia que eu vinha tendo, porém, não considerava uma forma ideal
+para fazer a coparação. Então, fiz um laço interno.
+
+Após postar, vendo a segunda ideia da plataforma, resolvi fazer a minha, de modo
+guiado, para fixar, pois, apesar de também ter considerado, não interpretei que
+bastaria expandir mais um pouco um vetor para contagem.
+
+Modelo 1 (C++): 1813ms. Horrível. Memória, medianamente boa.
+
+Modelo 2 (C++): 98ms. Excelente. Memória, ruim.
+
+Menor tempo, isolado, em 62ms. Concentração, em forma de montanha, entre 102 e
+138ms, com dois picos bem destacados em 120 e em 126ms (maior). Após isso,
+barrinhas espalhadas até próximo do final do gráfico, que era pouco depois de
+600ms.
+
