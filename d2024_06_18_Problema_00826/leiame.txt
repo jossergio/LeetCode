@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Nem sei como
+fazer comparativo de minha solução com as da plataforma, tamanha a complexidade
+que tive em fazer.
+
+Após dois estouros de tempo, passou.
+
+De toda forma, as da plataforma apresentavam um ordenamente preliminar, coisa
+que não fiz. Porém, fiz um filtro que, ao final, fez a otimização do código,
+apesar de ter ficado muito, mas muito lento mesmo.
+
+2999ms. Horrível. Nem apareceu no gráfico.
+
+Memória, medianamente ruim.
+
+Menor tempo em 21ms. Concentração, em forma de montanha bem acentuada, com pico
+em 48ms, entre 21 e 93ms. Muitas barrinhas espalhadas até o final do gráfico,
+que foi em pouco mais de 1800ms.
+
+Os códigos dos demais que eu vi utilizavam ordenação.
+
