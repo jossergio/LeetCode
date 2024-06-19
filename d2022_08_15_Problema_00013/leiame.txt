@@ -13,3 +13,20 @@ antererior, que tinha sido 8ms. Coisas do LeetCode.
 Memória, melhorou um pouquinho, e ficou com a maioria, bem razoável. Não sei o
 porquê, já que era o mesmo código. Talvez, os testes tenham sido diferentes.
 
+Em 19/06/2024, resolvi fazer um modelo em Rust. Só fiz a tradução.
+
+Após postar, vi que tinha utilizado uma conversão de valores mais complexa.
+Então, fiz uma segunda postagem só para reduzir código. Um pouquinho de nada.
+Mas para ir vendo sintaxes da linguagem.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamete boa.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, excelentemente no topo. Era o
+mesmo do anterior, com um pequeno ajuste de sintaxe.
+
+Grande maioria em 0ms. Algumas barrinhas até 7ms, sendo a segunda em 3ms, em um
+gráfico que ía até pouco mais de 16ms.
+
+Vendo as postagens dos demais, foi um belo estudo da sintaxe da linguagems, além
+de outras formas para o algoritmo.
+
