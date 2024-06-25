@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma indicava que era o mesmo problema 00538, que eu havia feito em
+16/04/2022, em Python 3, com uma lógica bem complexa e, consequentemente,
+lenta.
+
+Porém, resolvi fazar uma nova abordagem, no lugar de simplesmente copiar.
+
+Apesar de tudo, desta vez, a plataforma me apresentava quatro soluções, sendo
+a primeira bem complexa e lenta (tirando a direção, lembra minha postagem para a
+solução do 00538) e mais três, sendo a segunda similar à minha postagem atual,
+e as outras duas pequenas variações dessa segunda.
+
+Nos comentários da solução do 00538, eu já citava que precisava melhorar meu
+raciocínio frente a problemas computcionais. E, parece, tem surtido efeito.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana. Talvez utilizar uma variável geral possa melhorar isso. Mas
+não gosto dessa ideia.
+
+A maioria em 0ms. Mas houve barrinhas até 4ms, a segunda em tamanho, em um
+gráfico que ía até 14ms.
+
