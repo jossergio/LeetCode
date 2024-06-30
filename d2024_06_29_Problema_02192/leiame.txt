@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após quatro erros, incluindo três estouros de tempo, passou. O primeiro foi por
+considerar que o problema era mais simples. Porém, precisava aprofundar em uma
+busca. Foi um pouco trabalhoso.
+
+Após postar, posso dizer que os que estouraram o tempo eram similares, em ideia,
+aos dois primeiros da plataforma e, de alguma forma, ao terceiro. Porém, não sei
+explicar nem meu código. Mas funcionou.
+
+Em Python 3.
+
+2469ms. Tão horrível que nem apareceu no gráfico.
+
+Memória, ruim.
+
+O menor tempo foi abaixo de 424ms. Mas não consegui confirmar, pois o gráfico
+era bem denso, pois ía até pouco mais de 2200ms. Concentração, em forma de
+montanha irregular, entre esse valor e 501ms e uma segunda, um pouco menor e
+irregular, também, entre 548 e 649ms. Após isso, uma gramínea bem rala até perto
+do final do gráfico.
+
