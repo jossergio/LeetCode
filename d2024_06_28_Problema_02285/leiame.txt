@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu tive que olhar para ter ideia e
+fazer minha postagem, baseado no que fixei.
+
+Após dois errinhos, em tempo de execução, por a resposta pedir inteiro longo,
+mas a própria variável utilizada no cálculo não estava convertendo o próprio
+cálculo e estava calculando com inteiro comum, passou.
+
+A plataforma contornava essa falha utilizando inteiro longo para tudo. Nas
+postagens de outros participantes, vi que eles, de alguma forma, faziam uma
+conversão de alguma parcela do cálculo.
+
+Após postar, tirei uns parêntesis que tinha utilizado para ver se corrigia o
+erro apresentado, porém, não era necessário. Então, fiz uma segunda postagem com
+essa pequena diferença.
+
+Modelo 1 (C++): 274m. Mediano. Memória, mediana.
+
+Modelo 2 (C++): 294ms. Mediano. Memória, medianamente ruim. Era a mesma postagem
+anterior, retirando uns parêntesis de um cálculo.
+
+O menor tempo, bem isolado, foi em 150ms, com um código meio louco, utilizando,
+inclusive, alocação de memória. O gráfico todo pode ser considerada uma grama
+alta entre 175 e 500ms, com duas montanhas de concentração, sendo a maior entre
+216 e 275 e a segunda partido desse ponto até 332ms.
+
