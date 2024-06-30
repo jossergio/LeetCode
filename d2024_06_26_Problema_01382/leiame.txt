@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após refletir um pouco, tive uma ideia.
+
+Após um errinho, por errar um simples algoritmo e fazer uma leitura pré-ordem
+quando deveria ser em-ordem, passou.
+
+Após postar, vi que meu código era bem similar ao primeiro da plataform. Mas
+ainda considero o meu mais simples.
+
+Em C++.
+
+98ms. Medianamente ruim.
+
+Memória, mediana.
+
+Menor tempo, bem isolado, em 17ms, com um código bem complexo e fazendo escrita
+em um arquivo, não sei o porquê. Concentração, em forma de uma montanha bem
+densa e com dois picos, entre 46 e 125, com uma leve gramínea falhada, apesar de
+consistente, com um esboço de nova concentração a partir de 691 até 759ms,
+última barrinha em um gráfico que ía até perto de 800ms.
+
+A grande maioria dos códigos similar ao meu.
+
