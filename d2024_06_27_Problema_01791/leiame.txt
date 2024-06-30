@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema que eu havia feito, em GoLang, em 28/11/2021. Só fiz
+repostar, pois não vi como reduzir um código que já era bem reduzido.
+Basicamente, um SE com um ELSE em forma de resposta padrão.
+
+Em GoLang.
+
+141ms. Muito ruim.
+
+Memória, muito ruim.
+
+O menor tempo foi em 71ms, com um código idêntico ao meu. A concentração posso
+considerar entre esse valor e 154ms, última barrinha do gráfico, formando uma
+montanha bem irregular, em um gráfico que ía até pouco mais de 160ms.
+
+A postagem anterior tinha sido em 112ms e eu registrava que tinha sido o menor
+tempo do desafio.
+
+A maioria dos códigos que vi seguiam a mesma ideia do meu. Era o mesmo que estar
+vendo.
+
