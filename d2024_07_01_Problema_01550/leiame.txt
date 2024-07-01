@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+Rapidinho.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi que
+a minha ideia era idêntica à segunda da plataforma, com pequenos ajustes na
+forma de cálculos.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, muito ruim.
+
+A maioria em 0ms. Mas houve algumas colunas até 5ms, com a segunda maior em 3ms,
+em um gráfico que ía até 15ms.
+
