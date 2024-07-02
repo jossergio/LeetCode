@@ -1,0 +1,36 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 17/09/2021, que eu havia feito dois modelos em
+GoLang. Porém, resolvi fazer uma nova abordagem, utilizando Python 3 e seus
+recursos, de modo a ficar uma programação menor.
+
+Após um errinho, por utilizar variáveis em lugar de outras, passou.
+
+Após postar, resolvi ver como ficaria essa nova abordagem em GoLang. Em seguida,
+tive a ideia de ver em C++. E, para completar, já fiz postagem em Rust, para
+chatear.
+
+Em Rust, fiz já no computador mesmo, sendo a tradução do último modelo em C++.
+Após um errinho, por não ter traduzido direito (fiz de cabeça), passou.
+
+Modelo 1 (Python 3): 51ms. Mediano. Memória, medianamente ruim.
+
+Modelo 2 (GoLang): 4ms. Ruim. Memória, bem ruim.
+
+Modelo 3 (C++): 7ms. Ruim. Memória, horrível.
+
+Modelo 4 (C++): 0ms. Melhor, impossível. Memória, ruim. Tinha laços a menos que
+o anterior e uma estrutura a menos, sendo uma otimização, fazeno a atividade
+final diretamente, sem muitos intermediários.
+
+Modelo 5 (Python 3): 57ms. Ruim. Memória, bem ruim. Era uma tradução de modelo
+4, com utilização de estruturas Python 3.
+
+Modelo 6 (Rust): 1ms. Medianamente bom. Memória, mediana.
+
+Vou comentar, somente, de Rust. Se for o caso, eu complemento depois.
+
+Grande maioria em 1ms. Alguns em 0ms. Em um gráfico que ía até 11ms.
+
+Rust tem muitos detalhes...
+
