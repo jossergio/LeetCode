@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia inicial, que passou de primeira. Após postar, apesar de minha
+ideia ser similar à da plataforma, considero a minha mais elegante. Era uma
+forma direta, seguindo a própria lista. A estrutura do problema permitia ir
+descartando os itens que ía sendo tratados.
+
+Após postar, resolvi utilizar uma ideia não tão direta, utilizando um vetor
+auxiliar para contar os elementos do vetor, pois era minha ideia preliminar.
+Então, fiz um segundo modelo. Após um errinho, bem simples, por pensar que
+estava indo até o penúltimo, em um laço, quando, na realidade, estava indo até o
+antepenúltimo, passou.
+
+Modelo 1 (C++): 170ms. Mediano. Memória, muito boa. Era uma forma direta de
+tratar os elementos da lista.
+
+Modelo 2 (++): 156ms. Muito boa. Memória, horrível. Utilizava um vetor auxiliar
+para, inicialmente, conter os itens da lista e, em seguida, um laço para
+encontrar os elementos indicados no problema e, na sequência, mais um laço para
+fazer os cálculos. Apesar de tudo, foi com uma forma elegante.
+
+O menor tempo, bem isolado, foi em 70ms. A partir de 85ms, uma leve gramínea,
+regular, com esboço de formação de montanha, até 138ms, quando, de fato, inicia
+uma concentração, em forma de montanha, até 196ms, quando inicia outra gramínea,
+até 228ms, última barrinha de um gráfico que ía até cerca de 230ms.
+
