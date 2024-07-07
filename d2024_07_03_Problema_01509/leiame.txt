@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia e, após dois errinhos, por não observar direito a interpretação
+do problema, passou.
+
+Após postar, e vendo a ideia dos demais, vi que poderia utilizar a criação de um
+vetor, com os valores possíveis, e aplicar a função mínimo em uma passada só.
+Então, fiz um segundo modelo, com essa leve modificação, para formar um aspecto
+mais elegante.
+
+Não consegui fazer um comparação entre os modelos da plataforma e o meu, uma vez
+que eles utilizavam um laço para verificar os elementos e eu fiz de uma forma
+bem interativa e direta, sem laços, utilizando os valores possíveis diretamente
+pelo índice. Porém, os modelos da plataforma eram genéricos, o que pode ser
+aplicado a problemas onde o alvo não seja fixo.
+
+Modelo 1 (C++): 78ms. Ruim. Memória, medianamente boa.
+
+Modelo 2 (C++): 72ms. Medianamente reuim. Memória, excelente.
+
+O meno tempo qu eeu consgui verificar foi em 15ms. Antes, havia umas leves
+barrinhas, que não abriam o código. Até 49ms, uma leve gramínea bem regular. Na
+sequência, o início de uma montanha, irregular, com penhasco em 79ms, última
+barra em um gráfico que ía até perto de 90ms.
+
