@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+minha ideia era bem similar à primeira da plataforma. Porém, eu criava uma nova
+lista para a resposta e a da plataforma aproveitava a própria lista, onde ía
+descartando elementos pelo caminho.
+
+Em seguida, resolvi fazer um segundo modelo, descartando algumas variáveis,
+apesar de criar dentro de um laço, utilizando a própria lista para formar a
+resposta e descartando elementos pelo caminho. Essa ficou similar à primeira
+ideia da plataforma.
+
+A segunda ideia da plataforma utilizava recursividade. Não tive lógica inicial
+para fazer por essa forma. Mas foi um bom estudo.
+
+Modelo 1 (C++): 488ms. Horrível. Memória, mediana.
+
+Modelo 2 (C++): 429ms. Mediano. Memória, muito boa.
+
+Algumas barrinhas, que eu não consegui ver o código, antes de 50ms. Uma leve
+concentração entre 88 e 119ms, com uma leve gramínea, um pouco irregular, na
+sequencia, voltando a ter um princípio de montanha em 303ms, formando uma
+concentração, na sequência, em forma de montanha dupla, até 495ms, última
+barra de um gráfico que ía até pouco mais de 500ms.
+
