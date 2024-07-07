@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+a primeira ideia da plataforma era similar à minha.
+
+Analisando as soluções da plataforma, vi a segunda era pura matemática, que foi
+como eu iniciei o raciocínio. Porém, não cheguei a uma condição geral. Então,
+vendo a condição que me limitava, fiz uma segunda postagem, com essa ideia,
+pelas minhas próprias formas.
+
+Modelo 1 (C++): 2ms. Mediano. Memória, medianamente ruim. Utilizava um laço,
+para encontar a solução.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, mediana. Era um modelo
+matemático. E utilizei variáveis extras, para melhor visualizar o cálculo.
+
+A maioria em 0ms. A segunda barra em 2ms. O gráfico ía até 12ms.
+
