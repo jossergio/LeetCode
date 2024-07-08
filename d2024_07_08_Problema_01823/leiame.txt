@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+Inicialmente, pelo celular. Mas, para buscar um modelo anterior de falha, fui
+para o computador, pois, nesse meio tempo, tive uma ideia bem simples que nem
+precisaria ter gerado a segunda ideia falha, que foi, até, um pouco complicada.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Após postar, vi
+que a segunda ideia era similar, um pouco, à minha. Porém, eu gerenciava uma
+lista circular, enquando a plataforma usou uma fila. Considero isso uma
+excelente ideia.
+
+Pensei em fazer uma segunda ideia, baseado nessa de lista circular, mas
+considero que o meu seja mais ágil.
+
+Só para registro, a primeira utilizava um vetor, onde ía retirando cada item que
+era atingido pelo algoritmo.
+
+A quarta forma da plataforma, apesar de ser um laço, considerava um simples
+cálculo matemático. Foi um bom estudo, nisso, também.
+
+A terceira era similar à quarta, mas era recursiva.
+
+Em C++.
+
+8ms. Mediano.
+
+Memória, mediana.
+
+A maior barra em 0ms. Algumas barras medianas entre 2 e 4, inclusive. Após isso,
+barras oscilantes baixas até 37ms, última barrinha em um gráfico que ía até
+pouco mais de 45ms.
+
