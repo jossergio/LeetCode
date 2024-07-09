@@ -18,3 +18,14 @@ Memória, medianamente boa.
 A maioria em 0ms. Uma segunda barra em 2ms. Não houve barras após esse vlaor. O
 gráfico ía até 12ms.
 
+====
+Em 09/07/2024, fiz a adição de um modelo em Rust. Só tradução do que já havia
+postado, em C++, e prática na linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Não houve como fazer uma comparação. A plataforma informava haver poucas
+postagens em Rust e não gerou o gráfico.
+
