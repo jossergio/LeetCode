@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era um problema de raciocínio. Porém, fiz rapidinho. Como estava no computador,
+acredito que tenha facilitado. Tive uma ideia que se demonstrou certeira.
+
+Após postar, vi que minha ideia básica era similar à da plataforma. Porém, a
+implementação era um pouco diferente.
+
+Em C++.
+
+183ms. Ruim.
+
+Memória, muito boa.
+
+Menor tempo, isolado, em 108ms. Concentração, bem irregular, entre 126 e 161ms.
+Barrinhas médias e pequenas bem alternadas até 207ms. Última barrinha em 235ms,
+em um gráfico que ía até pouco mais de 240ms.
+
+No geral, os códigos eram semelhantes. Vi, inclusive, alguns bem similares ao
+meu. Mas considero os que utilizaram a função max como mais elegantes. E a ideia
+da plataforma também a utilizava.
+
