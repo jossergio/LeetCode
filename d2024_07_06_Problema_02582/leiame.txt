@@ -16,3 +16,15 @@ matemático. E utilizei variáveis extras, para melhor visualizar o cálculo.
 
 A maioria em 0ms. A segunda barra em 2ms. O gráfico ía até 12ms.
 
+====
+Em 09/07/2024, fiz adição para a linguagem Rust. Basicamente, é a tradução do
+primeiro modelo que eu havia feito em C++. Não fiz do segundo, pois era bem
+simples e puramente matemático.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Todo mundo em 0ms, em um gráfico que ía até 10ms. Aparentemente, pouquíssimas
+postagens nessa linguagem.
+
