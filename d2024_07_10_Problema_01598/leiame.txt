@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, pelo celular, tive uma ideia, que seria semelhante à segunda da
+plataforma. Resolvi ir para o computador, para implementar, e vi que poderia ser
+bem mais simples, sem uso de estruturas elaboradas. No caso, uma pilha (stack).
+
+Então, fiz um modelo simples, similar à primeira da plataforma, apesar de ser
+implementado de uma maneira um pouco diferente, utilizando, somente, um contador
+básico.
+
+Após postar, resolvi arriscar traduzir para Rust. E o fiz.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, muito boa.
+
+Modelo 2 (Rust): 1ms. Excelente. Memória, mediana. Era uma tradução de modelo 1,
+mas utilizava o "operador ternário" de Rust para obter um máximo local.
+
+Modelo 3 (Rust): 1ms. Excelente. Memória, top das galáxias. Era a real tradução
+de modelo 1, utilizando a função de máximo embutida.
+
+Em C++, muitos em 0ms, mas havia barras maiores. A última barra, inclusive maior
+que a de 0ms, foi em 9ms, em um gráfico que ía até 18ms. Não houve como
+estabelecer uma concentração.
+
+Em Rust, a maioria em 1ms e pouquíssimos em 0ms. Não houve barra posterior a
+esse valor, em um gráfico que ía até 11ms.
+
