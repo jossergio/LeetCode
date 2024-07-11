@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Decidi fazer em Python 3 para aproveitar recursos da linguagem.
+
+Após postar, vi que a minha ideia era um pouco, mas só um pouco, parecida com a
+primeira da plataforma. Eu utilizava um conceito de pilha onde as partes eram
+dispostas. Já a da plataforma utilizava um pouco isso, mas ía formando por uma
+forma de indexação que eu ainda não conhecia que Python trabalhava.
+
+A segunda ideia da plataforma continha uma lógica bem interessante, indexando os
+parêntesis e varrendo por uma sistemática de índices.
+
+Ainda pensei em fazer um segundo modelo, seguindo ideia semelhante, apesar de
+a ideia ser um pouco diferente, aproveitando, somente, a questão de indexação.
+Mas resolvi que seria melhor não, pois tinha outras coisas para fazer. Fica para
+uma pŕoxima vez.
+
+Em Python 3.
+
+43ms. Muito ruim.
+
+Memória, mediana.
+
+O menor tempo, bem isolado, foi em 17ms, com uma lógica bem troncha.
+Concentração, bem irregular, entre 22 e 45ms, em um gráfico que ía até 55ms.
+
+Muitos códigos utilizavam a ideia de pilha. Alguns, com a posição, sendo uma
+mistura das duas ideias. Outros eram bem complexos, de lógica bem chata.
+
