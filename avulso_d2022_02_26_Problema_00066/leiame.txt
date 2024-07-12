@@ -10,3 +10,15 @@ Memória, com a maioria. Porém, não muito boa.
 
 Uma pequena modificação econimizaria memória.
 
+====
+Em 12/07/2022, fiz uma versão em Rust.
+
+Era a tradução do segundo modelo (e mais rápido).
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Só houve barrinha em 0ms, com um código bem complexo, em um gráfico que ía até
+10ms.
+
