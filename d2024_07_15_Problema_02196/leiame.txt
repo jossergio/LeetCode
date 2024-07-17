@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Passou de primeira.
+
+Após postar, vi que minha ideia era similar à terceira da plataforma.
+
+Em C++.
+
+1047ms. Horrível.
+
+Memória, ruim.
+
+Menor tempo, bem isolado, em 411ms. A partir de 444ms, o gráfico iniciava
+esboçar uma elevação, em seguida uma depressão, passando a formar uma montanha,
+com pico em 692, e, a partir daí, uma rampa bem leve, com barrinhas bem
+grandinhas, até 1007ms, encerrando-se, o gráfico, um pouquinho mais adiante. Ou
+seja, minha solução pode não ter aparecido no gráfico. Por todo o trecho, o
+gráfico formava pontas, oscilando barras maiores com barras um pouco menores.
+
+Mais uma vez, nem acredito que fiz um código desses só pelo celular.
+
