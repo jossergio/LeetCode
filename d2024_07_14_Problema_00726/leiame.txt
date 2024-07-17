@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava seis soluções, que eu nem olhei.
+
+Após um errinho, por esquecer de implementar um detalhe que eu já sabia desde a
+leitura da questão que deveria ser observado, passou.
+
+Posso dizer que, tirando a forma de organizar, a minha ideia é similar à
+primeira da plataforma.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A maioria em 0ms. Mas havia barrinhas médias fechando com uma grandinha, sendo a
+segunda em tamanho no gráfico, em 5ms. O gráfico ía até 15ms.
+
+Foi um código bem complexo. Fiquei admirado ter feito utilizando, somente, o
+celular.
+
