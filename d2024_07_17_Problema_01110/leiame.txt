@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia, que passou de primeira.
+
+Após postar, vi que minha ideia era bem similar à primeira da plataforma.
+
+A outra ideia da plataforma era uma forma interativa. A primeira era recursiva.
+
+Em C++.
+
+16ms. Mediano.
+
+Memória, medianamente ruim.
+
+Menor tempo, bem isolado, em 0ms, com um código bem parecido com o meu.
+Concentração, em forma de montanha bem irregular, entre 7 e 25ms, com mínimas
+barras, bem espalhadas em seguida, com um esboço de outra concentração quase no
+final do gráfico que que ía até pouco mais de 500ms.
+
