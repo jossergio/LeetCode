@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava dois modelos, que eu nem olhei. Após postar, posso
+dizer que minha ideia era similar, apesar de uma implementação um pouco
+diferente, à primeria da plataforma.
+
+Só para registro, a segunda ideia era bem interessante, apesar de precisar de
+uma certa intuição e algumas complexidades de cálculos, que não me seriam fácil
+de imaginar.
+
+Após diversos errinhos, por pegadinhas dos problemas da plataforma e do próprio
+problema, passou.
+
+Em C++.
+
+175ms. Ruim.
+
+Memória, ruim.
+
+Menor tempo, bem isolado, em 22ms. Concentração, em forma de montanha bem
+acentuada e serrilhada, entre 28 e 74ms. Após isso, barrinhas bem espalhadas,
+com a última em 295ms, em um gráfico que ía até pouco mais de 300ms.
+
+No geral, uns algoritmos bem complexos.
+
