@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Antes de postar, achei que produziria um tempo excedido. Após postar, vi que
+a ideia da plataforma era bem interessante.
+
+Após postar, também, vi que poderia utilizar alguma técnica que reduziria, e
+muito, a quantidade de linhas do código. Então, fiz um segundo modelo.
+
+Modelo 1 (Python 3): 33ms. Top dos tops, quase o melhor. Memória, ruim. É um
+código que eu considero ruim, pois fica, a todo tempo, fazendo filtros e
+ordenações dentro de um laço. Mas passou até muito bem.
+
+Modelo 2 (Python 3): 39ms. Muito excelente. Memória, medianamente boa. É uma
+forma que utiliza uma técnica, melhorando bastante o anterior, de forma a, em um
+único laço de um resultado de uma ordenação, ir produzindo a resposta.
+
+Menor tempo em 31ms. Concentração, em forma de uma montanha irregular, entre 38
+e 61ms, última barrinha, em um gráfico que ía até pouco mais de 70ms.
+
