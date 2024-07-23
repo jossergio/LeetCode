@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei. Após postar, posso
+dizer que a minha é similar à primeira da plataforma. Porém, tenho mantido
+aquela ideia de que se houver possibilidade de fazer em uma linha em Python,
+será em Python com o mínimo de linhas possíveis; quiçá uma.
+
+A maioria das soluções da platafora considerava diferenças pelo tipo de
+ordanação e não uma solução diferente em si.
+
+Após postar, vendo a solução dos demais participantes e vendo, também, a
+possibilidade de utilizar uma técnica com uma função embutida de Python, que
+simplificaria, um pouco, o código a ponto de permitir usar, somnete, uma linha,
+resolvi fazer um segundo modelo com essa estrutura.
+
+Modelo 1 (Phthon 3): 112ms. Medianamente ruim. Memória, muito boa. Só não
+utilizava uma linha porque desejei, para uma melhor visualização do código,
+desmembrar.
+
+Modelo 2 (Python 3): 108ms. Mediano. Memória, mediana. Uma forma de uma linha.
+
+Meno tempo, bem isolado, em 76ms, com um modelo, até, bem complexo, com um
+desfecho semelhante ao meu. Concentração, em forma de montanha bem acentuada,
+entre 84 2 120ms, voltando a esboçar uma pequena montanha entre 144 e 170ms.
+Após isso, uma gramínea levemente concentrada até 575ms, com o gráfico
+encerrando pouco após esse valor.
+
