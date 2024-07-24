@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções.
+
+Após um errinho, posso dizer que discreto, passou.
+
+Após postar, apesar de implementar um pouco diferente, minha solução é similar à
+primeira da plataforma.
+
+Em Python, para aproveitar recursos da linguagem.
+
+973ms. Medianamente bom.
+
+Memória, um pouco ruim.
+
+O menor tempo foi em 640ms, com um código bem enxuto, utilizando, bastante, os
+recursos de Python 3. Não houve como determinar uma concentração. O gráfico
+tinha diversas barrinhas, espalhadas, com diversos picos isolados formado por
+uma única, sendo a última barra em 1646ms, com um código bem complexo, em um
+gráfico que ía até um pouco mais desse ponto.
+
