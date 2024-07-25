@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/02/2023, que eu havia feito, primeiro, em C++ e,
+depois, traduzido para GoLang. Só fiz, então, repostar o modelo em C++.
+
+Em C++.
+
+152ms. Mediano.
+
+Memória, mediana.
+
+O tempo da postagem anterior foi em 253ms, mediano, e a memória piorou um pouco,
+mas deve ser coisa do compilador.
+
+Não vi abaixo de 31ms. O gáfico tinha barras distribuídas até 1454ms, com o
+gráfico encerrando um pouco depois dessve valor, com boa concentração na
+primeira metade e, depois, apresentava pequenas falhas. A concentração efetiva
+foi em forma de montanha com duplo cume entre 59 e 154ms.
+
