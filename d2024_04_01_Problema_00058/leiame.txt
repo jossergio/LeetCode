@@ -18,3 +18,18 @@ O menor tempo utilizava dois laços simples, em sequência, que eu não fiz porq
 não permitiria gerar em linha única. Vi ideias parecidas com a minha e outras
 similares ao menor tempo, porém, e tempo maior. Vai entender o LeetCode.
 
+===
+Em 28/07/2024, fiz uma atualização para Rust.
+
+Fiz dois modelos. Um direto e outro invertido e com ponto de saída antecipado.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Varria a string na busca pela posição,
+que sempre seria a última.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Fazia uma varredura na string
+invertida, retornando o primeiro valor que encontrar (ou seja, o último, no
+sentido direto).
+
+Só havia uma barra bem grandinha em 0ms, apesar de não ser em 100%, em um
+gráfico que ía até 10ms.
+
