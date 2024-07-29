@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Todas elas por
+alguma técnica de memorização e/ou programação dinâmica.
+
+O meu modelo utilizava uma técnica de força bruta.
+
+Fiz diretamente em Rust. E PELO CELULAR!!!!
+
+Antes de registrar, resolvi fazer um código menor, tirando uma redundância,
+pois, pelo celular, e em se tratando de Rust, preferi dividir. Então, fiz um
+segundo modelo, já no computador.
+
+Modelo 1 (Rust): 150ms. Ruim. Memória, top dos tops do topo. Utilizava força
+bruta.
+
+Modelo 2 (Rust): 246ms. Muito ruim. Memória, muito ruim. Era o mesmo modelo
+anterior, só retirando uma redundância.
+
+A grande maioria em 0ms. Uma segunda barra em 2ms e uma outras pequenas e
+escassas até 241ms, com o gráfico encerrando um pouco depois de 250ms.
+
+Os códigos que eu vi eram bem complexos, utilizando e abusando de vetores. Mas
+havia alguns, os de tempo maior, por força bruta.
+
