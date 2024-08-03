@@ -1,0 +1,38 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Inicialmente, achei que seria algo de programação dinâmica. Mas analisando
+melhor a questão, vi que não. Então, tive uma ideia e, vendo as dicas da
+plataforma, que apresentavam a linha que eu tinha imaginado, postei e passou de
+primeira.
+
+Fiz em Python por ver que havia uma questão de análise de dados.
+
+Após postar, e vendo a solução dos demais, vi que poderia fazer uma solução com
+linha única. E ainda fiz uma terceira, com uma ideia diferente.
+
+Modelo 1 (Python 3): 72ms. Medianamente bom. Memória, quase excelente. Utilizava
+ordenação, zipava e comparava elemento a elemento, na sequência. Um pouco
+similar à primeira solução da plataforma, mas um pouco mais profissional. Podia
+ser, inclusive, transformada, facilmente, em linha única.
+
+Modelo 2 (Python 3): 82ms. Ruim. Memória, medianamente ruim para ruim. Era um
+código de linha única. Criava dois dicionários-contadores e os comparava. A
+ideia era similar à segunda da plataforma, mas bem profissional. A da plataforma
+não utilizava muitos recursos e era bem redundante e longa.
+
+Modelo 3 (Python 3): 65ms. Excelente. Memória, medianamete ruim para ruim. Era
+um código um pouco mais elaborado, com dois laços independentes que nivelavam um
+dicionário, retornando uma condição após um filtro com base nos valores. Posso
+dizer que era similar à terceira da plataforma, mas, mais uma vez, mais
+profissional, apesar de a da plataforma conter uma condição de saída antecipada
+que eu poderia, de alguma forma, ter utilizado a ideia da estrutura, para não
+precisar fazer um filtro ao final; só checar se ainda persistia algum valor.
+
+O menor tempo, muito isolado, foi em 43ms, com um código similar ao segundo,
+porém complexo, mas utilizando alguns recursos internos de stream que a
+plataforma produz ao disparar os testes. Concentração, em forma de montanha,
+entre 57 e 92ms, com algumas pequenas barrinhas espalhadas, até 113ms, em um
+gráfico que ía até pouco mais de 120ms.
+
