@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Posso dizer que minha solução não se assemelhava a nenhuma da plataforma.
+
+Considero minha ideia bem elegante e utilizando bem estruturas de Python 3.
+
+Em Python 3.
+
+72ms. Mediano.
+
+Memória, ruim.
+
+Concentração, em forma de montanha, entre 50 (menor tempo) e 80ms, com uma leve
+gramínea, bem falhada, formando um esboço de concentração entre 187 e 214ms e um
+outro, mais destacado, entre 254 e 275ms, última barrinha em um gráfico que ía
+até pouco mais desse valor.
+
