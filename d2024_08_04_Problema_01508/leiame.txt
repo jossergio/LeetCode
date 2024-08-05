@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que a minha era bem semelhante à primeria da plataforma.
+
+As outras duas ideias eram bem interessantes, em relação a estudos de algoritmos
+matemáticos. Mas fica para uma outra oportunidade.
+
+Em C++.
+
+88ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Muitos em 0ms e um agrupamento irregular até 6ms, com uma leve gramínea até
+71ms, onde se inicia uma concentração, em forma de montanha, com picos
+intermediários, até 110ms, onde volta uma leve gramínea, um pouco falhada, até
+326ms, com o gráfico encerrando-se um pouco depois disso.
+
