@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Essas soluções eram
+semelhantas, alterando, somente, a estrutura de implementação.
+
+Inicialmente, não entendi, direito, o problema. Mas, analisando melhor, entendi
+e tive uma ideia simples.
+
+Após postar, posso dizer que minha ideia, geral, era simimlar às da plataforma,
+apesar que, desta vez, não otimizei tanto.
+
+Antes de registrar, e vendo que poderia despresar um valor, fiz uma segunda
+postagem, para ver como seria avaliada pela plataforma.
+
+Modelo 1 (Python 3): 150ms. Medianamente bom. Memória, horrível.
+
+Modelo 2 (Python 3): 164ms. Mediano. Memória, também horrível. Achei que, pelo
+menos, a memória seria otimizada, pois era o mesmo modelo anterior, retirando
+a utilização de um valor que não era tão necessário para os resultados.
+
+Menor tempo, destacado, em 91ms. Concentração, em forma de montanha irregular,
+entre 130 e 160ms. Alguns esboços de concentração, após isso, com última
+barrinha em 297ms, em um gráfico bem irregular e que ía até um pouco mais que
+esse valor.
+
