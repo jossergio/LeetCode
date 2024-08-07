@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, não sei como comparar com os modelos da plataforma, pois fiz uma
+divisão de ativides um pouco diferente. Também não tive muito como comparar com
+os demais participantes. Apesar de similaridades, havia detalhes bem diferentes.
+
+Após três errinhos, um por não considerar o zero (pegadinha da plataforma),
+outro por não observar que deveria sempre pular a etapa, independente de haver
+valor ou não nela, e outro por erro na escrita das palavras, passou.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A maior parte em 0ms. Algumas outras barrinhas até 8ms, em um gráfico que ía até
+18ms.
+
+Não sei, mais uma vez, o porquê da disparidade de tempo, pois muitos códigos
+considero mais eficientes.
+
