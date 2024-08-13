@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 08/04/2022 e que reapareceu no dia 23/05/2023. Fiz
+uma pequena alteração, em um laço, no modelo mais recente, para utilizar um 
+ontador por referẽncia no lugar de puxar o valor (&).
+
+Em C++.
+
+21ms. Posso considerar já excelente.
+
+Memória, ruim.
+
+Houve uma boa melhoria em relação à postagem anterior.
+
+Menor tempo, isolado, em 5ms. Concentração, em forma de montanha acidentada,
+entre 14 e 36ms, com algumas pequenas barrinhas até 40ms, em um gráfico que ía
+até 50ms.
+
