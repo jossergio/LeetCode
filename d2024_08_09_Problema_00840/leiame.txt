@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+Após alguns errinhos, por não interpretar direito o problema, passou.
+
+Tive que espiar as soluções da plataforma para interpretar direito o que
+faltava. Coisas bobas, tipo possibilidades de nuḿeros maiores, que não deveriam
+ser considerados, e números repetidos, idem. E isso constava na descrição do
+problema. Falta de atenção, foco etc.
+
+Abusei de estruturas.
+
+Em c++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Achei que não seria tão rápido, apesar de que a utilização de estruturas, que eu
+consideraria que trariam problemas de desempenho, possam ter ajudado, pois suas
+implementações podem ser otimizadas.
+
+Grande maioria em 0ms. Mas houve algumas barras médias até 7ms, em um gráfico
+que ía até 16ms.
+
