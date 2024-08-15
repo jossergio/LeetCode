@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Inicialmente, tentei pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após cinco erros, por não ter entendo direito o problema, passou. A plataforma
+não me foi muito clara. Tinha fazer uma contagem de cédulas.
+
+Após postar, fiz um segundo modelo, substituindo unordered_map por map.
+
+Em sequência, resolvi fazer um terceiro modelo, sem utilizar essas estruturas,
+com variáveis específicas. Após um erriniho, por bobeira, passou.
+
+Esse terceiro modelo era com ideia similar à da plataforma, porém, considero um
+pouco mais organizado.
+
+Modelo 1 (C++): 83ms. Ruim. Memória, muito ruim. Utilizava unordered_map.
+
+Modelo 2 (C++): 71ms. Medianamente bom. Memória, muito ruim, apesar de um
+pouquinho melhor.
+
+Modelo 3 (C++): 72ms. Mediano. Memória, medianamente boa. Utilizava variáveis
+específicas.
+
+Menor tempo, relativamente isolado, em 29ms. Concentração, em forma de montanha,
+entre 54 e 87ms, última barra em um gráfico que ía até cerca de 100ms. Antes da
+concentração, uma leve gramínea, um pouco falhada no início.
+
