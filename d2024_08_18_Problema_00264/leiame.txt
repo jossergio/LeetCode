@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Inicialmente, não saberia como fazer. Mas vi as dicas e tive uma ideia.
+
+Após dois errinhos tempo de execução, de tipo (o cálculo poderia extrapolar o
+inteiro, apesar de o resultado não), passou. O segundo errinho foi pela bobeira
+de não trazer o teste que apresentou erro para o ambiente de testes.
+
+Após postar, vi que minha ideia era, um pouco, uma mistura entre a primeira e a
+segunda da plataforma, desconsiderando alguns ajustes.
+
+Tinha considerado fazer como a primeira ideia. Mas achei que precisaria de um
+ordenamento explícito ao utilizar conjuntos (set).
+
+Minha ideia utilizava fila de prioridade, com uma verificação que desconsiderava
+possíveis valores repetidos (ou possivelmente já passados).
+
+Em C++.
+
+45ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+A terceira ideia da plataforma é um excelente estudo de lógica. Eu não teria
+intuição para essa forma.
+
+Grande maioria em 0ms, com uma segunda maior em 3ms e a terceira maior em 7ms.
+Todos utilizando algoritmos similares à terceira ideia da plataform, porém, de
+uma forma que eu considerei mais elegante. Havia outras pequenas barrinhas
+espalhadas por todo o gráfico, em forma de gramínea rasteira, em algum momento
+pretendendo formar montanha, porém, sem superar, ficando a última barrinha em
+130ms.
+
