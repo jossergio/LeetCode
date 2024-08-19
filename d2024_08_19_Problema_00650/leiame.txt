@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, sendo as três primeiras baseadas em
+algoritmos simuladores (inclusive, programação dinâmica) e o último baseado em
+uma ideia matemática.
+
+Apesar de ver condições para simulações, desve o início percebi que poderia
+haver um processamento matemático.
+
+Após um errinho, por achar uma coisa, fiz um segundo modelo, do zero, que passou
+muito bem.
+
+Após postar, vi que a ideia era um pouco diferente da quarta ideia da
+plataforma, pois o meu era um pouco regressivo, enquanto o da plataforma era
+incremental.
+
+Em C++.
+
+3ms. Medianamente bom.
+
+Memória, mediana.
+
+A maioria em 0ms, com uma segunda barra grande em 3ms e uma terceira em 2ms.
+Havia uma gramínea, consistente pela primeira metade do gráfico e um pouco
+falhada e mais rasteira pela segunda, com a última barrinha em 99ms, um
+gráfico que ía até cerca de 110ms.
+
