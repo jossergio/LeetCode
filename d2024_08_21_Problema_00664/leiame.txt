@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 30/07/2023. Só fiz repostar.
+
+Verifiquei que foi um problema que eu não saberia fazer e que tinha copiado da
+própria plataforma, com alguns ajustes.
+
+Em C++.
+
+269ms. Nem aparecia no gráfico.
+
+Memória, ruim.
+
+O tempo anterior fora 300ms. A memória piorou. Mas pode ser coisa de compilador.
+
+Alguns em 0ms. Uma concentração bem irregular até 68ms e alguma gramínea bem
+falhada e aparentando podar, até 253ms, em um gráfico que ía até pouco mais que
+esse valor.
+
