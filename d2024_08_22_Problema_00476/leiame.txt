@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 27/12/2021. Não tive ideia melhor e só fiz repostar.
+Aliás, já era a melhor ideia, mesmo.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+O tempo foi o mesmo da postagem anterior. A memória piorou um pouco, mas pode
+ser coisa do compilador.
+
+Grande concentração em 0ms e alguns até 2ms, em um gráfico que ía até 12ms.
+
