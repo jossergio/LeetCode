@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia, que considero bem elegante, por utilizar estruturas e outros
+recursos. As da plataforma continham isso mas tinham um aspecto mais unificado,
+formando um bloco único.
+
+Em outras palavras: considero minha ideia mais simples de entender, por abusar
+de refatoração.
+
+Em C++.
+
+3ms. Mediano.
+
+Memória, medianamente ruim.
+
+Muitos códigos dos demais participantes utilizavam alguma forma de stream de
+string, que não entendi como era a forma em que dividia os componentes, mas,
+tive uma ideia geral para aprofundar e utilizar outro momento. Ou seja: mais um
+aprendizado.
+
+Grande parte em 0ms. Uma segunda barra, quase de mesmo tamanho, em 3ms. Entre
+esses pontos, leves barrinhas, não havendo outras em um gráfico que ía até 12ms.
+
