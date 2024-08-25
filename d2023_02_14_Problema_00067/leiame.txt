@@ -11,3 +11,17 @@ Em GoLang.
 Memória, ruim. Melhorou um pouquinho em relação à postagem anterior. Vai
 entender a plataforma.
 
+====
+Em 25/08/2024, resolvi fazer um modelo em Rust, para estudar.
+
+1ms. Medianamente bom.
+
+Memória, mediano.
+
+A grande maioria em 1ms. Alguns poucos em 0ms. Não havia barras depois de 1ms.O
+gráfico ía até 11ms.
+
+O modelo que aparecia em 0ms abusava da estrutura de Rust. O que aparecia em 1ms
+era uma certa complexidade, mas também era bem interessante para estudar as
+estruturas dessa linguagem.
+
