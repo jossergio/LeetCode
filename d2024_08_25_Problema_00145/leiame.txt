@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei.
+
+Após um errinho, passou. Bobeira. Não sei o porquê, resolvi tratar a ponta
+direita de uma árvore binária primeiro e depois a esquerda, para uma leitura
+pós-ordem. Acho que a ordem inversa me controlou a cabeça.
+
+Após postar, vi que minha solução era a primeira da plataforma, porém,
+simplificada. Apesar de recursiva, como essa solução, minha forma não utilizava
+função auxiliar, utilizando diretamente a própria função de execução.
+
+Ainda antes de verificar, logo após postar o primeiro modelo, tive uma ideia de
+fazer com função auxiliar, para comparar.
+
+Os demais modelos da plataforma incluiam formas complexas e simplificadas com
+pilha (forma interativa) e um algoritmo bastante complexo e de autoria definida.
+
+Modelo 1 (C++): 5ms. Horrível. Memória, muito horrível. Modelo recursivo onde
+era utilizada a própria função de execução. Fica bem simplificado.
+
+Modelo 2 (C++): 4ms. Medianamente ruim. Memória, horrível. Modificação do
+anterior para utilizar variável e função auxiliares.
+
+Concentração em 0ms. Segunda barra em 4ms. Barras menores entre esses dois
+valores, não havendo outras após esse ponto, em um gráfico ía até 14ms.
+
