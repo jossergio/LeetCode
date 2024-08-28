@@ -16,3 +16,19 @@ Alguns, mais lentos, era parecidos com o meu.
 Memória, ideal. Os mais rápidos utilizavam mais variáveis e, consequentemente,
 mais memória.
 
+====
+Em 28/08/2024, fiz um modelo em Rust.
+
+Após um errinho, por estourar um valor de capacidade de i32, passou, utilizando
+i64 e fazendo conversões no início e no final.
+
+8ms. Ruim.
+
+Memória, medianamente boa.
+
+A grande maioria em 0ms. Uma segunda barrinha em 3ms. Algumas outras pequenas,
+espalhadas, com a última em 26ms, em um gráfico que ía até cerca de 35ms.
+
+Uma busca binária seria uma ótima possibilidade. Os mais rápidos seguiam esse
+princípio.
+
