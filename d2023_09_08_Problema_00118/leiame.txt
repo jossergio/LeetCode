@@ -19,3 +19,23 @@ Pela simplicidade, ainda pensei em fazer em outras linguagens, tipo GoLang,
 Rust e Python, além de ficar brincando com implementações. Mas, deixemos, por
 enquanto.
 
+====
+Em 29/08/2024, adicionei um modelo em Rust.
+
+Utilizei como base o mais recente em C++. Em seguida, resolvi fazer com base na
+segunda postagem feita em C++ (e com maior tempo), porém, era uma forma com
+menos linhas.
+
+Modelo 4 (Rust): 1ms. Mediano. Memória, mediana. Era uma tradução, com alguns
+ajustes para Rust, do tercerio modelo em C++.
+
+Modelo 5 (Rust): 1ms. Mediano. Memória, mediana. Era uma tradução, com alguns
+ajustes para Rust, do segundo modelo em C++.
+
+Só havia barras, mesmo, em 0ms, em um gráfico que ía até 10ms.
+
+A postagem que era apresentada em 0ms utilizava um algoritmo recursivo com a 
+mesma função do problema, fazendo por partes anteriores (n - 1), e adicionando a
+nova etapa ao final.
+
+
