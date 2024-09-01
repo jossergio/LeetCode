@@ -31,3 +31,16 @@ relativamente ruim.
 Em C++, os que eram abaixo de 65ms, be destacado no gráfico, utilizavam a
 técnica de entrada direta por std.
 
+=====
+Em 01/09/2024, fiz uma postagem em Rust.
+
+Utilizei a abordagem mais recente, em GoLang, e só fiz a tradução.
+
+11ms. Mediano.
+
+Memória, mediana.
+
+Houve 0ms. Maior barra em 11ms e a última em 12ms, em um gráfico que ía até
+22ms. Não há como falar em concentração, pois entre barras pequenas e médias o
+gráfico era bem irregular.
+
