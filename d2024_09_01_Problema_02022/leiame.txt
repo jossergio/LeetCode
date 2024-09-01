@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Fiz postagem direto em Rust, para treinar.
+
+Após um errinho, por inverter o que seria coluna em linha e vice-versa
+(confundir), passou.
+
+Após postar, vendo a solução de outros participantes, decidi fazer mais duas
+postagens. Só não utilizei ideias mais avançadas de Rust, como algumas faziam.
+
+Modelo 1 (Rust): 31ms. Mediano. Memória, excelente top dos tops das galáxias.
+Utilizava um laço para varrer o vetor de entrada enquanto atualizava dois
+índices para percorrer um array previamente criado.
+
+Modelo 2 (Rust): 30ms. Mediano. Memória, muito boa. Era o mesmo modelo anterior,
+porém o laço que varria o vetor original não era baseado em índice, mas
+percorria o próprio vetor (como um iterator).
+
+Modelo 3 (Rust): 32ms. Ruim. Memória, mediana. Era um pouco baseado no de melhor
+tempo das postagens do desafio, porém, com algumas diferenças, com base em meus
+conhecimentos, pois vi e tentei repetir, sem olhar. Baseava-se em dois laços,
+com um vetor resposta previamente criado, criando linha a linha e adicionando ao
+final. O vetor resposta já era previamente alocado, visando perder tempo com
+alocações na adição.
+
+Menor tempo em 23ms. Maior barra em 31ms. A última barra em 33ms, em um gráfico
+que ía até 42ms. Não houve como falar em concentração, pois no espaço entre o 
+menor e o maior houve espaços em branco.
+
