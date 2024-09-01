@@ -14,3 +14,21 @@ Então, memória, horrível.
 Porém, havia uma forma de bitwise xor que poderia ser utilizada e a maioria
 das melhores respostas trabalhava assim.
 
+=====
+Em 01/09/2024, fiz um modelo em Rust.
+
+Não foi bem uma tradução, pois o original, em GoLang, utilizada mapa e a versão
+em Rust utilizava conjunto (set).
+
+4ms. Medianamente ruim.
+
+Memória, mediana.
+
+Houve alguns 0ms. A maior barrinha foi em 2ms. Outra barra, menor que a de 0ms,
+em 4ms. O gráfico ía até 14ms. Não há como falar em concentração.
+
+O código mostrado em 0ms utilizava conceito de ou exclusivo bit a bit em um
+número acumulado. O em 2ms só mudava o nome da variável. O em 4ms utilizava uma
+ideia bem interessante. Ordenava e varria aos pares. O que fosse o último ou não
+fosse igual ao próximo, era a solução.
+
