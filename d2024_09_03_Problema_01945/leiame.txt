@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha implementação era bem complexa, com uma boa divisão de
+atividades (refatoração) e era bem diferente das da plataforma, que eram mais
+diretas.
+
+Em C++.
+
+14ms. Ruim.
+
+Memória, mediana.
+
+A grande maioria em 0ms, com uma ideia semelhante à minha, porém, não tão
+complexa (a minha abusava de vetor; e não seria necessário). Uma pequena e leve
+formação de concentração entre 2 e 5ms, última barrinha em um gráfico que ía até
+15ms. Ou seja: minah resposta nem barrinha formou.
+
