@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 29/09/2021, que eu havia feito em GoLang, e que
+tinha reaparecido em 06/09/2023 e eu acabei fazendo em C++, pois não tinha
+notado que já havia postagem anterior.
+
+Fiz, somente, repostar a mais recente, ou seja, a feita em C++.
+
+9ms. Medianamente ruim.
+
+Memória, horrível.
+
+O tempo foi igual à postagem anterior. Porém, a memória, aumentou muito. Pode
+ser coisas de atualização e/o reconfiguração de compilador da plataforma.
+
+Gráfico bem irregular, com alguns em 0ms, a maior barra em 4ms e a última em
+9ms, segunda maior barra, em um gráfico que ía até cerca e 18ms.
+
