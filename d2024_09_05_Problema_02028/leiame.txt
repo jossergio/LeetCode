@@ -18,3 +18,27 @@ Menor tempo, bem isolado, foi em 40ms. A partir de 55ms, inicia-se uma
 nível em 103ms, fazendo uma descida, também irregular, até 116ms, última barra
 em um gráfico que ía até cerca de 125ms.
 
+====
+Em 08/09/2024, fiz um modelo em Rust.
+
+Na realidade, eu já desde o início pensei em fazer nessa linguagem. Porém, vista
+uma certa dificuldade na ideia geral do problema, resolvi fazer em C++, pois é
+uma linguagem que tenho muita familiaridade. Ou seja: falhas relativas à
+linguagem não atrapalhariam, ficando o foco, somente, no problema em si.
+
+Não foi bem uma tradução do modelo em C++, pois utilizei alguns conceitos mais
+matemáticos vistos em algumas postagens dos demais participantes nessa
+linguagem.
+
+56ms. Medianamente ruim.
+
+Memória, Muito boa.
+
+Menor tempo, bem isolado, em 35ms. Algumas pequenas barrinhas, bem espalhadas,
+até 43ms, onde se iniciava uma montanha, bem irregular, até 63ms, última barra
+em um gráfico que ía até pouco mais de 70ms.
+
+O em 35ms era um código bem similar ao meu, apesar de fazer um cálculo de uma
+forma um pouco diferente. O meu tentava otimizar um laço final para ter menos
+iterações, apesar que isso produzia cálculos a mais.
+
