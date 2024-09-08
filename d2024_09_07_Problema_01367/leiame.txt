@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após dois errinhos, um por estouro de tempo (considerei uma ideia bem
+interessante, achando que otimizaria e só fez piorar) e outro por erro, mesmo,
+após modificar a ideia inicial e não notar uma condição mais geral, passou.
+
+Essa nova ideia era, justamente, a que eu tinha tido logo no início, mas pensei
+em fazer uma certa otimização, que acabou estourando o tempo.
+
+Também após postar, vi que a minha era um pouco similar à primeira da
+plataforma, apesar de eu considerar que a minha era um pouco mais simples,
+inclusive, utilizando a própria função de execução para formar uma
+recursividade, coisa que a da plataforma não fazia e acabava sendo um pouco
+redundante. Mas, no geral, eram bem similares.
+
+Em C++.
+
+27ms. Mediano.
+
+Memória, medianamente ruim.
+
+Menor tempo, isolado, em 7ms, com uma ideia bem similar à minha, apesar de um
+código um pouco troncho e maior. A partir de 14ms, inicia ume pequena montanha,
+irregular, até 37ms. Antes e depois dessa montanha, há algumas barrinhas, com
+alguns espaços intercalados, até 81ms, última barrinha em um gráfico que ía até
+pouco mais de 90ms.
+
