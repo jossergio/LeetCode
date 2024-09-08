@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que, apesar de conter uma ideia similar, minha implementação
+utilizava uma variável auxiliar que facilitava a organização e visualização do
+código, simplificando.
+
+Também, após postar, resolvi fazer uma pequena modificação, alterando a
+utilização do tipo set (conjunto) por unordered_sed, para ver o quando
+modificaria o tempo de execução, apesar de o LeetCode não ser tão confiável na
+precisão de tempo de execução de código.
+
+Modelo 1 (C++): 487ms. Medianamente ruim. Memória, mediana.
+
+Modelo 2 (C++): 410ms. Muito bom. Memória, muito boa. Era o mesmo código
+anterior, alterando, somente, a utilização de set por unordered_set.
+
+O menor tempo foi em 221ms, utilizando uns conceitos de vetor de bits, que,
+apesar de aumentar o uso de memória, não era tanto assim, e, também, macetes
+de IO. A partir desse ponto, formava uma gramínea, que começava a ficar mais
+altinha a partir de 321ms, e, a partir de 378ms, iniciava a formação de uma
+montanha, serrilhada, passando a baixar, formar um planalto, a patir de 490ms,
+esboçando um declive um pouco mais adiante e com a última barra em 495ms, em
+um gráfico que ía até pouco mais de 600ms.
+
