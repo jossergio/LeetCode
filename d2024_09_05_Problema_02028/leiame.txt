@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo cellar.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vendo a solução da plataforma, vi que, apesar da ideia ser a mesma,
+o meu tinha uma implementação mais complexa. A da plataforma utilizava alguns
+conceitos matemáticos referentes à divisão. O meu, ía formando um preenchimento
+mais interativo.
+
+Em C++.
+
+106ms. Medianamente ruim.
+
+Memória, mediana.
+
+Menor tempo, bem isolado, foi em 40ms. A partir de 55ms, inicia-se uma
+"escadaria", um aclive bem irregular, até atingir um pico em 99 e outro de mesmo
+nível em 103ms, fazendo uma descida, também irregular, até 116ms, última barra
+em um gráfico que ía até cerca de 125ms.
+
