@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a ideia geral seria uma mesma. Porém, a ideia da plataforma
+era bem interativa enquanto a minha era recursiva utilizando a própria função
+do problema.
+
+Ambas, também, utilizavam uma função auxiliar para fazer um cálculo pedido.
+
+Após postar, vi que, apesar de correta, raciocinei errado na forma do cálculo
+nessa função e não era um algoritimo bem ótimo. E olha que era um cálculo bem
+básico: MDC. Não sei o porquê, confundi a questão de maior e considerei que o
+algoritmo bem conhecido calculava o mínimo (como MMC) e fiz com um laço.
+
+Então, fiz uma segunda postagem, considerando o algoritmo ideal e bastante
+conhecido.
+
+Modelo 1 (C++): 59ms. Ruim. Memória, muito ruim. Utilizava uma forma recursiva
+e uma função auxiliar, para encontrar um valor para o MDC.
+
+Modelo 2 (C++): 36ms. Medianamente bom. Memória, muito ruim. Era o mesmo do
+anterior, porém a função auxiliar era mais ideal.
+
+Não fiz postagem interativa. Na realidade, nem cheguei a cogitar, antes de ver
+a solução da plataforma. Talvez em alguma outra oportunidade.
+
+Menor tempo em 3ms. Concentração entre 22 e 49ms. Havia uma leve gramínea
+falhada antes e uma gramínea contínua alta após, até 68ms, última barra em um
+gráfico que ía até quase 80ms.
+
+Os menores tempos utilizava o macete/técnica de modificar entrada e saída de
+sistema.
+
