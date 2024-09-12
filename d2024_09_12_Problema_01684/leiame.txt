@@ -1,0 +1,35 @@
+Direto no LeetCode, hoje, iniciando o Tablet.
+
+A plataforme me apresentava quatro soluções, que eu nem olhei.
+
+Após um errinho, por, mais uma vez, não interpretar direito o problema (achava
+que os conjuntos de análise deveria ser iguais quando, na verdade, era para um
+ser contigo no outro), passou.
+
+Após postar, vi que a ideia básica da minha era similar à terceira da
+plataforma.
+
+Em Python, para utilizar estruturas da linguagem e diminuir o código.
+
+230ms. Medianamente ruim.
+
+Memória, horrível.
+
+Após ver outros detalhes, incluindo os modelos da plataforma e postagens dos
+demais participantes, vi que ou meu código era simples, abusando de recursos de
+conjuntos (set). Porém, a maioria utilizava uma condição de verificação,
+abortando um laço interno ao primeiro sinal de condição não satisfeita. Não sei
+como Python otimiza operações com conjuntos.
+
+Menor tempo em 57ms, com um código relativamente complexo. Uma gramínea baixa e
+rala até 89ms, havendo um salto até 179ms, quando se inicia uma montanha,
+irregular, até 272ms, última barra em um gráfico que ía até pouco mais que esse
+valor.
+
+Os códigos iniciais aparentavam serem o mesmo e utilizavam técnica/macete de
+modificar canais de entrada e de saída (IO) do sistema.
+
+Vi um código de linha única. Porém, utilizando um artifício que não gosto, que
+é o valor verdadeiro (True) ser considerado de valor 1 (inteiro) quando em
+análises internas. No caso, para a função all (interna, de Python).
+
