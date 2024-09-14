@@ -1,0 +1,38 @@
+Direto no LeetCode e pelo Tablet, novamente.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após três erros, o primeiro e o terceiro por estouro de memória e o segundo por
+erro em tempo de execução (utilizei uma variável para dimensionamento de um
+vetor no lugar de ter utilizado outra, que tinha preparado para essa
+finalidade), passou.
+
+Os estouros de foi por eu considerar montar um tabelão para pegar valores. Mesmo
+o terceiro modelo fazendo uma forma de redução pela metade, ainda assim estourou
+a memória. Utilizava uma ideia de acumulação, nessa tabela.
+
+Os modelos que estouraram a memória foram idealizados por eu achar que, uma
+forma simples, que idealizei de cara, produziria estouro de tempo. Quebrei a
+cara, pois o primeiro modelo que efetivamente passou foi para testar se,
+realmente, produziria estouro de limite de tempo.
+
+Ficou, inclusive, um código bem curtinho, sem necessidades de mais estruturas e
+controles delas. Era similar ao primeiro modelo da plataforma.
+
+Após postar, vendo as postagens dos demais, vi que, como eu imaginava, havia uma
+forma mais matemática. Então, resolvi fazer um modelo próprio meu, com base
+nessa ideia. Bastaria ter raciocinado que os que iniciassem do início deveriam
+ser tratados de forma diferente dos que iniciassem pelo meio. Era similar ao
+terceiro modelo da plataforma.
+
+Modelo 1 (C++): 1696ms. Ruim. Memória, medianamente ruim. Utilizava um método
+força bruta.
+
+Modelo 2 (C++): 65ms. Mediano. Memória, medianamente ruim. Utilizava uma forma
+mais matemática.
+
+Menor tempo em 0ms, utilizando técnicas de desvio entrada e saída de de STD.
+Concentração, em forma de montanha bem acentuada, entre 30 e 99ms. Algumas
+pequenas barrinhas bem espalhadas e alguns pontos de concentração dessas
+barrinhas até 1948ms, em um gráfico que ía até pouco mais que isso.
+
