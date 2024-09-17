@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma soloução, que eu nem olhei.
+
+Após postar, vi que a ideia básica era a mesma. Porém, fiz em Python, com a
+finalidade de utilizar uma linha única, apesar de utilizar quebras.
+
+Após postar, vendo que não foi um bom tempo e vendo as postagens dos demais
+participantes com tempo melhor, resolvi fazer uma segunda postagem, utilizando
+mais estruturas, achando que melhoraria o tempo. Não funcionou.
+
+Modelo 1 (Python 3): 43ms. Muito ruim. Memória, muito ruim. Utilizava os
+recursos de Python para codificar em linha única.
+
+Modelo 2 (Python 3): 42ms. Ruim. Memória, mediana. Desmembrava em etapas o
+código anterior.
+
+Menor tempo em 14ms. Concentração a partir de 22ms, em aclive, formando uma
+montanha irregular, em seguida, até 43ms, última barra em um gráfico que ía até
+pouco mais de 50ms.
+
+Ainda pensei em fazer outros modelos, estruturando a mesma ideia de formas
+diferentes. Mas fica para outros momentos.
+
