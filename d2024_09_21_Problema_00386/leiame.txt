@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Antes de registrar, resolvi fazer uma segunda abordagem, já no computador. Mas
+poderia ter sido no celular, também.
+
+Após postar, vi que os modelos da plataforma eram mais matemáticos (ou
+numéricos). Os meus utilizavam conversão para string, visando simplificar.
+
+Se tivesse raciocinado mais um pouquinho, poderia ter chegado a uma das ideias
+da plataforma. Se bem que a primeira seria mais meu estilo, utilizando uma forma
+recursiva. A segunda era interativa e dependia de uma lógica, para uma condição.
+
+Modelo 1 (C++): 109ms. Muito ruim. Memória, mediana. Utilizava uma fila de
+prioridade (heap) para produzir um efeito de ordem, fazendo uma conversão para
+string de cada elemento, que era a regra da ordem, retornando os valores para
+produzir o resultado esperado.
+
+Modelo 2 (C++): 423ms. Muito ruim. Memória, mediana, apesar de um pouco melhor
+que o anterior. Preparava o vetor resposta com os números e depois o ordenava,
+com uma função para a regra, que, mais uma vez, utilizava conversão para checar
+os elementos.
+
+A questão de conversão no meio do caminho simplificou o código. Porém, não foi
+uma abordagem eficiente. Além disso, o primeiro modelo violou um pouquinho as
+sugestões do problema, que continha a memória ser no padrão O(1).
+
+Muitos em 0ms. Uma concentração bem irregular até 21ms, uma gramínea um pouco
+irregular até 67ms. quando esboça uma pequena elevação, até 85ms, quando fica
+com diversas falhas, com barrinhas pequenas espalhadas até 198ms, em um grafico
+que ía até pouco mais que 200ms.
+
