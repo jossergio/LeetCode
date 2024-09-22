@@ -33,3 +33,16 @@ Vi um código de linha única. Porém, utilizando um artifício que não gosto, 
 é o valor verdadeiro (True) ser considerado de valor 1 (inteiro) quando em
 análises internas. No caso, para a função all (interna, de Python).
 
+======
+Em 22/09/2024, fiz um modelo em Rust.
+
+36ms. Horrível.
+
+Memória, muito excelente top dos tops das galáxias.
+
+Houve uma pequena barra em 0ms. Não há como falar em concentração. A maior barra
+foi em 11ms e outras duas bem distintas em 16 e em 7ms, em ordem decrescente, em
+um gráfico que ía até pouco mais de 35ms.
+
+Vi alguns usos de recursos bem interessantes da linguagem.
+
