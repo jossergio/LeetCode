@@ -36,3 +36,37 @@ Concentração, em forma de montanha bem acentuada, entre 30 e 99ms. Algumas
 pequenas barrinhas bem espalhadas e alguns pontos de concentração dessas
 barrinhas até 1948ms, em um gráfico que ía até pouco mais que isso.
 
+======
+Em 22/09/2024, fiz modelos em Rust.
+
+Aproveitei para, já, utilizar estruturas mais avançadas da linguagem.
+
+Porém, utilizei como base os modelos já feitos. E digo no plural pois, após
+postar um equivalente ao modelo 2 de C++, que era bem mais prático e rápido,
+ resolvi ver como poderia ficar o primeiro.
+ 
+ Modelo 3 (Rust): 20ms. Medianamente ruim. Memória, medianamente boa. Ficou bem
+ enxuto, parencendo Python.
+ 
+ Modelo 4 (Rust): 269ms. Muito ruim. Memória, ruim. Também ficou bem enxuto,
+ parecendo Python. Mas tive que quebrar uma linha em três, apesar de não
+ precisar muito, mas para não ficar tão extensa, tentando separar por etapa.
+ 
+Houve alguns 0ms. Não era um código tão extraordinário. Apesars de utilizar
+algumas estruturas avançadas, parecia mais uma tradução simples de meu modelo 2.
+Uma concentração, em forma de um pico bem destacado, entre 3 e 12ms. Algumas
+pequenas barrinhas em seguida, com esboço de formar uma montanha, entre 43 e
+63ms, mas as demais bem espaçadas, em um gráfico que ía até 650ms.
+
+ Comparando com os modelos em C++, os tempos ficaram bem melhores. Mas é bom
+ destacar que não foram traduções plenas, mas embasadas, utilizando estruturas
+ avançadas de Rust.
+ 
+ Ainda pensei em adaptar, produzindo mais modelos, utilizando alguns recursos
+ da linguagem. Mas vão ficar para outro momento.
+ 
+ De toda forma, tudo foi um bom estudo.
+ 
+ Só para registro, fazer o modelo 3 foi bem rapidinho. Mas tive umas dores de
+ cabeça para fazer o modelo 4.
+ 
