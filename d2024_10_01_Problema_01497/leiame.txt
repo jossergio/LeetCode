@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após uma resposta errada e um estouro de tempo na ideia que eu tive, olhei as
+dicas e tive outra ideia. Após mais quatro erros, passou.
+
+Inclusive, ficou com impressão de debug, no código. Falha nossa.
+
+Minha ideia original utilizava uma estrutura de programação dinâmica e um memo,
+que acabou produzindo estouro de tempo, apesar de correto (no finalzinho dos
+testes que a plataforma jogava). Não tive ideia para contornar isso.
+
+Então, vendo as dicas da plataforma, que direcionavam para um modelo matemático,
+e após erros bobos implementando, passou.
+
+Em Rust. Desde o início. Inclusive os que produziram erros e estouro de tempo.
+
+22ms. Medianamente ruim.
+
+Memória, Medianamente boa.
+
+Acho que a impressão de debug influenciou. Mas não quiz fazer uma nova postagem
+sem isso, pois só vi dias depois, quando registrando. Fica para a próxima.
+
+Menor tempo em 3ms, com um código bem similar ao meu. Duas barras grandes, de
+mesmo tamanho, em 10 e 14ms. Outras, de mesmo tamanho da do 3ms, espalhadas,
+irregularmente, sendo a última em 27ms, eu um gráfico que ía até pouco mais de
+35ms.
+
+Muitas postagens bem similares, como se fossem postagens na tentativa de obter
+um tempo menor/diferente.
+
