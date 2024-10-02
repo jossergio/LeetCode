@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia não tinha muito a ver com a da plataforma. Na
+realidade, eu nem entendi muito, apesar de, no geral, a ideia ser similar. A da
+plataforma otimizava, com um código complexo, e a minha simplificava, com um
+código não tão otimizado. Meu código era com dicionário. O da plataforma era uma
+espécie de ramificação (ou uma árvore com muitos nós).
+
+Em Python, para aproveitar estruturas da linguagem, apesar de não ser possível
+fazer em linha única.
+
+3536ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+O menor tempo que pude ver foi em 159ms, com um código bem complexo. Entre 1122
+e 4343ms, um total de seis (06) picos (e vales), em um gráfico bem diferente dos
+que tenho visto na plataforma, formando ondas. Em torno de 500ms, um esboço de
+pico. Antes de 1122ms, barrinhas espalhadas e esse esboço de pico. O gráfico ía
+até bem pouquinho de pois de 4343ms (digo, colado).
+
+Alguns códigos, dentre os lentos, parecidos com o meu. Dos rápidos, alguns
+pareciam cópia do modelo da plataforma e outros bem diferentes, mas complexos
+da mesma forma. De toda forma, essa ideia da plataforma, apesar de complexa, é
+bem interessante e serve bem para estudos. É estilo grafo.
+
