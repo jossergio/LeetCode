@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 03/08/2022, que, após algum trabalho, eu tinha
+conseguido fazer um modelo que passou (e nem pontuou, pois passou do dia a
+tentativa com sucesso).
+
+Só fiz repostar. Em seguida, tentei fazer um modelo, em Python 3, que apresentou
+estouro de memória. Então, desisti.
+
+Em C++.
+
+79ms. Mediano.
+
+Memória, muito boa.
+
+O tempo foi bem melhor que a vez anterior. E a memória pior.
+
+Menor tempo em 36ms. Menor barra em 36ms. Até 218ms, barrinhas, em forma de
+gramínea bem rasteira, com uma concentração das maiores entre 50 e 125ms, em
+forma de montanha, com um leve platô, rasteiro, na parte direita.
+
