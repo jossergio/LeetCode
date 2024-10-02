@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que a minha ideia era similar à segunda da plataforma,
+alterando, um pouco, a forma de implementação.
+
+Utilizei Python, para aproveitar estruturas da linguagem e simplificar código.
+
+Após postar, vendo as postagens dos demais, tive uma segunda ideia, para tentar
+ir ao limite de uma linha (não haveria como, pela forma do problema, que
+dependia de um processamento preliminar, mas ficou com duas), utilizando
+recursos de Python.
+
+Modelo 1 (Python 3): 238ms. Medianamente bom. Memória, medianamente boa.
+Utilizava dois laços, um para produzir os efeitos e outro que aproveitava o
+próprio vetor de entrada para formar a resposta, com base no processamento do
+anterior.
+
+Modelo 2 (Python 3): 234ms. Muito bom. Memória, medianamente ruim. Utilizava
+duas linhas. Uma para produzir um processamento preliminar e outro que produzia
+a resposta, ambas utilizando "list comprehension".
+
+Menor tempo em 214ms. Concentração, em forma de montanha irregular, entre 219 e
+277ms. Após, uma gramínea baixa, um pouco falhada, até 328ms, última barrinha em
+um gráfico que ía até pouco mais de 330ms.
+
