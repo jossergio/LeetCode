@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi que
+minha ideia era idêntica à primeira da plataforma que, considero, a mais simples
+e, também, a mais eficiente.
+
+Em Python 3. Mas não foram utilizados recursos próprios da linguagem. Poderia
+ser qualquer uma.
+
+405ms. Mediano.
+
+Memória, mediana.
+
+Menor tempo em 354ms. Concentração, em forma de montanha irregular, entre 373 e
+419ms, havendo pequenos picos após isso, tipo serra, com a última barrinha em
+479ms, em um gráfico que ía até pouco mais que isso.
+
