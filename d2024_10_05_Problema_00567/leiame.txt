@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 11/02/2022, que reapareceu em 04/02/2023 e que eu
+tinha refeito em dois modelos. Inicialmente, repostei o de menor tempo, mas
+estava com uma nova ideia, que, após um pequeno errinho, passou.
+
+Esse errinho foi por não ter imaginado que a plataforma fosse ter um teste
+"invertido", onde o conteúdo viria maior que o conteiner. Os modelos anteriores
+não precisavam considerar isso, pelas suas próprias lógicas.
+
+Modelo 1 (Python 3): 43ms. Excelente, quase top. Memória, ruim. Era a
+respostagem de modelo anterior com menor tempo. E ficou um pouco mais rapidinho.
+Utilizava dicionários e alguns recursos simples de Python. Nada fantástico e que
+não pudesse ser imitado em outras linguagens.
+
+Modelo 2 (Python 3): 53ms. Muito bom. Memória, ruim. Era uma variação do modelo
+anterior, porém, utilizando adaptação para listas. Acho que o tempo foi questão
+da plataforma, pois, acho, deveria ter ficado melhor.
+
+Menor tempo em 36ms. Concentração, em forma de montanha bem elevada, entre 36 e
+128ms, havendo uma gramínea, após isso, falhada, e esboçando pontos de
+concentração em algumas partes. A última postagem do gráfico que eu consegui ver
+foi em 4357ms, mas, nessa região, apesar de haver barrinhas anteriores e
+posteriores, elas não ficavam clicáveis. O gráfico encerrava um pouco depois
+disso.
+
+Mesmo em Python, não vi forma de ficar em linha única, pois dependendia de um
+processamento preliminar.
+
