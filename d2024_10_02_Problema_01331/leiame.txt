@@ -25,3 +25,24 @@ Menor tempo em 214ms. Concentração, em forma de montanha irregular, entre 219 
 277ms. Após, uma gramínea baixa, um pouco falhada, até 328ms, última barrinha em
 um gráfico que ía até pouco mais de 330ms.
 
+=====
+Em 05/10/2024, fiz um modelo em Rust.
+
+Era a tradução do primeiro modelo de Python, pois o segundo era no formato para
+linha única (apesar de conter duas).
+
+Após postar, resolvi fazer uma pequena alteração para aproveitar o próprio nome
+da variável de entrada, pois, na versão em Pytho, era a própria variável de
+entrada que era utilizada para processamento e retorno.
+
+Modelo 3 (Rust): 19ms. Mediano. Memória, mediana.
+
+Modelo 4 (Rust): 19ms. Mediano. Memória, medianamente ruim. Era o mesmo modelo
+anterior, mas sombreava a variável de entrada para utilizá-la para processar e
+para resposta.
+
+Menor tempo, bem isolado, em 4ms. Houve barrinhas em 7 e entre 9 e 34ms,
+formando uma montanha irregular, em um gráfico que ía até perto de 50ms.
+
+Observar as postagens dos demais tem sido um ótimo canal de estudos.
+
