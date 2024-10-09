@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, uma lógica, utilizando pilha. Após postar, e vendo a ideia da
+plataforma e dos demais participantes, vi que haveria uma forma mais simples,
+sem utilizar pilha, somente acumuladores.
+
+Em C++, para utilizar recursos da linguagem.
+
+3ms. Mediano.
+
+Memória, mediana.
+
+Muitos em 0ms, com um código de ideia similar à da plataforma. Segunda barra em
+3ms, com uma ideia similar. Pequenas barrinhas em 1 e 2ms, em um gráfico que ía
+até 12ms.
+
