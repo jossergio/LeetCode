@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma apresentava três soluções, que eu nem olhei. Mas segui algumas
+dicas que eram apresentados no problema.
+
+Após postar, vi que era similar à primeira, com um pequeno ajuste que considero,
+inclusive, uma otimização.
+
+Após postar, também, vendo as postagens dos demais, resolvi enxugar o código,
+ficando um pouco como a ideia da plataforma, mas ainda considero otimziado.
+
+Em Python, para aproveitar simplificades da linguagem.
+
+Modelo 1 (Python 3): 41ms. Medianamente bom. Memória, ruim. Consistia em um laço
+simples, com uma condição genérica, que fazia verificações internas de estados
+até chegar a um ponto de saída (ou de não ser mais necessário o laço).
+
+Modelo 2 (Python 3): 51ms. Medianamente ruim. Memória, mediana. Menos linhas. E
+o teste era específico. Mas não checava antes de modificar, pois a própria
+modificação é responsável por fazer testes, também.
+
+Menor tempo em 18ms, relativamente isolado. Era baseado na ideia segunda da
+plataforma, como outros de tempo próximo (utilizavam uma pilha). Concentração,
+em forma de montanha, entre 26 e 59ms, havendo uma gramínea contínua e rasteira
+após isso, com a última barrinha em 90ms, em um gráfico que ía até 100ms.
+
