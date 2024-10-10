@@ -16,3 +16,13 @@ Muitos em 0ms, com um código de ideia similar à da plataforma. Segunda barra e
 3ms, com uma ideia similar. Pequenas barrinhas em 1 e 2ms, em um gráfico que ía
 até 12ms.
 
+=======
+Em 10/10/2024, resolvi fazer uma versão em Rust.
+
+Utilizei a ideia "matemática", mais simples, sem utilização de estruturas
+robustas, como pilha, como utilizei no original.
+
+0ms. Todos foram nesse tempo, em um gráfico que ía até 10ms. O código mostrado
+como exemplo das postagens dos demais utilizava uma estruturação de pilha, com
+match sendo utilizado de uma forma bem interessante.
+
