@@ -24,3 +24,23 @@ plataforma, como outros de tempo próximo (utilizavam uma pilha). Concentração
 em forma de montanha, entre 26 e 59ms, havendo uma gramínea contínua e rasteira
 após isso, com a última barrinha em 90ms, em um gráfico que ía até 100ms.
 
+=====
+Em 10/10/2024, fiz um modelo em Rust.
+
+Não foi baseado nas postagens anteriores, pois abusaram de recursos de Python,
+além de serem considerados lentos os algoritmos utilizados.
+
+Ficou mais parecido com o segundo modelo da plataforma. Porém, utilizei ideias
+de recursos que já tinha visto quando estudando a linguagem e vendo utilização
+em postagens dos demais participantes na própria plataforma.
+
+0ms. Melhor, impossível.
+
+Memória, quase excelente.
+
+Grande maioria em 0ms. Algumas barras bem menores até 8ms, em um gráfico que ía
+até 18ms.
+
+Os modelos dos demais não eram bem evolutivos. O meu ficou bem simples. Mais
+simples que os demais, inclusive o que era mostrado em 0ms.
+
