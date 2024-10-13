@@ -15,3 +15,20 @@ Menor tempo em 354ms. Concentração, em forma de montanha irregular, entre 373 
 419ms, havendo pequenos picos após isso, tipo serra, com a última barrinha em
 479ms, em um gráfico que ía até pouco mais que isso.
 
+=====
+Em 13/10/2024, fiz um modelo em Rust.
+
+Basicamente, era uma tradução do modelo postado em Python 3.
+
+10ms. Mediano.
+
+Memória, muito ruim de horrível.
+
+Houve 0ms. O gráfico era ondulado e a última barra era em 17ms, com o limite um
+pouco depois de 25ms.
+
+Não vi coisas extraordinárias em 0ms. Alguns códigos eram bem simples e
+precisos, nos demais tempos. Outros complexos. E outros demonstravam uso de
+alguns recursos interessantes da linguagem.
+
+
