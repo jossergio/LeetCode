@@ -27,3 +27,21 @@ disso.
 Mesmo em Python, não vi forma de ficar em linha única, pois dependendia de um
 processamento preliminar.
 
+=====
+Em 13/10/2024, fiz um modelo em Rust.
+
+Basicamente, era a tradução de modelo 2, acima.
+
+1ms. Quase excelente.
+
+Memória, medianamente boa.
+
+Uma concentração, com pico, entre 0 e 4ms. Após isso, uma gramínea rala, bem
+espalhada, até 307ms, última barrinha em um gráfico que ía até pouco mais de
+400ms.
+
+O código em 0ms era um pouco parecido com o meu, apesar de eu considerar o meu
+um pouco mais elegante.
+
+Tou dominando bem o Rust.
+
