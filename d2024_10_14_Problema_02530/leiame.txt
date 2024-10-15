@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia e vi as dicas da plataforma, que eram bem similares à minha.
+
+Após postar, vi que minha soluão era idêntica à da plataforma, com pequenos
+ajustes, somente, na organização do código.
+
+Em C++.
+
+198ms. Mediano.
+
+Memória, ruim.
+
+Menor tempo em 100ms, utilizando macetes de IO e um código horrível, complexo e
+sem noção. Concentração, em forma de montanha irregular, entre 177 e 219ms, com
+alguns pequenos picos antes e pequenas barrinhas espelhadas depois, até 459ms,
+última barrinha em um gráfico que ía até pouco mais que isso.
+
