@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Não havia forma de fazer se não fosse pelo computador. Um conjunto lógico bem
+interessante.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei. Após postar, vi
+que minha ideia era algo parecido com as ideias 2 e 3 da plataforma, apesar de
+a minha ter consumido mais memória. A ideia 3 da plataforma era, até, uma
+otimização da segunda. Então, a minha era similar à 2, sem muita otimização.
+
+Comecei a raciocinar algo como a ideia 4, que era bem ótima, especialmente em
+utilização de memória. Mas não cheguei a implementar, por estar seguindo um
+caminho um pouco diferente da ideial geral e acabei fazendo outro, com uma ideia
+mais braçal.
+
+Após um errinho, por não considerar que precisaria de dois índices, pela forma
+como estava implementando, passou.
+
+Em C++, pois tenho mais base e menos dificuldade na sintaxe. Também poderia ter
+sido em Python, mas seria mais lento.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Imensa maioria em 0ms (com um código bem simplório e extenso). Alguns poucos em
+2ms (com um código tipo força bruta estilo o primeiro modelo da plataforma) e
+menos ainda em 1ms (com um código também simplório e extenso), em um gráfico que
+ía até 12ms.
+
