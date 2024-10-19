@@ -1,0 +1,40 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após um errinho, por não interpretar direito um ponto (precisava interver cada
+iteração e não somente inverter valores), passou.
+
+Após postar, e antes de registrar, tive a ideia de fazer uma versão em Rust, já
+utilizando alguns conceitos avançados da linguagem. Em seguida, vi que não
+precisaria utilizar uma função adicional, fazendo um trabalho secundário
+diretamente na função map. Então, fiz um segundo modelo em Rust.
+
+Também após postar, vi que meu modelo era uma otimização do modelo 1 da
+plataforma, ao dispensar de fazer todas as iterações quando já fossem
+suficientes os valores para uma resposta.
+
+Os modelos dois e três da plataforma eram com uma ideia com um pouco de lógica,
+diferenciando-se por o modelo dois ser recursivo. O quarto modelo utilizava um
+sistema de matemática binária (manipulação de bits), que eu não tinha a menor
+ideia de como fazer ou jamais imaginaria.
+
+
+Modelo 1 (C++): 15ms. Mediano. Memória, mediana.
+
+Modelo 2 (Rust): 15ms. Medianamente ruim. Memória, bem ruim. Basicamente, era
+uma tradução do primeiro modelo, porém, utilizando recursos dialéticos de Rust.
+
+Modelo 3 (Rust): 19ms. Medianamente ruim. Memória, bem ruim. Era um ajuste do
+modelo anterior, pela retirada de uma função de conversão de iterador, fazendo
+diretamente na função de iteração do processamento.
+
+Em C++, a grande maioria em 0ms, com uma lógica de manupulação de bits em um
+algoritmo recursivo com a própria função-problema. Barras altinhas em 2 e 3ms e
+uma gramínea, inicialmente bem consistente e com um esboço de que poderia formar
+maiores, que vai ficando rala até perto do final do gráfico que ía até pouco
+mais de 250ms, local da última barrinha.
+
+Em Rust, praticamente todos em 0ms e umas barras pequenas em 25 e 37ms, e um
+gráfico que ía até pouco mais de 45ms.
+
