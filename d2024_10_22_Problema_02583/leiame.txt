@@ -1,0 +1,45 @@
+Direto no LeetCode. Poderia ter sido pelo celular.
+
+A plataforma me aprentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, um por não utilizar o mesmo tipo de dados ao ordenar um
+vetor na função de comparação (long long x int; são compatíveis, mas...) e
+outro por uma confusão entre 0-begin e 1-begin (descartei o fim; só considerei
+os elementos iniciais e não o, especificamente, do final), passou.
+
+Após postar, vi que minha solução, inicialmente, era parecida com as da
+plataforma, utilizando uma fila para varrer em uma forma interativa, mas
+utilizava um vetor para fazer a chegavem do valor final. Ambas as ideias da
+plataforma utilizavam fila de prioridade (heap), modificando, somente, o sentido
+da leitura (mínimo ou máximo).
+
+Essa ideia do heap acaba sendo bem mais eficiente, mesmo.
+
+Após postar, tive uma ideia de fazer um modelo recursivo, utilizando mapa
+(dicionário) para juntar os valores. Vendo que não ficou muito eficiente,
+fiz um terceiro, modificando, somente, para um dicionário não ordenado.
+
+Interessante é que as dicas do problema possuíam um direcionamento sugestivo
+para modelos semelhantes ao segundo/terceiro. Pelo menos, foi assim que eu
+interpretei.
+
+Modelo 1 (C++): 20ms. Muito excelente. Memória, horrível. Utilizava uma fila,
+para formar uma varredura interativa e, ao final, jogava em um vetor, ordenava
+e obtinha a posição da resposta.
+
+Modelo 2 (C++): 1654ms. Horrível. Memória, horrível. Um modelo recursivo, com
+um mapa como auxiliar. Ao final, construía o vetor, ordenava e obtinha a posição
+da resposta, como no modelo anterior.
+
+Modelo 3 (C++): 835ms. Ruim. Memória, horrível. Era o mesmo anterior, mas
+utilizando dicionário não ordenado (unordered_map) no lugar de map.
+
+Menor tempo em 6ms. Algumas barrinhas meio bagunçadas até 122ms, inícil de uma
+montanha bem elevada, até 176ms, voltanod a ter algumas barrinhas bagunçadas e,
+em seguida, gramíniea bem rala, um esboço ralo de concentração entre 900 e
+1000ms, com a última barrinha em 1220ms, em um gráfico que ía até pouco mais que
+esse valor.
+
+Alguns códigos bem posicionados ou eram semelhantes (alguns bem semelhantes,
+mesmo) ao meu ou utilizava fila de prioridade, mesclados.
+
