@@ -1,0 +1,40 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Foi-me um trabalho muito braçal, pois não quis fazer redundância de
+processamento, e acabei fazendo algumas redundâncias em "if's". O código ficou
+extenso, difícil de depurar.
+
+Utilizei recursividade da própria função do problema.
+
+Nas soluções da plataforma, as duas primeiras era com processamento redundante,
+fazendo dois ciclos de varredura, situação que desejei evitar no meu modelo.
+
+A terceira fazia um processamento inicial para fazer as estruturas inicias
+ficarem em uma forma similar. Depois, fazia um processamento mais objetivo.
+
+Após dois errinhos e apanhar um bocado, passou. A dificuldade foi grande pela
+ideia de evitar processar duas vezes.
+
+Em C++, pelo domínio da linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, ruim
+
+Maioria, não tão grande, em 0ms. Segunda colocada em 3ms. Algumas barrinhas
+menores até 6ms, em um gráfico que ía até 16ms.
+
+O código mostrado em 0ms era com processamento redundante, bem simples, conforme
+eu idealizei e desisti justamente por essa condição. Só não foi igual ao da
+plataforma e a minha ideia porque utilizava uma função auxiliar, não sei para
+quê, pois fazia o mesmo papel se fosse recursivo na própria função do problema.
+
+Outros pelo gráfico pareciam cópia de modelos da plataforma.
+
+Ainda pensei em fazer um modo interativo, com a mesma sistemática de não
+processar duas vezes. No final, nem de forma simples, mesmo com redundância de
+ciclos. Fica para uma outra oportunidade. Inclusive, postar com redundância de
+processamento.
+
