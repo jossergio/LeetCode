@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Era o problema do dia anterior, 26/10/2024, que eu tentei, de todas as formas,
+fazer um modelo.
+
+A plataforma me apresentava cinco soluções, que eu nem olhei. Após postar, nem
+consegui ver com qual meu modelo se parecia, de tão complexo, apesar de que, de
+certo modo, eram pequenos ajustes ou implementações de uma ideia geral.
+
+No dia seguinte, fiz um modelo, com um pequeno ajuste do que eu tinha deixado
+para lá, por não encontrar o detalhe que fizesse resolver. Após um errinho bobo
+e um estouro de tempo, passou. Tinha ficado muito encucado por não ter resolvido
+esse problema.
+
+O estouro de tempo foi resolvido com uma ordenação, que acabou deixando o código
+menor, inclusive. No lugar de ficar procurando o máximo a cada iteração, a ordem
+o deixava já no início de um vetor, o que facilitava a busca, com o segundo
+colocado, de interesse para a solução, na segunda posição, se existisse, ou
+seria considerado nulo/zero ou inexistente mesmo, caso não.
+
+Foi-me muito trabalhoso.
+
+Em C++.
+
+749ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Concentração em forma de montanha com um grande pico, entre 0 e 50ms. Sim, houve
+0ms. Após isso, uma gramínea bem consistente, levemente ondulada e com
+pouquíssimas falhas até 1763ms, última barrinha em um gráfico que ía até pouco
+mais que isso.
+
