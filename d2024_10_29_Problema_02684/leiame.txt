@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após postar, posso dizer que minha ideia era baseada na ideia da utilizada no
+segundo modelo da plataforma.
+
+Passou de primeira.
+
+Em C++.
+
+9ms. Quase excelente. Talvez, se tivesse utilizado algumas variáveis para
+guardar dimensões, fizesse um tempo melhor.
+
+Memória, mediana.
+
+Ainda pensei em fazer outros modelos e ajustes. Mas deixei para lá.
+
+Houve 0ms, com uma ideia, bem modificada, da quarta da plataforma. Maior barra
+em 12ms e a segunda em 14. Gráfico bem irregular, com vários pontos de falha,
+até 139ms, última barrinha em um gráfico que ía até cerca de 150ms.
+
