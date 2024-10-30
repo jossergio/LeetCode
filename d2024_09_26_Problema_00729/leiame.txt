@@ -19,3 +19,15 @@ Menor tempo em 36ms. Menor barra em 36ms. Até 218ms, barrinhas, em forma de
 gramínea bem rasteira, com uma concentração das maiores entre 50 e 125ms, em
 forma de montanha, com um leve platô, rasteiro, na parte direita.
 
+=====
+Em 30/10/2024, fiz um modelo em Rust.
+
+Basicamente, uma tradução, do modelo em C++.
+
+16ms. Mediano.
+
+Memória, ruim.
+
+Só vi uma única barra em 10ms, com um código bem similar (ou bem idêntico) ao
+meu. O gráfico ía até 20ms.
+
