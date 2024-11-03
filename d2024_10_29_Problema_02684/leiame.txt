@@ -20,3 +20,23 @@ Houve 0ms, com uma ideia, bem modificada, da quarta da plataforma. Maior barra
 em 12ms e a segunda em 14. Gráfico bem irregular, com vários pontos de falha,
 até 139ms, última barrinha em um gráfico que ía até cerca de 150ms.
 
+======
+Em 03/11/2024, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em C++.
+
+3ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Maioria em 0ms. Uma tendência em declive, começando a falhar mais par ao fim,
+apesar de a barra em 3ms ser a segunda em altura e a em 4ms a terceira, até
+39ms, última barrinha em um gráfico que ía até pouco mais de 45ms.
+
+Nenhum código, dos demais participante, dos que eu vi, serviu para incrementar
+o nível em Rust. Utilizavam, somente, recursos básicos e, em alguns momentos,
+recursos avançados só por utilizar, vindo a complicar o código mais que ajudar,
+pela minha interpretação.
+
+No meu, ainda fiz uma utilização de closure.
+
