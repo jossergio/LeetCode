@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era parecida com a primeira da plataforma,
+apesar de ter sido estruturado de maneira um pouco diferente. Interessante é que
+havia uma certa falha no meu código, mas que, depois, ao notar, vi que Python
+acaba tratando da mesma maneira. A falha: não havia parâmetro para uma divisão
+(split) de string, onde deveria ser um espaço em branco. Mas a linguagem
+interpreta a falta de parâmetros como espaço em branco e não como separar tudo.
+
+A segunda ideia da plataforma era bem interessante, especialmente em relação a
+poupar memória.
+
+Não tive outras ideias.
+
+Em Python.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Todo mundo em 0ms, apesar de alguns esboços de barras em 1 e 2ms, em um gráfico
+que ía até 12ms. O de 2ms, tirando uma ordem de disposição de estrutura, era
+idêntico ao meu.
+
