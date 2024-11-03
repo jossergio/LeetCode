@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que a segunda ideia da plataforma era uma ideia bem
+interessante e simples que poderia ser adaptado para reduzir o código à famosa
+"linha única" com Python. Então, fiz um segundo modelo.
+
+Mas a minha ideia primeira, além de um código complexo, não tinha similaridade
+alguma com às da plataforma.
+
+Modelo 1 (Python 3): 0ms. Melhor, impossível. Memória, medianamente boa. Era um
+código bem complexo. Não tanto como a terceira ideia da plataforma.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, mediana. Utilizava uma
+única linha.
+
+Todo mundo em 0ms, mas umas leves barrinhas em 1 e em 2ms, em um gráfico que ía
+até 12ms.
+
+A ideia em 1ms era bem similar à minha segunda ideia, com uma linha única. Mas
+utilizava um operador "mais Python" de ser, na comparação.
+
