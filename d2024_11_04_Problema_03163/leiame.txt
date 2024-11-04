@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vendo as postagens dos demais, vi uma forma que reduziria o tamanho
+do código. Então, fiz um segundo modelo.
+
+Poderia, ainda, simplifiar um pouco mais. Mas resolvi deixar assim.
+
+Modelo 1 (Python 3): 286ms. Medianamente ruim. Memória, muito ruim. Utilizava
+uma agregação de listas, para ir acumulando e formar uma resposta, ao final.
+
+Modelo 2 (Python 3): 235ms. Mediano. Memória, ruim. Uma modificação do anterior,
+já acumulando os valores e uma etapa só, juntando ao final.
+
+O menor tempo foi em 98ms, com um código não tão especial. Não se pode falar em
+concentração, pois o gráfico era bastante falhado, com barras médias e altas de
+forma alternada, vindo a ficar mais escasso depois de 1/4, com a última barra em
+1342ms, em um gráfico que ía até pouco mais que isso.
+
