@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era um pouco similar à segunda da plataforma,
+mas considero a minha um pouco complexa e utilizando mais memória. Porém,
+considero mais eficiente.
+
+Fiz, direto, em Rust. Se fosse fazer pelo celular, não teria condições e teria
+feito em C++, mesmo. Raciocinei em C++ e fui traduzindo e interpretando, porém,
+utilizando estruturas de Rust. De toda forma, passou de primeira por utilizar
+o modelo novo da plataforma, que pode fazer mais de um teste por problema, pois
+eu tinha invertido um operador de deslocamento quando codificando e em alguns
+testes isso seria irrelevante.
+
+Em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, top dos tops.
+
+A plataforma não tinha postagens suficientes para formar um gráfico. Então, não
+houve como fazer uma comparação.
+
