@@ -4,3 +4,18 @@ Foi o mesmo que eu fiz avulso em 30/04/2022. Só fiz reenviar, pelo celular.
 
 Memória, na mesma.
 
+=====
+Em 10/11/2024, fiz um modelo em Rust.
+
+Inicialmente, pensei em traduzir. Porém, resolvi fazer uma implementaçao sem
+utilizar dessa consulta, apesar de ter verificado, no meio do caminho, para ver
+porque meu raciocínio não estava seguindo. De toda forma, foi como se fosse uma
+implementação nova.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Não houve como fazer uma avalidação do gráfico, pois foram poucas postagens,
+nessa linguagem, e a plataforma não gera quando não há postagens suficientes.
+
