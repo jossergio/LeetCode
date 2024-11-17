@@ -17,3 +17,18 @@ Memoria, medianamente ruim, no final do gráfico.
 
 O gráfico ía até 11ms. Mas o maior tempo era 3ms. Tudo similar à da plataforma.
 
+=====
+Em 17/11/2024, fiz um modelo em Rust.
+
+Vi que precisaria de uma certa lógica no cálculo. Então, resolvi olhar a
+postagem anterior, para não perder tempo.
+
+Apesar de ter sido uma tradução, foi uma tradução bem estilo Rust de ser.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Não houve formação de gráfico, pelo baixo engajamento do problema em postagens
+nessa linguagem.
+
