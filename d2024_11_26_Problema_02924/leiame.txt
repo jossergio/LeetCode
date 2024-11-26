@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Fiz em Python, na tentativa de direcionar para um código curto, pelas estruturas
+disponíveis na linguagem, mas não consegui deixar com uma linha única.
+
+Após postar o primeiro modelo, tive outras ideias, apesar de todas direcionarem
+para uma mesma base.
+
+Modelo 1 (Python 3): 10ms. Mediano. Memória, ruim. Criava um conjunto (set) e ía
+removendo valores conforme as definições do problema. O resultado ficava,
+praticamente, pronto.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, ruim. Fazia uma certa
+inversão, criando o mesmo conjunto completo e subtraindo (diferença) com um
+conjunto doa valores encontrados epla definição do problema.
+
+Modelo 3 (Python 3): 10ms. Mediano. Memória, ruim. Usava, somente, uma lista,
+aplicando um filtro nos valores ond os itens eram, justamente, a base para a
+resposta.
+
+Modelo 4 (Python 3): 4ms. Quase excelente. Memória, ruim. Uma tentativa de usar
+poucas linhas. No caso, ainda tive que usar duas, pois precisaria de uma
+variável auxiliar.
+
+Um gráfico bem irregular. Inicialmente, com alguma concentração, que vai
+diminuindo tanto em amplitude como em quantidade. Última barrinha em 38ms, em um
+gráfico que ía até pouco mais de 45ms.
+
