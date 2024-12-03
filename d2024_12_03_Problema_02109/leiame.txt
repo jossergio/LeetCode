@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, por uma situação que eu imaginava mas não considerei, não sei o
+motivo, mas tinha em mente que algum dos testes traria, passou.
+
+Após postar, posso dizer que minha ideia era semelhante à primeira da
+plataforma. Essa ideia utilizava funções embutidas de linguagens. A outra era
+mais complexa.
+
+Em Python 3, para aproveitar recursos da linguagem.
+
+38ms. Excelente.
+
+Memória, medianamente ruim.
+
+O gráfico parecia um serrote, alternando barras grandes e pequenas, entre 27,
+menor tempo, e 199ms, formando três pequenas expressões esboçando montanhas
+nesse intervalo. Havia um deserto com pouquíssimas barrinhas até 1006ms, última
+barrinha em um gráfico que ía até pouco mais que isso.
+
