@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Passou de primeira.
+
+Após postar, posso dizer que minha ideia é bem semelhante à terceira da
+plataforma.
+
+Em Python 3, para aproveitar recursos da linguagem.
+
+0ms. Melhor impossível.
+
+Memória, muito ruim.
+
+Não houve gráfico. A plataforma informava que houve muito pouca postagem nessa
+linguagem.
+
