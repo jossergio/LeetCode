@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, baseada em uma lógica, que passou de primeira.
+
+Após postar, vi que minha solução aparenta ser mais simples. Pelo menos, em
+número de linhas, apesar de que a solução da plataforma aparenta ter uma
+redundância de código. É um pouco intuitiva e tem sua simplicidade, que eu
+poderia ter explorado, também.
+
+Em Python 3, pois minha ideia se aproveitava de recursos dessa linguagem.
+
+81ms. Ruim.
+
+Memória, horrível.
+
+Menor tempo em 28ms, com um código que considero laço dentro de laço. Ou seja,
+ruim. Muitos eram assim. Concentração, em forma de uma montanha de pico bem
+acentuado, entre 28 e 180ms. Uma gramínea bem rasteira e rala, com um certo
+esboço de concentração e pico em 475ms, com a última barrinha em 9601ms, em um
+gráfico que ía até pouco mais que isso.
+
