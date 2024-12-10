@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+a minha ideia era baseada na primeira da plataforma. Porém, considero a minha
+bem mais simples.
+
+Após postar, também, vi que tinha deixado um trecho de código para depuração.
+Então, fiz um segundo modelo, simplesmente sem isso.
+
+Em Python, para aproveitar facilidades da linguagem.
+
+Modelo 1 (Python 3): 23ms. Mediano. Memória, muito ruim.
+
+Modelo 2 (Python 3): 17ms. Mediano. Memória, ruim. Era o mesmo do anterior,
+porém sem o trecho de depuração que eu tinha esquecido.
+
+Menor tempo em 1ms, com um código bem complexo, extenso e, pelo que vi,
+redundante. Gráfico bastante irregular, com picos espaçados entre 3 e 27ms, em
+um trecho de concentração, com diversas barrinhas espalhadas até 163ms, em um
+gráfico que ía até um pouco mais que esse tempo.
+
