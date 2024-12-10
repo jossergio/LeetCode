@@ -21,3 +21,18 @@ acentuado, entre 28 e 180ms. Uma gramínea bem rasteira e rala, com um certo
 esboço de concentração e pico em 475ms, com a última barrinha em 9601ms, em um
 gráfico que ía até pouco mais que isso.
 
+=====
+Em 10/12/2024, fiz um modelo em Rust.
+
+Basicamente, uma tradução.
+
+52ms. Ruim.
+
+Memória, mediana.
+
+Muitos em 0ms. Mas não era a barra mais alta. A mais alta fomiem 19ms. Uma certa
+concentração até 49ms, com uma depressão um entre o 0ms e 0 19ms, como se
+formassem duas montahas (a do 0ms iniciaria, na imaginação, antes do gráfico).
+Algumas pequenas barrinhas, bem espalhadas, até 947ms, última barrinha em um
+gráfico que ía até pouco mais que isso.
+
