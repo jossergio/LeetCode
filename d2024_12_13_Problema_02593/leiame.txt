@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após um estouro de tempo, refiz, ajustando a minha ideia, e passou.
+
+Após postar, vi que a segunda ideia da plataforma era similar a uma que
+imaginei, porém, considerei uma implementação complicada, pois envolvia,
+inclusive, uma função para regra de ordenação.
+
+Então, fiz um modelo utilizando mapa não ordenado, que foi a que estourou o
+tempo, porém, varrendo todas as possibilidades, em um laço, verificando uma
+situação. Não entendi o porque ter estourado, pois era um laço simples.
+
+Refiz utilizando um mapa (ordenado) e transformei o laço "gitante", apesar de
+simples, em um laço que varria esse mapa e, consequentemente, tornava com menos
+iterações. Ficou com alguns resquícios, desnecessários, do modelo anterior.
+
+Antes de registrar, retirei esses resquícios e fiz um segundo modelo que foi
+aceito.
+
+Modelo 1 (C++): 457ms. Ruim. Memória, horrível.
+
+Modelo 2 (C++): 462ms. Ruim. Memória, horrível. Era, somente, um ajuste do
+modelo anterior, retirando resquícios de um modelo que estourou o tempo.
+
+Menor tempo, relativamente isolado, em 0ms. O gráfico era bem irregular, apesar
+de ter uma estruturação de montanhas falhadas entre 47 e 71ms e outra entre 115
+e 154ms, havendo barras médias e pequenas, espaçadas, nesse intervalo e depois,
+estando a última barrinha em 621ms, em um gráfico que ía até pouco mais que
+isso.
+
