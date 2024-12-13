@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei, apesar de ter
+olhado as dicas e vi que estaria em uma direção ideal.
+
+Após postar, apesar de utilizar estruturas similares à terceira ideia da
+plataforma, a minha ideia não era tão parecida nem com essa.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A maioria em 0ms. Algumas barras médias e pequenas até 11ms e bem rasteiras até
+pouco mais de 70ms (não consegui precisar, pois as barrinhas não se tornavam
+"clicáveis", nessa região), em um gráfico que ía até pouco mais de 80ms.
+
