@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a estruturação de minha ideia é bem similar à primeira da
+plataforma, alternado, somente, na forma de implementação de uma função
+auxiliar, existente nas duas ideias.
+
+Em C++.
+
+1980ms. Muito ruim.
+
+Memória, muito excelente.
+
+Menor tempo em 5ms. Concentração, em forma de duas montanhas bem destacadas e
+com um vale, semi-raso, entre 5 e 300ms. Pequenas barrinhas, algumas
+maiorzinhas, em alguns momentos falhadas, até 1452ms, última barrinha em um
+gráfico que ía até pouco mais que esse valor.
+
