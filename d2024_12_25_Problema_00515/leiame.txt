@@ -14,3 +14,7 @@ A grande maioria em 0ms. Algumas barrinhas até 3ms, em um gráfico que ía até
 
 A postagem anterior tinha ficado em 3ms.
 
+Obs.: tive que alterar esse arquivo para adicionar um commit, pois estava tendo
+problemas com o ammend, do git, que não me permitia atualizar o título. Tinha
+registrado, no commit, 15/12/2024, apesar de estar correto no nome da pasta.
+
