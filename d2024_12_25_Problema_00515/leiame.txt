@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 24/10/2023, que eu havia feito, primeiro, em C++ e,
+em seguida, fiz dois modelos em GoLang. Só fiz repostar o modelo em C++.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A grande maioria em 0ms. Algumas barrinhas até 3ms, em um gráfico que ía até
+13ms.
+
+A postagem anterior tinha ficado em 3ms.
+
