@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, posso dizer que minha ideia é bem similar à segunda da plataforma,
+alterando, somente, a forma de implementação.
+
+Em C++.
+
+3ms. Medianamente ruim.
+
+Memória, ruim.
+
+A maioria em 0ms, mostrando um algoritmo similar à primeira ideia da plataforma,
+que era baseado em força bruta (havia um laço dentro de outro). Houve barras
+médias e pequenas até 7ms, em um gráfico que ía até 16ms.
+
