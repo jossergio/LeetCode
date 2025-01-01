@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, passou.
+
+Após postar, vi que  minha solução era uma variação da segunda da plataforma.
+Considero a minha mais elegante.
+
+Em C++.
+
+0ms. Melhor impossível.
+
+Memória, excelente.
+
+A maior barra era em 0ms. Houve outras menores até 8ms. Após isso, uma gramínea
+bem leve, a ponto de não permitir visualizar códigos, até cerca de 46ms, em um
+gráfico que ía até cerca de 55ms.
+
