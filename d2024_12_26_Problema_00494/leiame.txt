@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após postar, vi que a minha era bem similar à primeira da plataforma.
+
+As outras três eram um bom estudo sobre programação dinâmica e/ou memoization.
+
+Após postar, também, fiz uma pequena modificação, para testar, alterando uma
+variável que tinha escopo de parâmetro por referência, para conter o resultado,
+por uma de escopo global.
+
+Modelo 1 (C++): 763ms. Medianamente ruim. Memória, excelente.
+
+Modelo 2 (C++): 792ms. Medianamente ruim. Memória, quase excelente. Era o mesmo
+modelo anterior. Porém, tirava uma variável parametrizada por referência e a
+tornava global.
+
+Maior barra em 0ms. Mas houve outras barras bem elevadas até 19ms. Todo a
+área do gráfico continha barrinhas, em forma de leve gramínea, havendo algumas
+pequenas elevações, esboços de montanhas, espaçadas, até 972ms, última barriha
+em um gráfico que ía até pouco mais que esse valor.
+
