@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi dicas da plataforma e isso me auxiliou a formar uma ideia.
+
+Então, minha ideia era um pouco similar à da plataforma. Porém, considero mais
+elegante e mais enxuta.
+
+Vendo as postagens dos demais, vi que poderia economizar um pouco de código se
+utilizasse um espaço a mais em um vetor. Então, fiz um segundo modelo.
+
+Em Python, pela ideia de poucas linhas baseadas nos recursos da linguagem.
+
+Modelo 1 (Python 3): 19ms. Medianamente bom. Memória, medianamente boa.
+
+Modelo 2 (Python 3): 14ms. Excelente. Memória, mediana. Era o mesmo modelo
+anterior, suprimindo linhas de uma comparação (if) pela adição de um elemento
+(unidade) no vetor de trabalho.
+
+Houve, muito isolado, 0ms, em uma barrinha que nem marcava. Concentração, em
+forma de montanha com vários picos, entre 11 e 31ms, havendo algumas barrinhas
+até 41ms, última em um gráfico que ía até pouco mais de 50ms.
+
