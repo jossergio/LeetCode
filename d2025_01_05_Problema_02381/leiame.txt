@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+a ideia geral de ambas eram as mesmas. Porém, minha solução continha um laço a
+mais.
+
+Além disso, meu código era recheado de transformações.
+
+Após um errinho, por uma consideração de módulo de deslocamento, passou.
+
+Em rust, para brincar com a linguagem.
+
+9ms. Horrível.
+
+Memória, horrível.
+
+Houve 0ms. A maioria, com duas barras de mesma altura, entre 3 e 4ms. O maior
+tempo foi em 7ms, última barrinha em um gráfico que ía até pouco mais de 16ms.
+
+Vendo o modelo da plataforma, notei que um leve laço que eu utilizava para
+fazer ajustes poderia ter sido substituído por um cálculo de módulo. Eu tinha
+esse raciocínio. Porém, não utilizei.
+
+Os códigos que eu vi eram todos complicados, especialmente por questões da
+linguagem utilizada.
