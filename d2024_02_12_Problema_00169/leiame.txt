@@ -18,3 +18,29 @@ horrível. Ordenava o vetor e retornava com base em uma lógica para a maioria
 Houve 0ms, isolado, com uma lógica bem interessante. Concentração entre 7 e
 24ms. Após isso, uma gramínea até 38ms. O gráfico ía até pouco mais de 45ms.
 
+=====
+Em 01/01/2024, fiz MODELOS em Rust.
+
+Basicamente, tradução do mais recente, em C++.
+
+Após postar, resolvi ampliar os estudos para "Rustician". Então, fiz mais um
+modelo, que após um problema bobinha, foi ajustado e passou. Em seguida, fiz um
+"enxugamento" desse modelo, reduzindo linhas, aplicando utilização mais direta.
+Basicamente, esses modelos seriam uma tradução do modelo em GoLang, original do
+problema, em 21/02/2022.
+
+UM DETALHE é que esses dois modelos acabaram fincando com uma linha de
+depuração, que esqueci de tirar antes de postar cada um deles. Bobeira.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, muito horrível. Era uma
+ordenação e uma seleção do elemento do meio.
+
+Modelo 4 (Rust): 3ms. Ruim. Memória, medianamente boa. Utilizava um HashMap,
+similar ao modelo inicial do problema, feito em GoLang.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim.
+Basicamente, era um enxugamento do modelo anterior.
+
+A maioria em 0ms. Mas houve barrinhas baixinhas e rasteiras, meio decrescente,
+até 9ms, última em um gráfico que ía até pouco mais de 18ms.
+
