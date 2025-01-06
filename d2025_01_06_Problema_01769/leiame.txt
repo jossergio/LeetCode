@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era diferente das da plataforma. Eu construí um
+conjunto das posições (set) e fiz uma segunda passada, fazendo os cálculos
+necessários para resposta.
+
+Em Rust, direto, para estudar e testar a linguagem.
+
+39ms Nem apareceu no gráfico.
+
+Memória, medianamente ruim.
+
+A maioria em 0ms, onde era mostrado um código bem Rust de ser. Algumas pequenas
+barrinhas, em um total de quatro, pelo gráfico, sendo a última em 20ms, em um
+gráfico que ía até 30ms.
+
+Não houve como fazer um comparativo de tempo, pois não houve quantidade de
+postagem, nessa linguagem, para fazer comparativos.
+
+Ainda pensei em fazer um segundo modelo mais "Rusticiano". Mas fica para uma
+próxima vez.
