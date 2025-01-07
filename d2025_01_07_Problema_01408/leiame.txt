@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi
+que minha ideia era diferente de todas, apesar de poder ser comparada com a
+primeira.
+
+A minha otimizava uma ordem, para dispensar verificações desnecessárias e,
+também, para dispensar checagens posteriores quando encontrava um ponto de
+resposta.
+
+Em Python, para aproveitar funcionalidades da linguagem.
+
+3ms. Medianamente boa.
+
+Memória, medianamente ruim.
+
+Houve 0ms, sendo a segunda barra. A maioria em 3ms, mostrando um algoritmo sem
+otimização alguma e por força bruta total. Houve barras grandes e médias até
+7ms, quando ficou pequenas barrinhas espaçadas, até 26ms, última barrinha em um
+grático que ía até pouco mais de 25ms.
+
+O algoritimo em 0ms era bem interessante, convertendo todas as strings do
+problema em uma única, separada por espaços, e fazendo buscas nessa estrutura,
+simplificando muito e removendo um laço interno, além de estruturar em uma
+list comprehension. Por pouco não permitia linha única.
+
