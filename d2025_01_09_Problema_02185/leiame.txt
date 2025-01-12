@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à segunda da plataforma.
+
+Fiz em Python, para utilizar recursos e uma estruturação de linha única.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+A grande maioria em 0ms. Pequenas barrinhas, até cerca de 14ms, apesar de não
+me permitir clicar. O gráfico ía até cerca de 23ms.
+
+A terceira ideia da plataforma utilizava um conceito de "trie", que preciso
+colocar nas minhas ideias.
