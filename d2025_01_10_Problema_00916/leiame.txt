@@ -1,0 +1,14 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 30/07/2022. Só fiz repostar o último postado.
+
+Tinha feito em GoLang. O primeiro modelo tinha tempo de 91ms. O segundo, e que
+foi o que repostei, 285ms. Como era pelo celular, não vi como repostar o
+anterior. De toda forma, o tempo ficou bom.
+
+Em GoLang.
+
+94ms. Ruim.
+
+Memória, ruim. Bem pior que a postagem anterior. Talvez coisas de atualização
+de compilador.
