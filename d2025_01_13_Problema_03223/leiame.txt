@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma.
+
+Em Python, para aproveitar recursos.
+
+136ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+Menor tempo em 51ms, com um código de uma linha com estruturas que eu não
+conhecia da linguagem. O gráfico ficou com ondulações, esboços de concentração,
+com uma montanha grande entre 123 e 156ms, havendo barras por todo o gráfico,
+sendo a última em 519ms e o final um pouco depois desse valor.
