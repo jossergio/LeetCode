@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três modelos, que eu nem olhei.
+
+Após um errinho, por não ter interpretado direito a ideia geral do problema,
+passou.
+
+Após postar, vi que minha ideia era um pouco parecida com a terceira da
+plataforma, apesar da forma ser bem diferente. Para ela, bastava atingir um
+certo valor. A minha ficava verificando um par formado em dicionários.
+
+Vendo as postagens dos demais, vi que poderia utilizar estruturas diferentes
+para ficar um jeito mais Python de ser. Então, fiz um segundo modelo que, de
+toda forma, é igual ao primeiro, porém, de certo modo, um pouco mais
+organizado.
+
+Modelo 1 (Python 3): 11ms. Mediano. Memória, mediana. Utilizava uma dupla de
+dicionários, em uma passagem única, para ficar verificando o andamento.
+
+Modelo 2 (Python 3): 19ms. Mediano. Memória, horrível. Era o mesmo modelo
+anterior, porém, utilizava zip e tuplas, além de utilizar variáveis de forma
+mais simplificada (expansão), no lugar de índices.
+
+Houve 0ms. Concentração até 20ms, com picos nesse intervalo. Após, barrinhas
+médias e pequenas, espaçadas, até 106ms, em um gráfico que ía até cerca de
+115ms.
+
+Vi um código, em 35ms, com a ideia de linha única, bem interessante. Porém, não
+teria como chegar a essa ideia sozinho e, também, não era um código eficiente,
+pois tinha um efeito de laço dentro de laço de forma implícita e não tão
+evidente.
