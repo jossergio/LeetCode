@@ -29,3 +29,21 @@ Vi um código, em 35ms, com a ideia de linha única, bem interessante. Porém, n
 teria como chegar a essa ideia sozinho e, também, não era um código eficiente,
 pois tinha um efeito de laço dentro de laço de forma implícita e não tão
 evidente.
+
+==============
+Em 16/01/2025, resolvi fazer um modelo em Rust.
+
+Basicamente, uma tradução da postagem mais recente, que utilizava estruturas
+mais robustas de Python.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Grande maioria em 0ms. barrinhas menores, até 10ms, em um gráfico que ía até
+20ms.
+
+O código mostrado em 0ms era bem rusticiano. Uma linha única utilizando, e
+abusando, dos recursos de iteradores. Vou chegar nesse nível.
+
+Ainda pensei em fazer o modelo 1, mais simples. Mas já foi suficiente.
