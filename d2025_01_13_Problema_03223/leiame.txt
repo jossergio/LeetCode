@@ -14,3 +14,25 @@ Menor tempo em 51ms, com um código de uma linha com estruturas que eu não
 conhecia da linguagem. O gráfico ficou com ondulações, esboços de concentração,
 com uma montanha grande entre 123 e 156ms, havendo barras por todo o gráfico,
 sendo a última em 519ms e o final um pouco depois desse valor.
+
+=====
+Em 17/01/2025, fiz um modelo em Rust.
+
+Era, de alguma forma e adaptação, cópia do feito em Python.
+
+Em seguida, fiz um outro modelo, com uma modificação do anterior para ficar
+mais rusticiano.
+
+Modelo 2 (Rust): 42ms. Medianamente ruim. Memória, medianamente boa. Tradução
+do modelo em Python.
+
+Modelo 3 (Rust): 44ms. Medianamente ruim. Memória, medianamente boa. Era um
+pequeno ajuste, utilizando um iterator, para ficar mais rusticiano.
+
+Muitos em 0ms. Concentração até 7ms, com uma segunda grande coluna em 3ms. Em
+seguida, barrinhas pequenas e bem pequenas, com alguns claros e um esboço de
+concentração entre 30 e 51ms, com a última barrinha em 79ms, em um gráfico que
+ía até cerca de 90ms.
+
+Tive outras ideias, com pequeno ajustes, para brincar e estudar a linguagem.
+Mas deixei para lá.
