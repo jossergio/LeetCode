@@ -19,3 +19,25 @@ Memória, medianamente ruim.
 Houve 0ms, com um código bem chulo, tipo força bruta. Houve barrinhas, entre
 altas, médias e pequenas, até 36ms, com a maior em 11ms e uma segunda
 colocada em 7ms, em um gráfico que ía até pouco mais de 45ms.
+
+====
+Em 19/01/2025, fiz um modelo em Rust.
+
+Em princípio, uma tradução do modelo em Python, porém, com a estruturação
+necessária de Rust.
+
+Após um errinho, por não ter prestado atenção na utilização de funções
+internas, passou. O importante não era encontrar, mas onde o encontro
+ocorreria.
+
+4ms. Horrível de ruim.
+
+Memória, medianamente boa.
+
+A maioria em 0ms. Uma descida de barrinhas até 4ms, em um gráfico que ía até
+14ms.
+
+O código em 0ms utilizou funções internas que, inicialmente, pensei em
+utilizar, pois já tinha visto as soluções da plataforma. Porém, cometi uma
+bobeira e pensei mais no estudo da linguagem do que mesmo nas facilidades que
+ela tivesse. Bobeira, mesmo. Mas valeu o estudo da estrutura da linguagem.
