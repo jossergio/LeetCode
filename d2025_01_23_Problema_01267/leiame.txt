@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à segunda da plataforma.
+
+Vendo as ideias em C++ da plataforma, considero código não interessante em
+todos os modelos apresentados, utilizando expressões não indicadas em
+programação profissional.
+
+Em rust, para exercitar.
+
+3ms. Ruim.
+
+Memória, medianamente boa.
+
+Grande maioria em 0ms. Algumas pequenas barrinhas até 4ms, em um gráfico que ía
+até 14ms.
+
+O código em 0ms era bem similar à minha ideia. Porém, considero mais "feio".
