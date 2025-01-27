@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após dois errinhos, o primeiro por, não sei o motivo, fazer uma atualização de
+conjunto durante um laço, e outro pro ter iniciado uma variável com valor que
+não era o correto (apesar de ter pensado direito; um vetor era para ser,
+inicialmente, False; mas botei True), passou.
+
+Após postar, vi que minha ideia não se assemelhava muito às da plataforma.
+
+Em Python, para aproveitar estruturas da linguagem. Exigiu um pouco de
+raciocínio.
+
+51ms. Mediano.
+
+Memória, mediana.
+
+Menor tempo em 7ms, com um código bem parecido com o meu, com pequenas
+alterações, como uso de lista no lugar de conjunto (como eu usei) e outros
+pequenos detalhes. Concentração, em forma de montanha bem acentuada, entre 7 e
+75ms, com barrinhas pequenas e médias após isso e um esboço de concentração
+entre 587 e 655, com a última barrinha em 1926ms, última em um gráfico que ía
+até pouco mais que isso.
+
+Vendo as postagens dos demais e os modelos da plataforma, tive uma outra ideia,
+mas ficará para uma outra oportunidade, se eu estiver com paciência para
+testar, utilizando uma árvore do tipo "trie" com um vetor (como mapa nessa
+árvore) como suporte auxiliar, para formar a estrutura inicial.
