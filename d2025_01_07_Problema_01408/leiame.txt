@@ -24,3 +24,24 @@ problema em uma única, separada por espaços, e fazendo buscas nessa estrutura,
 simplificando muito e removendo um laço interno, além de estruturar em uma
 list comprehension. Por pouco não permitia linha única.
 
+=====
+Em 29/01/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em Python. Ainda pensei em utilizar algumas
+estruturas específicas. Mas não vi forma.
+
+De todo modo, fica para ver as postagens dos demais para estudos.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A maioria em 0ms. Barras decrescentes, menores que a metade da primeira, até
+4ms, última barrinha em um gráico que ía até 14ms.
+
+O código mostrado em 0ms era similar ao meu. Porém, sem otimização. Eu ordenei
+o vetor de entrada, de forma a agilizar a atividade.
+
+Os códigos mais lentos utilizavam trie. Não vi muito o que aprender nas
+postagens dos demais, a não ser que preciso aprender a utilizar funções do tipo
+any, de iterators.
