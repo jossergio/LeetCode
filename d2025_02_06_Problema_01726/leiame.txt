@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era parecida com a terceira da plataforma, mas
+considero a minha um pouco mais complexa, pois criei uma função para fatorial,
+pois havia um conceito de combinação, mas que poderia ser resolvido com um
+cálculo mais simples.
+
+Em Python, para aproveitar facilidades da linguagem.
+
+404ms. Mediano.
+
+Memória, mediana.
+
+Menor tempo, bem isolado, em 224ms, com uma ideia de linha única, mas com uma
+estruturação que não faço ideia. Concentração, em forma de montanha bem
+irregular e bem falhada, entre 283, com uma ideia que era para eu ter
+utilizado, pois era a minha sem utilizar fatorial, e 528ms, havendo pequenas
+barrinhas, bem espaçadas, até 1306ms, última barrinha em um gráfico que ía até
+pouco mais que esse tempo.
