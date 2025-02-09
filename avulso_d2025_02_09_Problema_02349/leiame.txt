@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Era o problema do dia 08/02/2025, que não consegui resolver. Tinha ficado com
+dois estouros de tempo. Iniciei pelo celular.
+
+Lendo as dicas, vi que poderia utilizar outra estrutura. Eu estava organizando
+com uma fila de prioridades, onde eu tinha que ficar fazendo ajustes, com um
+código até complexo, para remover um item, utilizando laços e, temporariamente,
+uma pilha. Esse ajuste demandava um bom tempo.
+
+Nas dicas da plataforma, havia uma sugestão de utilizar um conjunto (set)
+ordenado. Inicialmente, eu tinha ficado cabreiro em utilizar essa estrutura ou
+um vetor, pois achava que ficaria lento em relação a ordenamento. Mas foi o que
+fez minha ideia passar.
+
+E, ainda por cima, reduziu oito linhas efetivas de código.
+
+Concluí pelo notebook.
+
+Em C++, para utilizar recursos.
+
+196ms. Muito ruim.
+
+Memória, ruim.
+
+Menor tempo, bem isolado, em 0ms, com um código bem semelhante ao meu, porém
+utilizando sinalizadores de sistema, apesar de eu julgar o meu mais elegante.
+Concentração em forma de montanha, iniciando bem razinha, em 54ms e indo até
+191ms, com uma barra média.
+
+Ainda pensei em transcrever um dos códigos que tinha ficado lento, pois foi uma
+sistemática bem interessante, para retirar um elemento de uma fila de
+prioridade. Mas, não o fiz.
