@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Inicialmente, pelo celular. Após dois estouros de tempo, percebi que era um
+problema de raciocínio. Então, concluí no notebook.
+
+Consultando as dicas, tive uma ideia para utilizar com um laço simples, apesar
+de que tinha outro em sequência para checar os valores obtidos. Porém, de toda
+forma, ficou O(n) e não O(n * log n), como eu estava raciocinando e estourava O
+tempo. Utilizei e abusei dos conceitos de análise combinatória e um mapa.
+
+Ainda assim, após um errinho, por calcular com i32 e não diretamente como i64,
+como era o tipo da resposta, passou.
+
+No total, três erros.
+
+Em Rust, para exercitar. E olha que exercitei, sim.
+
+Ficou um código pequeno. Abusei de iteradores. Talvez, no futuro, faça,
+inclusive, com menos linhas, encadeando iteradores.
+
+15ms. Mediano.
+
+Memória, EXCELENTE, top dos tops das galáxias.
+
+Menor tempo em 14ms, com um modelo bacana sobre estudos tanto do problema
+quanto da estrutura de Rust. Uma segunda barrinha em 17ms. Em 15 e 16ms, não
+havia barra alguma. O gráfico ía até pouco mais de 25ms.
