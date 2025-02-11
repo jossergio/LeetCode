@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi
+que minha ideia era similar à seguda da plataforma. Mas eu bem que poderia ter
+utilizado algumas funções internas e ter feito o trabalho direto em uma string
+para resposta, no lugar de um vetor e converter ao final. Como pensei,
+incialmente, em uma pilha, mas implementei com um vetor, poderia ter feito esse
+mesmo efeito direto em uma string.
+
+Em C++, pois teria que ter um bom domínio, já que estava no celular.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Grande maioria em 0ms. Mas houve pequenas barrinhas até 4ms, em um gráfico que
+ía até 14ms.
