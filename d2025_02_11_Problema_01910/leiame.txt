@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Para fazer em Rust, optei por deixar para fazer no notebook.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia não era similar às da plataforma. E, de toda
+forma, considero mais elegante.
+
+Como fiz em Rust, ficaram algumas linhas extras por uma questão de "adaptação"
+às limitações impostas por essa linguagem. Se fosse em C++, não haveria
+necessidade dessas linhas extras.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Grande maioria em 0ms. Algumas barrinhas pequenas e decrescentes até 4ms, em um
+gráfico que ía até 14ms.
