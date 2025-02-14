@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Depois de dois errinhos, um por estourar a capacidade de um inteiro e outro por
+de ultrapassar a capacidade de um inteiro longuíssimo (tive que utilizar sem
+sinal), passou. Interessante é que a variável temporária que eu utilziava para
+fazer os cálculos acabou permanecente como inteiro e mesmo assim passou.
+
+Após postar, vi que minha ideia era bem similar à da plataforma. Porém, a
+ideia da plataforma considero melhor implementada, especialmente no início do
+código, quando cria uma fila de prioridade já jogando os valores (preciso me
+lembrar disso vez em quando). A minha ideia utilizava um laço para jogar os
+valores.
+
+Em, C++.
+
+93ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+Houve 0ms. Algumas pequenas barrinhas, em forma de gramínea, bem falhadas logo
+no início, até 75ms, quando iniciava uma concentração, em forma de montanha com
+diversas pontas, até 123ms, quando retornava a ser gramínea, falhada, até
+305ms, última barrinha em um gráfico que ía até pouco mais que esse valor.
+
+Os códigos que vi são com ideia bem parecida. O em 0ms utilizava recursos de
+IO.
