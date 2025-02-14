@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia lembrava a segunda da plataforma, porém era
+um pouco mais eficiente. De cada, utilizava um vetor (o meu utilizava mapa) e
+não mantinha todos os números, descartando excedentes desnecessários e mantendo
+somente os dois necessários. Além disso, eu utilizava funções de heap, de forma
+a manter um trabalho com vetor, enquanto a plataforma utilizava fila de
+prioridade.
+
+Após dois errinhos, por não interpretar direito a disposição de um heap
+implementado diretamente em um vetor, passou.
+
+Em C++.
+
+75ms. Ruim.
+
+Memória, medianamente ruim.
+
+Concentração até 91ms, em forma de uma montanha bem ondulada e com diversos
+picos bem destacados, em forma de barras mais elevadas. Diversas barrinhas
+menores e rasteiras, enchendo todo o gráfico, até 290ms, em um gráfico que ía
+até 300ms.
+
+Essa ideia de guardar em um vetor o maior no lugar de utilizar um mapa com algo
+como um heap ou fila de prioridade foi bem interessante. Foi como o do 0ms
+implementou.
