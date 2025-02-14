@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Vi pelo celular mas resolvi implementar pelo notebook.
+
+A plataforma me apresentava um modelo, que eu nem olhei.
+
+Após postar, vi que a ideia da plataform era similar a uma que eu havia
+imaginado, porém, não percebi forma de tratar os valores zero. A da plataforma
+tinha uma forma para isso, simples, mas que não me foi muito intuitiva.
+
+Minha ideia utilizava um laço a cada inserção. A da plataforma implementava uma
+ideia de acúmulo.
+
+Em C++.
+
+1502ms. Horrível.
+
+Memória, horrível.
+
+Houve 0ms. Concentração, em forma de montanha bem acentuada, entre 3 e 37ms.
+Pequenas barrinhas, bem espalhadas, algumas até grandinhas, até 1438ms, última
+barrinha em um gráfico que ía até um pouco mais que isso.
+
+A ideia em 0ms é bem interessante. É uma melhoria da ideia da plataforma.
