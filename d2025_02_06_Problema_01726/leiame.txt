@@ -19,3 +19,21 @@ irregular e bem falhada, entre 283, com uma ideia que era para eu ter
 utilizado, pois era a minha sem utilizar fatorial, e 528ms, havendo pequenas
 barrinhas, bem espaçadas, até 1306ms, última barrinha em um gráfico que ía até
 pouco mais que esse tempo.
+
+=====
+Em 16/02/2025, fiz um modemo em Rust.
+
+Basicamente, era uma tradução do feito em Python.
+
+Após um errinho, por ter desconfiado que deveria ter utilizado um inteiro de
+maior capacidade, passou.
+
+69ms. Mediano.
+
+Memória, medianamente ruim.
+
+Menor tempo em 40ms, com um código que lembra o meu, porém, abusando de
+estruturas da linguagem. Concentração, em forma de montanha, havendo uma
+depressão antes de retomar para o pico, entre 43 e 94ms. Houve pequenas
+barrinhas, bem espalhadas, após, sendo a última em 381ms, em um gráfico que ía
+até pouco mais que esse valor.
