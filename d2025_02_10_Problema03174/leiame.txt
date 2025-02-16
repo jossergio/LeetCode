@@ -15,3 +15,16 @@ Memória, mediana.
 
 Grande maioria em 0ms. Mas houve pequenas barrinhas até 4ms, em um gráfico que
 ía até 14ms.
+
+=====
+Em 16/02/2025, fiz um modelo em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A grande maioria em 0ms. Houve pequenas barrinhas, decrescentes, entre 1 e 3ms,
+em um gráfico que ía até 18ms.
+
+O exemplo mostrado em 0ms era um pouco redundante. Os demais, tremendos maus
+usos de lógica de programação e de estruturas da linguagem.
