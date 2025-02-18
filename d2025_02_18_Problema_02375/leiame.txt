@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava SEIS soluções. Todas elas com alguma
+característistica bem interessante.
+
+Tive uma ideia, recursiva, que fiz uma forma de otimizar. Passou de primeira.
+
+Não sei como comparar com as da plataforma.
+
+Utilizei um conjunto (set) para checar uso. Mas uma das ideias da plataforma
+utilizava um inteiro, checando os bits. Tenho que pensar mais "nessa caisa".
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Grande maioria em 0ms. Algumas barrinhas pequenas, espalhadas, em alguns
+momentos esboçando concentração, com a última em 71m, em um gráfico que ía até
+cerca de 80ms.
+
+Pensei em fazer logo em Rust. Mas notei que teria alguma dificuldade com a
+sintaxe e C++ estou mais familiarizado.
+
+No geral, as ideias da plataforma formam um bom estudo.
