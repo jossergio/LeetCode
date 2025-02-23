@@ -20,3 +20,28 @@ Memória, ruim.
 Concentração, em forma de montanha com diversos picos, entre 9 e 19ms. Após
 isso, uma gramínea com poucos pontos de falha até 297ms, em um gráfico que ía
 até pouco mais de 300s.
+
+=====
+Em 23/02/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do feito em C++.
+
+Não entendi nada da estrutura da linguagem. Fui tateando, vendo as dicas do
+compilador perante os erros, buscando uma certa informação na documentação até
+passar.
+
+A plataforma estrutura um pouco diferente os modelos de nós de elementos do
+tipo árvore e lista ligada, utilizando componentes como Rc e RefCell juntos.
+
+7ms. Ruim.
+
+Memória, muito boa.
+
+A maioria em 0ms, com um código até extenso, mas otimizado. Uma montanha, a
+partir de 1ms até 9ms, com barras médias (o máximo a cerca da metade do 0ms).
+Diversas barrinhas, bem pequenas, bem espalhadas, até 287ms, última barrinha em
+um gráfico que ía, até perto de 300ms.
+
+Foi-me uma bela tentativa, com suceso, apesar de não entender o próprio código
+que gerei. Mas vamos estudar melhor os tipos do próprio Rust utilizados pela
+plataforma para a definição do código base.
