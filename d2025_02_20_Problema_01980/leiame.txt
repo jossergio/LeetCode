@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+Sem perceber, fiz uma nova postagem. Mas era o problema do dia 16/11/2023, onde
+eu havia feito três modelos de solução. Era uma solução totalmente nova em
+relação às postagens anteriores. Porém, mantendo um pouco o aspecto das duas
+primeiras.
+
+Após postar, vi que minha ideia era uma variação da primeira da plataform.
+Porém, essa não gerava todas as hipóteses e tinha um ponto de saída mais
+rápido.
+
+Em Python.
+
+750ms. Horrível.
+
+Memória, horrível.
+
+A maioria em 0ms, com um algoritmo bem interessante, utilizando um princípio de
+diagonal de um retânglo (matemática pura). Umas barrinhas pequenas, até 4ms, e
+uma gramíneo, quase contínua (pouco falhada), bem rasteirinha, até 680ms, em um
+gráifo que ía até pouco mais que isso.
