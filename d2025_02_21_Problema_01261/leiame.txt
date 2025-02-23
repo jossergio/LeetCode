@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Apesar de ter sido pelo notebook, só postei depois, pois estava um pouco sem
+tempo.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi
+que minha ideia era bem similar à primeira da plataforma. A segunda era uma
+modificação simples (DFS x BFS).
+
+Eu poderia ter feito pelo celular. Mas como envolvia mais funções, e por
+questão da possibilidade de testes múltiplos, só fiz quando fui para o
+notebook.
+
+Em C++.
+
+14ms. Medianamente ruim.
+
+Memória, ruim.
+
+Concentração, em forma de montanha com diversos picos, entre 9 e 19ms. Após
+isso, uma gramínea com poucos pontos de falha até 297ms, em um gráfico que ía
+até pouco mais de 300s.
