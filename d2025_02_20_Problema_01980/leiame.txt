@@ -19,3 +19,26 @@ A maioria em 0ms, com um algoritmo bem interessante, utilizando um princípio de
 diagonal de um retânglo (matemática pura). Umas barrinhas pequenas, até 4ms, e
 uma gramíneo, quase contínua (pouco falhada), bem rasteirinha, até 680ms, em um
 gráifo que ía até pouco mais que isso.
+
+=====
+Em 23/02/2025, fiz um modelo em Rust.
+
+Em princípio, a tradução do mais recente em Python.
+
+Estou me acostumando com a linguagem e as dicas do compilador, ao apresentar
+erros, até que ajudam. Mas não me fazem entender a própria linguagem.
+
+665ms. Muito horrível de ruim. Nem apareceu no gráfico.
+
+Memória, muito horrível de ruim, também. Nem apareceu no gráfico.
+
+A esmagadora maioria em 0ms. Umas pequenas barrinhas, bem pequenas e
+espalhadas, a última em 15ms, em um gráfico que ía até pouco mais de 45ms.
+
+O código em 0ms era supercomplexo. O código em 1ms era o que utilizava
+conceitos matemáticos de grupo para formar uma resposta. Era baseado em uma das
+soluções, a quarta, da plataforma. Bem prática, mesmo.
+
+Ainda pensei em refazer o código, aplicando alguams ideias, porém mantendo a
+mesma estrutura, para ver o comportamento da linguagem e ver se melhorava o
+tempo. Mas fica para outro momento.
