@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vi que as idemas da plataforma eram similares, apresentando
+diferenças por questões de otimização. A minha pode se encaixar como o segundo
+modelo da plataforma.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A maioria em 0ms. Uma barrinha tênue em 1ms, e um gráfico que ía até 11ms.
