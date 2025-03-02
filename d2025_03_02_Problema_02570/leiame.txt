@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Segui a dica da plataforma e fiz um modelo.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma, apesar de
+que minha forma de pensar seria semelhante à segunda. Como fiz para estudar
+Rust, não desejei pensar muito.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A maioria em 11ms. Uma barrinha pequena em 1ms, em um gráfico que ía até 11ms.
