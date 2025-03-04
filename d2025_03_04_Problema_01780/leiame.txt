@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Poderia ter feito pelo celular. Mas achei que envolveria um pouco mais de
+trabalho. No notebook, percebi que o problema poderia ser mais simples e,
+inclusive, interativo. Tinha raciocinado com recursividade. Como estava
+desejando fazer em Rust, e precisaria fazer alguns testes com a linguagem,
+resolvi fazer em um ambiente mais robusto.
+
+A plataforma me apresenava três soluções, que eu nem olhei. Após postar, vi que
+minha ideia não era similar a nenhuma da plataforma. Eu utilizei, inclusive, um
+vetor. E não seria necessário.
+
+A primeira ideia da plataforma era recursiva e, apesar de utilizar uma
+otimzação matemática para facilitar, posso dizer que a minha ideia inicial
+seria essa. Porém, com um maior consumo.
+
+Em Rust, para treinar na linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, topo dos topos dos "the best".
+
+Não entendi o porquê da memória ter sido bem excelente, já que eu utilizei, sem
+necessidade, pois poderia ter ficado, somente, no campo do calculo, um vetor.
+
+A grande maioria em 0ms, com uma ideia similar à terceira da plataforma.
+Algumas pequenas barrinhas, espalhadas, até 10ms, última em um gráfico que ía
+até 20ms. Essas demais barrinhas aparentam serem a mesma postagem.
