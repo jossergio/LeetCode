@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei. Após postar, vi
+que minha ideia era baseada na primeira, cuja segunda era um ajuste dessa, da
+plataforma. Porém, grosso modo, a minha ideia formaria três iterações
+independentes.
+
+Após postar, também, vi que, no geral, as ideias eram parecidas com o conceito
+utilizado pela minha ideia.
+
+Em Python, pois houve condição de formar em uma linha única, apesar da
+consideração de repetições independentes.
+
+32ms. Mediano.
+
+Memória, mediana.
+
+Houve 0ms, bastante isolado, com uma ideia bem parecida com a segunda da
+plataforma. Concentração, em forma de montanha bem irregular, entre 18 e 75ms,
+com um padrão descentente a partir da metade. Após isso, pequenas barrinhas
+espalhadas, até 127ms, última em um gráfico que ía até cerca de 135ms. Muitos
+códigos redundantes. Em 43ms, vi um código idêntico ao meu.
+
+Eu poderia ter raciocinado como a terceira ideia da plataforma. Mas o
+importante é pontuar e a que eu fiz aparenta ser mais simples. É tanto que foi
+a ideia geral das postagens que eu vi. Não localizei postagem baseada na ideia
+terceira da plataforma.
