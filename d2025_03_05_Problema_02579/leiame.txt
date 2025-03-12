@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi
+que minha ideia era similar à primeira da plataforma.
+
+A ideia que tive era com base em um modelo matemático acumulado, que é a mesma
+ideia primeira da plataforma. A segunda era uma fórmula matemática, que eu não
+formaria sozinho de imediato.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Apesar de formar um laço e haver uma fórmula matemática, como no segundo modelo
+da plataforma, ficou em 0ms.
+
+A grande maioria em 0ms, com um código meio redundante, apesar de ser baseado
+na primeira ideia da plataforma. Houve pequenas barrinhas, decrescentes, até
+4ms, em um gráfico que ía até 14ms.
