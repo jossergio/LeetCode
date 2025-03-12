@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Apesar de ter visto no celular e poder ser, até, simples, só fiz quando estava
+no notebook, durante o dia, apesar de não ter registrado logo no GitHub, pois
+estava em um ambiente que precisava ser imediato.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era diferente de ambas da plataforma, apesar de
+utilizar mapa e ter dois laços em sequência, como a primeira ideia da
+plataforma. De toda forma, eu iniciei o raciocínio como essa da plataforma, mas
+adicionei um conjunto (set) para ir controlando. O segundo laço fica, então,
+mais simples em sua iteração (ficaria, somente, um elemento e nem seria
+necessário o segundo laço. Mas não sabia como tirar um valor unitário de um set
+em Rust).
+
+Em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A grande maioria em 0ms. Algumas pequenas barrinhas até 4ms, em um gráfico que
+ía até 14ms.
