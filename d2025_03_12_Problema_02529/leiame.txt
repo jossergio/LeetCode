@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, não vi semelhanças entre minha ideia e às da plataforma, apesar
+de, por contexto geral, a minha ser um pouco por força bruta, como a ideia
+primeira da plataforma. Essa utilizava um passo único e fazia testes.
+
+A segunda utilizava uma pesquisa binária, apesar de em dois passos, e, apesar
+de as dicas falarem dessa forma binária, não considerei fazer assim pela
+redundância (teria que ser em dois passos) que ficaria, gerando um código mais
+extenso.
+
+Minha ideia era em dois passos, porém utilizando funções de filtro embutidas
+da linguagem, retornando cada contagem. Como exercício, ficou fantástico, pois
+aplicava a ideia de linha única. De aspacto geral, ficava O(2n), ou seja: O(n).
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+A maioria em 0ms. Não vi barrinhas adicionais. O gráfico ía até 10ms.
+
+Fica uma ideia de utilizar outra função embutida de Rust para fazer algo
+similar da primeira ideia da plataforma. Porém, mesmo utilizando duas linhas,
+ou outra forma de estrutura, que possa aglutinar a resposta. Acho que farei
+isso em outro momento.
