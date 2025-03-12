@@ -27,3 +27,13 @@ de um laço único, apesar de ser dividido em duas etapas. Mas ficava em O(n).
 
 Grande maioria em 0ms, apesar de barrinhas (quase lâminas) até 4ms, em um
 gráfico que ía até 14ms.
+
+====
+Atualização.
+
+Esqueci de citar que, antes da primeira postagem, houve um errinho, pois não
+considerei incluir o último valor no laço (o até das linguagens começa em zero,
+mas termina antes do valor e, para esse caso, o último era incluído).
+
+Antes da segunda também houve erro, por não considerar um valor acumulado no
+laço inicial como valor inicial para o segundo laço.
