@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. 
+
+Após postar, vi que minha ideia utilizava um laço interno, apesar de
+iteração baixa, e não era similar a nenhuma da plataforma. Um pouco
+principiante e, se não fosse a baixa interatividade do laço interno, poderia
+causar estouro de tempo. Mas foi derivado do contexto do problema.
+
+Antes de registrar, fiz uma segunda postagem e posso dizer que essa ideia era
+similar à primeira da plataform. Porém, a da plataforma utilizava uma fila e a
+minha ideia era mais direta.
+
+A segunda ideia da plataforma era uma forma de tornar mais direta ainda e
+utilizava uma ideia de janela deslizante, que eu até havia pensado, mas vi que
+a que fiz seria mais prática e simples, apesr de formar dois laços em
+sequência, sendo que um era complementar ao outro. Ou seja: seria um laço
+único, ao final, como a segunda ideia da plataforma. Só que não havia um teste
+interno para checar se estaria na segunda situação.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, ruim. Utilizava um laço para
+varrer o vetor e outro laço, interno, para varrer o quantitativo necessário,
+ficando em O(n x k).
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Utilizava a ideia
+de um laço único, apesar de ser dividido em duas etapas. Mas ficava em O(n).
+
+Grande maioria em 0ms, apesar de barrinhas (quase lâminas) até 4ms, em um
+gráfico que ía até 14ms.
