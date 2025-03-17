@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Tive uma ideia para formar uma linha em Python. Então, fiz nessa linguagem.
+
+Após postar, vi que minha ideia era um pouco semelhante à segunda da
+plataforma.
+
+Após ver os modelos da plataforma, ainda pensei em fazer outros modelos. Mas
+deixei para lá.
+
+Em Python.
+
+4ms. Mediano.
+
+Memória, medianamente ruim.
+
+Muitos em 0ms, sendo a segunda maior barra. A primeira mairo barra era em 3ms e
+barras medianas em seu entorno, até 8ms. Pequenas barrinhas, espalhadas, até
+104ms. em um gráfico que ía até pouco mais de 110ms.
+
+Em 0ms, uma ideia semelhante à minha, mas havia um ponto de saída antecipado e
+não opermitiria uma linha.
+
+Em 3ms, também, mas utilizava outra estrutura de código.
+
+Em 4ms, era baseado em outra ideia da plataforma.
+
+Intessante é como esses códigos, apesar de poderem ficar em linha única, os
+demais participantes criavam uma variável temporária.
