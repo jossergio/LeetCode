@@ -15,3 +15,18 @@ Em GoLang, o gráfico ía até 10ms. Mas, só havia basicamente, coluna em 0ms.
 
 Em C++, o gráfico ía até 12ms. Mas, alguns ficaram até o 2ms.
 
+====
+Em 25/03/2025, fiz um modelo em Rust.
+
+Basicamente, uma tradução do mais recente em C++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Todos em 0ms, em um gráfico que ía até 10ms.
+
+Foi um bom estudo sobre strings.
+
+O código mostrado em 0ms, apesar de possuir um aspecto amador, continha um uso
+bem interessante dos recursos de Rust.
