@@ -50,3 +50,20 @@ o laço interno antecipadamente.
 
 Além disso, foi útil estudar a programação dinâmica para utilizar um laço único.
 
+====
+Em 25/03/2025, fiz um modelo em Rust.
+
+Basicamente, uma tradução do segundo modelo, apesar de eu ter feito sem
+consulta, como novo, por já estar raciocinando um pouco otimizado.
+
+12ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Muitos em 0ms. Concentração, em forma de uma montanha com muitos picos, entre 0
+e 19ms. Algumas pequenas barrinhas, no início até um pouco concentradas, mas,
+após 39ms, bastante espalhadas, com a última, bem distante, em 526, em um
+gráfico que ía até cerca de 550ms.
+
+O código em 0ms era bem parecido com o meu. Porém, utilizou uma ideia bem
+interessante: já jogou a capacidade na reserva do mapa.
