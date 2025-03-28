@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, bobos, por questões de cálculo de índices, passou.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma. Porém, a
+minha utilizava um vetor de pares a mais e a da plataforma tinha um laço
+preliminar, justamente para compensar essa falta desse vetor, e a minha tinha,
+digamos, um laço posterior (ambas tinham dois laços em sequência), onde os
+testes eram efetivados.
+
+Em C++, pois estava no celular e tinha muitas condições para utilização de
+estruturas complexas.
+
+72ms. Ruim.
+
+Memória, horrível.
+
+A grande maioria em 0ms. Não houve como falar em concentração, pois o gráfico
+era bastante espalhado, havendo alguns claros, barras juntas etc. A última
+barrinha foi em 82ms, em um gráfico que ía até pouco mais de 90ms.
+
+A ideia em 0ms era baseada na segunda ideia da plataforma, porém com uma
+implementação bem diferente. No geral, encontrava o elemento mais abundante e
+fazia uma verificação direta para localizar o ponto desejado.
+
+Essa ideia seviu bastante, pois tem um algoritmo bem interessante para indicar
+o elemento com maior quantidade em um vetor.
