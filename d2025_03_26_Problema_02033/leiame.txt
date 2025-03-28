@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após dois errinhos bobos, um por não atentar que quando unitário o vetor de
+entrada haveria uma resposta (zero) e não uma impossibilidade e outro por não
+fazer uma ordenação preliminar e que eu sabia que era necessária, pela ideia,
+passou.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma.
+
+
+Em Rust, para praticar.
+
+18ms. Ruim.
+
+Memória, horrível.
+
+Houve 0ms. Concentração, em forma de montanha irregular, entre 0 e 23ms,
+última barinha em um gráfico que ía até pouco mais de 30ms.
+
+Utilizei alguns recursos próprios da linguagem.
+
+O código apresenado em 0ms era bem complexo.
+
+Os exemplos que vi, todos utilizavam a mesma ideia, apesar de serem com
+implemetações diferentes.
