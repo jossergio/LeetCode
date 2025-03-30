@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após passar o dia refletindo sobre uma possível solução, só me veio uma ideia
+com Python.
+
+Após postar, vi que não conseguiria raciocinar com as ideias dos modelos da
+plataforma.
+
+As da plataforma eram mais práticas, diretas e objetivas. A minha ideia ía
+acumulando vetores e conjuntos e, algumas vezes, colapsando. Por isso mais ideal
+em Python.
+
+Em Python 3, para aproveitar recursos.
+
+22ms. Muito ruim.
+
+Memória, mediana.
+
+Alguns em 0ms. Duas barras grandes, em 3 em em 7ms, com barras menores (médias,
+pequenas e diminutas) até 18ms, última barrinha em um gráfico que ía até 27ms.
+
+A do 0ms era uma cópia, com alguma adaptação, do primeiro modelo da plataforma.
