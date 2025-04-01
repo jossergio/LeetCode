@@ -18,3 +18,18 @@ ver isso interfere na compilação.
 
 Muitos 0ms. O gráfico ía até 12ms. Mas ninguém passou dos 3ms.
 
+====
+Em 01/04/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo 2 em C++.
+
+0ms. Melhor, impossível.
+
+Memória, excelente.
+
+A grande maioria em 0ms. Uma leve barrinha em 1ms, em um gráfico que ía até
+11ms.
+
+O código mostrado em 0ms possuía um conceito bem interessante, que evitava que
+o laço de iteração fosse repetido em casos desnecessários: n &= n - 1. Ou seja,
+só era repetido nos casos onde fosse verdade, a quantidade necessária.
