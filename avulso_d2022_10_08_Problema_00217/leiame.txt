@@ -34,3 +34,35 @@ da lentidão.
 
 Ainda tentei fazer um modelo em Rust. Mas, eita linguagem chata do caramba.
 
+====
+Em 01/04/2025, fiz três modelos em Rust.
+
+A ideia básica inicial era traduzir o último em C++.
+
+Porém, resolvi adicionar estudos.
+
+Modelo 5 (Rust): 3ms. Muito bom. Memória, ruim. Utilizava um mapa para armazenar
+os já vistos.
+
+Modelo 6 (Rust): 4ms. Medianamente bom. Memória, medianamente bom. No lugar de
+mapa, utilizava um conjunto (set), pois só precisava saber se já havia sido
+visto. O tempo ruim pode ter sido coisa da plataforma. Mas que a memória
+melhorou, melhorou.
+
+Modelo 7 (Rust): 1ms. Muito bom, quase excelente. Memória, quase excelente. No
+lugar de uma estrutura auxiliar, ordenava o vetor e checava a condição na
+sequência. Como desejei tornar o código mais Rust, acabava por testando o vetor
+por inteiro, sem condição de parada antecipada quando a condição era satisfeita.
+Mas ficou em três linhas, só porque havia uma condição de ordenar antes: tornar
+mutável (coisa de Rust), ordenar e testar. Essa última ficou em uma linha única,
+utilizando iterador.
+
+Alguns em 0ms. A maior barra em 3ms. Mas houve ondulação até 12ms, última barra
+em um gráfico que ía até 22ms.
+
+Os códigos mostrados até 2ms utilizavam conjunto. O código em 4ms era bem
+interessante, pois, apesar de utilizar conjunto, comparava tamanho com um
+conjunto criado, tinha duas linhas mas poderia ficar em uma só, similar ao 5ms,
+mas esse era meio "burrinho". O e 6ms fazia ordenação, mas era um pouco "burro",
+também, na estrutura, apesar de conter um ponto de saída. E vamos parar por
+aqui, nas análises.
