@@ -1,0 +1,11 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 12/05/2023. Só fiz repostar.
+
+Em C++.
+
+4ms. Medianamente bom.
+
+Memória, mediana.
+
+Interessante é que, na postagem anterior, tinha ficado com 413ms.
