@@ -7,3 +7,25 @@ Memória, com a maioria. Porém, não a mínima.
 
 Havia uma forma mais prática de fazer.
 
+====
+Em 01/04/2025, fiz um modelo em Rust.
+
+Após postar o primeiro modelo, que era uma tradução do modelo em GoLang
+(anterior), e vendo as postagens dos demais, resolvi fazer um modelo mais Rust
+e em linha única, utilizando as funcionalidades de iteradores.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente bom. tradução do
+modelo em GoLang.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, quase top das galáxias. Era
+um modelo mais Rust de ser, ficando em uma linha e utilizando dos recursos de
+iteradores.
+
+A maioria em 0ms. Houve duas leves barrinhas, em 1 e 2ms, em um gráfico que ía
+até 12ms.
+
+O modelo mostrado em 2ms foi o que me serviu de base para o meu segundo. O
+mostrado em 0ms, apesar de utilizar recursos de iteradores de Rust, era, quase,
+o meu modelo primeiro, apesar de aparentar ser mais técnico, inclusive com
+uma estrutura de cálculo interessante, evitando utilizar uma variável auxiliar
+e acumuladora de base, que eu acabei utilizando.
