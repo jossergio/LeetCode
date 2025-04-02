@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+A segunda e a quarta eram bem interessante, pois utilizavam, somente, dois
+laços e um laço, respectivamente.
+
+Desta vez, a plataforma me apresentou soluções em diversas linguagens, inclusive
+Rust, além das de praxe.
+
+Inicialmente, pensei em fazer de uma forma recursiva. Mas vendo a dica do
+problema, vi que seria mais prático fazer iterativo. Ficou similar à primeira
+ideia da plataforma.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, excelente quase top das galáxias.
+
+Posso dizer que todo mundo em 0ms. Não vi outras barrinhas, a não ser uma perto
+do final, que não permitu ver o código, em um gráfico que ía até quase em
+1400ms.
