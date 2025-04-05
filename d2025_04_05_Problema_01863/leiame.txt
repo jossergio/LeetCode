@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+Não tive condições de fazer pelo celular, pois já sentia que precisaria de teses
+robustos.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Fiquei raciocinando, de forma correta e otimizada, porém não chegando a uma
+definição de código.
+
+Após postar, vi que minha primeira ideia era similar à primeira da plataforma,
+apesar de que minha ideia não juntava/acumulava os temporários, já os
+descartando quando montados e após a utilização nos cálculos.
+
+Vendo a segunda ideia, vi que era o que eu imagina, antes. Então, resolvi fazer
+um segundo modelo, seguindo essa ideia.
+
+Eu estava raciocinando de modo certo. Porém, não conseguia definir quando
+codificando.
+
+Modelo 1 (Rust): 2ms. Medianamente ruim. Memória, excelente. Utilizava um vetor
+acumulativo que, quando atingia o limite, descarregava em um cálculo em um
+acumulador. Era recursivo sem retorno, onde o acumulador era passado por
+referência para a função.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, igualzinha à anterior. Não
+entendi o motivo, pois não utilizava estruturas como vetor. Era, basicamente,
+cálculo, em uma função recursiva para fazer as etapas.
+
+A maioria em 0ms. Havia barrinhas até 4ms, com uma barrinha média em 3ms, em um
+gráfico que ía até 14ms.
+
+O terceiro modelo da plataforma era bem interessante e baseado em um princípio
+matemático de operações de bits.
