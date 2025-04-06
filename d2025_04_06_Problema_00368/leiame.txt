@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 09/02/2014.
+
+Inicialmente, tentei fazer um novo modelo, pois achei que poderia fazer um
+código melhor. Primeiramente, tentei fazer em Rust, mas provocou uma resposta
+errada. Tentei fazer outras implementações, mas as firulas da linguagem me
+jogaram para fazer em C++, mesmo.
+
+Após um estouro de tempo, mesmo passado nos testes primários, resolvi repetir o
+código do dia 09/02/2025, mesmo.
+
+Em C++
+
+75ms. Muito ruim.
+
+Memória, muito ruim.
+
+O código anterior foi 78ms.
+
+Vendo alguns códigos dos demais, não vi algum que fosse mais simples ou mais
+prático do que o meu.
+
