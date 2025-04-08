@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Desta vez, mais uma
+vez, vi exemplos em diversas linguagens.
+
+Após postar, vi que minha ideia não se parecia com nenhuma das plataformas.
+
+Vendo as postagens dos demais participantes, vi um modelo mais objetivo e
+prático. Então, fiz um segundo modelo já no computador, com ideia parecida.
+
+Essa segunda ideia era um pouco parecida com a segunda da plataforma, apesar de
+uma leve diferença na implementação.
+
+Modelo 1 (Python 3): 10ms. Ruim. Memória, ruim. Utilizava um mapa e um laço
+baseado em um filtro de remanescência até encontrar a resposta.
+
+Modelo 2 (Python 3): 4ms. Mediano. Memória, medianamente bom. Utilizava um laço
+simples regressivo e um conjunto (set) para ir checando a posição desejada.
+Após isso, realizava um cálculo, para checar a contagem da resposta.
+
+A maior barra em 0ms. Mas houve uma segunda em 3 e outra em 7ms. Houve barras,
+médias ou bem pequentas, até 14ms, última em um gráfico que ía até 23ms.
