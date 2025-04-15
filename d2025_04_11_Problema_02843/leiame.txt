@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que havia uma forma prática, baseada em bases matemáticas e
+que aproveitava as limitações definidos no próprio problema. A minha ideia era
+um tanto exaustiva.
+
+Em Rust, para treinar nessa linguagem.
+
+8ms. Mediano.
+
+Memória, ruim.
+
+O gráfico ficou bem irregular, com muitos em 0ms, maioria em 3ms e entre barras
+médias e barrinhas pequenas teve a a última em 48ms, em um gráfico que ía até
+quase 60ms.
+
+Vi muitas ideias baseadas na ideia da plataforma. Algumas delas utilizavam
+estruturas bem "rusticianas". Também vi algumas semelhantes à minha ideia, mesmo
+que com implementação diferente.
