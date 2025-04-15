@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava dois modelos, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma.
+
+Após postar, vi, também, que poderia ter aplicado uma otimização da execução.
+Porém, não fiz um segundo modelo. Fica para uma outra oportunidade.
+
+A segunda ideia da plataform, apesar de indicar que era otimziada, utilizava um
+código bem complexo.
+
+Em Rust, para treinar na linguagem.
+
+4ms. Medianamente bom.
+
+Memória, excelente dos excelentes top das galáxias.
+
+Houve 0ms, com um código que eu poderia ter imaginado para otimziar o meu. Maior
+barra em 4ms, com um código bem similar ao primeiro da plataforma e,
+consequentemente, do meu. Houve outras barras em 2 e em 5ms, em um gráfico que
+ía até 15ms.
