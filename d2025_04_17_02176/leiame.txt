@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha solução aparentava ser um pouco mais complexa que a
+da plataforma. A da plataforma era uma forma direta, apesar de utilizar dois
+laços aninhados o(n2), que eu tentei evitar, utilizando uma estrutura, porém,
+ao final, acabava aninhando laços, porém, em pedaços.
+
+Em Python, para aproveitar estruturas.
+
+9ms. Medianamente bom.
+
+Memória, mediano.
+
+No modelo em 9ms, um exemplar bem parecido com o meu, porém, com implementação
+um pouco diferente.
+
+Em 0ms, um exemplar similar ao meu, porém, descartando a utilização de um laço
+prévio para montar a estrutura.
+
+Os de melhor tempo, de uma forma ou de outra, utilizavam a ideia que utilizei.
+Os de pior tempo, a da plataforma.
+
+Obs.: a partir de hoje, deixarei de descrever comparativo com o gráfico de
+tempo.
