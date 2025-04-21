@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo celular.
+
+Tive uma ideia de forma de cálculo. Porém, utilizava um laço, desnecessário, que
+só me dei conta depois de ver as postages dos demais, que poderia ter utilizado
+um modelo estritamente matemático.
+
+Em Python, para utilizar estruturas.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Vi um código de linha única. Outros, um pouco redundantes ou complexos.
