@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à da plataforma, apesar de
+implementar um pouco diferente.
+
+Antes de registrar, vendo postagens dos demais participantes, resolvi fazer
+outras implementações, fazendo pequenos ajustes no primeiro.
+
+Modelo 1 (Python 3): 39ms. Mediano. Memória, medianamente ruim. Utilizava uma
+implementação mais original.
+
+Modelo 2 (Python 3): 29ms. Medianamente bom. Memória, medianamente boa. uma
+implemenmtação mais direta, tentando poupar linhas.
+
+Modelo 3 (Python 3): 23ms. Quase excelente. Memória, ruim. Um ajuste, reduzir a
+busca, com utilização de ordenamento (e pegando os primeiros).
+
+Fiz em Python porque estava no tablet. Pensei em fazer direto em Rust, mas para
+evitar dores de cabeça, pois teria que utilizar mapas, dispensei nesse
+momento.
