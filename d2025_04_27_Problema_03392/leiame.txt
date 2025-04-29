@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era quase igual à da plataforma.
+
+Em Rust, para estudar.
+
+3ms. Horrível.
+
+Memória, ruim.
+
+Não sei o motivo do tempo elevado.
+
+No 0ms, uma ideia de utilização de linha única em Rust.
