@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, que, apesar da possibilidade de estoutar o tempo, as dicas da
+plataforma indicavam que, por os limites serem pequenos, poderia ser por essa
+forma.
+
+Em Python, para aproveitar estruturas da linguagem.
+
+565ms. Ruim.
+
+Memória, medianamente ruim.
+
+No modelo da plataforma e em algumas postagens, vi uma implementação levemente
+diferente, mais direta, evitando um laço interno, algo como uma janela
+deslisante. O meu montava um conjunto a cada interação, fazendo testes durante
+essa montagem.
+
+Preciso raciocinar melhor com essas estruturas.
