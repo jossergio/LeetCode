@@ -1,0 +1,9 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 29/03/2024, que eu havia feito em C++.
+
+Só fiz repostar.
+
+3ms. Muito bom.
+
+O tempo da postagem anterior tinha sido 130ms. Coisas do LeetCode.
