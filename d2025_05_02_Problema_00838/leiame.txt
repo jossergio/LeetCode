@@ -13,3 +13,16 @@ Memória, mediana.
 
 O tempo anterior foi em 34ms e a memória ficou um pouquinho maior. Tavez, por
 atualização do compilador.
+
+=====
+Em 04/05/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em GoLang. Porém, fiz um pouco "rusticiano".
+
+2ms. Excelente.
+
+Memória, mediana.
+
+Ainda pensei em brincar mais um pouco, substituindo laços por funções de
+iteradores, e fazer um segundo modelo. Mas não diminuiria o código, de toda
+forma.
