@@ -18,3 +18,17 @@ deslisante. O meu montava um conjunto a cada interação, fazendo testes durante
 essa montagem.
 
 Preciso raciocinar melhor com essas estruturas.
+
+=====
+Em 04/05/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do feito em Python 3.
+
+231ms. Horrível.
+
+Memória, mediana.
+
+Só para estudar a sintaxe da linguagem.
+
+Meu código foi o menor e o mais simples dos que eu vi nas postagens dos demais
+participantes.
