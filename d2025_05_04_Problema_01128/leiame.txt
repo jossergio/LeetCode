@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+De início, não entendi direito o problema.
+
+Depois de um errinho, por ainda não ter entendido, passou.
+
+Após postar, vi que minha ideia era similar à da plataforma. Porém, a da
+plataforma, além de utilizar alocação de memória (vetor) para agiliar, no lugar
+de mapa (hash), ficou mais bonito por utilizar operador ternário.
+
+Em Python 3, para aproveitar estruturas da linguagem para dicionários.
+
+7ms. Excelente.
+
+Memória, medianamente boa.
