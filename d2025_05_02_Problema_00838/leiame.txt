@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 21/07/2021, mas que só consegui postar depois que a
+data virou para 22 (ou seja, não contou pontos), tendo feito em C++, e que tinha
+reaparecido em 27/09/2022, onde, além de repostar, fiz um segundo modelo
+utilizando GoLang.
+
+Só fiz repostar esse modelo em GoLang.
+
+22ms. Medianamente ruim.
+
+Memória, mediana.
+
+O tempo anterior foi em 34ms e a memória ficou um pouquinho maior. Tavez, por
+atualização do compilador.
