@@ -7,3 +7,14 @@ Só fiz repostar.
 3ms. Muito bom.
 
 O tempo da postagem anterior tinha sido 130ms. Coisas do LeetCode.
+
+=====
+Em 04/05/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em C++.
+
+3ms. Mediano.
+
+Memória, medianamente ruim.
+
+Não tive outras ideias. Só para estudar a sintaxe da linguagem.
