@@ -15,3 +15,26 @@ Em Python 3, para aproveitar estruturas da linguagem para dicionários.
 7ms. Excelente.
 
 Memória, medianamente boa.
+
+=====
+Em 08/05/2025, fiz um modelo em Rust.
+
+Basicamente, uma tradução do modelo em Python 3. Porém, abusei da sintaxe de
+Rust e fiz com menos linhas.
+
+Em seguida, desejei fazer um teste como seria com mais linhas. Então, fiz um
+segundo modelo.
+
+Ficou com menos linhas que Python 3. Mas eu poderia ter utilizado estruturação
+similar, pois fiz os modelos em Rust com operador ternário. Mas a essa altura,
+não estava preocupado com o problema/solução e sim em estudar Rust.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Abusei
+das possibilidades de Rust. Apesar de abusar da sintaxe de Rust, era uma forma
+traduzida do modelo em Python 3.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Ficou com
+mais linhas, pois desmembrei uma sentença. Mas foi só para comparar.
+
+Ainda pensei em substituir o laço por uma forma com iterador e já produzir a
+resposta, para testar. Mas vai ficar para um outro momento.
