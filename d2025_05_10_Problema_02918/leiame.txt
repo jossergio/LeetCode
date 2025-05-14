@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+minha ideia era similar à da plataforma, com pequenos ajustes.
+
+Após três errinhos, por não verificar/interpretar direito uma condição, passou.
+
+Em GoLang, para relembrar.
+
+109ms. Excelente.
+
+Memória, medianamente boa.
+
+De uma forma ou de outra, os modelos que vi eram baseados na mesma ideia.
