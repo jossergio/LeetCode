@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia. Porém, vendo a dica da plataforma, vi que seria mais eficiente.
+Então, fiz um modelo baseado nessa dica.
+
+Após postar, vi que minha ideia era um pouco, mas só um pouco, parecida com a
+segunda ideia da plataforma. Porém, considero que a da plataforma seja mais
+eficiente. Meu código era um pouco prolixo. A da plataforma aproveitava melhor
+a estrutura da linguagem, tornando o código menor, além de uma estrutura mais]
+profissional.
+
+Tammbém após postar, observei que eu estava fazendo um cálculo desnecessário,
+pois o valor original já era conhecido e estava desmembrado (eu desmembrava o
+valor, para montar a solução, e remontava, para registrar o valor encontrado).
+Então, fiz um segundo modelo, retirando esse cálculo desnecessário.
+
+Modelo 1 (Python 3): 28ms. Medianamente bom. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 27ms. Medianamente bom. Memória, medianamente boa. Era o
+mesmo código anterior, removendo um cálculo desnecessário.
+
+Tinha pensado em fazer em Rust, para estudar. Mas, vendo o modelo apresentado
+pela plataforma para essa linguagem (sim, tinha para várias linguagens), vi que
+seria, mesmo, bem complicado.
