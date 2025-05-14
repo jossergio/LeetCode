@@ -1,0 +1,8 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 01/07/2024. Porém, fiz um modelo em Rust.
+Basicamente, a tradução do anterior, que era em C++.
+
+0ms. Melhor, impossível.
+
+Memória, quase top das galáxias.
