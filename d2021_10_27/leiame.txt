@@ -4,3 +4,6 @@ Fiz rapidinho e, também, pelo celular.
 
 Memória, horrível. Abusei. Fiz besteira. Vi, depois de validar.
 
+====
+Em 18/05/2025, observei que a extensão do nome do arquivo estava errada. O
+conteúdo era em GoLang. Mas a extensão estava "py" (Python).
