@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, que passou de imediato.
+
+Após postar, vi que minha ideia era similar à da plataforma, modificando-se, um
+pouco, pela forma de implemetação.
+
+Em Rust, para estudar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
