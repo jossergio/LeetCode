@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após oito erros, um deles de compilação (foi mal, apertei o botão errado) e dois
+estouros de tempo, passou. Porém, o que passou foi totalmente diferente de todas
+as ideias anteriores.
+
+Inicialmente, pensei em vários modelos. Mas não desejei seguir a dica da
+plataforma, por não conseguir encontrar um raciocínio. Tinha noção que seria
+algo bem necessário. Tanto que o estouro de tempo foi por achar que uma forma
+mais simples passaria nos testes.
+
+Iniciei pela manhã. Desisti. Tentei durante vários momentos do dia. Já de noite,
+retomei. E passou de primeira. E foi um modelo do raciocínio da dica da
+plataforma.
+
+Para brincar e estudar, todas as tentativas já foram em Rust.
+
+19ms. Medianamente ruim.
+
+Memória, mediana.
+
+Todas as ideias que eu vi se pareciam com a minha (e com a da plataforma).
+
+Bem trabalhosinho. Mas se tivesse tido a capacidade de raciocinar, de imediato,
+conforme a ideia da plataforma (só tive, ao final), teria passado logo.
+
+Preciso melhorar minha lógica ou minha forma de raciocínio.
