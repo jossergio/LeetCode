@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Após dois errinhos, passou.
+
+Tentei seguir as dicas da plataforma e quase me ferro. Não encontrei uma forma
+prática de utilizá-las. Então, retomei minha ideia primária, apesar de não
+entender o porquê de não ter passado.
+
+Para relembrar tempos, fiz em GoLang, pois era bem simples, também.
+
+Após postar, vendo ideias dos demais participantes, fiz um modelo um pouquinho
+mais enxuto, porém, para comparar, em Rust. A ideia de fazer em Rust era,
+também, para ver se encontrava, nessa turma, alguma ideia melhor. Eram piores.
+
+Modelo 1 (GoLang): 0ms. Melhor, impossível. Memória, medianamente ruim. Fazia
+uma passagem primária e outras duas independentes.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, quase top dos tops das
+galáxias. Era similar à anterior, sendo, basicamente, sua tradução. Porém, Fazia
+uma leve modificação para tornar única (juntar) as duas passagens independentes.
