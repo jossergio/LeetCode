@@ -13,3 +13,17 @@ registrei como médio lento, na época, e hoje, 1410 está em horrível.
 
 A memória aumentou. Talvez, atualização do compilador. Na época, foi a melhor
 possível.
+
+=====
+Em 24/05/2025, fiz um modelo em Rust.
+
+Era a tradução do modelo em Python 3.
+
+1ms. Mediano.
+
+Memória, mediana.
+
+O modelo em 0ms utilizava uma condição bem interessante, uma lógica de que, se
+precisam todos serem iguais, então o primeiro tem que se repetir de alguma forma
+na sequência. Então, reduz, um pouco, a execução de laços, contendo um ponto de
+saída antecipada.
