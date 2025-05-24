@@ -20,3 +20,20 @@ Após isso, realizava um cálculo, para checar a contagem da resposta.
 
 A maior barra em 0ms. Mas houve uma segunda em 3 e outra em 7ms. Houve barras,
 médias ou bem pequentas, até 14ms, última em um gráfico que ía até 23ms.
+
+=====
+Em 24/05/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do de menor tempo em Python 3.
+
+Acabou ficando com mais linhas, pois algumas reduções que Python permite não são
+aplicadas em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Após postar, vi que poderia ter utilizado iteradores de uma outra forma, fazendo
+a reversão diretamente no laço, no lugar de reverter o vetor previamente. isso
+diminuiría, pelo menos, duas linhas.
+
