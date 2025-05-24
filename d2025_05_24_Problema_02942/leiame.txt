@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha implementação era mais simples, apesar de a ideia ser
+a mesma, já que utilizei a forma de linha única de Python.
+
+Após postar, resolvi fazer, logo, uma forma em Rust utilizando, também, linha
+única, utilizando iteradores.
+
+Modelo 1 (Python 3): 1 ms. Mediano. Memória, mediana. Utilizava uma forma de
+linha única, em Python.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Utilizava uma forma
+de linha única, com iteradores.
+
+Modelo 3 (Rust): 3ms. Ruim. Memória, mediana. Era o mesmo código anterior, porém
+alterando um pouco a utilização das funções.
