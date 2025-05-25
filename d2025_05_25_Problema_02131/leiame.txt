@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Tive que ir para o computador, pois, de cara, já aparentava uma questão cheia de
+pegadinhas.
+
+Após dois errinhos, um por não perceber um detalhe e outro por esquecer um fator
+para multiplicação em uma adição para o cálculo final, passou.
+
+Antes de postar, vi que o código poderia ser otimizado, removendo uma
+redundância de buscas para finalização de cálculo. Após um errinho, por bobeira,
+também passou.
+
+Em Python, para aproveitar os recursos da linguagem.
+
+Modelo 1 (Python 3): 139ms. Medianamente ruim. Memória, medianamente boa.
+
+Modelo 2 (Python 3): 145ms. Medianamente ruim. Memória, mediana.
+
+Achei que o segundo modelo seria mais eficiente, pois eliminava buscas repetidas
+em linhas diferentes, transformando-as em um só laço e, dentro desse, as
+condições eram verificadas individualemente. Mas pode ser coisas do LeetCode.
+
+Vendo as postagens dos demais, vi que poderia fazer outras otimizações ou
+aproveitar melhor os recursos da linguagem. Mas fica para outros momentos. Por
+hoje, já ganhei a pontuação da plataforma.
