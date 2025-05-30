@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 23/01/2023, que eu havia feito em C++. Mas não tinha
+percebido que já havia postagem. Então, fiz como se fosse um novo.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Era o típico de problema que seria difícil fazer pelo celular.
+
+Após três erros, o primeiro por estouro de tempo (coisas do LeetCode, que, sem
+avisar, jogou um ciclo), e mais dois por questões de interpretação, como já
+tinha citado na postagem anterior, passou.
+
+Após postar, não consegui fazer um comparativo com as ideias da plataforma,
+salvo que, por ideia geral, lembrava a primeira. Porém, meu código acabava
+ficando mais complexo, pois utilizava conjuntos (sets) e dicionários, onde
+poderia ter sido utilizados vetores, pois os tamanhos eram conhecidos no início.
+
+Após postar, também, vi que tinham ficados os trechos para depuração. Então,
+fiz um segundo modelo sem essas linhas.
+
+Modelo 1 (Python 3): 247ms. Mediano. Memória, medianamente ruim.
+
+Modelo 2 (Python 3): 176ms. Medianamente bom. Memória, medianamente ruim. Era o
+mesmo do anterior, porém sem os trechos de depuração que eu havia esquecido de
+remover.
+
+Bobeira não ter percebido que já havia postado, pois perdi um tempinho. Porém,
+foi um bom momento de estudo.
