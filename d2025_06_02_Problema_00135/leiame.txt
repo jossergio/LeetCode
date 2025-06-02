@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo celular.
+
+Era o mesmo problema do dia 04/07/2022, que eu tinha feito em GoLang e em Python
+3, e que tinha reaparecido em 13/09/2023 e eu tinha repostado o modelo em
+GoLang.
+
+Inicialmente, mais uma vez, só fiz repostar o modelo em GoLang.
+
+Porém, tive uma ideia de, antes de publicar, fazer um modelo em Rust, para
+estudar e para ter acesso às postagens dos demais.
+
+Tentei formar um modelo "rusticiano". Mas, só fiz aproveitar para testar algumas
+sintaxes, pois a formulação do problema e da solução não me permitiu reduzir
+código "a la Rust", pois as iterações dependiam de outros valores do vetor.
+
+Em Rust, houve um erro de execução por estouro de índice. Como eu estava
+tentando não utilizar comandos de laço, resolvendo tudo com iteradores, uma
+condição que um laço resolveria provocou o erro. Além disso, mesmo que fosse
+na forma por questões de tipo usize, ainda assim o erro permaneceria. Consertei
+essa situação acrescentando uma condicional, previamente.
+
+Modelo 1 (GoLang): 0ms. Melhor, impossível. Memória, medianamente ruim. Nas
+postagens anteriores tinha ficado em 21 e 16ms.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, excelente. Era a tradução do
+anterior, porém, tentando fazer experiências com a linguagem. Uma delas, por
+exemplo, era não utilizar comandos de laço, ficando tudo por iteradores, que
+acabou ficando como "simulação" de laço do que mesmo um uso integral daqueles.
+
+De toda forma, em Rust, ficou um código bem enxuto. Muito enxuto, mesmo. Vendo
+algumas postagens dos demais, não tinha uma que fosse menor que o dobro ou
+triplo do tamanho de meu código. E nem utilizavam uma sintaxe exclusiva da
+linguagem.
