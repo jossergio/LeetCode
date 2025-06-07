@@ -24,3 +24,32 @@ mesmo código anterior, removendo um cálculo desnecessário.
 Tinha pensado em fazer em Rust, para estudar. Mas, vendo o modelo apresentado
 pela plataforma para essa linguagem (sim, tinha para várias linguagens), vi que
 seria, mesmo, bem complicado.
+
+====
+Em 07/06/2025, fiz um modelo em Rust.
+
+Na realidade, fiz dois. Um era a tradução do segundo modelo em Python, fazendo
+os ajustes necessários e abusando das estruturas da linguagem, como iteradores e
+utilzação de HashMap, e outro utilizando um vetor no lugar do mapa.
+
+Essa segunda ideia era baseada em uma postagem dos demais que eu tinha visto
+quando postando os modelos em Python.
+
+Como tinha deixado um resquício de uso de HashMap, fiz um quinto modelo,
+retirando esse detalhe.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Abusava
+de recursos de Rust e foi pensada em estudar HashMap.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Substituía
+HashMap por um vetor.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Era o
+mesmo anterior, porém, sem um resquício de uso de HashMap, que tinha ficado.
+
+INTERESSANTE: em termos de memória, os modelos com vetor ficaram PIORES que o
+modelo com HashMap. E olha que eu tive que fazer os valores mesmo para os vazios
+no mapa. Ou seja: acabava sendo um vetor, no final.
+
+Como eram poucos valores, o modelo com vetor, que seria mais eficiente, não fez
+muita diferença.
