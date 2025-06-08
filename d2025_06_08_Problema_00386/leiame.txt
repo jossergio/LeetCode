@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/09/2024, que eu havia feito dois modelos em C++.
+
+Inicialmente, vi pelo celular. Porém, resolvi fazer conforme a sugestão da
+plataforma (pois eu tinha feito de uma maneira que permitiu passar, estilo
+ajuste ou um "pelo menos passou") e fazer em um padrão O(n) para tempo e O(1)
+para memória. Então, fui para o notebook, pois dependia de um pouco de
+raciocínio de minha parte.
+
+De quebra, ainda resolvi testar meus estudos em Rust.
+
+Após um errinho (por um detalhe que eu sabia mas não adicionei no código),
+passou. O probleminha foi que cada nível conteria uma faixa e eu deixei solto,
+o que acabava passando e não prodizindo a resposta conforme a descrição do
+problema ou, de alguma ou de outra formas, errada.
+
+Em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, top dos tops do topo das galáxias.
+
+Fiz por uma forma recursiva, apesar de ser, pela estrutura, ainda O(n) e, na
+memória, haver a possibilidade de uma leve adição na pilha. Mas não vi forma
+interativa de fazer. E esse modelo era similar à primeira solução da plataforma,
+apesar de eu considerar a minha forma mais elegante.
+
+O segundo modelo da plataforma era interativo. Mas tinha um cálculo matemático
+que não me seria muito intuitivo. Porém, foi bem interessante para estudos.
