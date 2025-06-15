@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, porque não tinha percebido (e nem tinha como) que a diferença,
+para a plataforma, não era em absoluto mas o resultado maior, onde um número
+negativo é maior quando seu valor absoluto é menor, passou.
+
+Em Rust, para brincar com os recursos da linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Meu código, em relação aos demais que eu vi, foi o menor.
+
+Vendo, também, as postagens dos demais, vi uma forma mais otimizada, que eu
+poderia ter utilizado, consistindo do maior de um com o menor (mínimo) do outro
+valor. Porém, de toda forma, já foi 0ms mesmo.
+
+Uma outra questão é que estou raciocinando muito com mapas, quando, em questões
+que envolvam caracteres como índice, o mais eficiente é trabalhar com vetor,
+mesmo.
