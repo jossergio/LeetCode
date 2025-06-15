@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Em GoLang, para relembrar.
+
+0ms. Melhor, impossível.
+
+Memória, muito ruim de horrível.
+
+Fiz uma função auxiliar, como sempre faço, para encontrar o valor máximo entre
+dois, pois da linguagem só tem por float64 e tem que ficar convertendo. Mas foi
+assim que o modelo da plataforma era, utilizando a biblioteca math. Talvez isso
+aumente um pouco o uso da memória.
+
+Alguns códigos dos demais participantes utilizava uma função de máximo sem
+informar a biblioteca. Fiz um teste, no play.golang.com, e existe essa função
+embutida, sim. Inclusive, é genérica, para tipos.
