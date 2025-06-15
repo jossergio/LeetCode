@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após dois errinhos, por bobeira (não estava raciocinando muito bem nesse dia),
+passou.
+
+Após postar, percebi que estava no caminho certo. Porém, se tivesse percebido
+a lógica matemática, simples, que estava envolvida no problema, não teria
+feito os dois errinhos.
+
+A ideia da plataforma fazia conversões para string. A minha, fazia um sistema
+com pilha. Meu código ficou um pouco complexo, e muito extenso, apesar de a
+lógica estar bem aplicada.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, muito ruim de horrível.
+
+Após postar, vi que poderia ter simplificado um pouquinho o código se deixasse a
+mania de não gostar de utilizar break.
+
+Meu código ficou muito extenso, mesmo.
+
+As postagens dos demais, todas que eu vi, faziam conversão para string. Porém,
+não eram de forma tão simplificada como era o modelo da plataforma.
