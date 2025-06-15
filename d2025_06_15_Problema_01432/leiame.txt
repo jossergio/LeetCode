@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+minha ideia bem diferente das da plataforma, porém, em termos gerais, pode ser
+comparada à segunda.
+
+Era um pouco similar ao problema do dia anterior. Porém, com uma lógica um pouco
+direrente e mais complexa.
+
+A plataforma sempre fazia conversão para string para trabalhar, como no problema
+do dia anterior, e a minha ideia utilizava pilha. Mas isso não interferiu nos
+detalhes de lógica envolvidos na comparação do meu modelo com o segundo da
+plataforma.
+
+Após três erros, chatos, passou.
+
+Em C++.
+
+3ms. Ruim.
+
+Memória, ruim.
+
+Tinha alguns detalhes interessantes envolvidos na lógica. Por isso, a
+complexidade e os erros antes de obter sucesso.
+
+Meu código ficou um pouco extenso, comparando com o da plataforma. Mas a maioria
+que vi dos demais também o eram, tirando alguns que pareciam cópia dos modelos
+da plataforma.
