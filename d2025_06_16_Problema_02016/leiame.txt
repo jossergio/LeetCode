@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+O modelo da plataforma era um pouco otimizado, formado por um laço simples com
+uma ideia de janela deslizante. A minha ideia era com laço duplo.
+
+Antes de registrar, resolvi fazer uma estrutura mais "rusticiana", utilizando
+iteradores e com linha única, apesar de dividida para organizar.
+
+Após um errinho, por uma falha de lógica, passou.
+
+Ainda antes de registrar, e vendo a lógica da ideia da plataforma, resolvi fazer
+um terceiro modelo, seguindo essa estrutura, mas mantendo a questão de linha
+única, iteradores etc. Então, fiz um terceiro modelo.
+
+Modelo 1 (Rust): 0ms. Melhos, impossível. Memória, top dos tops das galáxias.
+Utilizava uma estruturação lógica simples, com laço aninhado e testando valores.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Era uma
+espécie de conversão do modelo anterior para uma estrutura mais Rust, com
+dois iteradores (um embutido) e com linha única.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era uma
+espécie de conversão, mais "rusticiano", da ideia da plataforma, utilizando,
+somente, um iterador.
