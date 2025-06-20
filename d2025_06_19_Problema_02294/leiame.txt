@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a ideia da plataforma aparentava ser um pouco mais simples.
+Porém, utilizava um detalhe que não costumo gostar de fazer. Mas, de toda forma,
+era uma ideia interessante, pois utilizava menos variáveis e um laço mais
+direto.
+
+Em Rust.
+
+11ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Vi alguns códigos com ideias simples, como a da plataforma.
+
+Em 11ms, vi um código que pensei ser o meu. Porém, apesar da forma inicial, no
+laço não o era. E não era mesmo, inclusive pelos nomes das variáveis. Fica, só,
+o registro.
+
+No geral, algumas ideias interessanes, apesar de seguirem na mesma linha de
+raciocínio, modificando, somente, a forma das sentenças na implementação.
