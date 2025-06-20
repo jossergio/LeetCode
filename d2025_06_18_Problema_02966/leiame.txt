@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 01/02/2024. Mas resolvi fazer uma nova abordagem e
+testar meus conhecimentos em Rust.
+
+Em Rust.
+
+11ms. Medianamente ruim.
+
+Memória, ruim.
+
+Ainda pensei em fazer algumas modificações, antes de registrar, mas não fiz,
+pois não mudaria muita coisa. Seria, só, para ver sentenças da linguagem.
