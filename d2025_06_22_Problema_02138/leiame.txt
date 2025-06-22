@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Inicialmente, vi que só haveria um tipo de ideia, apesar das possibilidades de
+diferentes implementações. Então, em termos de ideia, a minha acaba sendo
+idêntica à da plataforma.
+
+Inicialmente, pensei em fazer pelo celular ou tablet. Mas como desejava me
+esforçar em Rust, vendo que seria chatinho em termos de sintaxe, pois envolvia
+strings e suas manipulações, fiz no notebook.
+
+Tive algumas ideias, mas desejei fazer uma que fosse mais eficiente. Após
+postar, vendo as postagens dos demais, resolvi fazer uma segunda implemntação,
+para me esforçar mais com a sintaxe e com as estruturas de Rus.
+
+Toda a demora, tanto do primeiro quanto do segundo modelo (esse, pior ainda),
+foi por conta de ver a sintaxe com iteradores, strings e vetores, além de um
+certo raciocínio com "sobras" (cálculos).
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Fazia uma
+otimização inicial, para não conter sobras, e fazia uma interação mais direta,
+pois as fragmentações seriam exatas.
+
+Modelo 2 (Rust): 0ms, Melhor, impossível. Memória, um pouquinho de tiquito pior
+que o anterior, mas na mesma faixa. Ía fragmentando, de forma otimziada, e
+verificava, somente ao final, sobre possibilidade de resto. Nesse ponto, fiz uns
+ajustes visando otimizar, em relação ao que tinha visto na postagem em 0ms.
+
+Vendo as postagens dos demais partipantes, a versão que estava em 0ms era
+idêntica à da plataforma, inclusive os comentários e tudo.
+
+Parece que não houve postagens além de 0ms. Coluna única no gráfico.
