@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluçóes, que eu nem olhei.
+
+Minha implementação era bem similar à segunda da plataform, alterando-se,
+somente, questões de organização. A da plataforma utilizava variáveis auxiliares
+e o meu código era mais direto.
+
+A primeira ideia da plataforma era de tempo O(n^2), um pouco complexo
+conceitualmente, e um pouco infantil.
+
+O segundo, assim como meu, utilizava um conceito deslizante, em passagem única,
+formando um tempo O(n). Porém, tinha um raciocínio bem interessante, para evitar
+duplicados.
+
+Inicialmente, tinha pensado em utilizar conjunto (set) e uma forma até um pouco
+parecida com a primeira ideia da plataform, só que menos redundante, apesar de
+ainda o ser (e o set evitaria, ao final, duplicados).
+
+Em Rust, para treinar na linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, muito ruim. Não sei o motivo.
+
+O tempo visto em 0ms era a cópia integral do primeiro modelo da plataforma,
+incluindo os comentários.
