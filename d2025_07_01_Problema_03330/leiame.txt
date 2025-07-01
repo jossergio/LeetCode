@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Observei um detalhe e, então, implementei.
+
+Após postar, vi que minha ideia era similar à da plataforma. Uma leve diferença
+era a forma de iniciar, com um no lugar de zero, e finalizar, que o meu
+acrescentava o um.
+
+Em Rust, para praticar.
+
+2ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Em 0ms, o código mostrado era, integralmente, o da plataforma. Em 2ms, também.
