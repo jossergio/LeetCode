@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, que consumiria recursos, mas acabou passando sem problemas, pois
+era de nível fácil. Porém, se fosse no nível mais complexo da plataforma, não
+teria passado, com toda certeza.
+
+Após postar, vi que a ideia da plataforma era mais matemática e a minha um pouco
+por força bruta.
+
+Em Rust, para brincar com os recursos da linguagem. E como brinquei, neste caso
+até simples.
+
+0ms. Melhor, impossível.
+
+Memória, muito boa.
+
+O exemplar mostrado em 0ms era cópia fiel da plataforma.
