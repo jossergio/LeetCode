@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Tive uma ideia que, após um errinho (utilizei a função reverse no lugar de fazer
+uma ordenação reversa, que era o que eu precisava), passou.
+
+Após postar, vi que tinha deixado código de depuração (prints). Então, fiz um
+segundo modelo, sem essas partes.
+
+Em Python, pelas facilidades.
+
+Modelo 1 (Python 3): 3ms. Medianamente ruim. Memória, ruim.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, ruim igual à anterior.
+Era o mesmo código do modelo anterior, só que sem as partes de depuração, que eu
+havia deixado.
+
+Ainda pensei em fazer um modelo, antes de registrar, de linha única e um outro
+em Rust. Fica para outro momento.
