@@ -1,0 +1,45 @@
+Direto no LeetCode.
+
+Era o problema do dia anterior (06/07/2025), que eu tentei fazer e, após um erro
+e um estouro de tempo, desisti.
+
+A plataforma me apresentava uma solução, que nunca desejo olhar.
+
+Porém, como tinha ficado encucado, pois achava que minha solução era
+interessante, resolvi ver o que poderia estar deixando passar e, como o problema
+do dia 07 não consegui nem entender, resolvi voltar a esse, como avulso.
+
+Não tinha como fazer em tablet ou celular.
+
+Apesar de olhar a ideia da plataforma, fiz um modelo mais meu.
+
+Após mais um estouro de tempo, só resolvi inverter a utilização do vetor base
+(eram dois) e passou. Não entendi. Mas os testes da plataform podem ser gerados
+com essas intenções.
+
+Em Rust, para brincar com os recursos da linguagem. E como ficou bem Rust.
+
+47ms. Excelente.
+
+Memória, excelente.
+
+Caramba! Não sei como em um tempo como esse ficou tão excelente, inclusive no
+uso da memória.
+
+O gráfico não era bem fixado. Mas o código mostrado em na região 47ms (onde o
+meu estava inserido) era a cópia integral da plataforma. A barra seguinte,
+também.
+
+A plataforma não me mostra mais o gráfico de forma integral (versão velha). Ou,
+pelo menos, não sei como vê-lo.
+
+Para resumir o ajuste no último estouro de tempo. O problema utilizava dois
+vetores de entrada. Trabalhei com os dois, em Hashes individuais, para obter
+os resultados. Ao utilizar um desses hashes como base, e o outro dento do laço,
+estourou o tempo. Só fiz inverter: um no laço e outro interno. Passou. E passou
+muito bem, por sinal.
+
+Considero o meu código um pouco mais otimizado do que o da plataforma, apesar de
+utilizar um HashMap a mais, porém, dispensa armazenar um dos vetores e reduz, um
+pouco, a utilização de um laço de resultados das consultas que seriam
+disparadas.
