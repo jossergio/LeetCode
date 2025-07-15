@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive que ir para o notebook, pois, apesar de ser fácil, notei que poderia ser
+chato de implementar. E foi.
+
+Após postar, vi que minha implementação era diferente, apesar de os testes serem
+similares em ideia.
+
+Fiz em Python, para utilizar recursos de conjunto (set), apesar de que poderia
+ter feito uma abordagem mais similar à da plataforma. Porém, resolvi brincar com
+essas estruturas.
+
+Em Python 3, para aproveitar estruturas da linguagem.
+
+7ms. Muito horrível de ruim.
+
+Memória, mediana.
+
+O tempo em 0ms me mostrava um código que abusava de expressões regulares. Outros
+códigos, também.
+
+Ainda pensei em fazer uma segunda implementação, um pouco mais parecido com a
+da plataforma, mas considerei que não melhoraria muito, pois montaria um laço
+e o meu não utilizava laços (pelo menos de forma explícita; só as embutidas nas
+operações de conjunto)
