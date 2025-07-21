@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 01/02/2024, que eu havia feito em Python 3. Só fiz
+repostar.
+
+Porém, fiquei querendo ver como ficaria em Rust. Então, fiz um segundo modelo,
+traduzindo do modelo em Python, antes de registrar, no notebook.
+
+Após um pequeno errinho, passou. O errinho foi que, em Python, não preciso ver o
+limite de um vetor, quando fatiando. Ele ignora isso e vai até o final. Porém,
+em Rust, a coisa é diferente.
+
+Modelo 1 (Python 3): 325ms. Mediano. Memória, ruim. Era a repostagem do modelo
+mais enxuto da vez anterior.
+
+Modelo 2 (Rust): 6ms. Medianamente bom. Memória, medianamente ruim.
+
+Fiquei imaginando outras soluções. Tive ideias. Mas desisti.
