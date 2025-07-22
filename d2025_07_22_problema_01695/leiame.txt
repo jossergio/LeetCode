@@ -1,0 +1,33 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 12/06/2022, que eu havia tentando em Python, sem
+sucesso, e tinha feito um modelo, baseado em um desses (que tinha produzido
+estouro de tempo), em GoLang, e que tinha passado.
+
+Não tinha visto que já tinha feito postagem. Então, fiz um modelo em Python,
+achando que me valeria de facilidades da linguagem que, ao final, nem foi tanto
+assim. Em outras palavras: poderia ser em qualquer linguagem, pois,
+especialmente defaultdict, que eu pensei em utilizar, acabei utilizando dict,
+mesmo, pois aquele não me foi tão prático para o caso (não seria bem aplicável).
+
+Em outras palavras, também, fiz um do zero, baseado em minha esperiência, e
+ficou bacana, mesmo.
+
+Antes de registrar, fiz um modelo em Rust, traduzido dessa última em Python,
+bem rapidinho, tanto para exercitar como para demonstrar que as facilidades de
+Python, realmente, não foram tão aplicadas. Se bem que Rust tem as suas.
+
+Modelo 1 (Python 3): 244ms. Mediano. Memória, ruim.
+
+Modelo 2 (Rust): 26ms. Mediano. Memória, mediana. Era a tradução do anterior,
+em Python.
+
+Os códigos que eu vi utilizavam set. O meu, dicionário (hashmap). O meu evitava
+um laço, porém, era necessário um vetor para acumulador.
+
+De toda forma, achei interessante porque era baseado em um estilo de programação
+dinâmica, que tenho uma certa dificuldade, mas que já tinha visto algumas ideias
+na plataforma, especialmente nos seus modelos, em outros problemas/desafios.
+
+Em resumo: meu código aparenta ser mais eficiente por não fazer um laço interno,
+mas utiliza um vetor, fixo, para registrar a acumulação.
