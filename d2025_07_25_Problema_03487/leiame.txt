@@ -1,0 +1,37 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, pois pensei em fazer com linha única em Python, mas a
+plataforma mandou um teste que precisaria de um processamento prévio para evitar
+redundância de processamento (algo prévio para ser utilizado em dois momentos),
+passou.
+
+Após postar, vi que um trecho era repetido duas vezes (resquícios do que falhou)
+e então fiz um segundo modelo.
+
+Ainda tentando ver uma melhoria, vi que uma determinada condição não ocorria em
+todos os testes. Então, fiz um terceiro modelo, retirando uma etapa do segundo,
+sendo aplicada, somente, se foss aplicável no teste individualmente.
+
+Comparando com a ideia da plataforma, posso dizer que meu terceiro modelo era
+um pouco similar. Porém, a da plataforma se resumia a duas linhas, pois fazia
+uma condição em linha única da resposta e eu aplicava essa condição de forma
+normal. Além dessa, para produzir essa resposta com base na condição, eu fiz uma
+compreensão (list comprehension), desnecessária, pois poderia utilizar a própria
+lista de entrada.
+
+Modelo 1 (Python 3): 1ms. Mediano. Memória, excelente quase top.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, ruim. Era o mesmo
+anterior, porém, retirando um código que ficou redunante (criei uma variável
+para ser aplicada em duas etapas, mas utilizei o mesmo código na segunda).
+
+Modelo 3 (Python 3): 0ms. Melhor, impossível. Memória, medianamente ruim. Era
+uma otimização do código anterior, retirando uma parte que só seria executada
+caso uma situação ocorresse no teste.
+
+Não entendi a diferença de uso de memória entre o primeiro e o segundo modelos.
+
+Após começar a registrar, vi que ainda ficou um resquícios de código reduntante.
+Apliquei set em um set. Isso já vinha do primeiro modelo que passou.
