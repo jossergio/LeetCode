@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia não se parecia com nenhuma das ideias da
+plataforma, apesar de ter uma leve aparência com a segunda, em questões de
+atividades. Em termos de lógica, não.
+
+Minha ideia foi bem interessante, no final.
+
+Em C++, pois domino mais e desconfiava que poderia ter problemas, pois me era um
+pouco complexo entender o problema, no início.
+
+23ms. Mediano.
+
+Memória, medianamente ruim.
+
+Vi ideias interessantes, analisando as postagens dos demais.
+
+No final, vi que poderia ter poupado memória e processamento, se tivesse levando
+em conta uma ideia limite. Raciocinei um pouco com XOR e a questão era de OR.
+
+Minha ideia era um mapa acumulador com recursividade. No final, esse acumulador
+era filtrado, para pegar o maior valor, que poderia ser obtido logo no início e
+poderia ser utilizado para ir checando valores, descartando os que não fossem
+aplicáveis.
