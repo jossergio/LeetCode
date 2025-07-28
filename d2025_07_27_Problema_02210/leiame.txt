@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia que, se fosse no notebook, teria ficado um pouquinho menor, pois
+tive que fazer um código redundante para diminuir uma condição complexa (dividi
+em duas partes, mas o código repeti em cada uma).
+
+Após postar, que vi que minha ideia era um pouco mais simples que a da
+plataforma. Essa tinha uns laços internos "extranhos" e o meu era o(n),
+valendo-se de uma variável auxiliar para evitar esses laços.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+O código mostrado em 0ms era uma cópia do da plataforma, incluindo os
+comentários.
