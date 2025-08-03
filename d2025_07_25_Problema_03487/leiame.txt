@@ -35,3 +35,20 @@ Não entendi a diferença de uso de memória entre o primeiro e o segundo modelo
 
 Após começar a registrar, vi que ainda ficou um resquícios de código reduntante.
 Apliquei set em um set. Isso já vinha do primeiro modelo que passou.
+
+=====
+Em 03/08/2025, fiz um modelo em Rust.
+
+Basicamente, era a tradução do terceiro, em Python, porém, utilizando-se de
+estruturas do Rust.
+
+Antes de registrar, resolvi fazer testes com mais estruturas de Rust. Então, fiz
+mais um modelo nessa linguagem.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, muito ruim de horrível. Era
+uma tradução do modelo 3, em Python.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Abusava um
+pouco mais das estruturas de Rust e quase a ideia não vinga (pensei em
+desistir), pois tinha pensado uma coisa e a estrutura da linguagem acabou
+tornando bem complexa. Mas foi um bom exercício, ao final.
