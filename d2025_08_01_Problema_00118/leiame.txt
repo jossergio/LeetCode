@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 19/07/2022, que eu havia feito alguns modelos em
+GoLang, que reapareceu em 08/09/2023 e eu fiz modelos em C++ e que, em
+29/08/2024 em fiz dois modelos em Rust, para exercitar.
+
+Só fiz repostar o modelo Rust mais recente.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Na postagem anterior tinha ficado em 1ms. Coisas da plataforma.
