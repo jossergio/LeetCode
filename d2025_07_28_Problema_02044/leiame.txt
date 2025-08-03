@@ -24,3 +24,12 @@ Minha ideia era um mapa acumulador com recursividade. No final, esse acumulador
 era filtrado, para pegar o maior valor, que poderia ser obtido logo no início e
 poderia ser utilizado para ir checando valores, descartando os que não fossem
 aplicáveis.
+
+=====
+Em 03/08/2025, fiz um modelo em Rust.
+
+Era a tradução do modelo em C++.
+
+15ms. Medianamente ruim.
+
+Memória, medianamente ruim, tendendo para ruim.
