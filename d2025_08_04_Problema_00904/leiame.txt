@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+Fui ajustando uma ideia até postar.
+
+Não teria condições de fazer em tablet ou celular.
+
+Em C++, pois não queria que sintaxes atrapalhassem.
+
+Após um errinho, básico pela certa complexidade, passou. Foi só um ajuste de
+variável.
+
+Porém, antes de registrar, resolvi fazer um modelo em Rust. Basicamente, a
+tradução do em C++.
+
+Problema chatinho.
+
+Modelo 1 (C++): 44ms. Mediano. Memória, ruim.
+
+Modelo 2 (Rust): 13ms. Mediano. Memória, muito ruim. Era a tradução do modelo em
+c++.
+
+Apesar de ver alguns códigos que aparentam simplicidade, a lógica é complexa,
+tanto em uma liguagem quanto na outra.
