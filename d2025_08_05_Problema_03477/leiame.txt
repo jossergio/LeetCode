@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia ficou diferente porque eu desejei que fosse.
+Mas, ao final, a ideia era a mesma, pois continha laço interno que, no meu caso,
+tinha uma condição mais elaborada para sua finalização.
+
+Antes de registrar, e vendo a ideia dos demais participantes, vi que poderia
+dispensar um vetor auxiliar e utilizar o próprio de entrada para ir acumulando
+uma condição. Então, fiz um segundo modelo.
+
+Modelo 1 (Rust): 1ms. Medianamente ruim. Memória, medianamente boa.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, excelente do máximo do top
+dos tops das galáxias. Era o mesmo do anterior, porém, eliminando um vetor
+auxiliar e simplificando, por conta disso, uma condição.
+
+Os códigos em 0 e 4ms era cópias integrais da ideia da plataforma.
