@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, tentei ver uma forma prefixada, que produziu dois erros e várias
+tentativas, por questões do módulo, que não consegui ajustar no acumulado.
+
+Não queria fazer por laço. Depois de relaxar um pouco, voltei ao computador e
+fiz de uma forma um pouco bruta. Acabou passando.
+
+Essa ideia era um pouco similar (base) à primeira da plataforma, com um laço
+dentro de outro, formando o vetor resultado.
+
+Em Rust, para estudar.
+
+19ms. Medianamente ruim.
+
+Memória, muito ruim.
+
+Muitos códigos que vi era cópias fieis da segunda ideia da plataforma (copia e
+cola).
+
+Nenhuma das ideias utilizava prefixador, apesar de a segunda ser uma certa
+variação dessa ideia. Porém, utilizava uma matriz para fazer esse acúmulo. Ou
+seja, no final, era a mesma coisa e ainda utilizava mais memória.
