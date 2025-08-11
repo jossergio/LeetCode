@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 29/07/2023. Só fiz repostar.
+
+Não saberia fazer. Já era uma cópia de uma das soluções da plataforma.
+
+Em C++.
+
+220ms. Ruim.
+
+Memória, medianamente ruim.
+
+Ficou um pouco melhor em tempo que a anterior. Em memória, ficou pior mas pode
+ser coisas do compilador.
