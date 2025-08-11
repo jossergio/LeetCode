@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 26/08/2025, que eu havia feito um modelo em GoLang
+e, antes de registrar, em Python.
+
+Só fiz repostar o modelo em GoLang.
+
+Foi feito pelo notebook só porque eu passei o dia e não havia nem olhado o
+problema do dia. À noite, fui fazer algumas coisas no notebook e lembrei que não
+tinha aberto para ver o problema doi dia. Quando vi que já havia feito, só fiz
+repostar o modelo em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+O tempo ficou igual ao anterior. A memória, mais que o dobro, mas deve ser
+questão do compilador.
+
+Mesmo tendo feito no notebook, só fui registar no dia seguinte.
+
+Um detalhe interessante é que o código em GoLang era muito extenso, eu tive que
+gerar várias funções, mas foi bem eficiente. O em Python eram poucas linhas e
+tudo era resolvido na função de principal. Mas utilizava alguns recursos de
+Python que foram úteis para a redução de código, apesar do tempo ter ficado
+ruim, pois não tinha um ponto intermediário de saída. Testava tudo e, no final,
+verificava se achou, em um laço integral extra.
