@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 24/08/2022, que eu havia feito em Rust.
+
+Porém, resolvi fazer uma nova abordagem. Então, é uma solução relativaemnte
+nova.
+
+8ms. Ruim.
+
+Memória, medianamente ruim.
+
+A versão anterior foi em 19ms.
+
+Na vez anterior, a plataforma me apresentava soluções. Desta vez, não.
+
+Vi postagens, dos demais participantes, similares à minha. Inclusive, a de tempo
+0ms era bem similar. Mudava, somente, um local de um teste. Joguei um teste no
+laço quando poderia ter feito separado e, consequentemente, em momento único.
+
+Porém, não vejo muito como isso influir no tempo. Especialmente dessa maneira.
+Coisas da plataforma.
