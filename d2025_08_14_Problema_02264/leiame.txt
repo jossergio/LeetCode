@@ -1,0 +1,10 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 04/12/2023. Só fiz repostar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+O tempo anterior foi 2ms. A memória aumentou cerca de 50%, mas pode ser coisa de
+atualização de compilador. Tinha sido excelente.
