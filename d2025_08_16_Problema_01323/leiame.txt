@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 07/11/2022, que eu havia feito dois modelos em
+Python 3. Só fiz repostar o segundo, que, inclusive, era de linha única.
+
+Não tive outra ideia.
+
+Em Python 3.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Na postagem anterior, o tempo, para esse modelo, tinha sido 56ms.
+
+A memória, piorou um pouco. Mas pode ser coisa de atualização do interpretador
+da plataforma.
+
+Em 0ms, era o meu código. Porém, não posso afirmar que fosse o meu, pois este
+aparecia em diversos tempos, como 2ms e 4ms.
