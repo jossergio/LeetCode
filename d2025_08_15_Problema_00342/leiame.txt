@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 22/08/2022, que tinha reaparecido em 23/10/2023 e
+que eu tinha feito em C++.
+
+Porém, resolvi fazer uma abordagem um pouco diferente e direto em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+A memória pode ter sido por não gostar de alterar o cabeçalho, para tornar
+mutável o parâmetro, peferindo sombrear. Não sei.
+
+Há uma fórmula matemática, que vi em algumas postagens dos demais participantes,
+porém considerava ser utilizada, somente, para potências de dois.
+
+Em 0ms, era similar ao meu código, mas implememntado de maneira mais "feia".
