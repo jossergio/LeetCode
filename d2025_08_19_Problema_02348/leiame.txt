@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 21/03/2023, que eu havia feito em C++. Só fiz
+respostar.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Na vez anterior, foi em 166ms e já tinha sido medianamente bom e não houve
+abaixo de 115ms (muito menos, 0ms). Coisas da plataforma. Vai entender.
+
+E a memória tinha sido excelente. Mas pode ser atualização de compilador.
