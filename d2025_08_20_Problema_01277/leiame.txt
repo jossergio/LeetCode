@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo computador.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Percebi que seria um pouco trabalhoso. E, de certa forma, o foi.
+
+Após um errinho, por não ter levando em consideração uma certa lógica, passou.
+
+Na realidade, nem antendi a lógica direito. Fiz meio que no tato. E passou. E o
+errinho foi, justamente, por conta de uma bobeira nesse automático ou, na pior
+das hipóteses, nem ter entendido como o meu código funcionava. Sério. Tato.
+
+O conserto do código, após o errinho, foi mera intuição ou chute. Tava meio que
+com preguiça de raciocinar e o costume ajudou.
+
+Em Rust.
+
+3ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Após postar, nem posso fazer comparativos com as ideias da plataforma, pois
+essas se utilizavam programação dinâmica e matriz de acumulação para reduzir
+laços, onde o meu ficou cheio (quatro variáveis para laços aninhados). Talvez
+com a segunda, de uma certa forma, mas era recursiva e a minha interativa e não
+continha acumulador.
+
+Nem posso fazer comparativos com as dos demais participantes, também.
