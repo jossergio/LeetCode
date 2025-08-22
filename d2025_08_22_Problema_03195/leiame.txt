@@ -1,0 +1,17 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, inclusive com
+utilização de funções embutidas para redução de código.
+
+Poderia ter sido pelo tablet ou pelo celular. Mas estava no computador e foi.
+
+Em Rust, para exercitar.
+
+3ms. Medianamente ruim.
+
+Memória, o gráfico não informava o nível, mas foi ruim.
+
+O código em 0ms era bem igualzinho ao meu, alterando, basicamente, o nome das
+variáveis e um pequeno detalhe de implementação de indireção.
