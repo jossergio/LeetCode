@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi a dica que o problema apresentava e tive uma ideia.
+
+Após cinco errinhos, já imaginados, pois o problema demonstrava ser cheio de
+detalhes e possibilidades, passou.
+
+Após postar, vi que a ideia da plataforma era um padrão bem simples e o meu era
+cheio de complexidades, apesar de coerente e no padrão O(n). Ficou um pouco
+extenso.
+
+Em Rust, para mostrar que já posso fazer desafios mais complexos nesse
+linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, muito boa.
+
+O código que vi em 0ms era complexo só porque parecia de principiante, mas
+aparentava seguir o mesmo princípio do modelo da plataforma.
