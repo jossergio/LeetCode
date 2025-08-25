@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era um pouco prolixa e nem se parecia com as da
+plataforma.
+
+A primeira ideia utilizava um conceito bem simples, que eu poderia ter
+imaginado, mas nem pensei. A segunda era um pouco prolixa e dependia de um
+raciocínio mais elaborado.
+
+Desde o início, percebi que, conforme minha forma de pensar, seria um problema
+cheio de detalhes.
+
+Após um errinho, justamente por questão de detalhes, passou.
+
+Em Rust, para exercitar e fixar a linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+A solução em 0ms também era um pouco prolixa e complexa. Apesar de lembrar um
+pouco a forma como pensei, foi implementado de uma maneira diferente.
+
+Vi outros códigos complexos, também. O problema não era muito intuitivo, apesar
+de a ideia primeira da plataforma direcionar para ser.
