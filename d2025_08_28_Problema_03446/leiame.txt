@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que era a mesma ideia da plataforma, apesar de eu ter feito uma
+implementação um pouco diferente por que minha imaginação não me permitiu
+raciocinar sem uma variável auxiliar, apesar de que tentei.
+
+Era um problema que pode causar confusão mental, tendo que ter atenção.
+
+Em Rust, para estudar.
+
+0ms. Melhos, impossível.
+
+Memória, mediana.
+
+A questão da memória é compreensível, pois tive que utilizar variáveis
+auxiliares.
+
+No geral, os códigos eram semelhantes. Mas houve postagem complexa.
