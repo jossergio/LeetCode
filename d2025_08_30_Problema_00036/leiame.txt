@@ -1,0 +1,17 @@
+Direto no LetCode e pelo tablet.
+
+Era o mesmo problema do dia 20/08/2021 (que ficou registrado no dia 21,
+seguinte), que eu havia feito em Python 2. Não sei o porquê, havia um modelo de
+testes em GoLang, que não fo postado, na mesma pasta.
+
+Esse problema reapareceu em 23/11/2022 e eu fiz em GoLang, de uma forma
+totalmente nova.
+
+Só fiz repostar o modelo em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Na postagem anterior, tinha ficado em 9ms. A memória aumentou bastante, mas pode
+ser coisa de autlização de compilador. Na vez anterior, estava no topo do topo.
