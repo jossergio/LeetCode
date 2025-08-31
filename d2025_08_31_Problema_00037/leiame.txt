@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 21/08/2021, que eu havia feito em Python 2.
+
+Porém, repostei, pelo tablet, e apresentou estouro de tempo.
+
+Então, fui para o notebook fazer um modelo novo.
+
+É um problema chatinho. Mas utilizei outros conceitos diferentes do anterior.
+
+Em Python 3, para utilizar algumas facilidades da linguagem e atualizar a
+linguagem.
+
+2019ms. Mediano.
+
+Memória, mediana.
+
+Não há como comparar com a versão anterior, pois são linguagens tecncnicamente
+diferentes.
+
+Muitos códigos que vi eram bem similares ao meu, apesar de que alguns utilizavam
+uma implementação um pouco diferente.
+
+Em 21ms, o menor tempo que eu vi, era só mudar alguns pontos de organização do
+código; detalhes.
+
+Foi bacana para estudar certas estruturas e situações de Python 3.
