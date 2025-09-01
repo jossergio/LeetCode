@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu tive que olhar para ver se eu
+tinha alguma ideia, pois, inicialmente, achei que era uma situação, tentei fazer
+de modo direto com Rust, fiz simulações no Excel, essas simulações bateram com
+os valores dos resultados dos testes básicos da plataforma, mas eu não consegui
+aprofundar uma solução.
+
+Apesar de, em termos de conceito ter entendido, olhar as soluções da plataforma
+ajudaram, inclusive, a estudar tanto lógica quanto estruturas avançadas de C++.
+
+Antes de registrar, vendo as postagens dos demais, vi que poderia simplificar,
+um pouco, o uso da memória e utilizar estrutuas mais simplificadas. Então, fiz
+um segundo modelo, que não ficou bom em tempo, e, em seguida, um terceiro,
+visando otimizar o tempo.
+
+Modelo 1 (C++): 300ms. Medianamente bom. Memória, medianamente boa. Era baseado
+no segundo modelo da plataforma.
+
+Modleo 2 (C++): 333ms. Medianamente ruim. Memória, muito boa. Era um ajuste do
+anterior, visando melhorar o uso da memória com estruturas mais simplificadas.
+
+Modelo 3 (C++): 290ms. Medianamente boa. Memória, medianamente boa. Era mais um
+ajuste, visando otimizar o tempo, modificando o acesso nas estruturas do modelo
+anterior.
+
+O primeiro modelo da plataforma, conforme indicado por ela, apresentaria
+estouro de tempo. Mas, ainda assim, era um bom estudo.
+
+Essa eu tinha imaginado, nas simulações no Excel, mas já desconfiava que, além
+de implementação absurda, teria uma tendência a estourar o tempo.
