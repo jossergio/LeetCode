@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+minha ideia era matemática, enquanto à da plataforma, apesar de utilizar um
+conceito de busca similar, ficava fazendo conversões para string.
+
+Em Rust, para exercitar, apeasar de não utilizar conceito rustiano algum.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Em 0ms, a plataforma me mostrava um código IDÊNTICO ao do modelo dela. Típico
+ctrl c v.
+
+Analisando o gráfico com base na memória, as duas primeiras barras continham
+um código IDÊNTICO e igual ao da plataforma. Interessante essa diferença.
+
+O meu código estava, inclusive, na primeira barra. Ou seja: mesmo fazendo
+conversões e utilizando strings, o tempo e a memória pareceu não alterar muito.
+
+De toda forma, o conceito do meu código e o meu próprio código considerei bem
+interessante e mais elegante.
