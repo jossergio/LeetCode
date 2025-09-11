@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 13/11/2023, onde eu tinha feito três modelos em
+Python 3 e dois em C++.
+
+Apesar de imaginar formas de fazer mais eficiente, antes de ver as postagens
+anteriores, não tive ideia melhor que as que já estavam postadas.
+
+Então, só fiz repostar a de tempo menor em C++.
+
+Em C++.
+
+30ms. Ruim.
+
+Memória, ruim.
+
+Coisas interessantes: ficou com tempo bem melhor que a postagem anterior;
+analisando as postagens dos demais, muitos códigos eram bem similares ao meu e
+outros bem piores, porém com tempo bem melhor.
+
+Em 0ms, havia uma ideia bem interessante, que não dependia de ordenação, apesar
+de consumir memória desnecessariamente. Porém, memória do tipo O(1) e tempo do
+tipo O(n), apesar de repetir algumas interações.
