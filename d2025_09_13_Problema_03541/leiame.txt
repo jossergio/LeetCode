@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, não há muito o que fazer de comparativo, pois o modelo da
+plataforma, para Python 3, era por redução de linhas, e poderia ter ficado um
+pouco menor, mas fazia duas passagens para contagem, de forma individual para
+cada etapa.
+
+A minha ideia era direta, com uma passada só.
+
+Em Python, para aproveitar estruturas.
+
+2ms. Medianamente bom.
+
+Memória, posso dizer excelente.
+
+No geral, todos utilizavam uma ideia parecida.
+
+Meu código era o menor, em relação aos que vi dos demais participantes. Mas o da
+plataforma era menor ainda.
+
+Pensei em fazer um modelo em Rust, mas, fica para depois.
+
+Tabém pensei em fazer outros modelos. Mas fica para outro momento.
