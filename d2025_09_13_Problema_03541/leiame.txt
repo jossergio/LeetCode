@@ -23,3 +23,22 @@ plataforma era menor ainda.
 Pensei em fazer um modelo em Rust, mas, fica para depois.
 
 Tabém pensei em fazer outros modelos. Mas fica para outro momento.
+
+=====
+Em 14/09/2025, fiz modelos em Rust.
+
+Era, mais, para exercitar, testar e brincar.
+
+Como iria utilizar mapa, fiz o preparo por duas formas, para fazer testes. A
+diferença entre elas fica como comentário na outra, pois, nos testes
+preliminares, fiz com os dois.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, mediana. Utilizava o método
+entry e seus agregados para montar o mapa.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, excelente. Utilizava o
+método get e seus agregados, juntamente com o insert, para montar o mapa.
+
+Apesar de o LeetCode não ser uma boa plataforma para testes de desempenho,
+parece que utilizar o conjunto get e insert acaba sendo mais eficiente no uso da
+memória.
