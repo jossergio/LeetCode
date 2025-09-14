@@ -1,0 +1,52 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o típico problema que eu só conseguiria fazer em computador, apesar de que
+ao final, com as ideias mais claras, vi que poderia ser mais simples.
+
+Após um estouro de tempo. Passou.
+
+Havia laços sendo feitos (refeitos) a cada iteração. Após jogar em uma variável
+o valor que seria produzido mais de uma vez, passou.
+
+Após postar, vi que minha ideia evitava ciclos. Porém, a da plataforma, apesar
+de se basear na prioridade, também poderia repetir esses ciclos.
+
+Em Python 3, para aproveitar recursos da linguagem.
+
+Apesar de tudo, a minha ficou com um aspecto mais complexo para Python.
+
+Antes de registrar, analisei fazer um modelo, com características mais próximas
+que pudessem simplificar (diga-se, diminuir) o código. Então, fiz um segundo
+modelo. Enxugou cerca de dez linhas.
+
+Modelo 1 (Python 3): 7562ms. Horrível. Memória, no topo dos topos dos tops das
+galáxias.
+
+Modelo 2 (Python 3): 3286. Horrível. Memória, no topo dos topos dos tops das
+galáxias. Um pouco melhor que o anterior. Não sei como a plataforma as puseram
+no limite inicial do gráfico. Era um aleve modificação no código anterior, de
+forma a diminuir um pouco o código, aproveitando, de alguma forma, a questão de
+prioridade do enunciado do problema.
+
+As ideias que eu vi, incluindo as da plataforma, utilizavam dicionários. A minha
+utilizava listas comuns.
+
+As ideias que eu vi, incluindo as da plataforma, utilizavam chamadas a funções
+para evitar laço aninhado (o laço interno ficava na função). A minha era com
+laços embutidos.
+
+Fazendo um comparativo mental, era para minha ideia ter uma boa colocação, pois
+essas outras ideias acabavam, também, sendo redundantes. Além disso, utilizar
+dicionários é um pouco lento, no uso das chaves.
+
+O meu primeiro caso era O(n x m), apesar de, em todas as ideias, haver um
+preparo antes da busca pela resposta e sua montagem.
+
+No modelo da plataforma para a linguagem Python, era utilizado um recurso com
+a função embutida map que achei bem interessante, apesar de não ser uma situação
+que fosse otimizadora. Mas ajudava a enxugar o código.
+
+Ainda pensei em fazer um terceiro modelo, utilizando estruturas que auxiliassem
+a diminuir ainda mais o código. Mas já foi o suficiente para estudos.
