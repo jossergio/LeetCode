@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo tablet.
+
+Tive uma ideia, que passou de primeira.
+
+Em Python 3, para utilizar facilidades da linguagem.
+
+3ms. Medianamente ruim.
+
+Memória, mediana.
+
+A questão do tempo pode ter sido coisa da plataforma. Apesar de ser por
+implementações diferentes, os códigos que vi, incluindo em 0ms, são bem
+parecidos com minha ideia.
