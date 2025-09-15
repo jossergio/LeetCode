@@ -21,3 +21,33 @@ outros bem piores, porém com tempo bem melhor.
 Em 0ms, havia uma ideia bem interessante, que não dependia de ordenação, apesar
 de consumir memória desnecessariamente. Porém, memória do tipo O(1) e tempo do
 tipo O(n), apesar de repetir algumas interações.
+
+=====
+Em 15/09/2025, fiz modelos em Rust.
+
+Basicamente, uma tradução do modelo em C++.
+
+Porém, após postar o primeiro modelo e ver as postagens dos demais, decidi fazer
+um modelo mais Rust de ser. Então, fiz um segundo modelo.
+
+Modelo 1 (Rust): 11ms. Medianamente ruim. Memória, ruim. Era um modelo que,
+apesar de utilizar alguns recursos da linguagem Rust, não era bem rusticiano.
+
+Modelo 2 (Rust): 13ms. Ruim. Memória, medianamente ruim. Era uma conversão do
+modelo anterior, porém, deixando o mais rusticiano e, consequentemente, com
+menos linhas.
+
+Vendo as postagens dos demais foi bem interessante ver a utilização dos recursos
+e a própria estrutura das estruturas de Rust.
+
+Só ficou com mais linhas porque desmembrei uma, a última, em mais de uma, para
+não ficar tão grande.
+
+Ainda pensei em fazer testes com estruturas diferentes. Porém, em termos de
+lógica, ficaria no mesmo, apesar de valer a pena brincar. Mas deixei para outras
+oportunidades.
+
+As postagens dos demais não eram assim tão diferentes. Só formas de utilizar
+recursos da linguagem.
+
+No geral, foi um bom estudo de Rust.
