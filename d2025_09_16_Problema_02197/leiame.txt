@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Tive uma ideia e seria um pouco coplicada fazer em Rust, como desejei, em
+aparelho pequeno. Se fosse em C++, talvez. Então, fui para o notebook.
+
+Após um errinho, por desconfiar que haveria, pois Rust é chato com isso, passou.
+
+O errinho era que, apesar de o padrão da resposta ser dentro de i32, os cálculos
+intermediários, dentro das próprias fórmulas, poderiam estourar isso.
+
+Em Rust, para exercitar e firmar conhecimento.
+
+11ms. Medianamente bom.
+
+Memória, medianamente boa.
+
+Os códigos que vi utilizavam break, o que só acho interessante usar em lógica
+tosca.
+
+O tempo lento, talvez, seja por fazer um cálculo duas vezes. Talvez se eu
+utilizasse alguma variável temporária, poderia melhorar isso. Mas, há, também,
+a questão da própria plataforma.
+
+Um dos códigos que vi, que tinha estrutura até simples, apesar de também
+utilizar break, de alguma forma, fazia isso, priorizando o uso desse cálculo
+em variável. Bem interessante. Poderia ter raciocinado assim.
+
+Mas, o importante é que passou. Fica para uma outra vez.
