@@ -1,0 +1,22 @@
+Direto no LeetCode.
+
+Nem sonhando conseguiria fazer fora do notebook.
+
+Após um errinho, por bobeira, pois montei a estrutura como 0-begin e tinha visto
+que o problema citava 1-begin explicitamente e reforçado, passou.
+
+Em Rust, para exercitar. Mas iniciei pensando em C++. Porém, além do desafio,
+haveria formas estruturais mais interessantes para utilizar, apesar de a
+linguagem ter questões sistemáticas.
+
+26ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Vendo as postagens dos demais, vi aplicações interessantes de recursos de Rust,
+além de formas interessantes de implementações. Coisas como transformar tudo em
+um vetor único, calculado com base na grade, a só utilizar valores conforme
+fossem sendo inseridos (HashMap puro), para não gerar a grade logo de início.
+
+Era um problema complexo, pois envolvia diversos conceitos e temas, incluindo
+interpretadores/analisadores.
