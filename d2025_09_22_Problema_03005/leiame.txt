@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 08/03/2024, que eu havia feito em Python 3.
+Inicialmente, só fiz repostar.
+
+Porém, resolvi fazer uma nova abordagem, tentando reduzir o número de linhas.
+Então, fiz um segundo modelo.
+
+Aproveitei, também, para fazer um modelo em Rust, para estudar e ver como seriam
+as postagens dos demais participantes. Ficou um modelo um pouco Rust de ser,
+apesar de ficar, basicamente, na utilização das estruturas.
+
+Modelo 1 (Python 3): 0ms. Melhor, impossível. Memória, quase excelente. Era a
+repostagem da postagem anterior.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, medianamente ruim.
+Utiliza um conceito um pouco diferente do anterior ao mesmo tempo que tentava
+reduzir o número de linhas, apesar de o problema não comportar isso.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, quase excelente. Mantidas as
+proporções, e a não utilização de um recurso natural de Python 3, era a tradução
+do segundo modelo acima.
+
+Na vez anterior, tinha ficado em 31ms e havia uma indicação de que nenhum código
+tinha ficado abaixo de 15m. Mas deve ser coisas da plataforma ou de novidades
+do interpretador.
+
+Ainda em Python 3, o exemplo que era apresentado em 0ms era bem similar ao meu,
+apesar de uma leve diferença na forma da implementação, utilizando, também, três
+linhas.
+
+Em Rust, parece que só houve 0ms e o modelo mostrado era uma forma similar à
+minha ideia, apesar de utilizar uma implementação com conceitos levemente
+diferente, ficando com menos linhas.
