@@ -1,0 +1,15 @@
+Direto no LeetCode.
+
+Estava no notebook, então, foi nele.
+
+Era o mesmo problema do dia 25/02/2022 e que tinha reaparecido em 03/05/2024 e
+que eu tinha feito uma versão totalmente nova. Só fiz repostar essa última. Não
+tive ideia melhor.
+
+Em Python 3.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Na postagem anterior tinha ficado em 33ms e estava mediano.
