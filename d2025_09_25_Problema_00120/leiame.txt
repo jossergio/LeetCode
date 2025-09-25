@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Como já estava no notebook, foi por ele.
+
+Era o mesmo problema do dia 13/06/2022, que eu havia feito em GoLang. Só fiz
+repostar.
+
+Imaginei fazer um segundo modelo, mas já considerei suficiente.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Na postagem anterior, o tempo foi 11ms e horrível. E a memória era indicada como
+horrível, mas nesse momento estava como no topo, na plataforma.
+
+De toda forma, a memória aumentou muito. Mas pode ser coisas de atualização de
+compilador.
