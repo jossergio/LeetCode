@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 12/10/2022, que eu havia feito em GoLang, em C++ e
+até em Rust.
+
+Mas não tinha observado isso e fiz como se fosse inédito.
+
+Após um estouro de tempo, pelos mesmos motivos de ter havido na vez anterior,
+passou.
+
+Após postar, vendo a solução dos demais, vi que poderia se resumir a uma ideia
+mais lógica e mais direta. Então, fiz um segundo modelo, seguindo essa ideia.
+
+A plataforma ainda me apresentava uma solução, como da vez anterior.
+
+Modelo 1 (Rust): 2ms. Medianamente ruim. Memória, medianamente boa. Era uma
+forma meio "burra" de fazer, ainda ficando com O(n log n), na parte principal,
+mas tinha um ordenamento antes, por função embutida, que deve ser O(log n).
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, ruim. Acho que uma ideia de
+jogar valores em variáveis simples, para melhor visualizar o código, predudicou
+o uso de memória. Esse modelo era O(n), na parte principal, mas ainda tinha a
+questão de ordenar, em uma etapa preliminar.
