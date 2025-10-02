@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Era um problema que exigia um pouco de raciocíncio, apesar de simples e com um
+aspecto matemático. Poderia ter feito no tablet, apesar de ser bem mais prático
+no computador/notebook.
+
+Após postar, posso dizer que a minha ideia pode ser comparada à primeira da
+plataforma.
+
+A segunda ideia da plataforma envolvia um aspecto puramente matemático de função
+do segundo grau, onde os coeficientes eram ajustados de acordo com os
+parâmetros.
+
+Em Rust.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+O modelo apresentado em 0ms era IDÊNTICO à segunda solução da plataforma. Em
+1ms, idêntico ao primeiro.
