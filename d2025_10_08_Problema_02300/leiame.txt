@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 02/04/2023, que eu havia feito em Python 3.
+
+Na época, fiz utilizando ideias da plataforma. Porém, desta vez, não me eram
+mostradas.
+
+Poderia ter feito no tablet. Mas fiquei achando que o problema era mais simples
+e poderia ser feito em um estilo melhor. Então, fui para o notebook. Mas vendo
+que, na postagem anterior, houve muitos estouros de tempo, resolvi simplesmente
+repostar.
+
+Em Python 3.
+
+288ms. Medianamente bom.
+
+Memória, muito ruim.
+
+Na vez anterior, tinha ficado em 1366ms e o tempo foi mediano.
+
+A memória, piorou. Mas pode ser coisa de atualização.
+
+De toda forma, vou deixar para outro momento ver uma forma mais bacana de se
+fazer.
