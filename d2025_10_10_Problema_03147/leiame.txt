@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Poderia ter feito no tablet ou no celular. Mas esperei estar no notebook para
+pensar melhor.
+
+Tive uma ideia com um memo e recursividade. Porém, após postar, vi que a ideia
+da plataforma utilizava uma forma interativa, com um raciocínio reverso, bem
+interessante. Apesar de utilizar dois laços e um acumulador, poupava memória.
+Além disso, o laço não era n x n, pois havia um incremento que evitava passar
+por todo o vetor a cada interação.
+
+Em Rust, para exercitar.
+
+30ms. Medianamente ruim.
+
+Memória, ruim.
+
+De início, tive um trabalhão pois estava utilizando uma variável de índice no
+lugar da correta. Após muitos debugs, com print, passou.
