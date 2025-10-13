@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o problema do dia 11/10/2025, que eu havia ficado encucado por não conseguir
+resolver, depois de uma resposta errada e de um estouro de tempo.
+
+Após novo estouro de tempo, tive a ideia de utilizar um memo e já tinha visto
+uma forma de não precisar aprodundar os cálculos, limitando os testes.
+
+Em Python, para aproveitar a simplicidade e as estruturas.
+
+683ms. Mediano.
+
+Memória, ruim.
+
+A ideia da plataforma utilizava programação dinâmica, com um código que não
+consegui interpretar muito a ideia, apesar de entender o conceito.
+
+O gráfico ficou bem distribuído, mas com picos e vales, por um período que
+passava dos 1200ms.
+
+Prometi que não mais iria comentar sobre os gráficos. Mas dessa vez foi
+interessante.
