@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que qualquer ideia seria de alguma forma semelhante. Porém,
+tentei utilizar estruturas. O código da plataforma aparentava ser mais complexo
+e mais lento.
+
+Após postar, vendo as ideias dos demais, notei que poderia melhorar um pouco
+o código. Então, fiz um segundo modelo.
+
+Modelo 1 (Python 3): 23ms. Medianamente ruim. Memória, ruim. Utilizava
+facilidades de Python. Porém, fazia uma sobrecarga.
+
+Modelo 2 (Python 3): 0ms. Melhor, impossível. Memória, mediana. Era um código
+mais simples e mais otimizado, quase não utilizando estruturas.
+
+Não sei porque o segundo modelo ainda ficou com tanta memória.
+
+No modelo da plataforma, algumas ideias bem interessantes de como utilizar
+alguns conceitos de Python 3 em um algoritmo de aparência bem geral.
