@@ -1,0 +1,20 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após dois errinhos (coisas previsíveis mas que não previ, da plataforma),
+passou.
+
+Após postar, vi que a ideia da plataforma era bem interessante, com uma variável
+para um valor intermediário.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória medianamente ruim.
+
+O código mostrado em 0ms tinha uns conceitos interessantes na implementação,
+valendo-se de um acumulador (para contagem).
+
+O código mostrado em 2ms era cópia integral do modelo da plataforma.
