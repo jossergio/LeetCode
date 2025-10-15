@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Era o problema do dia 05/10/2025, que eu havia ficado encucado em não ter feito,
+após quatro erros (um deles, estouro de tempo).
+
+No dia seguinte, tive uma outra ideia, mais simples. Porém, não tive sossego
+nos dias seguintes para tentar.
+
+Em Python 3, para aproveitar as facilidades da linguagem.
+
+55ms. Ruim.
+
+Memória, péssimo.
+
+Vendo as postagens dos demais, vi códigos interessantes e outros nem tanto. Mas
+foi um bom estudo tanto da linguagem quando de lógica de programação.
+
+Meu código não é ruim. Mas Python 3 tem um monte de facilidades que ainda
+preciso lembrar de utilizar. Não só de estruturas, mas da própria sintaxe.
