@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era um problema chatinho para se fazer pelo tablet ou no celular. Mas lembrava o
+problema do dia anterior.
+
+Após três errinhos (tive dificuldade de entender a lógica e de me lembrar da
+solução apresentada pela plataforma), passou.
+
+Não ficou igual. Ficou, até, complexo e meio redundante. Mas tinha um princípio
+parecido.
+
+23ms. Mediano.
+
+Memória, mediana.
+
+Não vi como evoluir minha ideia do dia anterior para fazer esse. Mas ter visto a
+solução da plataforma desse dia trouxe-me uma ideia. Só que dificultei bastante.
+
+As soluções que vi (só pude ver duas) eram cópias fieis da ideia da plataforma.
