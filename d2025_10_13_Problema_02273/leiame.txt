@@ -19,3 +19,31 @@ Não sei porque o segundo modelo ainda ficou com tanta memória.
 
 No modelo da plataforma, algumas ideias bem interessantes de como utilizar
 alguns conceitos de Python 3 em um algoritmo de aparência bem geral.
+
+=====
+Em 19/10/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do segundo modelo em Python 3, com os devidos ajustes,
+claro, e tentando fazer um código bem rusticiano.
+
+Após postar, vi que tinha deixado código para depuração. Então, fiz uma segunda
+postagem, sem a linha que imprimir valores.
+
+Modelo 3 (Rust): 16ms. Horrível de muito ruim. Memória, medianamente ruim.
+
+Modelo 4 (Rust): 1ms. Medianamente ruim. Memória, muito horrível de ruim. Ficou,
+não sei o porquê, um tantinho maior que o anterior, cuja diferença foi, só,
+tirar uma linha de impressão de depuração.
+
+Demorei um pouco porque codificar em Rust é chato pacas, cheio de detalhes e de
+frescuras de sintaxe, apesar de também ser bacana.
+
+O código apresentado em 0ms no gráfico era bem rusticiano mesmo e só não ficou
+em uma linha porque precisou definir uma variável auxiliar. Mas acabava sendo um
+algoritmo bem interessante e com uma lógica bacana.
+
+O código em 1ms era mais complexo e tinha um aspecto de que seria lento.
+
+Vi alguns códigos que, apesar de serem de linha única, acabavam sendo
+redundantes, por incrível que pareça, e/ou utilizando estruturas que podem
+tornar o código mais lento.
