@@ -22,3 +22,28 @@ A memória, piorou. Mas pode ser coisa de atualização.
 
 De toda forma, vou deixar para outro momento ver uma forma mais bacana de se
 fazer.
+
+=====
+Em 20/10/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em Python 3. Porém, tentei fazer de modo
+rusticiano, apesar de nem tanto.
+
+Após um errinho, porque evitei utilizar um laço decrescente, pois Rust não trata
+com negativos e no original, em Python, era assim, então tive que adaptar a
+ideia, passou.
+
+Demorei porque estava difícil raciocinar. Mas consegui. Era, só, inverter o
+sentido. Mas, mesmo assim, o cérebro não fluía.
+
+19ms. Medianamente ruim.
+
+Memória, muito ruim.
+
+Fiquei, depois, tentando imaginar um modelo bem rusticiano, mesmo. Mas o
+problema não era muito sequencial na solução.
+
+Os códigos que vi, mesmo os mais diretos, com menos linhas e mais rusticianos,
+tinham passagens intermediárias. E, mesmo assim, ainda tinham um laço
+intermediário, que o meu código tentava evitar. Ou seja: podem ser considerados
+semelhantes aos meus primeiros códigos em Python e que estouraram o tempo.
