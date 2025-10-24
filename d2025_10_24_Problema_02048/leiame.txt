@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Tive uma ideia que, considerando o LeetCode, poderia estourar o tempo, pois
+utilizava mapa e poderia se estender muito. Porém, passou sem problemas.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma.
+
+Em Rust, para treinar.
+
+504ms. Não houve como estabelecer uma qualidade, pois o gráfico da plataforma
+não mostrava.
+
+Memória, excelente top dos topos das galáxias.
+
+A segunda ideia da plataforma era baseada em uma ideia bem interessante, por
+limitações implícitos no próprio problema, porém não muito fácil de inferir,
+pois não era estabelecido um valor final. Consistia em montar uma lista
+(trabalho braçal, mesmo), com todos os possíveis resultados e fazer uma busca,
+que, no modelo em C++ mostrado, utilizava uma função da própria linguagem e,
+em outras linguagens, uma busca binária (pois a lista já era montada de forma
+ordenada).
+
+Ou seja: essa ideia eu não faria nunca.
+
+Um fato interessante: Rust pode fazer um laço, teoricamente, ao infinito. E fiz
+questão de fazer o laço dessa forma, indicando só o valor inicial, pois, ao
+encontrar um valor de resposta, e haveria, não precisaria continuar.
