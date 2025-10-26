@@ -13,3 +13,21 @@ poco intuitivas de imediato.
 
 Memória, com a maioria, apesar de alto.
 
+=====
+Em 26/10/2025, fiz modelos em Rust.
+
+Inicialmente, utilizei HashMap, pois, basicamente, fiz a tradução do modelo em
+GoLang.
+
+Em seguida, vi que poderia utilizar conjunto (HashSet). Então, fiz um segundo
+modelo.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, ruim. Basicamente, a tradução
+do modelo em GoLang, utilizando HashMap.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, ruim. O mesmo modelo
+anterior, só que utilizando HashSet.
+
+Aparentemente, não houve diferenças, especialmente na utilização de memória, em
+ambos os modelos. De modo refinado, o com HashSet era um pouquinho maior, apesar
+de eu não entender o porquê.
