@@ -21,3 +21,32 @@ leve e discreta saliência. Houve uma gramínea, irregular, a partir de 33ms e
 outra após a concentração e até 270ms, onde ficou uma gramínea bem irregular até
 perto do final do gráfico, onde houve a gramínea no entorno de 1400ms.
 
+=====
+Em 26/10/2025, fiz um modelo em Rust.
+
+Basicamente, a tradução do modelo em Pyhon 3.
+
+Demorei um pouco porque Rust é chato pacas nas tipagens e na utilização de suas
+estruturas e eu queria, assim como ficou em Python 3, em linha única.
+
+Além disso, era para estudar a linguagem e exercitar.
+
+Após postar, vendo as postagens dos demais, vi que poderia utilziar uma
+abordagem matemática, utilizando conceitos de P.A. Então, fiz um segundo modelo.
+
+Esse segundo modelo não ficou em linha única por uma questão: eu precisava do
+tamanho do vetor de entrada duas vezes na fórmula. Então, criei uma variável
+para guardar esse valor.
+
+Modelo 2 (Rust): 3ms. Ruim. Memória, medianamente ruim. Basicamente, um modelo
+em linha única assim como foi o modelo em Python 3, utilizando conceitos de
+conjuntos (set).
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, muito excelente. Utilizava
+conceitos matemáticos. Acho que a memória só não foi melhor por conta da
+variável "temporária" para guardar o tamanho do vetor.
+
+O código visto em 0ms, no qual eu me baseei para o segundo modelo, não era tão
+rusticiano. O meu, era. Além disso, era um pouco redundante, criando variáveis
+para, simplesmente, serem utilizadas em uma fórmula final. Ou seja: extenso e
+utilizando variáveis sem necessidade.
