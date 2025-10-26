@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+minha ideia era similar à da plataforma.
+
+Aliás, todas as postagens dos demais tinham que ser similares, pois não envolvia
+algoritmos e sim uma dificuldade para o gerenciamento de dados.
+
+Apesar de aparentar facilidade, fui para o notebook, pois envolvia questões de
+estruturas de objetos e eu resolvi me testar em Rust.
+
+Após um errinho, pois achava que uma condição seria necessária (coisas do
+LeetCode), em um teste de destinação para mesma conta de origem (o problema
+falava em contas bancárias), o que, para a plataforma seria possível (e eles
+mandaram testes direcionados para isso), passou.
+
+Em Rust, para praticar.
+
+15ms. Medianamente ruim.
+
+Memória, mediana.
+
+Apesar da aparente simplicidade, pois bastaria um vetor na estrutura e um
+gerenciamento simples para cada método embutido, vi alguns códigos que
+complicaram, criando estruturas adicionais ou utilizando HashMap.
