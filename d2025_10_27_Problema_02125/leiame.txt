@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 03/01/2024, que eu havia feito três modelos em C++.
+
+Inicialmente, só fiz repostar, o último, pois não tive ideia melhor.
+
+Porém, quando fui registrar, resolvi fazer um modelo em Rust e que fosse bem
+rusticiano, utilizando a ideia de linha única, apesar de dividida em linhas.
+Então, fiz um segundo modelo.
+
+Ainda desejando testar minhas capacidades em Rust, fiz um terceiro modelo, um
+pouco mais complexo, dividindo tarefas em trechos diferentes, formando uma
+especialização, mas mantendo a condição de linha única, apesar de dividida.
+
+De toda forma, esse segundo modelo em Rust foi bacana para testar capacidade.
+
+Modelo 1 (C++): 13ms. Medianamente ruim. Memória, medianamente boa. Era,
+simplesmente, uma repostagem.
+
+Modelo 2 (Rust): 1ms. Mediano. Memória, quase excelente. Era uma versão bem
+rusticiana da tradução do anterior, estruturado em linha única, apesar de
+dividida. Se eu fosse raciocinar, teria feito, primeiro, um modelo mais geral
+para depois converter.
+
+Modelo 3 (Rust): 1ms. Mediano. Memória, mediana, apesar de diferença pouco para
+o anterior. Era uma revisão do primeiro modelo em Rust, um pouco mais complexo,
+porém, um pouco mais direto na tipagem e para estudos da sintaxe e das
+estruturas da linguagem.
+
+Na postagem anterior do modelo em C++, o tempo tinha ficado em 84ms.
