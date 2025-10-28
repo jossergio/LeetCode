@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que:
+
+1- A ideia 1 da plataforma era uma imaginação que eu tinha feito, com base na
+própria estruturação do problema. Porém, apesar de ser possível, demandaria
+tempo de execução e eu desisti. Passaria, pois os parâmetros eram pequenos.
+
+2- A ideia 2 da plataforma era um pouco similar à minha ideia, apesar de que eu
+compliquei demais (detalhes). Como não tinha tempo de ficar raciocinando,
+estiquei o código com algumas possibilidades preliminares.
+
+Apesar de a plataforma indicar que era um problema fácil, desconfidei de que
+teria aqueles detalhes da própria plataforma. Então, fui para o notebook.
+
+E, realmente, teve.
+
+Após dois errinhos (aqueles detalhes), passou.
+
+Vendo as ideias da plataforma e as postagens dos demais, resolvi fazer um
+segundo modelo, para ter um código mais simples.
+
+Em Rust, para brincar com as estruturas da plataforma. E brinquei.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, excelente. Era um código um
+pouco grande.
+
+Modelo 2 (Rust) 0ms. Melhor, impossível. Memória, excelente e um pouquinho
+melhor que o anterior. Era um código mais direto e simplificado e baseado nos
+códigos que vi tanto da plataforma como dos demais.
+
+O código mostrado em 0ms era a cópia fiel do segundo modelo da plataforma.
+
+Os de maior tempo que vi eram cópia fiel da primeira ideia da plataforma.
+
+Em algum momento, abusei um pouco das possibilidades de Rust.
