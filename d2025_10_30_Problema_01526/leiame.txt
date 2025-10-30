@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após dois errinhos (excedeu o tempo), analisei melhor o problema e tive outra
+ideia. Então, refiz o código e passou.
+
+Vi pelo tablet e fui para o notebook, pois tanto a plataforma indicava que era
+um problema complexo, apesar de o percentual já ser acima de 80% de sucesso,
+como sabia que teria um certo trabalho, especialmente na primeira abordagem.
+
+Para a segunda, bem mais simples, se eu tivesse imaginado logo, teria feito
+direto no tablet.
+
+Também após postar, vi que minha ideia era bem similar à da plataforma, apesar
+de uma leve diferença na implementação de uma condição.
+
+Em Rust, para praticar, apesar de que não utilizei nada exclusivo.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+A plataforma fazia uma boa explanação dos conceitos utilizados. Eu passei
+direto. Imaginei, implementei, testei e foi.
+
+Minha ideia original fazia laços dentro de laços e que, apesar de haver
+estrutura para otimziação, era muitos, mesmo. Até porque incrementava tudo um a
+um, dentro de um trecho.
+
+A ideia que passou utilizava conceitos mais diretos e por diferenças de valores.
+Ou seja: O (n).
+
+Em 0ms, cópia fiel da ideia da plataforma.
+
+Em 3ms, vi uma ideia de linha única bem interessante, utilizando, inclusive, o
+conceito de condição utilizado na ideia da plataforma. Mas fica para um outro
+momento tentar implementar assim.
