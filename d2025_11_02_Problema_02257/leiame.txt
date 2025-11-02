@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+De início, vi que não seria um problema para se resolver em dispositivo
+limitado. Então, fui para o notebook.
+
+Após postar, vi que minha ideia poderia ser comparada à terceira da plataforma.
+Porém, inicialmente, tinha iniciado a raciocinar como a segunda. Mas, durante o
+dia, antes de chegar no notebook, fui aprimorando e vendo meios mais diretos e
+objetivos.
+
+Em Rust, para treinar.
+
+38ms. A plataforma não fez comparativos no gráfico.
+
+Memória, sem comparações, também.
+
+Meu modelo, apesar de ser comparável à terceira ideia da plataforma, considero
+bem mais enxuto e prático, apesar de, em algum momento, a forma me ter passado
+pela mente. Ou seja: o meu é mais direto, direciona-se a uma forma mais
+matemática e num estilo dinâmico. No final, o resultado já está pronto e é
+baseado em uma fórmula matemática simples, um estilo O(n x m), apesar de
+processar duas vezes (indo e vindo)
+
+De toda forma, o meu ainda utilizou uma matriz completa, como o modelo da
+plataforma, para checar estabelecimentos prévios. Mas, ainda assim, considero
+meu código mais simples de entender.
