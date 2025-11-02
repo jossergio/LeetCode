@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma, apesar de
+que meu código ficou mais rusticiano e com menos linhas, pois utilizei uma forma
+de utilizar HashMap mais simplificada, além de dispensar a definição da variável
+resposta, que ficou como um filtro mapeado direto na resposta (iterator), além
+de o próprio filtro ficar embutido na finalização e não no preparo.
+
+A outra ideia da plataforma envolvia uma questão matemática binária e era bem
+mais extenso.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, um fino para ser o top dos tops das galáxias.
+
+O código mostrado em 0ms era bem rusticiano e baseado em uma ideia bem singela.
+Ficou em duas linhas simples, uma por precisar fazer ordem e a outra que
+englobava todo o processamento. Ideia bem original.
