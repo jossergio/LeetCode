@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 27/12/2023, que eu havia feito dois modelos em C++.
+Só fiz repostar o de menor tempo.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Na vez anterior, tinha ficado em 109ms
+
+Ainda pensei em fazer de outras formas, ajustando e/ou adaptando, mantendo a
+linguagem ou testar Rust. Mas acabei desistindo, pois já estava em 0ms.
