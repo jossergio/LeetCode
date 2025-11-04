@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma soluçáo, que eu nem olhei.
+
+Inicialmente, fiz uma tentativa pelo tablet.
+
+A plataforma indicava que era um problema simples, mas não via uma forma
+simplificada. Então, fui para o notebook.
+
+Mesmo assim, não estava entendendo bem o problema, imaginando uma coisa. E era
+outra.
+
+Fiquei imaginando, também, uma forma um pouco "janela deslizante". Mas acabei
+optando por uma abordagem força bruta, pois vi que os valores eram indicados
+como pequenos.
+
+Após um errinho, passou. Tinha percebido essa possibilidade, coisas da
+plataforma, mas acabei esquecendo de implementar.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, tirando alguns
+aspectos que poderia ter utilizado, da linguagem. Ainda raciocino muito com
+laços, quando iteradores são bem interessantes e são um diferencial da
+linguagem.
+
+Em Rust, para treinar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Em 0ms, um código um pouco complexo. Em 2 e 3ms, cópia fiel da implementação da
+plataforma.
+
+Ainda pensei em fazer adaptações para iteradores. Mas já estava em 0ms.
