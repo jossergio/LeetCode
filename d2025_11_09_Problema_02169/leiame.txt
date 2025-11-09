@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que a ideia da plataforma utilizava um conceito matemático,
+melhor, que pode fazer o resultado ser atingido mais rapidamente. Porém, no
+final, seria similar em termos conceituais.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Em 0ms, um código simples mas meio troncho.
+
+Os códidos que vi pareciam ser uma leve variação dessa tronchidade.
