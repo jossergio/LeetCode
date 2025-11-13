@@ -1,0 +1,36 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Seria um pouco complexo fazer no tablet ou no celular. Então, vi um tempo no
+notebook para fazer.
+
+Após cinco erros, um de resposta errada e as de mais por estouro de tempo,
+passou.
+
+Após postar, vi que a ideia da plataforma era similar a uma ideia que tive
+quando estava vendo forma de contornar os estouros de tempo. Porém, achei um
+pouco infantil.
+
+Os erros e os estouros de tempo era por estar fazendo uma abordagem adaptativa
+até encontrar a solução. Após ver uma forma mais matemática e, por consequência,
+O(n), passou.
+
+De toda forma, a minha ideia também tinha um pouco de infantilidade, apesar de
+utilizar menos variáveis e, consequentemente, podia ficar com menos uso de
+memória.
+
+Em Rust, para fixar estudos.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente bom.
+
+Em 0ms, uma ideia bem infantil, também.
+
+Alguns códigos dos demais que eu vi eram cópia fiel da ideia da plataforma. E
+consumiam bem mais memória, mesmo.
+
+Tive uma ideia para deixar mais direto, remover uma variável e,
+consequentemente, utilizar menos memória. Mas já estava com muito tempo nesse
+problema e fica para uma próxima vez.
