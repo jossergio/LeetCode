@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era mais simples, porém, mais lenta, pois
+deixava três laços aninhados. O da plataforma, para evitar isso, fazia uma
+soma (ou diferença) de prefixos, mas mantendo certas circunstâncias, para que
+a matemática fizesse o resto. Assim, um dos laços ficava externo, mas consumia
+mais memória e mais tempo de cálculo, também.
+
+Apesar de entender a lógica da ideia da plataforma, não teria como concebê-la.
+
+Em Rust, para praticar.
+
+1149ms. Muito ruim.
+
+Memória, medianamente ruim.
+
+Vi códigos bem complexos e de forma similar ao da plataforma. Porém, não vi
+cópia exata, apesar de em alguns momentos parecerem.
+
+Houve 0ms.
+
+No mesmo tempo que o meu, um código que tinha uma estrutura parecida com o meu,
+apesar de algumas estruturações diferentes.
