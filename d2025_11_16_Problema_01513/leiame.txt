@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi um padrão, tive uma ideia e postei.
+
+Após um errinho, pois não tinha observado que poderia haver um estouro de
+inteiro e precisaria de um módulo (bobeira), passou.
+
+Após postar, vi que minha ideia era mais simples inclusive matematicamente, que
+a da plataforma.
+
+Deveria ter utilizado i64 (como a plataforma o fez e quase que eu teria
+utilizado para sanar a questão do módulo). Porém, fiz a ideia de forma a estar,
+sempre, em i32.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Em 0ms, uma cópia fiel do modelo da plataforma.
+
+Em 1ms, um bem parecido com o meu, mas utilizando i64 e outros ajustes.
