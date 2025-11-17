@@ -1,0 +1,50 @@
+Direto no LeetCode e pelo tablet.
+
+Tive uma ideia para criar um código Rust de linha única, apesar de dividida,
+utilizando iteradores e recursos próprios da linguagem.
+
+Porém, vi que seria um pouco trabalhoso, pelo tablet, pois despenderia uma
+melhor atenção.
+
+Então, fiz um primeiro modelo que, apesar de utilizar estruturas próprias de
+Rust, continha um formato de programação comum.
+
+Antes de registrar, já no notebook, fiquei raciocinando utilizar as estruturas
+próprias de Rust com aspecto de linha única.
+
+Então, fiz um segundo modelo, que ficou, e eu sabia que ficaria, mais lento,
+pois abusava de iteradores, sequenciando-os (vários laços, apesar de filtro).
+
+Fiz, ainda, um terceiro modelo, tentando amenizar esse segundo e abusar de
+iteradores e outros recursos de Rust. Ficou em duas linhas, apesar de quebradas.
+
+Depois desse, fiz um quarto modelo, reformando o segundo, para ficar mais
+elegante, além de fazer uma conversão, que era utilizada várias vezes nos laços,
+o que custou uma linha a mais, retirando a questão de linha única do código.
+Mas, grosso modo, ainda seria linha única.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, excelente top dos topos das
+galáxias. Utilizava estruturas próprias de Rust, apesar de conter uma
+estruturação comum.
+
+Modelo 2 (Rust): 2ms. O gráfico não informou percentual de tempo e de memória.
+Basicamente, linha única, apesar de dividida, abusando de iteradores, porém,
+em sequência. Em termos absolutos, usou mais memória que o anterior.
+
+Modelo 3 (Rust): 2ms. Idem acima. Era uma tentativa de melhorar o código
+anterior, dividindo em duas linhas, mas abusando de Rust. Em termos absolutos,
+utilizou muito mais memória que os anteriores.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, excelente top dos topos das
+galáxias, apesar de ser visivelmente maior que o primeiro modelo, mas menor que
+o segundo.
+
+Parece que o código mais geral, em algumas situações, ainda é melhor aplicado,
+pois pode retornar de forma antecipada, quando algum valor desejado é
+encontrado.
+
+Abusar de iteradores pode fazer laços adicionais.
+
+Outro fato interessante é que conversão parece ser custosa a Rust, e modificar
+o tipo (sombrear) uma variável parace ser algo bem útil na otimziação do tempo
+de execução.
