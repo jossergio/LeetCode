@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideira era bem parecida com a da plataforma, apesar de
+que minha ideia tinha forma para finalizar antecipadamente.
+
+Após postar, e vendo as ideias da plataforma e dos demais participantes, tive
+uma ideia de fazer algo similar à segunda da plataforma. Então, fiz uma segunda
+postagem.
+
+Modelo 1 (Rust): 0ms. Melhor impossível. Memória, medianamente ruim. Ordenava o
+vetor de entrada e fazia uma busca, enquanto não encontrasse uma situação que
+não houvesse mais condição de achar nova resposta.
+
+Modelo 2 (Rust): 0ms. Melhor impossível. Memória, medianamente boa. Utilizava uma
+tabela de hash (set; conjunto) para dispor os valores e fazia um laço até não
+encontrar mais condição de busca.
+
+Achei interessante o episódio de, o segundo modelo, apesar de utilizar uma
+estrutura a mais, utilizar menos memória. O código também ficou menor, em termos
+de linhas codificadas.
+
+Em 0ms, um código interessante me era mostrado. No lugar de uma tabela hash, foi
+utilizado um vetor de tamanho máximo definido no problema. Ou seja: apesar de
+ágil, desperdiçava memória.
