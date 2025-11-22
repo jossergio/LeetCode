@@ -1,0 +1,37 @@
+Direto no LeetCode.
+
+Era o problema do dia 21/11/2025, que eu nem observei que já tinha feito, pois
+era o mesmo problema do dia 14/11/2025 e que eu havia feito quatro modelos em
+Phython. Ou seja: poderia ter, só, repostado. Bobeira, talvez pelo cansaço.
+
+Porém, sem observar ainda isso, e lembrando desse problema, que eu considerava,
+até, simples, fiz um modelo em Rust, para exercitar.
+
+Não contente com o tempo, fiz, ainda, mais três modelos.
+
+Em 04/01/2025, tinha tentado um modelo em Rust, talvez por estudos, que excedeu
+o limite de tempo e tinha desistido.
+
+Somente na hora de registrar é que vi que já havia tudo isso.
+
+Modelo 1 (Rust): 565ms. Horrível. Memória, excelente. Utilizava muitos conceitos
+de Rust. Abusava de criar strings para serem adicionadas a um conjunto
+(HashSet), cujo tamanho seria a resposta.
+
+Modelo 2 (Rust): 585ms. Horrível. Memória, medianamente boa. Era o mesmo código
+anterior, porém, retirava uma condição desnecessária.
+
+Modelo 3 (Rust): 553ms. Horrível. Memória, ruim. Substituía, nos modelos
+anteriores, HashMap por vetor simples. Porém, ainda abusava, e muito, de strings
+e de outras estruturas de Rust. Inclusive, um dos laços era baseado em uma
+estruturação bem rusticiana.
+
+Modelo 4 (Rust): 11ms. Medianamente boa. Memória, ruim. Baseado no modelo
+anterior, desconsiderava utilizar um HashSet de strings, formando, somente, um
+contador.
+
+Analisando os códigos anteriores, em Python, ainda poderia ter feito um quinto
+modelo, visando melhorar desempenho e uso de memória.
+
+Mas já tinha sido um bom estudo das estruturas de Rust, que fiz questão de usar
+e de abusar.
