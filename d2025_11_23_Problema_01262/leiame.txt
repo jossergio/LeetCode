@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Tive uma ideia, utilizando uma técnica muito força bruta, que passou de
+primeira.
+
+Após postar, e antes de registrar, vendo as postagens dos demais, tive uma ideia
+mais matemática. Então, fiz um segundo modelo.
+
+Esse segundo modelo, feito no notebook, provocou um trabalhino, por eu ter a
+lógica, na mente, porém, tive dificuldades em raciocinar na implementação.
+
+Após quatro erros, por ajustes, passou. O penúltimo erro foi por não ter
+ordenado os vetores derivados (bobeira, na mente, sabia que teria que fazer) e o
+último por ter repetido um índice, em uma espressão, que usaria os dois
+primeiros valores de um dos vetores derivados (repeti o índice 0 em dois
+fatores).
+
+As duas primeiras falhas foi pelo raciocínio falho, mesmo.
+
+Esse segundo modelo ficou, também, um pouco redundante. Talvez eu faça um
+terceiro modelo tentando enxugar essas redundâncias.
+
+Modelo 1 (Rust): 2ms. Medianamente bom. Memória, excelente top dos tops das
+galáxias. Utilizava uma forma muito bruta, porém, interessante, para chegar no
+resultado.
+
+Modelo 2 (Rust): 1ms. Medianamente bom. Memória, também excelente top dos tops
+das galáxias. Mas, em termos absolutos, vi que usou mais memória.
+
+Não há como comparar meus modelos aos da plataforma. Mas o terceiro possui um
+código bem menor, que não consegui entender a lógica. Citava que Utilizava
+programação dinâmica.
