@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 30/12/2021, que eu havia feito em C++. Porém, não
+observei isso antecipadamente e acabei fazendo duas versões, em Rust, que
+apresentaram resposta errada.
+
+Somente, então, é que optei por repostar o modelo em C++.
+
+Da mesma vez anterior, estava raciocinando com números binários. E não era. Era
+para raciocinar com dígitos decimais. Por isso os dois erros.
+
+Em C++.
+
+0ms. Melhor impossível.
+
+Memória, mediana.
+
+Na postagem anterior, o tempo também tinha ficado em 0ms. Mas a memória tinha
+ficado bem razoável. Em termos absolutos, realmente, aumentou. Talvez coisa de
+atualização de compilador. Porém, nesse momento, a memória da postagem anterior
+era fixada no topo dos tops das galáxias.
+
+Sobre os erros, mesmo raciocinando em dígitos decimais, talvez não me fosse tão
+intuitivo um limite e acabasse chegando a um estouro de tempo, inicialmente.
