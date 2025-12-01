@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 27/07/2023, que eu havia feito em C++. Só fiz
+repostar, pois era um problema complexo e eu não estava muito afim de reinventar
+a roda.
+
+Na época, fiz baseado em uma das soluções da plataforma. Ou seja: até poderia
+ter alguma ideia para fazer hoje, mas não quis me esforçar. E já tinha pedido
+ajuda aos universitários, como observei quando estava preparando para registrar.
+
+Em c++.
+
+12ms. Excelente.
+
+Memória, medianamente ruim.
+
+Ainda pensei em fazer uma tradução para Rust. Mas fica para uma outra
+oportunidade.
