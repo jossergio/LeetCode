@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à da plataforma, porém, a da
+plataforma desmembrava em duas linhas e a minha ideia era de linha única.
+
+Em Rust, para exercitar. E para utilizar linha única, também, pois havia
+situação para isso.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+A solução que era apresentada em 0ms no gráfico era do modo antigo. Ou seja, um
+laço para formar a resposta.
+
+Vi códigos em tempos até 4ms, de modo bem variável. Alguns, até, de linha única,
+outros similares à da plataforma (mas não cópias) e com laços.
+
+Mas houve cópias do modelo da plataforma.
