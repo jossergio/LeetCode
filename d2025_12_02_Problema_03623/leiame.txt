@@ -1,0 +1,37 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o típico do problema que tinha que ser resolvido no notebook.
+
+Após cinco erros, um em tempo de execução (overflow nos cálculos, pois
+precisava de cálculo de fatoriais e eu não tinha definido o que fazer com o
+parâmetro zero e entrou em laço numa recursividade; e olha que já fiz com memo);
+outro por uma resposta errada (questão de cálculo de números grandes, que
+mantive i32 nos cálculos intermediários mas acaba passando para i64); e mais
+três estouros de tempo (no último estouro de tempo, inclusive, tinha tirado os
+cálculos de fatoriais e refeito a ideia, porém, ainda tinha uma certa
+redundância e o vetor de valores crescia), adicionei uma estrutura matemática,
+para não precisar fazer num laço o que a quantidade já definia, e passou.
+
+Comparando minha ideia com a da plataforma, no final, fazem a mesma coisa.
+Porém, a minha ficou de uma implementação muito mais complexa, pois, para fazer
+um acumulador, utilizei duas estruturas e a plataforma guardou em uma variável.
+
+Vou ver se mentalizo essa forma matemática da ideia da plataforma e utilizou em
+outros momentos.
+
+Em Rust, para fazer experiência.
+
+36ms. Ruim.
+
+Memória, medianamente boa.
+
+Por incrível que pareça, a memória foi medianamente boa, apesar de eu ter
+abusado de estruturas para fazer um acumulador.
+
+A maioria dos códigos que vi no gráfico era a cópia fiel do modelo da
+plataforma.
+
+Vou ver se faço um modelo mais prático, em outro momento, baseado na forma do
+modelo da plataforma.
