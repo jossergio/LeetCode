@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem diferente da ideia da plataforma. Então,
+resolvi fazer uma segunda postagem, direcionando para uma ideia de linha única,
+baseado na ideia matemática do modelo da plataform, que eu até imaginei mas não
+tinha implementado dessa forma.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, mediana. Utilizava uma ideia
+de acumulador com janela deslizante, o que fez ter dois laços em sequência e o
+código ficou um pouco grande e prolixo.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, excelente top dos tops do
+topo das galáxias. Utilizava o conceito de linha única de Rust, apesar de
+desmembrada, baseado em um conceito matemático simples.
+
+Em 0ms, uma ideia similar à minha, com diferenças simples na implementação.
+
+Houve poucas amostras no gráfico.
