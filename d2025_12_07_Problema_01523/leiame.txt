@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 13/02/2023, que eu havia feito um modelo em Python,
+após um  estouro de limite de tempo.
+
+Tive a ideia de fazer em Rust, no lugar de simplesmente repostar.
+
+Então, fiz o modelo que havia estourado o tempo, porém ajustado para Rust, para
+comparar, mas mantendo a ideia de linha única, que também havia nesse que não
+passou. O de Rust passou, apesar de bem lento.
+
+Em seguida, fiz um segundo modelo, mas baseado no ideia matemática do modelo que
+havia passado, mas também utilizando a ideia de linha única, apesar de
+subdividida. No modelo em Python, essa ideia não era com linha única, apesar de
+ser possível, na forma que fiz em Rust.
+
+Modelo 1 (Rust): 293ms. O gráfico não indicava um percentual. Memória, excelente
+top dos topos das galáxias. Era uma tradução, ajustada para Rust, de um modelo
+em Python que não havia passado por estouro de tempo, mantendo a ideia de linha
+única.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era um atradução,
+com ajuste para Rust, do modelo que havia passado na vez anterior. Também era
+aplicado o conceito de linha única, apesar de subdividida.
+
+Desta vez a plataforma não me mostrava modelos. Na vez anterior, sim.
