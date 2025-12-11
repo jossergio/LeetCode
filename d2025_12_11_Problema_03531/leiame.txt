@@ -1,0 +1,43 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o típico problema que tinha que ser feito em computador, pois requer certa
+atenção na organização lógica.
+
+Após postar, vi que minha implementação era um pouquinho diferente da
+plataforma, apesar de considerar duas fazes e uma lógica similar.
+
+A minha ideia utilizava um conjunto, onde ía tirando itens conforme condições e
+a resposta era formada pelo que restasse. A da plataforma tinha uma ideia que eu
+não imaginaria de imegiato, apesar de ter passado um puco perto na forma lógica
+e, também, quando imaginando uma forma, que culminou na utilização de vetores
+auxiliares e um conjunto (set).
+
+A da plataforma só utilizava vetores, o que acaba tornando mais ágil. E, de
+quebra, também acaba, na forma feita, utilizando menos memória.
+
+Em Rust, para praticar. E olha que a sintaxe utilizada é complexa. Estou ficando
+treinado, ao menos no nível intermediário.
+
+303ms. Ruim.
+
+Memória, ruim.
+
+Muitos códigos cópias fieias do modelo da plataforma.
+
+Outros códigos originais. Algumas com estruturação interessante de Rust.
+
+Os vetores auxiliares na forma utilizada pela plataforma continha uma ideia bem
+interessante, para evitar utilizar complexidade com vetores. No final, eu só
+precisaria do menor e do maior valor, o que a plataforma resolve com um par de
+vetores para cada eixo, enquanto eu preenchia os vetores e, em tempo, ordenava e
+buscava o primeiro e o último (ou o único, se fosse o caso).
+
+Ao concluir essa etapa, retirava esses "limites" de um mapa, quando, na verdade,
+só precisava contar (contagem simples) os que não estavam nesses limites.
+
+Ah! E de certo modo, passou. Mas minha cabeça ainda fico confundindo as questões
+dos eixos. Mas eu estava com a ideia de inverter, caso houvesse algum problema,
+o que não houve, pois seria o único fator que poderia causar problemas: essa
+confusão lógica.
