@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+Era o problema do dia 10/12/2025, que eu havia tido uma ideia, simples e de
+matemática, porém, não tinha tido tempo de pegar o notebook para implementar,
+pois dependia de uma certa complexidade, apesar de, depois, ter-me revelado mais
+simplifada, após postar.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após dois errinhos, um por achar que a questão era fatorial de fatorial, que eu
+implementei por um laço duplo, e funcionou por mais da metade das simulações a
+que a plataforma submeteu, e outro por estourar o limite de um inteiro (essa
+questão de eu não utilizar i64, mas o Rust calcula tudo como i32, sem
+intermediários, e pode estourar no intermediário dos cálculos envolvendo esse
+tipo), passou.
+
+Na questão do fatorial, eu implementei por um laço simples, acumulando. No
+duplo, seguia a mesma lógica, fazendo uma hierarquiva (ou nível), pois eu
+considerava que seria assim.
+
+Em todo ponto, havia uma questão lógica sobre calcular ou utilizar resposta
+zerada sumariamente. Acho que essa era a principal questão do problema.
+
+Após postar, vi que minha ideia era similar à da plataforma, com uma boa
+alteração no teste lógico (aplicado logo no início), onde o da plataforma varria
+o vetor á procura da situação "inusitada" do teste eu eu fiz um ordenamento para
+fazer a checagem com os dois primeiros elementos.
+
+E, para fazer esse teste, como eu também precisaria do vetor original, fiz um
+clone, onde a ordem foi aplicada.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Muitos códigos complexos, para uma questão resolvida de forma similar.
