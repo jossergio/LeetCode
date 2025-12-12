@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após três erros, por questão de interpretação do problema, que era cheio de
+detalhes e em alguns momentos difício de interpretar, passou.
+
+Após postar, de mogo geral, em relação ao modelo da plataforma, mudava, somente,
+a implementação.
+
+Um dos problemas eu tinha, até, noção, pois era descrito em uma das dicas da
+plataforma, que eu tinha visto que seria necessário. Porém, negligenciei, até
+propositalmente. E era mais um dos detalhes do problema.
+
+Por ser um problema cheio de detalhes, não seria possível fazer em dispositivo
+menor.
+
+Foi um EXCELENTE exercício em Rust. Utilizei várias facilidades e recursos. O
+próprio modelo da plataforma abusava disso.
+
+A dificuldade básica foi entender os detalhes do problema.
+
+7ms. Medianamente bom.
+
+Memória, excelente top dos tops das galáxias. Nem sei o motivo, pois abusei,
+muito, de estruturas e chamadas com retornos de estruturas.
+
+Para variar, algumas cópias do modelo da plataforma. Mas houve outros originais.
+
+Sobre Rust, estou bem ficando confiante. Tem algumas sistemáticas interessantes.
