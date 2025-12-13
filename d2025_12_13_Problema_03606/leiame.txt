@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+Apesar de ser um problema simples, estaria cheio de detalhes. Então, esperei uma
+oportunidade com o notebook e fiz um modelo.
+
+Além disso, fiz questão de fazer em Rust e de abusar de suas estruturas. Abusei
+de iteradores, tentando não utilizar laços de forma alguma. E ainda ficou um.
+Então, fiz um segundo modelo, removendo esse laço.
+
+Ainda fazendo um segundo modelo, fiz uma leve modificação para utilizar um vetor
+em lugar de uma tupla. Parece que não foi uma boa ideia.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, excelente top dos topos das
+galáxias. Muito abusado, utilizando estruturação característica de Rust.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, ficou bem pior e o gráfico
+não indicava uma posição. Era o mesmo anterior, com pequenos ajustes para tirar
+um laço "for" e fazer um teste substituindo uma tupla por um vetor.
+
+Um pedaço da ideia de abusar de Rust surgiu de um exemplar que vi pelo gráfico
+no dia anterior, que utilizava uma forma direta de ordenamento duplo.
+
+Se for considerar por linha, desconsiderando desmembramentos de linhas complexas
+e, também, linhas adicionais para algum controle, coisas assim, e ainda
+considerando que criei uma função (não precisaria, mas fiz para fatorar; e não
+utilizei funções internas, que poderia reduzir ainda mais o código), na função
+criada temos uma linha e na principal cinco.
+
+Ainda fiquei raciocinando formas rusticianas. Mas já estava suficiente pelo dia.
