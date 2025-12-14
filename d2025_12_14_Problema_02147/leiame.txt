@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 28/11/2023, que eu havia feito em C++. Só fiz
+respostar, pois não estava muito disposto a raciocinar. Inclusive, era um
+problema complexo.
+
+Antes de registrar, vi que tinha feito uma "deixa" para ajustar funções
+auxiliares, tornando-as embutidas na função. Mas, mesmo assim, optei por não
+me desgastar.
+
+Em C++.
+
+15ms. Excelente.
+
+Memória, medianamente boa.
+
+O tempo, na vez anterior, foi 128ms, medianamente bom, e a memória foi quase
+excelente. O uso da memória aumentou bastante (cerca de 10%), mas pode ser coisa
+de atualização de compilador.
