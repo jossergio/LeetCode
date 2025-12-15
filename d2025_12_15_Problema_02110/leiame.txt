@@ -1,0 +1,29 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Fiz uma análise das dicas da plataforma e melhorei uma ideia que eu tive.
+
+Após um errinho, por questão de estouro de inteiro (e eu já imaginava), passou.
+
+Após postar, vi que a ideia da plataforma era mais prática, um pouco, e nem
+utilizava todas as dicas contidas no problema.
+
+Porém, o meu também era linear, apesar de que abusou um pouco de cálculos e de
+variáveis temporárias, que poderiam ser feitos em uma passada única, como o
+modelo da plataforma.
+
+Meu modelo utilizava uma janela deslizante, como uma dica da plataforma. A da
+plataforma era um laço único, vendo detalhes no acompanhamento do vetor.
+
+Em Rust, para praticar, apesar de não ter utilizado nada extraordinário.
+
+0ms. Melhor, impossível.
+
+Memória, no final de tudo, mais que horrível de ruim.
+
+Muitos códigos que vi eram cópias fieis do modelo da plataforma.
+
+Interessante é que esse estouro de inteiro me aparenta existir na ideia da
+plataforma. Mas, se passou, é porque não tem. Talvez tenha sido em uma variável
+intermediária, o do meu caso.
