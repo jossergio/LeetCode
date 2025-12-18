@@ -1,0 +1,19 @@
+Direto no LeetCode.
+
+Como o problema do dia era um pouco chato, e eu estava tentando poupar a mente,
+procurei algo fácil para exercitar. E inclui exercitar Rust.
+
+Ficou um código bem rusticiano. E fiz questão que fosse assim. Por isso, passei
+um tempo a mais, só vendo e apanhando as características da linguagem.
+
+0ms. Melhor impossível.
+
+Memória, não houve como saber, pelo gráfico.
+
+Ainda pensei em fazer um segundo modelo, mas não tive ideias, nem vendo
+postagens dos demais participantes, para fazer algo com menos linhas.
+
+E olha que eram quatro linhas, apesar de desmembradas, mas três delas com várias
+linhas.
+
+As postagens dos demais também eram grandes, por conta de detalhes do problema.
