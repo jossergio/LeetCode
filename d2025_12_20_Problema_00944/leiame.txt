@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 03/01/2023, que eu havia feito em Python 3. Só fiz
+repostar.
+
+Em Python 3.
+
+96ms. Ruim.
+
+Memória, quase topo do top das galáxias.
+
+Na vez anterior, 633ms.
+
+Apesar de ter imaginado outras ideia, não seria interessantes em termos de
+eficiência. Vendo as postagens dos demais, havia modelos com essa ideia. Vamos
+poupar o raciocínio.
