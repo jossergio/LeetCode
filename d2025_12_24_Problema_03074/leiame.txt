@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à da plataforma, apesar de essa ser
+mais otimizada. Minha ideia realizava um teste que seria desnecessário, pelo
+contexto do problema, além de utilizar uma variável a mais, cujo papel poderia
+ser realizado por outra que já existia (duplicidade).
+
+Em Rust, para me divertir.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Vendo as postagens dos demais participantes, vi cada código feio.
