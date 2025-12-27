@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 29/08/2023, que eu havia feito dois modelos em C++.
+Só fiz repostar o segundo, que tinha tempo menor.
+
+Em C++.
+
+4ms. Muito bom.
+
+Memória, muito boa.
+
+Na vez anterior 22ms em tempo e foi quase excelente. A memória aumentou
+bastante e tinha sido quase excelente. Mas deve ser coisa de atualização de
+compilador.
