@@ -1,0 +1,37 @@
+Direto no LeetCode.
+
+Era o mesmo problema do dia 08/06/2023, que eu havia feito dois modelos em C++.
+
+Porém, resolvi fazer uma nova abordagem, pois esses modelos utilizavam um pouco
+de força bruta e tive uma ideia, lendo uma expressão no problema, de fazer um
+código mais eficiente. Então, fui para o notebook.
+
+Uma ideia era fazer uma busca binária, que eu descartei quando vi que a
+definição do problema sugeria que haveria uma certa organização na forma de
+distribuição dos valores pela tabela, de uma forma inteligente.
+
+De quebra, resolvi testar meus conhecimentos em Rust.
+
+Utilizei Option, para gerenciar um apontador regressivo.
+
+Após postar, resolvi não utilizar Option e fazer uma forma mais básica, para
+gerenciamento desse apontador. Então, fiz um segundo modelo, utilizando uma
+variável inteira, no lugar de Option com usize, fazendo a conversão quando fosse
+necessário.
+
+Fiz, ainda, um terceiro modelo, baseado no primeiro, utilizando Option, porém
+com os aspectos de otimização do segundo.
+
+Modelo 1 (Rust): 0ms. Melhor, impossivel. Memória, ruim. Utilizava um Option de
+usize para gerenciar um apontador regressivo de uso geral nas linhas de uma
+tabela.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Substituía o uso
+do Option de usize por um inteiro e acrescentava umas otimizações.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, excelente. Era uma mistura
+dos dois anteriores, utilizando Option de usize mas com uma otimização utilizada
+no segundo modelo.
+
+Na postagem anterior, era indicado que a plataforma me apresentava três
+soluções. Porém, desta vez, não me eram apresentadas.
