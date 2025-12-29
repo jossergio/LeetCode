@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Era um problema um pouco complexo para raciocínio, apesar de ao final parecer
+simples e ficar um código também bem simples. Por isso, vi no tablet mas fui
+para o notebook.
+
+Após três errinhos, pois fui fazendo testes para ver as pegadinhas da
+plataforma, passou. Eu já imaginava um monte de situações. Porém, nos testes
+preliminares, passavam.
+
+Utilizei um conceito de automatos finitos, que são aplicados para compiladores.
+
+Comparando com as ideias da plataforma, posso dizer que a ideia geral de minha
+solução era parecida com a segunda. Mas ambas da plataforma utilizavam um
+conceito regressivo, com valores binários. Vou estudar esse conceito em tempo
+oportuno.
+
+Em C++, para ficar evitando problemas com "frescuras" de Rust, pois via que
+seria uma boa queima de neurônios. Depois, talvez, em traduza.
+
+1773ms. Ruim.
+
+Memória, excelente.
+
+Utilizei uma recursão com dois passos (duas funções), com uma estrutura de mapa
+vinculado a um vetor, que era a base da lógica que utilizei.
+
+Considero que ficou um código bem enxuto. Gostei da forma como o fiz.
