@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 09/08/2024. Só fiz repostar, pois era um problema
+que eu tinha resolvido com vários detalhes e não desejei raciocinar.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Na vez anterior também foi 0ms. A memória piorou, mas deve ser coisa de
+atualização de compilador.
