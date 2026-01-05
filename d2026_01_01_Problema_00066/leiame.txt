@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema que eu havia feito, como avulso, no dia 26/02/2022. Tinha
+feito dois modelos em GoLang.
+
+Em 12/07/2024, fiz uma versão em Rust.
+
+Porém, como considerei simples, resolvi fazer uma nova abordagem. E fiz mais
+três, formando testes.
+
+Modelo 1 (Rust): 0ms. Melhos, impossível. Memória, mediana. Utilizava, de alguma
+forma, o próprio vetor de entrada (apesar de renomear a variável dos dados) para
+fazer as atividades e o retornava.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Fazia uma reserva
+inicial de espaço para a resposta, trabalhando o vetor de entrada e formando o
+de saída. Em termos absolutos, utilizaou mais memória.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, ruim. Era o modelo anterior,]
+porém, remontava a resposta no retorno da função, fazendo um novo vetor
+(collect). Diminuía uma linha, mas aumentava o uso de recursos.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, ruim (mas um pouco melhor, em
+termos absolutos, que o anterior). Era o mesmo modelo anterior, mas utilizando
+iter no lugar de into_iter (e fazendo os ajustes necessários para gerar o vetor
+da resposta).
+
+O primeiro modelo que fiz dessa vez tinha uma otimização para permitir sair
+antecipadamente, quando não houvesse mais o que trabalhar.
+
+Boa oportunidade para estudar os recursos e as estruturas de Rust.
+
+Apesar de conter mais linhas, o primeiro era o "mais ótimo".
