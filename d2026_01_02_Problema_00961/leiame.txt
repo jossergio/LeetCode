@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+Inicialmente, tive uma ideia. Porém, vendo as postagens dos demais, vi que
+poderia otimizar a execução. Então, fiz um segundo modelo.
+
+Vendo, também, as postagens dos demais, vi que poderia utilizar um segundo tipo
+de estrutura e substituir um HashMap por um HashSet (Rust). Então, fiz um
+terceiro modelo, para estudar e testar os recursos da linguagem.
+
+Modelo 1 (Rust): 3ms. Ruim. Memória, medianamente ruim. Utilizava um HashMap e
+ía até as últimas consequências para verificar o valor de resposta.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era o
+modelo anterior, mas continha uma otimização, para saída antecipada, decorrente
+de uma lógica envolvida no problema.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Continha a
+lógica do modelo anterior, mas utilizava um HashSet no lugar de HashMap. Em
+termos absolutos, era o que tinha o pior uso de memória.
+
+Parece que HashMap é mais otimzado que o HashSet, em termos de memória.
