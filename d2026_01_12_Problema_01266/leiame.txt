@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 03/12/2023, onde eu havia feito dois modelos em C++.
+
+Porém, fiz uma tradução do mais rápico para Rust.
+
+Após um errinho, por utilizar um índice de vetor de forma errada, passou.
+
+Em Rust, para exercitar.
+
+Antes de registrar, vendo as postagens dos demais, fiz um modelo mais
+rusticiano.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, bem ruim. Era, basicamente, a
+tradução de um modelo anterior em C++. Ou seja: um modelo geral.
+
+Modelo 2 (rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Era um
+modelo mais rusticiano de ser.
+
+O que teve um uso de memória melhor no gráfico abusava de variáveis
+intermediárias. Meu segundo código era bem simplificado, na ideia de linha
+única, e sem os "arrudeios" do de melhor memória, que, aliás, foi onde eu me
+baseei.
+
+Ainda fiquei tentando raciocinar um terceiro modelo, bem mais rusticiano, mas
+não tive melhor imaginação.
