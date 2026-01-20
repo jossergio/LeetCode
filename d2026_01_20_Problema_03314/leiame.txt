@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, pensei que seria uma pegadinha. Mas, talvez seja uma preparação
+para um outro desafio.
+
+Vendo as dicas, vi que poderia utilizar força bruta.
+
+Após postar, vi que minha ideia era bem similar à forma (ideia) da primeira da
+plataform. Porém, meu modelo era bem rusticiana.
+
+Em Rust, para brincar e por ter tido uma ideia de "linha única", apesar da
+decomposição habitual.
+
+2ms. Ruim.
+
+Memória, o gráfico não informava.
+
+A primeira barra do gráfico de tempo era a junção de 0 a 2ms. Depois desse,
+tinha o nível 3ms. Então, meu código ficou com a maioria (bem perto de 90%).
+
+Pelos gráficos, consegui ver cinco códigos. Porém, pareciam que eram somente
+dois. Todos cópias fieis dos modelos da plataforma.
+
+Só meu código foi rusticiano "raiz".
+
+A segunda ideia da plataforma envolvia uma questão bem matemática, sem força
+bruta. Porém, explicava um detalhe contido nas restrições do problema: sobre os
+números fornecidos serem primos. Pois, sem esse detalhe, essa ideia não
+funcionaria ou não se aplicaria.
