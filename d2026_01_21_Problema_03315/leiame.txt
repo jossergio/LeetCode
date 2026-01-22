@@ -1,0 +1,37 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era bem similar ao problema do dia anterior. Porém, já desconfiava que o do dia
+anterior seria um exercício leve, onde até força bruta seria aceitável, e esse
+seria o de "vera". Mas, com base no estudo do problema do dia anterior, fiz um
+modelo, que passou de primeira.
+
+Fiz naquela base de linha única, apesar de fatorada, que acho belo no Rust.
+
+Após postar, vi que não precisaria de utilizar a função de iterador enumerate,
+que eu precisaria caso fosse baseado no problema do dia anterior. Como fiz,
+baseado já nos conhecimentos prévios, decorrentes desse problema do dia
+anterior, acabei arrastando a utilização dessa função.
+
+Então, fiz um segundo modelo, sem, simplesmente, o uso de enumerate.
+
+Antes de me fazer por satisfeito, ainda fiz um terceiro modelo utilizando iter
+no lugar de into_iter.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era baseado
+na ideia de solução prática que eu tinha feito no dia anterior, porém, aplicando
+condição para evitar demora e acabar causando estouro de tempo.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era o mesmo
+anterior, porém se a utilização de enumerate, que era desnecessário.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, top dos tops das galáxias.
+Era o mesmo do modelo anterior, mas utilizava iter no lugar de into_iter.
+
+O modelo 2, apeasar de estar no mesmo patamar de memória do 1, é um pouquinho
+mais pesado. Ou é questão da plataforma ou o uso do enumerate melhora o uso da
+memória.
+
+Parece que utilizar iter é mais eficiente em termos de consumo de memória em
+relação a into_iter.
