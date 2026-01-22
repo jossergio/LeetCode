@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+Inicialmente, pelo tablet, sem sucesso, e, depois, pelo notebook.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, por não ter compreendido direito o problema (achava que era uma
+coisa e era outra), refiz tudo e passou.
+
+Após postar, vi que minha ideia era bem similar à primeira da plataforma, com
+pequenas diferenças de implementação.
+
+Após postar, também, e baseado no modelo da plataforma, vi que poderia diminuir,
+um pouco, o uso de recursos, pois eu tirava dois valores e inseria um, para
+fazer uma atualização de valores (que era o cerne do problema). Então, fiz um
+segundo modelo, bem mais otimizado nesse item.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, muito boa. Era o mesmo
+anterior, mas com um leve ajuste em um item, visando otimizar. Pelo menos em
+termos de memória, parece ter sido.
+
+O segundo modelo da plataforma utilizava uma ideia bem interessante para ver a
+questão da reorganização do vetor a cada iteração necessária. Usava, obviamente,
+mais memória e finda em um código menos fácil de entender, talvez até um pouco
+confuso, apesar de ser uma ideia interessante para ser utilizado em outras
+questões.
