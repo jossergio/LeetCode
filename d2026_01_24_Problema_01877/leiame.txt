@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 17/11/2023, que eu havia feito em C++. Só fiz
+respostar.
+
+Ainda tentei imaginar outra forma. Mas já era, inclusive como citado na vez
+anterior, bem similar à única ideia da plataforma.
+
+Em C++, pois a utilização dos recursos dessa linguagem foi bem interessante.
+
+174ms. Mediano.
+
+Memória, muito boa.
+
+Ainda pensei em fazer uma tradução para Rust. Mas fica para um outro momento,
+pois não estava vendo formas de deixar um código ótimo nessa linguagem e que
+valesse a pena.
