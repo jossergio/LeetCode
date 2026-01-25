@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, por utilizar uma variável indexadora no lugar de outra 
+(distração ou falta de atenção), passou.
+
+Após postar, vi que minha ideia era bem similar à da plataforma. Vi, também, as
+dicas da plataforma, que eram no mesmo direcionamento da ideia que eu tive.
+
+Após postar, também, resolvi fazer experiências. Então, fiz um segundo modelo.
+
+Em seguida, resolvi fazer um código mais rusticiano. Só não ficou em linha única
+por conta de alguns detalhes, tanto do próprio problema quanto de conversões.
+Mas o processamento mais específico ficou.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Ficou um
+pouco complexo, porque imaginei uma questão que, em termos, não era tão
+necessário, apesar de ser um bom otimizador da resposta.
+
+Modelo 2 (Rust): 2ms. Ruim. Memória, mediana. Era o mesmo do código anterior.
+Porém, clonava o vetor de entrada no lugar de simplesmente atribuir, para tornar
+mutável.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era um código mais
+rusticiano. Havia algumas linhas visando otimizar, apesar de desnecessárias. O
+problema não permitir linha única (pois dependia de um processamento prévio ou
+preliminar), mas o processamento definitivo era bem tentendo a linha única.
+
+Considero que as diferenças de tempo e de memória entre o primeiro e o segundo
+modelos devam ser coisas da plataforma.
+
+Ainda pensei em reajustar o terceiro modelo, fazendo um quarto, visando ficar
+mais enxuto. Mas vou deixar para uma outra oportunidade.
