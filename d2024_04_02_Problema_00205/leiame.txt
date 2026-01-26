@@ -14,3 +14,24 @@ Ainda tentei fazer um novo modelo, sem sucesso, baseado no menor tempo.
 O menor tempo, isolado, foi em 14ms. Concentração, em forma de montanha, entre
 30 e 58ms,  última barra do gráfico. O gráfico ía até pouco mais de 65ms.
 
+=====
+Em 26/01/2026, fiz um modelo em Rust.
+
+Inicialmente, pelo desafio de utilizar HashMap, pois a sintaxe de Python 3 para
+esses casos é mais ideal, objetiva, direta e mais simples.
+
+Basicamente, a tradução de uma linguagm em outra. Mas Rust requer alguns
+detalhes a mais.
+
+1ms. Ruim.
+
+Memória, mediana.
+
+Em 0ms, um código bem enxuto, utilizando, somente, um HashMap (o meu utilizava
+dois). Vi algumas sintaxes e utilização de recursos de forma bem interessante,
+vendo as postagens dos demais. Vi alguns códigos utilizando um vetor, de forma
+simples; e isso agiliza tempo.
+
+Com mapa único, bastava verificar se o tamanho das chaves é o mesmo do tamanho
+dos valores, ao final. Mas vi um caso que não fazia esse teste e, mesmo assim,
+foi aprovado.
