@@ -1,0 +1,13 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 02/12/2021, que eu havia feito dois modelos em
+Python 3. Só fiz repostar o último, apesar de não ser o de menor tempo.
+
+Em Python.
+
+45ms. Muito bom.
+
+Memória, mediana.
+
+Na vez anterior, tinha sido 320ms. E tinha sido excelente. Na atualização atual,
+esse nível ficou em péssimo.
