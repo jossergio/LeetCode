@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 09/06/2023 (obs.: está na pasta do dia 10, não sei o
+motivo), onde eu havia feito três modelos em C++. Só fiz repostar o segundo
+modelo. E nem sei o porquê, pois nem era o de menor tempo. Acho que foi
+distração.
+
+Não vi outras formas de otimizar mais ou alguma ideia para testes.
+
+Também não desejei fazer um modelo em Rust.
+
+1ms. Horrível.
+
+Memória, medianamente ruim.
+
+O tempo da postagem anterior para esse modelo foi 22ms. Havia outro em 19ms, que
+foi o primeiro.
+
+Vê que o atual, em 1ms, ficou horrível. E a memória tinha ficado como excelente.
+
+Vi postagens bem interessantes, dos demais participantes.
+
+Na vez anterior, a plataforma me apresentava soluções. Desta vez, não.
