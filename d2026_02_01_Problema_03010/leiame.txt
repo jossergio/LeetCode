@@ -1,0 +1,48 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho, por falta de raciocínio para considerar uma situação, refiz com
+uma nova ideia e passou.
+
+Ficou, até, mais simples que a ideia inicial errada. Aproveitei, também, para
+abusar um pouco de Rust, mesmo sem necessidade.
+
+Porém, ficou num tempo O(n log n). Então, vendo as postagens dos demais, vi que
+uma pré-ideia que eu tive, baseada em ordenamento, poderia ser aplicada.
+
+Não o tinha feito pois, desde o início, tinha percebido que o primeiro número da
+lista/vetor era base e tinha que participar de todas as etapas para o cálculo da
+solução. Porém, bastaria considerar ordenar a partir do segundo elemento e a
+ideia podereia ser aplicada.
+
+Assim, fiz um segundo modelo, mais direto e dependendo de um pré-ordenamento,
+cujo tempo é baseado em uma função interna do Rust. Suponho O(log n).
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, ruim. Utilizava um laço
+aninhado para encontrar a solução.
+
+Modelo 2 (Rust): 0ms. Melhos, impossível. Memória, excelente do topo dos tops
+das galáxias. Utilizava, como necessário, o primeiro elemento como base,
+aplicava ordenação em um vetor derivado dos demais elementos e pegava os outros
+dois do início desse, para participar na formação da resposta.
+
+Em 0ms, um código bem Rust e baseado em uma ideia bem interessante. Porém,
+apesar de eu aproveitar para estudar esses recursos, como não surgiram de minhas
+ideias, apliquei de uma outra forma, para fazer meu segundo modelo.
+
+E ESSE CÓDIGO EM 0MS ERA A CÓPIA EXATA DO PRIMEIRO MODELO DA PLATAFORMA.
+
+Vi, também, postagens que eram a CÓPIA EXATA do segundo modelo da plataforma.
+
+Uma coisa interessante é que, vendo as linguagens utilizadas nas ideias dos
+modelos da plataforma, em C++, havia formas de fazer essa ordem a partir do
+segundo elemento e diretamente no próprio vetor de entrada. Parece que essa era
+a ideia geral que a própria plataforma esperava que fosse aplicada. Uma ideia
+simples, porém, bem interessante e que eu espero me lembrar de utilizar onde for
+aplicável.
+
+O meu primeiro modelo não pode ser comparado a nenhum dos modelos da plataforma.
+O segundo utilizava um tempo O(n), onde guardava o primeiro e buscava os outros
+dois em um laço simples, mantendo um primeiro e um segundo colocados da lista
+a partir do segundo elemento.
