@@ -17,3 +17,22 @@ Interessante é que a postagem anterior era 2ms.
 
 Não vi acima de 6ms.
 
+=====
+Atualização em 03/02/2026
+
+Buscando problemas já resolvidos para fazer uma tradução para Rust, deparei-me
+com esse problema. Vi que poderia otimziar um pouco mais ainda, formando uma
+linha única. Não ficou porque precisava ser feito um ajuste na variável de
+entrada para formar um parâmetro para um cálculo matemático. A não ser que esse
+leve cáculo fosse repetido três vezes na fórmula.
+
+Mas mantive a linguagem original, que era GoLang. Até porque não seria uma
+tradução e, também, fazer um comparativo, se é que o LeetCode é confiável para
+isso.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+A questão da memória, acho, foi uma questão de ajuste do compilador, pois estava
+no nível do dobro das postagens anteriores.
