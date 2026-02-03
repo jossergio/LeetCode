@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, vi o percentual de acertos, na lista de problemas, e era menor que
+50%. Então, já comecei desconfiando de alguma pegadinha.
+
+Tive uma ideia que, ao postar, posso dizer que é similar, em pensamento, à
+primeira da plataforma, apesar de uma implementação levemente diferente.
+
+Minha ideia ía fazendo testes a cada etapa. A da plataforma, guardava tudo para
+o final, em um teste único de verdadeiro ou falso com os fatores calculados
+previamente.
+
+A segunda ideia da plataforma era, até, uma ideia interessante, utilizando um
+conceito matemático, porém, um pouco chato de deduzir.
+
+Em Rust, para exercitar, apesar de que não teve nada Rusticiano a não ser a
+sintaxe da linguagem.
+
+0ms. Melhos, impossível.
+
+Memória, medianamente ruim.
+
+Em 0ms, um código bem parecido com o meu.
+
+Vi um código bem complexo, em 1ms, com muitos recursos rusticianos. Porém, sem
+muito fundamento de suas utilizações.
+
+Vi outros códigos mais complexos ainda.
