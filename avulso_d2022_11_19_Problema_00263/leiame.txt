@@ -28,3 +28,25 @@ divisão sendo zero) para as combinações.
 
 Porém, algumas postagens eram relativamente complexas (ou feias).
 
+=====
+Em 03/02/2026, fiz modelos em Rust.
+
+Basicamente, as traduções dos modelos em GoLang.
+
+Após postar, vi que poderia melhorar, um pouco, uma lógica. Então, fiz um
+terceiro modelo.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, mediana. Tradução do primeiro]
+modelo em GoLang.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, excelente. Tradução do
+segundo modelo em GoLang.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, mediana. Mas foi a pior de
+todas. Era um ajuste do modelo anterior, visando diminuir a quantidade de linhas
+e aplicar melhor uma lógica.
+
+O melhor modelo, em termos de memória, foi o segundo, que é iterativo. Como a
+plataforma não é confiável para comparações, vê que um ajuste desse segundo
+modelo, pensando em diminuir o próprio código, e não houve outras inserções,
+ficou pior que o recursivo.
