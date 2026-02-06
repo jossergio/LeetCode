@@ -1,0 +1,26 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução que, inicialmente, nem olhei.
+
+Após um estouro de tempo e uma resposta errada, resolvi olhar as ideias da
+plataforma. Então, fiz um modelo meu, bem baseado no modelo da plataforma.
+
+A primeira tentativa foi por recursão. A segunda, foi um chute que eu já tinha
+desconfiança que não passaria por todos os testes.
+
+Não tinha olhado as dicas da plataforma. Tive uma ideia, que já constava nessas
+dicas, mas, mesmo que as tivesse olhado, não conseguiria formar uma boa lógica,
+pois envolvia um cálculo que não me era bem intuitivo.
+
+Em Rust, para exercitar.
+
+4ms. No topo do gráfico. Memória, a plataforma não indicava, mas era com a
+maioria, apesar de haver melhores.
+
+Preciso fixar, mais, certas lógicas.
+
+Tive vontade de registrar o modelo que excedeu o limite de tempo, pois sua
+lógica era correta e ficou bem interessante. Utilizava uma fila dupla (dqueue),
+onde ía, recursivamente, fazendo ajustes (cortes, necessários para obter o
+resultado) até o ponto de não mais precisar ajustar, segundo a lógica do
+problema.
