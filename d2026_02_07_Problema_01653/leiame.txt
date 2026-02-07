@@ -1,0 +1,49 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava seis soluções, que eu nem olhei.
+
+Vendo as dicas da plataforma, tive uma ideia que, após muito analisar e tentar
+ver uma forma lógica para o cálculo, passou.
+
+Minha ideia tinha raciocínio semelhante à primeira da plataforma, porém, a Minha
+fazia um laço (passo) a menos, apesar de ser um pouco prolixo.
+
+Vendo as postagens dos demais e os modelos da plataforma, além de que meu tempo
+ficou muito elevado, tive uma outra ideia, baseada naqueles, que, após um
+errinho (estourou o limite de saída; tinha deixado impressões de depuração;
+quando comandei submissão, imediatamente já tinha percebido que não os tinha
+removido e sabia que teria que repostar; porém, não imaginava que produziria
+erro), passou.
+
+Ainda fiz um terceiro modelo, baseado, mas de ideia minha própria, no sexto da
+plataforma.
+
+Modelo 1 (Rust): 37ms. Deve ser bem ruim, mas a plataforma não apresentava um
+percentual. Memória, melhor que ninguém. Utilizava dois vetores para fazer
+prefixadores e, em um passo postarior, produzir a resposta. O primeiro passo
+ficou bem prolixo. Mas o último ficou bem simples.
+
+Modelo 2 (Rust): 11ms. A plataforma não apresentava um percentual. Memória,
+idem, mas também deve ter sido horrível. Otimizava, um pouco, o primeiro passo,
+ao utilizar variáveis auxiliares para formar os vetores base. E era essa a
+diferença para o modelo anterior.
+
+Modelo 3 (Rust): 3ms. Medianamente boa. Memória, também não sei direito, mas foi
+muito melhor que os anteriores. Não utilizava vetores auxiliares. Mas tinha um
+passo, mais simples, preliminar e um principal, um pouquinho mais complexo pois
+compensava a simplificade aplicada no primeiro, onde duas variáveis simples
+faziam o papel dos vetores não utilizados. Posso dizer que foram dois passos,
+da mesma forma do primeiro modelo. Porém, com as complexidades balanceadas e
+utilizando muito menos memória.
+
+Ainda pensei em melhorar um pouco mais o código e também torná-lo mais
+rusticiano, mas notei que não valeria muito a pena. Então, ficará para uma
+outra oportunidade.
+
+Como, nos modelos da plataforma, não havia códigos em Rust, considero que não
+houve cópia. No máximo, tradução, nas postagens dos demais.
+
+Foi um bom exercício de raciocínio lógico.
+
+No melhor nível de uso de memória, vi um código bem simples, baseado no sexto
+modelo da plataforma. Uma tradução elaborada.
