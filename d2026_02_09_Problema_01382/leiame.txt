@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 26/06/2024, onde eu havia feito um modelo em C++. Só
+fiz repostar, pois não tive ideia melhor.
+
+Em c++.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+O tempo anterior foi 98ms e medianamente ruim. A memória também tinha sido
+mediana, apesar de que, no momento atual, estava muito boa. Talvez, coisa de
+atualização do compilador.
