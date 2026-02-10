@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Esse problema, eu tinha tentado, em 01/10/2022, sem sucesso, uma única
+tentativa, e tinha feito como avulso no dia 15/04/2022. Todos em C++. Só fiz
+repostar o modelo que passou.
+
+Em seguida, fiz algumas adaptações no código, para ficar mais regrado, porém sem
+foco em melhorar eficiência ou outros detalhes. Então, formei um segundo modelo.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, mediana.
+
+Modelo 2 (D++): 0ms. Melhor, impossível. Memória, muito boa. Era o mesmo modelo
+anterior, porém, com pequenos ajustes para ficar mais disciplinado no uso da
+sintaxe, apesar de que mantive a ideia de não utilizar bloco quando poderia ser
+por sentença única e ainda permanecendo na mesma linha.
+
+Na postagem anterior, o código tinha ficado em 8ms e a memória em horrível,
+apesar de que, desta vez, esse mesmo código aparecia como muito excelente, mesmo
+as postagens atuais utilizando mais memória. Talvez, questão de atualização do
+compilador.
