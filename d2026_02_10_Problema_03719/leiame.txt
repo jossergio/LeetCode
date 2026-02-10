@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei. Após postar, vi que
+era bem parecido com o modelo da plataforma, diferenciando, basicamente, em
+pequenos detalhes e por utilizar, não sei bem o porquê, HashMap. O meu utilizava
+HashSet.
+
+Inicialmente, vendo pelo tablet, no início da manhã, achei que sera um problema
+mais complexo e passei o dia sem nem imaginar que voltaria a tocar. Porém, ao
+pegar o computador, para ver outras questões, resolvi passar uma melhor vista.
+Entendi um pouco o problema mas achei que haveria alguma pegadinha. Mas, vendo
+as dicas da plataforma, que citava utilizar força bruta, resolvi enfrentar.
+
+No modelo da plataforma, vi uma utilização de estrutura por ponteiro (ou
+referência) que me serviu muito para estudo. Também não sei o motivo de utilizar
+isso, pois não haveria muita necessidade, já que poderia utilizar em uma própria
+condicional uma variável ou outra. Mas é uma sintaxe bem interessate para ser
+utilizada em algum momento que se faça necessário.
+
+Em Rust, para exercitar.
+
+137ms. Topo dos tops das galáxias.
+
+Memória, topo dos tops das galáxias.
+
+Parece que os tempos foram grandes, mesmo.
+
+Só consegui ver um código. Era o mesmo, tanto no gráfico de tempo quanto no
+gráfico de memória. Era bem parecido com o meu, com leves/pequenos ajustes. E
+utilizava, assim como o meu, HashSet.
