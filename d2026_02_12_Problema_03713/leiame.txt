@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Lembrava, um pouco, o problema do dia 10/02. Mas tanto a base como a forma
+diferenciavam um pouco, apesar de a lógica ser similar.
+
+As dicas citavam, também, utilizar força bruta. Então, fiquei a vontade para
+fazer meu modelo, pois interpretei que não haveria pegadinhas.
+
+Após postar, vi uma postagem interessante. Eu tinha utilizado HashMap e a
+postagem utilizava um vetor simples, já que o escopo era limitado.
+
+Então, fiz uma segunda postagem, alterando a estrutura base.
+
+O modelo da plataforma também utilizava vetor.
+
+Modelo 1 (Rust): 124ms. O gráfico não indicou a posição. Memória, no topo dos
+tops das galáxias. Utilizava HashMap como estrutura base.
+
+Modelo 2 (Rust): 52ms. No topo dos tops das galáxias. Memória, idem. Utilizava
+um vetor simples, como estrutura base.
+
+O primeiro modelo utilizou, em temos absolutos, um pouquinho a mais de memória.
+
+O único modelo que vi pelo gráfico não era uma cópia do modelo da plataforma.
