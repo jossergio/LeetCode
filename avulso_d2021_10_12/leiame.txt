@@ -4,3 +4,43 @@ Sugestão no desafio do dia 12/10/2021.
 
 Feito direto no LeetCode.
 
+=====
+Em 15/02/2026, fiz modelos em Rust.
+
+Inicialmente, o primeiro modelo foi, somente, a tradução do modelo em GoLang.
+
+Porém, ficou muito lento, apesar de haver tempos piores. Notar que o em GoLang
+também era muito lento.
+
+Então, tive uma ideia de fazer por busca binária, no lugar de sequencial, como
+era o primeiro modelo.
+
+Após um errinho, porque Rust, mesmo no cálculo temporário com i32, não faz os
+ajustes (processador matemático) e acaba, por estouro de limites, fazendo os
+números, no laço, terem valores desajustados, passou.
+
+Modelo 1 (Rust): 1313ms. Muito ruim. Memória, medianamente ruim. Utilizava um
+modo sequencial, onde o valor vinha diminindo e sendo testado a cada iteração
+para localizar o primeiro que não coincidisse. A resposta era, consequentemente,
+o próximo (ou anterior, dependendo do ponto de vista).
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente ruim. Utilizava
+um modo por busca binária, o que torna bem mais eficiente.
+
+Apesar de ambos os modelos estarem no mesmo nível de memória, o primeiro
+utilizava menos.
+
+Em 0ms, um com busca binária. Porém, com linhas e testes ou desnecessários ou em
+forma desnecessária. Mas utilizava uma forma de cálculo que evitaria o estouro
+de limites que o meu teve. Tenho que me lembrar dessa forma, pois não fo a
+primeira vez que vi nesse formato.
+
+Vi, a partir do nível do de pior tempo, códigos bem feios, infantis. Um deles,
+inclusive, utilizava uma forma recursiva.
+
+Um com melhor eficiência de memória utilizava uma forma recursiva, porém,
+destacando a própria busca binária, através de uma função auxiliar.
+
+No final, além de ver o código Rust ser utilizado em um contexto de API, pois o
+problema assim era preparado, e foi por isso que resolvi fazer um modelo nessa
+linguagem, foi um bom teste de raciocínio para fazer o segundo modelo.
