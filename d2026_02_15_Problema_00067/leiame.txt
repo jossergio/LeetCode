@@ -1,0 +1,41 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 10/01/2022, que eu havia feito um modelo em GoLang.
+
+Esse mesmo problema reapareceu em 14/02/2023 e eu só tinha respostado.
+
+Em 25/08/2024, tinha feito um modelo em Rust.
+
+Porém, desta vez, resolvi fazer uma abordagem melhor, utilizando técnicas mais
+rusticianas.
+
+Após um errinho, por não ter observado que seriam quatro situações (eu
+considerei, somente, três) para cada etapa formadora da resposta, passou.
+
+Acabei fazendo mais três modelos, totalizando quatro, pois fui fazendo diversos
+testes. Os dois últimos sendo uma condição de refatoração, com bons ajustes no
+código, estruturados em funções (o primeiro deles) e em closures (o último
+deles).
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Utilizava
+bem os conceitos de Rust.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, ruim. Era o mesmo código
+anterior, porém, utilizando char no lugar de byte para cada unidade. Isso
+acabava formando uma leva alteração no fechamento (conclusão) da função ou,
+melhor dizendo, na conformação final para a resposta.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era uma
+refatoração dos anteriores, utilizando funções onde fossem melhor aplicáveis.
+
+Modelo 4 (rust): 0ms. Melhor, impossível. Memória, péssima de horrível de ruim.
+Era o mesmo código do modelo anterior, porém, removendo todas as funções,
+convertendo-as em closures definidas onde houvesse redundância (uso em mais de
+um trecho de código) ou simplesmente uma chadada a uma estrutura, quando não,
+já que Rust retorna valores nos seus comandos.
+
+Como não foram repostagens, não há como fazer comparação.
+
+Parece que não é muito bom utilizar closures definidas.
+
+Ao final, foi um bom testes de sintaxe de Rust e de seus conceitos.
