@@ -1,0 +1,39 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi as dicas da plataforma. E meu raciocínio seguia um pouco o que
+eles indicavam. Acabava sendo força bruta (testar todas as possibilidades e
+filtrar).
+
+Apesar da ideia ser simples, havia uma grande necessidade de fatoração. Então,
+fiz funções (não closures), em um total de tr~es, especializadas em cada tarefa.
+
+Também após postar, vendo as ideias da plataforma, considero que minha ideia é
+similar à segunda. Porém, eles simplificaram um pouco mais, ao utilizar,
+principalmente, uma função embutida para contar os bits. E uma ideia de aplicar
+uma formatação diretamente no laço, sem passar por uma função auxiliar.
+
+A primeira ideia da plataforma fazia um laço embutido em outro, fazendo o filtro
+conforme a contagem total e gerando a formatação, também, diretamente.
+
+Inicialmente, tive uma ideia bem complicada, que julguei impraticável. Mas,
+acabei tendo a ideia de pegar todos os numerais, filtrar e gerar a resposta.
+
+Em Rust, para praticar. Apesar de que, tirando uma formatação para o resultado e
+o uso de tuplas no retorno de uma das funções, era um código que poderia ser
+facilmente traduzido a qualquer linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Conforme a estruturação da segunda ideia da plataforma, poderia ser feita em
+linha única ou, talvez, em linha única com auxílio de uma função para contar os
+bits (sem utilizar função embutida). Mas não houve modelo em Rust, dentre os
+modelos da plataforma.
+
+Vi códigos complexos. Não vi um que fosse bem rusticiano. Tampouco um que
+simplificasse mais que os da plataforma.
+
+Talvez, depois, faça um modelo com a ideia de linha única.
