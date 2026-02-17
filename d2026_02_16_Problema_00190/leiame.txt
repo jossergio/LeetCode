@@ -1,0 +1,61 @@
+Direto no LeetCode e pelo tablet.
+
+Tive uma ideia, que passou de primeira.
+
+Basicamente, duas linhas em Rust, utilizando uma variável entre elas. Porém, era
+como simulasse dois laços em sequência em uma estruturação bem rusticiana,
+utilizando iteradores.
+
+Então, resolvi fazer um segundo modelo, estruturado em linha única, dispensando
+a utilização da variável e ligando diretamente os iteradores (produção e
+consolidação).
+
+Em seguida, fiz um terceiro modelo, sendo, somente, a substituição de into_iter
+por iter, para testar.
+
+Ainda nos testes, fiz um quarto modelo, formando um vetor, utilizando na
+formação e descarregado na consolidação, por macro, no lugar do inicializador
+(construtor).
+
+Fiz um quinto modelo, igual ao anterior, porém utilizando o construtor já com a
+capacidade definida (with_capacity).
+
+Para finalizar, fiz um sexto modelo, esse bem mais simplificado, com um iterador
+único, e que refletia meu raciocínio inicial. Porém, acabei fazendo modelos com
+vetores como padrão intermediário.
+
+Ainda pensei em fazer um sétimo modelo, ajustando melhor a ideia deste último.
+Mas ficará para uma outra oportunidade.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, excelente. Apesar de utilizar
+iteradores, em uma progração geral seria um vetor e dois laços em sequência. De
+toda forma, ainda temos as facilidades de Rust, que permite consolidações
+através dos iteradores.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era o modelo
+anterior. Porém, ligando, diretamente, o resultado de um iterador com o outro,
+sem precisar de uma variável para intermediar.
+
+Modelo 3 (Rust): 2ms. Mediano. Memória, mediana. Era o modelo anterior, porém
+utilizando iter no lugar de into_iter.
+
+Modelo 4 (Rust): 2ms. Mediano. Memória, mediana. Era o modelo anterior, mas
+utilizando macro para criar o vetor intermediário.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era o modelo,
+anterior, mas utilizava o construtor with_capacity para iniciar o vetor
+intermediário.
+
+Modelo 6 (Rust): 2ms. Mediano. Memória, mediana. Era o modelo mais
+simplista, em um iterador único e sem estrutura intermediária.
+
+Não entendi essas discrepâncias de memória. Tampouco de tempo. Devem ser coisa
+da plataforma. Além disso, no gráfico, os valores absolutos acabam mudando um
+pouco também. A parte pior é o modelo que nem estrutura complementar foi
+utilizada não foi o melhor, especialmente em termos de memória, ficando o que,
+justamente, eu considero que seria o de pior uso de memória bem melhor
+classificado.
+
+Só vi um código rusticiano, e bem parecido com meu último, em uma utilização de
+memória ruim. Os demais utilizavam laços. Vi um código bem complexo (para não
+fazer nada além do que era esperado).
