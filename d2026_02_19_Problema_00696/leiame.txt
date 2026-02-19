@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após imaginar soluções, todas até complexas, vi a dica da plataforma, que não
+ajudava muito, mas serviu de meditação.
+
+Após postar, vi que poderia fazer um modelo de passada única. O primeiro fazia
+uma prefixação (formava um agrupamento) para depois formar a resposta.
+
+Então, fiz um segundo modelo.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma e a segunda
+à segunda da plataforma.
+
+Modelo 1 (Rust): 2ms. Mediano. Memória, medianamente ruim. Utilizava um vetor
+para formar uma contagem de grupos e, depois, fazia os cálculos para formar a
+resposta.
+
+Modelo 2 (Rust): 3ms. Medianamente ruim. Memória, medianamente ruim. Dispensava
+o uso do vetor e fazia tudo em uma passada única.
+
+Os modelos da plataforma foram excelentes para estudar lógica de programação e
+aplicação de estruturas de código.
+
+Postatens no tempo 0 e 1 foram bem bobas. Apesar de infantis, eram baseadas no
+primeiro e no segundo modelo da plataforma.
+
+Em 2 e 6ms códigos bem rusticianos. No de 6, utilizava o padrão de linha única.
+
+Achava que meu segundo modelo seria bem melhor, tanto em uso de memória quando
+no tempo, que o primeiro. Mas são coisas da plataforma.
