@@ -1,0 +1,44 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi a dica da plataforma e vi que era um pouco a linha que eu imaginava.
+
+Após postar, vendo as postagens dos demais participantes, tive mais duas ideias.
+
+Vendo a ideia da plataforma, a função teste recomendada fazer tinha uma
+implementação um pouco diferente. Porém, no geral, todas tinham forma bem
+similar na parte geradora da resposta, mudando, somente, a forma como a condição
+era realizada.
+
+Modelo 1 (Rust): 10ms. Horrível. Memória, medianamente boa. Utilizava um HashSet
+já definido com valores primos (condição do problema) dentro do limite de 32
+decimal. Como eram poucos, a implementação dessa lista ficou de forma direta. E
+foi produzida uma função auxiliar para verificar quantos bits 1 haviam nos
+inteiros da delimitação fornecida.
+
+Modelo 2 (Rust): 5ms. Ruim. Memória, medianamente boa. Era o mesmo modelo
+anterior. Porém, utilizava um vetor normal, onde cada item seria verdadeiro ou
+falso caso o índice fosse primo. Para gerar esse vetor, baseeime no algoritmo de
+Erastóstenes. Essa ideia veio de uma postagem que eu vi dos demais
+participantes. Porém, a forma de implementação foi bem minha.
+
+Modelo 3 (Rust): 1ms. Mediano. MEmória, excelente topo dos tops das galáxias.
+Era o modelo antrior. Porém, não criava uma função auxiliar para contar os bits
+1, sendo utilizada uma função interna da linguagem. Tinha visto essa função nas
+postagens melhores localizadas no gráfico.
+
+O código em 0ms continha println.
+
+O código em 3ms era bem parecido com o meu primeiro. Mas utilizava a função
+interna.
+
+No final, foi um bom exemplo da utilização do algoritmo de Erastóstenes para
+criação de lista de primos.
+
+Há, também, a questão da função interna no lugar de criar uma auxiliar, que,
+parece, otimizou bastante.
+
+Ainda pensei em fazer um código mais rusticiano. Mas já estavam bons os três
+modelos. Além disso, não vi, nas postagens dos demais, algum código que fosse
+assim.
