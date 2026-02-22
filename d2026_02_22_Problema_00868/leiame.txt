@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma.
+
+Em seguida, resolvi fazar um modelo bem rusticiano, formando a ideia de linha
+única, apesar de compartimentada. Então, fiz um segundo modelo que, basicamente,
+era uma espécie de tradução do primeiro.
+
+Antes de postar, já no notebook, como tinha ficado pensativo em como tornar o
+código mais ruticiano ainda, fiz um terceiro modelo e um quarto, sendo este uma
+pequena modificação do anterior.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, não tive como saber, pelo
+gráfico. Apesar de utilizar alguamas sentenças Rust, basicamente era um código
+geral.
+
+Modelo 2 (Rust): 0ms. Melhos, impossível. Memória, medianamente ruim. Abusava de
+Rust, formando uma linha única, apesar de compartimentada. Mas era uma certa
+"tradução" do modelo anterior.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, muito boa. Era um modelo bem
+rusticiano, de passada única, como era o segundo modelo da plataforma. Utilizava
+o conceito de linha única, apesar de compartimentada, sendo com bem menos
+compartimentos que o modelo anterior.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, muito boa, mas um pouco
+melhor que o anterior. Era um pequeno ajuste no modelo anterior, tentando ser
+mais direto.
+
+Não vi códigos interessantes, nas postagens dos demais. Mas vi um que utilizava
+código assembler, apesar que parecia que seria uma base para o compilador Rust.
+Mas era um código extenso, bem complexo e, talvez, essa codificação ne fizesse
+tanta diferença assim no final.
