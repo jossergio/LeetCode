@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 11/01/2022, que eu havia feito um modelo em GoLang.
+
+Só fiz repostar.
+
+Ainda pensei em fazer um modelo um pouco diferente. Mas não estava passando nos
+testes preliminares e a forma teria que conter (constatei) um teste que já
+existia no modelo que passou. Então, desisti.
+
+Em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente boa.
+
+Na vez anterior, também foi 0ms e a memória foi "quase ideal". Deve ser coisa de
+atualização de compilador.
