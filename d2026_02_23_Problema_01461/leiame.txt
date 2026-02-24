@@ -1,0 +1,44 @@
+Direto no LeetCode e pelo tablet.
+
+Nem me antenei em olhar se não era problema já apresentado e resolvido. Quando
+fui registrar é que percebi que era o mesmo problema do dia 31/05/2022, que eu
+havia feito um modelo, com muita dificuldade e após olhar os modelos da
+plataforma, em Python 3. Somente quando fui registrar é que percebi isso.
+
+Tentei, e consegui, fazer em Rust. Ou seja: não fiz tradução.
+
+Após quatro erros, o primeiro após bobeira, de estourar o limite de um vetor,
+por não ter identificado, preliminarmente, que a plataforma poderia enviar algo
+absurdo; o segundo, após ajustar esse primeiro, acrescentando um teste
+preliminar, mas que estourou o tempo; o terceiro, também estourou o tempo; o
+quarto, já em tentativa totalmente nova, com ideia diferente, utilizei um
+operador simples no lugar de um operador matemático de atribuição (bobeira).
+
+Tive uma ideia de fazer por janela deslizante. Porém, utilizava estruturas como
+HashSet e VecDeque. Então, vendo as postagens dos demais, tive uma ideia de
+utilizar um vetor de booleano, pois os limites eram conhecidos antecipadamente,
+para ver valores vistos.
+
+Ainda pensando um pouco mais, tive uma ideia de fazer em linha única, apesar de
+particionada. Em seguida, fiz um enxugamento nas partições desse terceiro,
+fazendo um quarto modelo.
+
+Modelo 1 (Rust): 39ms. Mediano. Memória, mediana.
+
+Modelo 2 (Rust): 4ms. Medianamente boa. Memória, mediana.
+
+Modelo 3 (Rust): 87ms. Medianamente ruim. Memória, péssima.
+
+Modelo 4 (Rust): 90ms. Medianamente ruim. Memória, ruim.
+
+Todos utilizavam um conceito de janela deslizante e uma estrutura para detecção
+para ver se todos os valores seriam vistos nos cálculos. Mas não entendi essa
+enorme discrepância entre os dois primeiros e os dois seguintes.
+
+Em todo momento, tentei ser o mais rusticiano possível. Os dois últimos moodelos
+eram com linha única. Mas acabavam, sim, consumindo muita memória, pois faziam
+um armazenamento de slices, mesmo que com trechos repetidos (sendo, então, novos
+trechos).
+
+Para evitar isso, nos dois primeiros, utilizava um inteiro, armazenando,
+somente, cada valor inteiro produzido.
