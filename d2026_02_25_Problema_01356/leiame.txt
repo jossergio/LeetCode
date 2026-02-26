@@ -1,0 +1,46 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 30/10/2023, onde eu havia feito um modelo em C++ e
+outro em Python 3. Mas resolvi fazer um modelo em Rust.
+
+Fiz, inicialmente, a tradução do modelo em C++, mas utilizando closures.
+
+O modelo em Python, apesar de ser estruturado como se fosse linha única,
+utilizava uma função auxiliar.
+
+Fiz um segundo modelo, somente ajustando closures para funções membro.
+
+Vendo as postagens dos demais, resolvi fazer uma postagem utilizando HashMap.
+
+Fiz, depois, um quarto modelo, ajustando um leve detalhe, onde um ordenamento
+seria feito antes de uma clonagem de dos vetores que integravam o mapa.
+
+Ao final, fiz esse mesmo modelo, mas sem utilizar match, optando por utilizar
+instruçao if.
+
+No total, foram cinco modelos, pois aproveitei para fazer muitos testes.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, ruim. Utilizava duas funções
+como auxiliares.
+
+Modelo 2 (Rust): 1ms. Medianamente ruim. Memória, mediana. Era o modelo anterior
+utilizando funções membro.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, ruim. Utilizava um mapa, com
+agrupamento, para formar as etapas para o ordenamento.
+
+Modelo 4 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era um
+pequeno ajuste no modelo anterior, utilizando get_mut no lugar de get (no
+HashMap) para pegar os elementos de cada etapa, fazendo uma ordenação antes de
+integrar na resposta.
+
+Modelo 5 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era o mesmo modelo
+anterior, mas tirava um match e utilizava um if em seu lugar.
+
+Ainda pensei em fazer no padrão de linha única, como o modelo em Pytho 3. Mas
+irá ficar para um outro momento.
+
+Acredito que o modelo que levou mais tempo (1ms) foi questão da plataforma.
+
+Ainda pensei em fazer um sexto modelo, tentando ser direcionado para linha
+única (ou o menos possível). Mas já foi suficiente pelo dia.
