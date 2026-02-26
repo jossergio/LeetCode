@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 29/05/2024, que eu havia feito três modelos em C++.
+
+Vendo as postagens anteriores minhas, imaginei que poderia otimizar, fazendo
+conversões e utilizando os valores em inteiros. Ledo engano. Se tivesse olhado
+as postagens que falharam na época, teria visto que essa ideia eu já tinha
+utilizado. O problema é que estourava o valor de um inteiro.
+
+Então, fiz um modelo baseado nos modelos que tinha passado.
+
+Em Rust, para exercitar.
+
+0ms. Melhor, impossível.
+
+Memória, o gráfico não mostrou um posicionamento.
+
+Vi um modelo que era mais matemático. Só aparecia esse modelo, no gráfico.
+
+A plataforma mostrava dois modelos, onde a primeira era parecida com meu modelo
+e o segundo era mais matemático. Mas a ideia que vi nas postagens dos demais era
+um pouco diferente desse.
+
+Esse modelo mais matemático era bem intessante. Vou tentar me lembrar dele em
+desafios que possa ser utilizado. Mas nunca costumo ter essas intuições.
