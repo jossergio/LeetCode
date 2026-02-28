@@ -1,0 +1,37 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 23/09/2022, que eu havia feito dois modelos em
+GoLang e em Rust.
+
+Só fiz repostar o modelo em Rust, pois não tive ideia melhor, a não ser uma
+possibilidade de modificar a forma como uma fórmula era utilizada. Mas acabei
+desistindo, pois seria um leve ajuste que não prometia tanta modificação, além
+de prejudicar comparação com a vez anterior.
+
+Também não quis fazer um segundo modelo só para isso.
+
+Também pensei em fazer um modelo de linha única, mas desisti, pois, ao final,
+nem ficaria, pois costumo criar constantes nominadas e fazer conversões
+primárias no lugar de ficar convertendo em cada etapa do cálculo, pois envolvia
+cálculos com valores maiores que i32, resultado em i32 e aplicação de módulo
+para formar a resposta em i32.
+
+Vendo as postagens dos demais, percebi, também, que, para isso, teria que
+utilizar uma função embutida, e que eu não conhecia (ou não lembrava de já ter
+visto), para identificar a posição do bit 1 mais significativo.
+
+Então, ficamos, somente, com um modelo.
+
+Em Rust.
+
+51ms. Mediano.
+
+Memória, no topo dos tops das galáxias.
+
+Na vez anterior, o tempo também foi 51ms. Mas eu tinha citado que tinha ficado
+muito lento.
+
+Sobre memória, na vez anterior todos estavam na mesma faixa.
+
+Sobre as postagens dos demais, vi um modelo de linha única, um modelo utilizando
+string e outros similares ao meu, modificando a forma de implementação.
