@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 27/06/2022, que eu havia feito dois modelos em
+GoLang.
+
+Obs.: na plataforma, está como dia 26. Mas, buscando tanto no registro de
+postagens quanto no dia pela própria plataforma, foi o desafio do dia 27. Acho
+que é uma questão de fuso. Talvez tenha feito perto da meia noite, no Brasil, o
+problema já do dia seguinte.
+
+Vendo os modelos anteriores, resolvi fazer um modelo rusticiano. Basicamente,
+uma tradução, porém, utilizando o conceito de linha única, com alguns ajustes.
+
+Em Rust, para exercitar.
+
+0ms. Melhos, impossível.
+
+Memória, no topo dos tops das galáxias.
+
+As postagens, e foram poucas, que pude ver, algumas repetidas, utilizavam o
+conceito simples, de laços comuns e comparações.
