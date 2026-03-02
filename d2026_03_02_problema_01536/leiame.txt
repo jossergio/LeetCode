@@ -1,0 +1,31 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tentei imaginar alguma forma prática, mas não me veio à mente.
+
+Após dois erros, por o problema me ter feito trabalho para entender e ver
+algumas situações, passou. Achava que através de cálculos poderia chegar a 
+alguma solução. Mas, depois depostar, vi que nem a plataforma tinha modelos
+assim.
+
+Apesar de a implementação ser diferente, posso dizer que minha ideia era bem
+parecida com a da plataforma.
+
+Em Rust, para aplicar recursos da linguagem, apesar de que acabou sendo pouco.
+
+0ms. Melhor, impossível.
+
+Memória, muito boa.
+
+Os dois que vi de menor memória eram cópias idênticas ao modelo da plataforma.
+
+O que vi no de melhor tempo foi o que me apreceu no gráfico com pior memória.
+
+Tive uma ideia e aproveitei para ver as dicas. Mas não as segui direito. Nem o
+modelo da plataforma seguia todas, fazendo uma passada complexa e verificando
+situações a cada etapa. As dicas sugeriam para fazer um teste e verificar antes
+de fazer um processamento mais pesado.
+
+Ainda fiquem pensando em fazer um segundo modelo, ajustando alguns detalhes. Mas
+já estava com a mente bastante desgastada.
