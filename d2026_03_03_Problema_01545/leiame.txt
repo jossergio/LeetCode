@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 19/10/2024, onde eu havia feito um modelo em C++ e
+dois em Rust.
+
+Inicialmente, até por comparativo, só repostei o último modelo em Rust, apesar
+de não ter sido o mais rápido.
+
+Porém, em seguida, resolvi fazer alguns testes. Então, fiz mais dois modelos
+nessa linguagem.
+
+Modelo 1 (Rust): 11ms. Muito ruim. Memória, muito ruim, no final do gráfico.
+Era a repostagem de modelo anterior.
+
+Modelo 2 (Rust): 13ms. Muito ruim. Memória, muito ruim, no final do gráfico.
+Era um desmembramento do modelo anterior, utilizando uma variável temporária.
+
+Modelo 3 (Rust): 10ms. Muito ruim. Memória, muito ruim, no final do gráfico.
+Também utilizava uma variável temporária, mas mantinha uma maior similaridade
+com o modelo 1.
+
+O modelo repostado, na vez anterior, tinha ficado em 19ms, medianamente ruim, e
+a memória tinha ficado bem ruim.
+
+Nas postagens dos demais, muitos modelos diferentes. Tentei entendê-los, mas
+desisti.
+
+Poderia ter ficado brincando com leves ajustes, mas achei melhor não.
