@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 13/12/2023. Pensei ver se teria alguma ideia
+diferente. Pensei ver se faria um modelo em Rust, mesmo que traduzido. Porém,
+acabei, simplesmente, repostando o modelo anterior. E olha que a plataforma
+indicava que era um desafio fácil. Mas era um típico problema que não se
+resolvia com poucas linhas. Tinha-se, inclusive, que fazer uma preparação e uma
+verificação (duas passadas).
+
+Em C++.
+
+3ms. Ruim.
+
+Memória, medianamente ruim, quase ruim.
+
+O tempo anterior foi 11ms e foi tido como excelente. A memória já era ruim,
+mesmo.
+
+As postagens dos demais eram parecidas. Mas o meu utilizava um mapa e um vetor,
+no lugar de usar dois vetores, como os que vi.
+
+De uma forma ou de outra, com alterações de implementações, eram baseados na
+mesma sistemática.
