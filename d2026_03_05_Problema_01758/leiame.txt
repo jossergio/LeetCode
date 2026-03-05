@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 24/12/2023, que eu havia feito três modelos em C++.
+
+Inicialmente, só fiz repostar o último (e mais rápido).
+
+Mas fiquei com uma ideia de fazer um modelo utilizando as características
+aplicáveis em Rust.
+
+Então, fiz um segundo modelo, com alguns detalhes de lógica matemática e de
+matemática aplicada.
+
+Quando fui postar, tive uma ideia de fazer esse modelo em Rust utilizando as
+ideias de linha única. Então, fiz um segundo modelo, que não era bem o mesmo
+anterior ajustado, mas tinha suas bases.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, ruim. Era a repostagem de
+modelo anterior.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Utilizava
+uma condição lógica e de matemática para encontrar o resultado.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa, em termos
+absolutos um pouquinho melhor que o anterior. Era uma reestruturação da ideia
+anterior (bem reestruturada), formando o conceito de linha única, apesar de
+particionada.
+
+O modelo anterior, em C++, tinha ficado em 4ms, mediano, e a memória tinha
+ficado quase excelente. Mas deve ser coisa de atualização de compilador.
+
+Vi uma ideia bem matemática. E outra bem infantil, lembrando minha primeiríssima
+versão, com ajustes.
+
