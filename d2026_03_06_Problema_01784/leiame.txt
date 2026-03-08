@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, por uma situação lógica.
+
+Após postar, vi que minha ideia seguia a mesma lógica do modelo da plataforma. A
+forma da plataforma era mais siplista e direta.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, excelente.
+
+Meu modelo seguia a lógica de linha única, abusando dos conceitos de Rust.
+
+Em 0ms, um modelo comum mas com uma lógica interessante, apesar de uma
+implementação infantil.
+
+Vi alguns códigos complexo e um estranho, aparentando que o participante sabia
+mais do avançado que do básico.
+
+Resolvi não buscar mais ideias, apesar de, quando postando, algumas virem na
+mente.
