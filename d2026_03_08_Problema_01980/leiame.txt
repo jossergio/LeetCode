@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 16/11/2023, onde eu havia feito três modelos em
+Python 3, e que tinha reaparecido em 23/02/2025, onde fiz, sem perceber que já
+tinha feito soluções, um modelo totalmente do zero (pois pensava que era um
+problema inédito para mim).
+
+Em 23/02/2025, tinha feito um modelo em Rust, que era, basicamente, a tradução
+desde último modelo em Python.
+
+Porém, resolvi fazer como se fosse uma postagem nova.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Apesar de eu não ter analisando as postagens anteriores, esse modelo era uma
+forma traduzida do terceiro, e mais rápido e com menos uso de memória, dos
+feitos em Python 3.
+
+Em relação ao modelo anterior feito em Rust, esse modelo era um quinto da
+memória.
