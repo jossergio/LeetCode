@@ -1,0 +1,17 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 04/01/2022, onde eu havia feito dois modelos em C++.
+
+Inicialmente, só fiz repostar o primeiro.
+
+Porém, no momento em que fui regitrar, resolvi fazer um modelo em Rust.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, mediana. Era a repostagem do
+último modelo anterior.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, quase excelente. Era uma
+tradução do modelo em C++.
+
+O tempo na vez anterior foi 3ms, mas não indiquei em que nível tinha ficado.
+Mas tinha deixado que deveria ser coisa do LeetCode. E a memória tinha sido
+muito alta.
