@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+Não imaginaria fazer por um tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi a dica, que indicava utilizar forçar bruta. Então, arrisquei.
+
+Meu modelo ficou bem parecido com o da plataforma, com pequenos ajustes de
+implementação.
+
+Em Rust, para exercitar.
+
+7ms. Nem foi indicado no gráfico.
+
+Memória, também não foi indicada no gráfico.
+
+Os modelos que vi eram ajustes de implementação do meu modelo/plataforma. Então,
+não sei o porquê de tanta disparidade.
+
+Em 2 e 5ms, cópia integral do modelo da plataforma.
