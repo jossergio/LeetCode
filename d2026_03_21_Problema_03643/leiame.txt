@@ -1,0 +1,39 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha implementação era um pouco diferente da plataforma,
+invertendo a forma de um laço aninhado.
+
+Fiz um segundo modelo, modificando, somente, a forma (Rust) como um parâmetro
+seria aproveitado como mutável. Esse segundo modelo clonava o parâmetro e o
+primeiro simplesmente sombreava/atribuia como mutável.
+
+Vendo, também, a dica, que falava em dois ponteiros, resolvi fazer um terceiro
+modelo.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, horrível. Utilizava dois,
+laços, sendo o interno adaptado para trabalhar com as pontas. E ainda Utilizava
+a forma Rust de atribuição por tupla, para não utilizar variável temporávia
+quando permutando valores de variáveis.
+
+Modelo 2 (Rust). 0ms. Melhor, impossível. Memória, excelente no topo dos tops
+das galáxias. Era idêntico ao anterior, modificando, somente, a forma como um
+parâmetro seria utilizado de modo mutável (e que formaria a resposta), aplicando
+uma clonagem no lugar de simplesmente redefir/sombrear.
+
+Modelo 3 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era uma adaptação do
+modelo anterior, para fazer um laço com duplo ponteiro no lugar de um único que
+atingia as pontas. O uso maior de memória é bem justificável, pela utilização
+de, pelo menos, uma variável a mais.
+
+Parece que clonar uma variável de parâmetro, para torná-la mutável, é mais
+eficiente que simplesmente sombrear de forma direta.
+
+Vi o mesmo código em dois pontos no gráfico de memória.
+
+Considerei minha ideia inicial mais adequada. Porém, é de raciocínio mais
+complexo, pois forma cálculos para os índices.
+
+Utilizar duplo ponteiro elimina esses cálculos e torna o código mais simples,
+apesar de utiliza mais memória.
