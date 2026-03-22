@@ -1,0 +1,36 @@
+Direto no LeetCode.
+
+Poderia ter feito pelo tablet. Mas, apesar de a plataforma indicar que era um
+problema fácio, exigia um pouco de atenção. Então, fiz no notebook.
+
+Inicialmente, tive uma ideia. Porém, seria um pouco custosa em termos de uso de
+recursos.
+
+Então, tive uma ideia de fazer como um simulador/acumulador, pois só haveria
+quatro possibilidades, ao final.
+
+Ainda pensei em fazer um pré-teste, para otimizar, e abortar os laços antes de
+concluir se percebesse que não haveria mais solução possível a partir de um
+ponto (Rust permite sair de laços internos), e poderia fazer esse teste no laço
+mais externo, mas optei por deixar direto, até o final, independente de
+situações. Ou seja: faria todos os testes.
+
+Após postar, vi que minha ideia era mais eficiente. O modelo da plataforma fazia
+a matriz mudar e verificar (de forma direta, pois Rust permite) a cada iteração,
+formando um terceiro laço aninhado: um para formar cada iteração e os dois que
+naturalmente teriam que ser utilizados.
+
+Em Rust, para exercitar, mesmo que não tenha imaginado nada de especial para
+utilizar recursos da linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, no topo dos tops das galáxias.
+
+Em 0ms, cópia fiel do modelo da plataforma.
+
+Vi esse mesmo código em dois pontos de uso de memória.
+
+Na posição de menor uso de memória, um modelo meio que adaptado da plataforma.
+
+Considero o meu mais eficiente, organizado e simples.
