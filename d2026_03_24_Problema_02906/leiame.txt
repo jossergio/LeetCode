@@ -1,0 +1,28 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu tive que olhar, para tentar ver
+o que eu estava fazendo de errado, depois de dois erros.
+
+Vi pelo tablet, mas já imaginava que não seria tão simples. Além disso, iria
+tentar fazer um código bem rusticiano. Então, fui para o notebook.
+
+Era um problema puramente matemático. Tinha visto as dicas e tido uma ideia.
+
+Porém, não estava aplicando corretamente um acumulador. Causa dos dois erros.
+
+Após aplicar uma variávei temporária, antes de ajustar o acumulador, como o
+modelo apresentava, passou.
+
+Em Rust, para aplicar, com bastante peso, recursos da linguagem.
+
+15ms. Medianamente ruim.
+
+Memória, no topo dos tops das galáxias.
+
+Vi, em diversos pontos de ambos os gráficos, a cópia do modelo da plataforma.
+
+Vi um modelo bem rusticiano, em 1ms, que era o meu, implementado um pouco
+diferente. Porém, acumulava de uma forma que eu considerava errada. Mas, vi que 
+fazia um leve ajuste (saltava um item), quando formando a resposta.
+
+Em 0ms, uma adaptação bem fuleira do modelo da plataforma.
