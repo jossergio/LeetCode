@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+Era um problema simples e curto. Nas próprias dicas da plataforma, citava
+utilizar força bruta.
+
+Tive uma ideia, que, talvez, possa ser estendida para casos maiores, caso venha
+a aparecer posteriormente, apesar de, também pelas dicas, citar que, pelo
+tamanho dos testes, haver como proceder por dois testes simples.
+
+Mas fiz como se fosse uma redução, para um caso geral (um laço).
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Em 0ms, um modelo utilizando if's aninhados, de modo direto, pois as dicas da
+plataforma assim sugeriam.
+
+No melhor da memória, um pequeno ajuste desse modelo, utilizando variáveis
+temporárias. O modelo em 0ms aparecia na segunda posição do gráfico de memória.
+
+Ainda tentei fazer um segundo modelo, alternando recursos do Rust, especialmente
+para transformação de strings para utilização como vetor, mas as tentativas não
+encontraram algo interessante ou prático.
