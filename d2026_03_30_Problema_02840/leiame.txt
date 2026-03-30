@@ -1,0 +1,58 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma apresentava uma solução, que eu nem olhei.
+
+Era um aprodundamento do problema do dia anterior, onde eu já tinha feito um
+modelo visando algo assim.
+
+Porém, não era a mesma situação em si. Mas havia como aproveitar, separando com
+base em uma condição aplicada no problema.
+
+Após dois errinhos, um por não ter prestado atenção que precisaria de um teste
+final (o problem anterior tinha, só não observei) e outro de que o teste final
+precisaria de um ajuste, por conta da condição aplicada no problema, passou.
+
+Após postar, vi que minha ideia nem tilava na ideia da plataforma, fazendo uma
+formulação regressiva. O da plataforma utilizava mapas.
+
+Vendo as postagens dos demais, resolvi fazer um modelo menor, aproveitando de
+recursos de Rust para gerar vetores para serem comparados em dois blocos.
+
+Fiquei, também, encucado para fazer uma ideia orientado para linha única. Então,
+fiz um teceiro modelo, que comparava o resultado, direto, de dois resultados, e
+um quarto, que fazia iteradores se propagarem juntos (zip), onde os teses íam
+sendo feitos por acumulação.
+
+Em ambos esses dois casos, a condição aplicada na formulação do problema era
+implementado por um ajuste lógico, matemático, no terceiro e por matriz, no
+quarto.
+
+Modelo 1 (Rust): 1193ms. Horrível. Memória, ruim. Era uma forma mais geral,
+apesar de utilizar sintaxe de Rust, mas que poderia facilmente ser traduzido
+para alguam outra linguagem. Utilizava um algoritmo por regressão, dinâmico,
+onde a condição adicional da questão era implementada pelo passo em um laço
+interno.
+
+Modelo 2 (Rust): 14ms. Horrível. Memória, péssimo, no final do gráfico. Criava
+variáveis vetor temporárias, ajustava (ordenava) e testava, no final, usando uma
+sintaxe bem rusticiana.
+
+Modelo 3 (Rust): 3ms. Muito bom. Memória, mediana. Gerava as estruturas
+intermediárias (dois vetores) e aplicava o teste de modo direto, formando uma
+situação de linha única apesar de particionada. Um ponto interessante era a
+lógica matemática aplicada para diferenciar a condição citada no problema.
+
+Modelo 4 (Rust): 3ms. Muito bom. Memória, mediana. Fazia um interador agregado
+com outro, onde aplicava um conceito de acúmulo/restituição, em uma matriz,
+onde cada linha era uma condição adicional do problema. Ao final, todos os
+valores deveriam estar zerados, ou não, para produzir a resposta.
+
+Não sei o motivo do tempo grande do primeiro modelo.
+
+O quarto era, quase, a ideia da plataforma, apesar de alguns conceitos aplicados
+de forma diferente e essa ser de forma mais geral. Minha implementação era Muito
+rusticiana. Ou seja: se for comparar algum dos meus modelos com o da plataforma,
+deve ser utilizado esse.
+
+Em 0ms e em 1ms, cópia fiel da ideia da plataforma. Em algumas posições
+distintas de memória, também.
