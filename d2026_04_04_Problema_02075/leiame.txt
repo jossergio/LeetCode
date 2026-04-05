@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+Após um pouco de raciocínio, à procura de uma forma prática, e após dois
+errinhos, um por não atentar para a possibilidade de a resposta iniciar com
+espaços e eu ter feito trim integral para formar a resposta (pois havia
+apossibilidade de terminar com espaços; aliás, seria bem comum isso; mas,
+iniciar, não imaginei) e outro por não imaginar que plataforma forneceria um
+teste vazio (e as restrições citavam essa possbilidade, mas eu não as li antes),
+e tal situação não seria aplicável ao modelo que eu fiz (adicionei uma 
+conicional para verificar isso antes inicar a execução de fato), passou.
+
+O tempo inicial que precisei era para ver se uma lógica de limite final de duas
+dimensões poderia encontrar uma coincidência. Acabei utilizando um break.
+
+Em Rust, para praticar.
+
+7ms. Medianamente bom. Memória, mediana.
+
+Ficou um algoritmo extenso.
+
+Em 0ms, vi um modelo bem menor, utilizando de uma lógica bem interessante: o
+passo (andamento), aliado a um salto inicial. Ficou bem interessante. Se eu
+tivesse raciocinado dessa forma, não precisaria do break.
