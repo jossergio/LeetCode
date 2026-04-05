@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me mostrava um modelo que, após postar, vi que era bem similar à
+minha ideia.
+
+Após postar, fiz um segudo modelo, com um pequeno ajuste na implementação, pois
+resolvi dividir uma condição de um match (que a ideia da plataforma usou if's)
+para que ficasse mais elegante, na minha opinião.
+
+Modelo 1 (Rust): 1ms. Mediano. Memória, medianamente ruim. Utilizava um match
+único para testar que situação atualizar.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era uma
+adaptação ao modelo anterior, aproveitando que sentenças em Rust retornam valor.
+Então, cada variável acumuladora, de forma idependente, formava seu incremento,
+mesmo que fosse zero.
+
+Vi códigos bem extensos (por serem muito enfeitados, utilizando detalhes
+desnecessários e em linhas separadas, também de forma desnecessária) e alguns
+que eram bem semelhantes ao meu primeiro, modificando, basicamente, os nomes das
+variáveis.
+
+Códigos iguais ocupavam posições diferentes, mesmo no gráfico de memória.
