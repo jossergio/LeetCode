@@ -1,0 +1,30 @@
+impl Solution {
+    pub fn xor_after_queries(nums: Vec<i32>, queries: Vec<Vec<i32>>) -> i32 {
+        const m: i64 = 1_000_000_007;
+        let mut nums: Vec<i64> = nums
+            .into_iter ()
+            .map (| a | a as i64)
+            .collect ();
+        for q in queries {
+            let (
+                i,
+                f,
+                k,
+                v
+            ) = (
+                q [0] as usize,
+                q [1] as usize,
+                q [2] as usize,
+                q [3] as i64
+            );
+            for idx in (i..=f).step_by (k) {
+                nums [idx] = (nums [idx] * v) % m;
+            }
+        }
+        nums [1..nums.len ()]
+            .into_iter ()
+            .fold (nums [0], | acum, atual |
+                acum ^ atual
+            ) as i32
+    }
+}
