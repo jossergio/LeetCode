@@ -1,0 +1,39 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, por não ficar incrementando, no laço, a variável de contagem,
+passou.
+
+Interessante é que essa falha só foi detectada no teste 93 de 164.
+
+Vendo as publicações dos demais e antes de registrar, vi que a ideia da posição
+de 0ms, fazia uma ideia tentendo a linha única (pois tinha uma linha a mais para
+mudar o tempo de uma variável de entrada). Então, passei um tempinho tentando
+uma lógica para formar o meu com essa ideia, ná no notebook.
+
+Após mais um erro, tive que olhar novamente a postagem em 0ms, pois não estava
+formando corretamente a lógica para o cálculo.
+
+Então, o segundo modelo passou. Mas utilizei três linhas, pois, além de fazer
+a conversão de uma variável de entrada, utilizei outra variável para guardar o
+tamanho do vetor. Porém, é bom frisar, esses passos não seriam obrigatórios se
+fizéssemos a conversão e utilizar a própria função de comprimento do vetor
+durante o laço.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era um código, até,
+extenso. Porém, percorria de uma forma quase binária. Só errei porque não testei
+um ponteiro passar do outro, fazendo, no pior caso (quando não existisse o valor
+buscado), percorrer o vetor inteiramente. No melhor caso, encontrava de forma
+bem otimizada. Como a varredura seria circular, fiz funções embutidas para
+auxiliar no deslocamento da cada ponteiro, individualmente.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Mas pior, em termos
+absolutos, que o modelo anterior. Utilizava um iterador, fazendo a ideia de
+linha única, mas tinha duas linhas a mais para auxílio. Utilizava um padrão
+matemático lógico, para encontrar a resposta.
+
+No gráfico de memória, localizei uma cópia da ideia da plataforma.
+
+A ideia da plataforma utilizava a forma lógica matemática que apliquei no
+segundo modelo. Porém, era um código geral, sem iteradores.
