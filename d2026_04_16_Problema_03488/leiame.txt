@@ -1,0 +1,36 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Era um típico de problema que seria bem complexo de fazer no tablet ou no
+celular. Então, em oportunidade apropriada, fiz no notebook.
+
+Vi as dicas da plataforma e percebi que fazer por força bruta estouraria o
+tempo, pela lógica que indicavam aplicar.
+
+E perdi um tempão, principalmente raciocinando com as questões dos índices, que
+eram por referência indireta.
+
+Após postar, vi a ideia da plataforma aplicava um procedimento que pensei em
+fazer, jogando um valor adicional, baseado no final, no início do vetor de
+índices, que foi preparado, e outro no final, da mesma forma baseado no início.
+
+Minha ideia ficava ajustando, se fosse necessário, apesar de não ser tão
+ineficiente assim, a cada iteração.
+
+O modelo da plataforma também era mais rusticiano.
+
+Em Rust, para praticar.
+
+61ms. Medianamente ruim. Memória, ruim.
+
+Apesar de eu ter visto alguns modelos com codificação pequena, era, de toda
+forma, de uma lógica bem complexa.
+
+O gráfico me permitiu ver várias postagens dos demais participantes.
+
+No menor tempo que o gráfico me permitiu analisar (18ms), vi um código com uma
+lógica bem interessante, onde ía registrando o próprio vetor de entrada com
+valores, enquando um mapa ía, simplesmente, gardando dois valores, o primeiro
+encontrado, pois era utilizado na referência circular para trás, e o mais
+recente, pois era o anterior do atual, e a cada iteração ajustava tudo.
