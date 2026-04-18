@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia, simples, matemática, que passou de primeira.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, com a diferença
+que a ideia deles refatorava e a minha fazia o cálculo diretamente na função
+base, além de bem leves detalhes de implementação.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, excelente.
+
+Após postar, vi que tinha ficado um "lixinho", pela criação de uma variável
+vetor de inteiros, pois foi assim que comecei a raciocinar, mas que nem cheguei
+a utilizar.
+
+Mesmo assim, resolvi não fazer uma segunda postagem sem essa variável.
+
+Bem que o compilador da plataforma poderia ter barrado isso (variável sem uso).
+
+Vi códigos bem semelhantes aos meus (exceto pela variávle vetor), com uso de
+memória mais alto.
