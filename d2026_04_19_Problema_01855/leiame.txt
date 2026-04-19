@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo tablet.
+
+Após quatro erros:
+
+1- Por não observar que a resposta padrão era zero e não -1.
+2- Por uma situação que não entendi e nem desejei entender, mas joguei para
+testes e fui testando a lógica.
+3- Estouro de tempo, em um teste longo.
+4- Erro em tempo de execução, pois passou dos limites de um vetor.
+
+Ajustei e passou, apesar de esse ajuste sem um belo ajuste e não uma pequena
+modificação no código anterior. Não ficou um código lindo, mas passou.
+
+Em Rust, para praticar.
+
+422ms. Muito horrível de ruim.
+
+Memória, medianamente boa.
+
+De alguma forma, o código em 0ms lembrava o meu, apesar de implementado de forma
+bem diferente.
+
+Em 8ms, um código bem rusticiano, de linha totalmente única, apesar de
+particionada com interador, que nem consegui entender a lógica. Nem o do meu, se
+for realmente entender.
+
+Utilizei break, apesar de não gostar, e vi que algumas postagens também
+utilizavam, até o de 0ms.
