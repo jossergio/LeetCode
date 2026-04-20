@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+A primeira dica da plataforma citava utilizar força bruta. Mas a segunda citava
+um fato interessante, sobre só existirem duas possibilidades. Então, fui nessa e
+fiz um modelo bem rusticiano.
+
+Penei um pouco a codificar porque, além de desejar tornar bem rusticiano e com
+linha única, a lógica não estava batendo. Mas, após pensar um pouco mais,
+passou.
+
+Em Rust, para praticar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Vi, no final do gráfico de memória, a cópia integral do modelo da plataforma.
+
+Em 0ms, um código utilizando break, porém, com ideia similar à que pensei de
+saída. Mas acabei codificando em linha única de Rust seguindo um raciocínio
+parecido.
+
+Ficou em linha única, também, porque não fiz utilização de variáveis auxiliares.
