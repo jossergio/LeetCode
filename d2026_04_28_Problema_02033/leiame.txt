@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 26/03/2025. Porém, resolvi fazer alguns ajustes.
+
+O ajuste básico foi a retirada de uma condição inicial que não era necessária, a
+utilização de uma variável para armazenar um valor que era calculado duas vezes
+e mudar iter para into_iter (Rust) na agregação de uma matriz em um vetor.
+
+Tentei imaginar algo mais rusticiano. Mas não tive muitas ideias.
+
+Em Rust, para praticar.
+
+12ms. Mediano.
+
+Memória, não era mostrada no gráfico.
+
+O tempo anterior era 18ms, no nível ruim.
+
+A memória, em termos absolutos, ficou bem melhor que o anterior. Porém, no
+anterior, mostrava que estava no nível horrível e desta vez não mostrava nada.
