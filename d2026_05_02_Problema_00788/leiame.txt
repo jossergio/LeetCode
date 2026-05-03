@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+Após um errinho, por não ter interpretado direito o problema, passou.
+
+Após postar, vendo as postagens dos demais participantes, fiz um segundo modelo,
+que utilizava um vetor como mapa, pois os valores poderiam ser considerados como
+índices. PRECISO passar a raciocinar assim, pois acabei fazendo conjuntos com
+valores válidos e inválidos e acabou prejudicando o tempo.
+
+Modelo 1 (Rust): 19ms. Ruim. Memória, bem péssimo. Utilizava uma função
+intermediária, com dois conjuntos (set) e duas closures (uma para cada), que ía
+fazendo ambos os testes a cada iteração necessária e para cada valor.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, muito boa. Ajustava a função
+auxiliar do modelo anterior para utilizar um vetor, onde cada valor correspondia
+a possibilidade, formando um par.
+
+Esse problema tinha uma lógica bem interessante, pois envolvia duas condições ao
+mesmo tempo.
+
+Ainda poderia ver uma forma mais enxuta, que nem precisaria de refatoração. Mas
+fica para outra oportunidade.
