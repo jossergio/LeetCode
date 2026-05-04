@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 30/08/2022, que eu havia feito um modelo em GoLang.
+Só fiz respostar.
+
+Na época, a plataforma tinha me apresentado soluções, QUE EU OLHEI, para fazer o
+meu modelo, apesar de que eu também citava que minha ideia inicial era similar à
+da plataforma, mas estava com preguiça de raciocinar.
+
+Em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, muito boa.
+
+Na postagem anterior, tinha ficado em 3ms, mediano.
+
+Antes de registrar, ainda tentei ter alguma ideia diferente, já no notebook, mas
+desisti, depois de algumas poucas tentativas.
