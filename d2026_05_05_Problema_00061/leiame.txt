@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 11/03/2022, que eu havia feito um modelo em GoLang.
+Só fiz repostar.
+
+Até poderia ter realizado alguma ideia melhor. Mas estava com preguiça.
+
+Em GoLang. 187ms. Muito horrível.
+
+Memória, muito horrível, também.
+
+Na vez anterior, 164ms e já era horrível. E a memória, também horrível.
+
+A memória quase dobrou de tamanho. Mas deve ser coisa de atualização de
+compilador.
+
+Ainda pensei em fazer um modelo com ponteiros direto (esse, utilizava um vetor,
+para auxiliar). Mas resolvi utilizar o tempo para outras coisas.
