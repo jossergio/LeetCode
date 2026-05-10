@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava três soluções, que eu nem olhei.
+
+Após postar, vendo as postagens dos demais participantes, vi que poderia fazer
+um código mais enxuto. Então, fiz um segundo modelo.
+
+Modelo 1 (Rust): 19ms. Ruim. Memória, excelente. Criava um vetor de resposta já
+rotacionado e ía preenchendo, linha a linha do original, as colunas do vetor
+resposta, através de um laço particionado (dividido em etapas).
+
+Modelo 2 (Rust): 9ms. Medianamente ruim. Memória, medianamente ruim. Também
+utilizava um vetor já rotacionado para a resposta. Mas fazia uma espécie de
+duplo ponteiro para fazer o processamento linha a linha. Também aplicava uma
+certa lógica na conformação de um desses ponteiros, que estava, sempre, atrasado
+(ou adiantado, dependendo do ponto de vista, mas o laço era reverso).
+
+Não vi como fazer comparações com os modelos da plataforma, pois as lógicas eram
+as mesmas, modificando, somente, formas de implementação e de otimizações. Na
+realidade, acabava sendo códigos bem confusos.
