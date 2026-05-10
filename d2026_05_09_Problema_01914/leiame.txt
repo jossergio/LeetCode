@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à da plataforma, mas com
+implementações diferentes. Além disso, minha ideia fazia um refatoramento e
+a ideia da plataforma utilizava uma forma de de ponteiro para indicar o
+elemento, utilizando dois vetores auxiliares, o que fazia poupar uma passagem, e
+a minha ideia implementava diretamente em um vetor em três etapas bem distintas.
+
+Em Rust, para exercitar.
+
+6ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+Vi cópias integrais do modelo da plataforma.
+
+Também vi um modelo bem semelhante ao meu, mas sem funções para cada etapa e
+utilizando VecDeque no lugar de um vetor simples.
