@@ -1,0 +1,28 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após um errinho de estouro de tempo, passou. Esse erro decorreu de não ter
+observado que precisaria de dois valores para indicar processamente realizado,
+mas não obtida resposta, e ainda não processado. Formei, somente, um valor e o
+algoritmo sempre realizava processamento mesmo quando já havia processado e
+visto que não era alcançável naquele ponto.
+
+Após ajustes, passou.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma, utilizando
+um memorizador.
+
+A segunda ideia da plataforma utilizava um memorizador com programação dinâmica.
+
+Em Rust, para praticar.
+
+9ms. Mediano.
+
+Memória, ruim.
+
+Vi cópias integrais dos dois modelos da plataforma.
+
+Ainda pensei em fazer uma segunda postagem, utilizando programação dinâmica, mas
+com um aspecto bem meu, mas tinha outras coisas para fazer. Fica para uma
+próxima oportunidade.
