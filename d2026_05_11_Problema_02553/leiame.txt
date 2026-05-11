@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que minha ideia era similar à primeira da plataforma. A segunda
+da plataforma utilizava uma lógica bem interessante: fazer reverso e reverter no
+final. Isso tira a necessidade de um vetor temporário/intermediário.
+
+Desde o início, fiquei imaginando em fazer em Python se fosse possível utilizar
+a ideia de linha única. Não encontrei forma. Então, fiz em Rust, mesmo.
+
+Antes de registrar, já no notebook, com essa ideia de linha única encucada, fiz
+um segundo modelo, também em Rust, utilizando a ideia de linha única, apesar de
+particionada.
+
+Modelo 1 (Rust): 0ms. Melhor impossível. Memória, mediana. Utilizava uma função
+que ía montando a base para um laço. Fiz essa função como closure.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, mediana. Era uma ideia de
+linha única, apesar de particionada, onde a função auxiliar virava parâmetro da
+função fold.
+
+As postagens dos demais participantes seguim por essas duas ideias da
+paltaforma. Algumas com implementações bem interessantes.
+
+Vi uma cópia integral do segundo modelo da plataforma.
