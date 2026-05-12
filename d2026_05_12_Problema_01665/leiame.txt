@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções que, após dois errinhos, resolvi
+olhar.
+
+Tinha um pensamento similar ao primeiro modelo da plataforma, mas não conseguia
+ajustar, mesmo vendo as dicas do problema.
+
+Os dois erros não seguiam esse pensmento e considerava que era algo mais
+trivial. Nos testes básicos, passavam.
+
+O segundo modelo me era um pouco diferenciado. Então, fiz um modelo copiando o
+primeiro modelo da plataforma.
+
+Em Rust, para praticar.
+
+3ms. No topo dos tops das galáxias.
+
+Memória, bem ruim.
+
+Todas as postagens que vi no gráfico eram cópias integrais de um dos dois da
+plataforma.
+
+No final, não antendi nada da lógica por trás das soluções.
