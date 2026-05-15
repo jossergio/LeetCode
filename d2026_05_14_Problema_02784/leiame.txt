@@ -1,0 +1,42 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vendo as postagens dos demais, percebi que poderia fazer uma
+simplificação. Então, fiz um segundo modelo e, na sequência, um terceiro,
+baseados na minha própria ideia decorrente das análises das postagens dos
+demais participantes.
+
+A dica da plataforma parecia um enigma.
+
+Após postar, também, observei que minha ideia era similar à primeira da
+plataforma. Inclusive, o segundo modelo era bem parecido. o tercriro já
+considero bem mais interessante, pois aplicava uma lógica matemática para
+definir uma condição para o último elemento.
+
+Porém, todos eram baseados na primeira ideia da plataforma.
+
+A segunda da plataforma era baseada em contadores e, consequentemente, não fiz
+ideia baseada por essa forma, apesar de ter passado pela mente.
+
+Modelo 1 (Rust): 0ms. Melhor impossível. Memória, ruim. Fazia um laço, com,
+while, e aproveitava o final de uma variável de incremento para aplicar mais um
+teste.
+
+Modelo 2 (Rust): 0ms. Melhor impossível. Memória, muito boa. Utilizava um laço
+comum para o índice e o teste final era uma condicional para o próprio retorno
+da função.
+
+Modelo 3 (Rust): 0ms. Melhor impossível. Memória, no topo dos tops das galáxias.
+Era uma melhoria do anterior, porém, o laço era um enumerador e, para o final,
+que ficava também dentro do laço, fazia uma lógica de valor mínimo no teste. Ao
+final, retornava uma contante verdadeira fixa, pois tinha passado em todos os
+testes dentro do laço.
+
+Ainda vi uma postagem cópia integral da primeira da plataforma. Também vi
+algumas postagens baseados, mas não copiados, na segunda ideia da plataforma.
+
+Quando estava registrando, tive uma ideia para fazer o resultado com linha
+única, apesar de que não seria por precisar de uma ordenação preliminar, apesar,
+também, de ter que desmembrar. Mas ficaria valendo. Farei isso em outro momento,
+pois tinha que fazer outras atividades no dia.
