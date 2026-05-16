@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 23/10/2021, que eu havia feito em GoLang.
+
+Inicialmente, só fiz repostar. Porém, baseado no problema do dia anterior e,
+também, na sugestão da plataforma ao descrever o problema de reduzir ao máximo o
+número de etapas da operação, fiz um segundo modelo, pois o primeiro era O(n).
+
+Após quatro erros, o primeiro pelo estouro de tempo, passou. Eu não estava
+encontrando a lógica certa para um detalhe adicional em relação ao problema do
+dia anterior.
+
+Fiz esse segundo em GoLang, também, para relembrar quando a estudava.
+
+Modelo 1 (GoLang): 0ms. Melhor impossível. Memória, no topo dos tops das
+galáxias. Era repostagem de modelo anterior e no padrão O(n), apesar de haver
+um ponto de saída antecipado quando localizava a solução.
+
+Modelo 2 (GoLang): 0ms. Melhor impossível. Memória, medianamente ruim. Utilizava
+uma busca binária, formando um tempo O(log n).
+
+No problema do dia anterior, os valores eram distintos. Nesse, poderia haver
+valores iguais e isso modificava, bastante, a lógica. Até eu chegar no ponto
+ideal, passei pelos erros.
