@@ -1,0 +1,40 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 09/12/2021, que eu havia feito um modelo em C++.
+
+Inicialmente, só fiz repostar.
+
+Porém, considerei que meu cógido não era muito elegante. Então, fiz um segundo
+modelo também em C++.
+
+Em seguida, considerei fazer a tradução desse modelo para Rust. Então, fiz um
+terceiro modelo.
+
+Modelo 1 (C++): 0ms. Melhor impossível. Memória, medianamente ruim. Era a
+repostagem da vez anterior.
+
+Modelo 2 (C++): 0ms. Melhor impossível. Memória,medianamente ruim, mas pior que
+o anterior, em termos absolutos. Era um enxugamento do código fonte anterior.
+
+Modelo 3 (Rust): 0ms. Melhor impossível. Memória, ruim. Era uma tradução do
+modelo anterior.
+
+Na vez anterior, o modelo que repostei tinha ficado com 36ms e considerei bom.
+
+Na vez anterior, também, eu tinha comentado sobre a possibilidade de se
+economizar memória se fosse utilizado o próprio vetor de entrada para ir
+anulando valores (ou modificado para valores impossíveis) como verificador de
+passagem.
+
+Além disso, para se vereificar essa visita anterior, eu ficava retornando o
+valor para não, o que não era necessário, pois, independente de como se
+chegasse, se já se tivesse passado por aquele ponto anteriormente, já se saberia
+o resultado por ali.
+
+Ou seja: meu segundo código poderia ter ficado mais simples ainda.
+
+Vi postagens com recursividade, como a minha, mas com formas interativas, como
+eu já havia citado na vez anterior.
+
+Depois, talvez, eu volte e faça um modelo por essa forma ou espere a próxima vez
+que esse problema voltar eu eu me lembrar de fazer assim.
