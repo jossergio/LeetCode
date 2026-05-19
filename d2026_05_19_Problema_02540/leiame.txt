@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 09/03/2024, que eu havia feito uma solução em Python
+3 e outra em C++, ambas por métodos diferentes.
+
+Só fiz respostar a ideia em C++.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Na vez anterior tinha ficado em 70ms, medianamente bom, e a memória mediana.
+
+Fiquei refletindo sobre fazer algo novo, mas não me veio ideia de como fazer
+melhor. Só diferente.
+
+Ainda pensei em cruzar, fazer a ideia de uma na outra linguagem e vice-versa,
+além de fazer ambos em Rust. Mas desisti.
