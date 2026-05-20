@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 14/01/2025, onde eu havia feito dois modelos em
+Python 3 e, no dia 16 seguinte, adicionei um modelo em Rust.
+
+Só fiz repostar o modelo em Rust. Não tive ideias melhores, a não ser de
+modificar alguns detalhes de codificação. Então, não fiz.
+
+Em Rust.
+
+3ms. Medianamente ruim.
+
+Memória, medianamente boa.
+
+Na vez anterior, o tempo tinha ficado em 0ms e a memória reduziu (interessante),
+nessa nova postagem, mas já tinha ficado medianamente boa a vez anterior.
