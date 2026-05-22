@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 08/08/2023, onde eu havia feito um modelo em C++. Só
+fiz repostar, pois não tive ideia melhor.
+
+Na vez anterior, eram-me mostradas três soluções, onde eu acabei olhando para
+fazer meu modelo, pois estava "enganchando".
+
+Desta vez, não eram mostradas as ideias da plataforma.
+
+Em C++.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Apesar de ter aumentado em valores absolutos o uso da memória, na vez anterior
+nem apareceu no gráfico. Para esta vez, o uso da memória da postagem anterior
+aparecia no topo dos tops das galáxias.
