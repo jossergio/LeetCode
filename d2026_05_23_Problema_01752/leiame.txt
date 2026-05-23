@@ -1,0 +1,34 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 02/02/2025, que eu havia resolvido já em Rust e
+feito dois modelos.
+
+Inicialmente, só fiz repostar o segundo. Porém, como não era um modelo
+rusticiano e sim um geral e "traduzível", com estruturas comuns, resolvi fazer
+um segunao modelo com um conceito mais rusticiano, utilizando iteradores e
+direcionado para o conceito de linha única.
+
+Como, para ficar em linha única, tive que utilizar "iter", resolvi fazer um]
+segundo modelo, utilizando "into_iter", apesar de que tinha que gerar uma
+variável para auxiliar. Como postei sem fazer a modificação para o into_iter
+(bobeira, acrescentei a variável e esqueci do principal), fiz um quarto modelo.
+
+Modelo 1 (Rust): 0ms. Melhor impossível. Memória, ruim.
+
+Modelo 2 (Rust): 0ms. Melhor impossível. Memória, mediana. Era um modelo em
+linha única, bem interessante e que utilizava uma adaptação de ideia contida no
+segundo modelo da postagem anterior, onde acrescia/repetia o primeiro elemento
+no final para gerar o ciclo. Porém, fazia diferente, utilizando o último como
+primeiro também, para facilitar o iterador.
+
+Modelo 3 (Rust): 0ms. Melhor impossível. Memória, mediana, apesar de, em termos
+absolutos, ser melhor que o anterior. Era um erro na modificação para utilização
+de into_iter, pois fazia o necessário para adaptação mas não substituía o iter.
+
+Modelo 4 (Rust): 0ms. Melhor impossível. Memória, excelente. Utilizava o
+into_iter, mas também fazia uma leve modificação na atribuição da variável que
+foi adicionada para auxiliar, onde, no lugar do índice do último elemento, era
+utilizada diretamente o valor do último elemento.
+
+Na vez anterior, o modelo repostado tinha ficado com memória medianamente boa,
+apesar de ambos terem ficado em 0ms.
