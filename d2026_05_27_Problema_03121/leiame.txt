@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, queeu nem olhei.
+
+Poderia ter feito no tablet. Mas, no momento em que fui fazer, já estava no
+notebook.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, com pequenas
+diferenças em detalhes de implementação. Inclusive utilizando dois laços em
+sequência.
+
+Antes de ver as postagens dos demais, tive uma ideia de fazer uma pequena
+modificação e utilizar vetores no lugar de mapas, além de tornar um trecho do
+código mais rusticiano. Então, fiz um segundo modelo.
+
+Em Rust, para praticar.
+
+Modelo 1 (Rust): 21ms. Ruim. Memória, mediana. Utilizava dois mapas para fazer
+os registros e depois aplicava mais um laço para obter a contagem de uma
+condição.
+
+Modelo 2 (Rust): 4ms. Medianamente bom. Memória, excelente. Era uma adaptação do
+modelo anterior, utilizando vetores e modificando o laço final por uma forma com
+interadores.
+
+Vi implementações bem interessantes. Uma delas utilizando uma lógica matemática
+com cálculo em uma agregação booleana.
+
+Todos os que vi utilizavam uma forma de laço em sequência.
