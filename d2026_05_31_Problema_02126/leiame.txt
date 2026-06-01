@@ -1,0 +1,41 @@
+Direto no LeetCode e pelo celular.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Iniciei pelo tablet, que produziu um erro. Fui para o notebook, onde não
+consegui fazer funcionar, mesmo mudando a forma de pensar.
+
+Fiz uma saída de casa e, num intervalo, refiz no celular o modelo do notebook,
+mas acrescentei debugador. Vi que a falha era por estourar o limite de inteiro.
+
+Então, mudei o tipo do dado e passou.
+
+Fiquei pensando se o primeiro modelo, que fez o erro, passaria. Não consegui
+puxar pelo celular mas fiz um novo com essa ideia. E passou. Ou seja: eu etava
+na direção certa.
+
+O primeiro modelo acabou ficando um pouco mais eficiente, porém, mais complexo,
+pois utilizava um heap, mas mantinha uma lógica sequencial, apesar do
+ordenamento por conta do heap.
+
+Após postar, vi que meu segundo modelo era bem similar à da plataforma,
+diferenciando em ajustes de implementação.
+
+Ou seja: se eu tivesse observado logo a questão do tipo teria passado de
+primeira e não haveria a necessidade de fazer um modelo mais complexo. Porém,
+serviu de estudos.
+
+Modelo 1 (Rust): 3ms. Medianamente bom. Memória, O gráfico não indicou mas me
+pareceu ruim. Fazia uma varredura sequencial do vetor de entrada e utilizava um
+heap para auxiliar uma ordem.
+
+Modelo 2 (Rust): 8ms. Medianamente ruim. Memória, medianamente boa. Ordenava o
+vetor de entrada e fazia uma varredura sequencial, tendo um ponto de escape caso
+fosse detectada impossibilidade de sucesso a partir de algum ponto.
+
+Vi o mesmo código postado em partes diferentes do gráfico. Vi, também, a cópia
+integral do modelo da plataforma.
+
+Todos os que eu vi eram baseados em ordenamento inicial.
+
+Mas achei bem interessante a ideia com heap.
