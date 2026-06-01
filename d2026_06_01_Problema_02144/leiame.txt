@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem similar à da plataforma. Porém, essa era
+mais geral e a minha era mais rusticiana.
+
+Após postar, resolvi tornar mais ruscitiano ainda. Então, fiz um segundo modelo.
+
+Modelo 1 (Rust): 1ms. O gráfico não mostrava relatividade. Memória, muito boa.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, muito boa e, em termos
+absolutos, um pouquinho melhor que o anterior. Era um modelo mais rusticiano
+baseado no anterior e só não ficou em linha única por eu costumar tornar mutável
+no código, e não no cabeçalho da função, o vetor de entrara e precisar,
+preliminarmente, fazer uma ordenação (invertida), antes do processamento
+específico. Essa etapa era necessária.
+
+Em Python o segundo modelo ficaria em linha única, pois a função de ordem pode
+ser utilizada como objeto.
+
+Vi um código mais complexo e a postagem integral da plataforma.
