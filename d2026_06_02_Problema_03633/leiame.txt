@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Comecei a fazer pelo tablet. Mas era um problema chato, apesar de simples, por
+envolver quatro vetores de entrada e com nomes longos, além de certas
+complicações para raciocínio. Então fui para o notebook.
+
+Após postar, vi que minha ideia era parecida com a primeira da plataforma, com
+diferenças na implementação.
+
+O primeiro modelo da plataforma era O(m x n) e o segundo O(m + n), além de ser
+bem interessante o raciocínio.
+
+Em Rust.
+
+3ms. Ruim.
+
+memória, medianamente boa.
+
+Em 0ms, um modelo bem ruticiano e baseado no segundo modelo da plataforma.
+
+Vi cópia integral dos modelos da plataforma.
