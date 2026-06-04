@@ -1,0 +1,36 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Vi nas dicas da plataforma para utilizar força bruta. Então vi que os testes não
+seriam tão exaustivos.
+
+Após postar, e vendo que as postagens dos demais participantes tinha muitos
+modelos bem rusticianos, revolvi fazer o meu.
+
+Comparando o meu com os da plataforma, o meu utilizava uma abordagem matemática.
+
+Ambos os modelos da plataforma utilizava strings convertidos para vetores.
+
+Modelo 1 (Rust): 3ms. No topo dos tops das galáxias. Memória, no topo dos tops
+das galáxias. Criava uma função auxiliar, um pouco prolixa pela necessidade,
+sendo um código geral.
+
+Modelo 2 (Rust): 1ms. No topo dos tops das galáxias. Memória, no topo dos tops
+das galáxias, apesar de um pouco mais de utilização, em termos absolutos. Era
+uma conversão do modelo anterior, onde a funçao auxiliar se tornava uma closure
+e o código ficava em linha única e bem rusticiano.
+
+Tentei ver uma forma de diminuir o código, tentando aplicar alguma lógica, mas
+não consegui. Tive que fazer as duas primeiras ações de forma independente e não
+dentro de um laço e de forma geral.
+
+A primeira barra do gráfico envolvia as duas postagens. Por isso ambas ficavam
+no topo.
+
+Vi um código bem complexo e outros utilizando conversão para strings. Também vi
+a cópia integral dos modelos da plataforma. Inclusive, o complexo que vi era um
+deles, que também utilizava strings.
+
+Tão compelxo que utilizava mais de um vetor tridimencional de tipo i64 e várias
+closures.
