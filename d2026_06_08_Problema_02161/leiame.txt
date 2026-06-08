@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 03/03/2025, que eu havia feito um modelo em Python
+3. Inicialmente, só fiz repostar.
+
+Porém, fiquei vendo uma possibiliade de fazer em Rust. Então, fiz um segundo
+modelo, que, basicamente, era uma tradução, já no computador.
+
+Em Python, ficou em linha única, apesar de desmembrado.
+
+Em Rust, tive que fazer por etapas, porém, de forma ismples e bem rusticiana.
+
+Modelo 1 (Python 3): 43ms. Medianamente ruim. Memória, medianamente ruim. Era a
+respostagem de problema já solucionado.
+
+Modelo 2 (Rust): 4ms. Medianamente ruim. Memória, medianamente boa. Era uma
+tradução, bem rusticiano, do modelo anterior, apesar de não ter ficado em linha
+única.
+
+Na vez anterior, o tempo tinha ficado em 32ms, tendo sido mediano.
+
+Vi um código bem interessante, em Rust, que poderia ter tornado o meu em linha
+única, por lingação de iteradores. Mas ficará para uma outra oportunidade.
+
+Mas os demais códigos não tinham muita diferença para o meu, a não ser
+implementação, e eram feitos em formas gerais.
