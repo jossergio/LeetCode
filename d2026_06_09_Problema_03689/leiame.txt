@@ -1,0 +1,21 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha era similar à da plataforma. Além disso, após postar,
+foi que fui ver que havia dica. E ela mostrava que era para fazer como eu tinha
+imaginado logo no início.
+
+Em Python 3, para aproveitar algumas facilidades, especialmente sobre linha
+única (que o modelo da plataforma, nessa linguagem, criou variáveis auxiliares).
+
+Poderia ter feito em Rust, também com a ideia de linha única, mas teria um pouco
+mais de código. E em Python foi bem mais prático.
+
+8ms. Muito bom.
+
+Memória, mediana.
+
+Muitas postagens, em barras distintas do gráfico, bem iguais à minha. Inclusive,
+na barra de tempo onde o meu estava agrupado, o que aparecia era um idêntico. Só
+não consegui identificar se era, mesmo, o meu.
