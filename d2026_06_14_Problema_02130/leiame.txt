@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema que eu havia feito em C++ em 17/05/2023. Só fiz repostar.
+
+Em C++.
+
+3ms. Medianamente boa.
+
+Memória, ruim.
+
+Na vez anterior, o tempo tinha ficado em 293ms e horrível e a memória
+medianamente ruim.
+
+Na vez anterior, a plataforma me apresentava três soluções. Desta vez, não
+apresentava soluções.
+
+Vi algumas postagens com códigos bem interessantes.
+
+Ainda pensei em fazer meus próprios modelos baseados nessas postagens. Mas tinha
+outras coisas para fazer. Fica para uma outra oportunidade.
