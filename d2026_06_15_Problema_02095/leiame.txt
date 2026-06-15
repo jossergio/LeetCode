@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 14/10/2022, que eu havia feito três modelos em C++.
+Inicialmente, só fiz repostar o mais recente (e mais rápido).
+
+Porém, após postar, puxando pelos meu conhecimentos, fiz um segundo modelo,
+utilizando um algorítmo rápido-lento para navegação de ponteiros em lista
+ligada mais geral.
+
+Modelo 1 (C++): 0ms. Melhor, impossível. Memória, mediana. Utilizava um
+algoritmo rápido-lento, mas um pouco complexo.
+
+Modelo 2 (C++): 0ms. Melhor, impossível. Memória, ruim. Era uma pequena melhoria
+no modelo anterior, adicionando o uso de uma variável, evitando duas comparações
+para verificar estados, ficando mais generalista.
+
+Na vez anterior, o modelo 1 tinha ficado em 1683ms, medianamente bom.
+
+Desta vez a plataforma não me mostrava soluções.
