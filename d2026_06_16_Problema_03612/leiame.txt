@@ -1,0 +1,30 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Como estava no tablet, fiz um modelo mais geral. Após postar, vi que minha ideia
+era bem similar à da plataforma, com pequenos ajustes de implementação.
+
+Porém, fiquei encudado em fazer um modelo de linha única. Então, um pouco mais
+tarde, fiz um segundo modelo, também no tablet. E em seguida, mais dois, com
+pequenas modificações desse segundo modelo, para testes.
+
+Modelo 1 (Rust): 0ms. Melhor, impossível. Memória, medianamente boa. Era um
+implementação mais geral, apesar de utilizar alguma estrutura e recursos da
+linguagem.
+
+Modelo 2 (Rust): 0ms. Melhor, impossível. Memória, quase excelente. Era uma
+transformação do modelo anterior em um modelo de linha única em Rust.
+
+Modelo 3 (Rust): 14ms. Ruim. Memória, mediana. Era uma transformação do modelo
+anterior para utilizar char no lugar de u8, para o vetor de entrada.
+
+Modelo 4 (Rust): 19ms. O gráfico nem indicou. Memória, mediana. Era a
+substituição, no modelo anterior, de into_iter por iter.
+
+Não sei se os modelos 3 e 4 tiveram problemas de tempo por conta da plataforma.
+Mas parece que o de memória não foi o caso.
+
+Vi cópias integrais do modelo da plataforma.
+
+Não vi modelo rusticiano.
