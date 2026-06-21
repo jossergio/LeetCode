@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 06/01/2023, que eu havia feito três modelos em C++.
+Porém, vendo as postagens anteriores, resolvi fazer uma nova. Essa nova postagem
+era um pouco similar à primeira anterior, mas com uma implementação diferente.
+
+Pensei, primeiro, fazer em Rust. Mas teria que ajustar a mutabilidade dos
+parâmetros de entrada. Então, fiz em C++, mesmo, para utilizar os próprios
+parâmetros.
+
+Em C++.
+
+35ms. Mediano.
+
+Memória, medianamente boa.
+
+Após postar, quando estava registrando, tive uma ideia de fazer uma leve
+modificação para reduzir código. Mas deixei para lá.
