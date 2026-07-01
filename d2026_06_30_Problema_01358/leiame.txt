@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Inicialmente, no tablet, não tive ideia. Então, fiz uma olhadinha nas ideias da
+plataforma, mas não codifiquei direto.
+
+Mais tarde, já no notebook, fiz minha ideia.
+
+Após postar, vi que uma variável era retida várias vezes. Então, fiz um segundo
+modelo que, após um errinho (tinha que ajustar os elses), passou.
+
+Modelo 1 (Rust): 5ms. Ruim. Memória, péssima. Tentava seguir as dicas da
+plataforma, que não definiam as ideias da plataforma, mas fazendo um ajuste
+particular, com fila.
+
+Modelo 2 Rust: 8ms. Ruim. Memória, péssima. Era um pequeno ajuste do modelo
+anterior, tirando uma linha que se repetia sem necessidade.
+
+Não vi código excepcional nas postagens dos demais.
