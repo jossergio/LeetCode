@@ -1,0 +1,22 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 15/11/2023, onde eu havia feito quatro modelos em
+C++. Só fiz repostar o mais rápido, o penúltimo.
+
+Após postar, resolvi fazer uma reestruturação no quarto modelo (e mais lento)
+para ver como ficaria. Então, após um errinho, por descartar valores iguais,
+através de um conjunto (set), o que não deveria ter feito, ajustei e fiz um
+segundo modelo.
+
+Modelo 1 (C++): 13ms. Ruim. Memória, mediana. Era repostagem de modelo anterior.
+Fazia uma ordenação e varria o vetor à procura de inconsistência.
+
+Modelo 2 (C++): 45ms. Péssimo. Memória, péssima. Era bem similar ao anterior.
+Mas utilizava uma fila de prioridade no lugar de ordenar.
+
+Na vez anterior, o modelo repostado tinha ficado com 78ms, em medianamente bom,
+pois, como tinha registrado (e hoje não registro mais), o gráfico iniciava em
+57ms.
+
+Alguma otimização no ambiente deve ter ocorrido, pois desta vezhavia muito 0ms,
+além de barras em todo o espectro abaixo de 15ms.
