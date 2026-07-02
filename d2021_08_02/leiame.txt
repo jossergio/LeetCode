@@ -47,3 +47,12 @@ o código, utilizando as estruturas da linguagem mais eficientemente.
 
 Memória, igual ao anterior e quase excelente.
 
+=====================
+Em 02/07/2026, resolvi iniciar uns estudos de JavaScript. Então, fiz um novo
+modelo, porém, por força bruta, mesmo. Depois, vou melhorando.
+
+39ms. Ruim.
+
+Memória, muito boa.
+
+Foi um modelo simples, só para iniciar os estudos em JavaScript, mesmo.
