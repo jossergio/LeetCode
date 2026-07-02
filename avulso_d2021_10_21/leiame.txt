@@ -16,3 +16,17 @@ Em 27/08/2021, para brincar com Rust, fiz um modelo nessa linguagem.
 
 Memória, medianamente bom.
 
+==========
+Em 02/07/2026, fiz modelos em JavaScript, pois tinha iniciado estudos nessa
+linguagem.
+
+Fiz dois modelos. O segundo, baseado em ideia que vi na postagem dos demais após
+a postagem do primeiro.
+
+Modelo 1 (JavaScript): 7ms. Mediano. Convertia para string e utilizava ponteiros
+opostos para ir checando.
+
+Modelo 2 (JavaScript): 3ms. Muito bom. Fazia, matematicamente, o palíndromo do
+parâmetro e checava, no final, retornando o resultado da comparação.
+
+Vi postagens bem diversificadas.
