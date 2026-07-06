@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 20/02/2022, que eu havia feito um modelo em GoLang.
+Só fiz repostar, pois não vi o que melhorar.
+
+Em GoLang.
+
+6ms. Horrível.
+
+Memória, muito boa.
+
+Na postagem anterior, tinha sido 13ms e era melhor que mais da metade e
+registrei a informação de que não houve abaixo de 8ms. Desta vez, grande parte
+em 0ms.
+
+Em 0ms, um algoritmo bem interessante, que inciava ordenando e fazia com que o
+laço de processamento, que era simples, acompanhasse os intervalos, eliminando
+etapas, ficando O(n) e, no final, O(n log (n)), por conta do ordenamento.
