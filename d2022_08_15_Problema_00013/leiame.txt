@@ -30,3 +30,23 @@ gráfico que ía até pouco mais de 16ms.
 Vendo as postagens dos demais, foi um belo estudo da sintaxe da linguagems, além
 de outras formas para o algoritmo.
 
+==========
+Em 08/07/2026, fiz um modelo em JavaScript.
+
+Basicamente, a tradução do mais recente em Rust.
+
+6ms. Mediano.
+
+Memória, ruim.
+
+Foi um pouco complicado porque utilizei Map e a sintaxe é um pouco diferente da
+notação de objetos, tendo que utilizar funções internas, e fiquei misturando e
+sendo apresentado erros.
+
+Fiz depurações e fui entendendo melhor a sintaxe.
+
+Mas serviu para ver as postagens dos demais e entender alguns conceitos de
+JavaScript.
+
+Ainda pensei em fazer um segundo ou terceiro modelos, utilizando alguma sintaxe
+ou estrutura diferente. Mas ficará para uma outra oportunidade.
