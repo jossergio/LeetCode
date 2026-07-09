@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+Nem tentei pelo tablet.
+
+Comecei de manhã cedo e já estourou o tempo. Deixei para lá mas fiquei encucado.
+
+Já à noite, retomei, fui refinando e, após mais três erros, sendo o segundo,
+contando com o da nanhã, por estouro de memória e os outros dois por estouro de
+tempo, mesmo, passou.
+
+Em C++, para relembrar e por considerar a sintaxe mais simples, para mim.
+
+13ms. Medianamente boa.
+
+Memória, mediana.
+
+Utilizei várias estruturas, como matriz dinâmica e matriz fixa para representar
+o grafo, conjunto (set) para formar os conjuntos e, no final, nada disso foi
+necessário. Simplesmente, uma estrutura de vetor linear, que eu já aplicava
+desde o início, foi sufiente. Ou seja: nem precisava fazer o grafo; só ver os
+agrupamentos que produziria segundo apresentado no problema.
+
+Utilizei dois ponteiros para ir varrendo as limitações do problema. Mas, em 2ms,
+o menor tempo do gráfico, vi um código que nem precisaria disso. Um ponteiro
+simples, testando, somente, o anterior seria suficiente.
