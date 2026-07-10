@@ -33,3 +33,24 @@ Memória, mediana.
 Houve 0ms, a grande maioria foi em 1ms e ainda houve 2ms, em um gráfico que ía
 até 12ms.
 
+==========
+Em 10/07/2026, fiz dois modelos em JavaScript.
+
+Apesar de eu ter feito consultando os modelos anteriores, posso dizer que foram
+do zero, pois não foram colados nem traduzidos e fiz algumas modificações para
+o algoritimo.
+
+Como era para estudar, fiz um outro modelo, que produziu um errinho (por lógica
+do algoritmo), que eu ajustei e passou.
+
+Ainda para estudar, fiz um terceiro modelo, pois achei que tinha abusado de
+break, que faz o código ficar deselegante.
+
+Modelo 3 (JavaScript): 0ms. Melhor impossível. Memória, muito ruim.
+
+Modelo 4 (JavaScript): 3ms. Medianamente ruim. Memória, ruim.
+
+Modelo 5 (JavaScript): 5ms. Ruim. Memória, muito ruim.
+
+Ainda pensei em fazer outros modelos, para estudar outros recursos. Mas já eram
+suficientes. Não vi como fazer um código menor ou, pelo menos, interessante.
