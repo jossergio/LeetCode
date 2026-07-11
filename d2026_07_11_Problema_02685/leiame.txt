@@ -1,0 +1,32 @@
+Direto no LeetCode.
+
+A plataforma me apresentava quatro modelos, que eu nem olhei.
+
+Iniciei no tablet, achando que era similar a um dois dias anteriores. Mas nem
+era tanto.
+
+Então, fui, um pouco mais tarde, para o notebook, pois estava ficando um pouco
+cansativo pelo tablet, e comecei, do zero, lembrando e ajustando o que eu tinha
+iniciado no tablet.
+
+Passou de primeira.
+
+Uma dica da plataforma, sobre um cálculo lógico matemático, facilitou. Sem essa
+dica, nem saberia como proceder.
+
+Em Rust, para exercitar.
+
+8ms. Muito bom.
+
+Memória, medianamente boa.
+
+Comparando os da plataforma com o meu, não entendi nada dos da plataforma.
+
+Não vi códigos extraordinários nas postagens dos demais.
+
+Um problema bem interessante de grafo.
+
+Ficaram resquíscios do problema de dois dias anteriores e algumas variáveis,
+apesar de terem sido utilizadas, poderiam ter sido descartadas, com pequena
+modificação na implementação. Mas já estava com a mente bastante cansada e não
+fiz outros modelos, nem por ajuste de código.
