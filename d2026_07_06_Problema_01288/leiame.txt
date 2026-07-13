@@ -16,3 +16,17 @@ em 0ms.
 Em 0ms, um algoritmo bem interessante, que inciava ordenando e fazia com que o
 laço de processamento, que era simples, acompanhasse os intervalos, eliminando
 etapas, ficando O(n) e, no final, O(n log (n)), por conta do ordenamento.
+
+=====
+Em 13/07/2026, fiz um modelo em JavaScript.
+
+Basicamente, a tradução do modelo em GoLang.
+
+3ms. Excelente.
+
+Memória, mediana.
+
+Vi, basicamente, dois tipos de código. Um que ordenava antes de processar, e me
+foi útil porque vi modelos de como utilizar função de seta em função de
+ordenamento no tipo array do JavaScript, e outro que era similar à minha ideia,
+que saía comparando tudo (n x n, ou n^2).
