@@ -1,0 +1,24 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 23/01/2022, que eu havia feito um modelo em GoLang,
+que tinha reaparecido em 02/02/2024 e onde eu tinha simplesmente repostado.
+Desta vez, só fiz repostar, também.
+
+Em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, no topo dos tops das galáxias.
+
+Nas postagens anteriores, o mais antigo foi em 0ms e o outro em 1ms e
+medianamente boa.
+
+A memória, no segundo, era um pouquinho melhor e medianamente boa. No segundo,
+todo mundo estava no mesmo nível e não houve como comparar.
+
+Desta vez, a memória era bem pior, quase o dobro. Mas gráfico não tinha abaixo
+disso e indicava melhor que 100%.
+
+Ainda pensei em fazer um código menor, pois esse era bem expandido. Mas vai
+ficar para uma outra oportunidade. Não tive ideia no início e, no final, até
+tive. Mas estava com preguiça de implementar e estar.
