@@ -12,3 +12,24 @@ Memória, péssima.
 
 Para variar, vi ambos os modelos da plataforma nas postagens dos demais
 participantes.
+
+=====
+Em 13/07/2026, fiz um modelo em JavaScript.
+
+Inicialmente, tentei mudar a ideia. Mas não obtive êxito.
+
+Então, ficou a tradução do modelo em Rust.
+
+0ms. Melhor impossível.
+
+Memória, ruim.
+
+Vi um código de linha única, apesar de subdividida. Porém, era um pouco
+complexo, pois, além de ser um pouco redundante, utilizava umas estruturas
+pesadas. Talvez se não fossem essas estruturas fosse um pouco melhor, pois tinha
+ficado em 3ms.
+
+Porém, ver modelos assim foi bastante útil, pois utilizavam funções de objetos,
+tipo filtro. Mas era utilziando string.
+
+Muitos eram assim, convertendo em string e retornando para formar o resultado.
