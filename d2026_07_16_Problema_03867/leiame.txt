@@ -1,0 +1,41 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho (não sabia que a fução embituda de objetos arrays era alfabética
+e não numérica), corrigi e passou.
+
+Vendo as postagens dos demais, resolvi fazer experiências para reduzir o código,
+aproveitando condições de JavaScript. Então, fiz um segundo modelo, basicamente
+para enxugar linhas, mas houve um errinho básico (utilizei incremento antes de
+utilizar o valor de uma variável; nos testes, não houve situação para esse erro
+ocorrer).
+
+Em seguida, fiz uma terceira postagem para enxugar mais uma linha.
+
+Minha ideia e codificação eram bem similares aos da plataforma, pois a parte
+mais complexa é que tinham etapas na própria descrição do problema.
+
+Obs.: o errinho desse caso foi que utilizei a notação --x no lugar de x++.
+
+Modelo 1 (JavaScript): 142ms. Excelente. Memória, medianamente boa.
+
+Modelo 2 (JavaScript): 183ms. Medianamente ruim. Memória, péssima. Era, somente,
+um pequeno ajuste do código anteior para reduzir a quantidade de linhas.
+
+Model 3 (JavaScript): 179ms. Mediano. Memória, péssima. Era o mesmo modelo
+anterior, mas com a redução de uma linha.
+
+Todos os códigos que vi no gráfico só diferenciavam em aspectos simples de
+implementação. Ou seja: era chato para todo mundo.
+
+Uma lição que aprendi: ordenar arrays em JavaScript é diferenciado. Ele sempre
+considera que os valores do vetor são texto e faz um ordenamento alfanumérico
+mesmo que os valores sejam números. É por isso que sempre devemos utilizar uma
+função para indicar a ordem. E, nos textos que estudei e nos exemplos dos demais
+participantes, vi muito a ideia de um cálculo simples de subtração, para o valor
+de comparação, no lugar de um resultado de comparação booleano de maior ou de
+menor.
+
+Arrow function: (a, b) => a - b;
+// Se negativo, é porque a > b
