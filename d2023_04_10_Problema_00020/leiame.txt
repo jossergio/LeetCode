@@ -28,3 +28,14 @@ Tentei utilizar match, mas não consegui, pois a sintaxe de Rusto é chatinha
 pacas. Mas, o código em 0ms utilizava e pude ver melhor como utilizar esse
 condicional e outras estruturas, como Some etc.
 
+=====
+Em 17/07/2026, fiz um modelo em JavaScript.
+
+Basicamente, a tradução do modelo em Rust.
+
+4ms. Mediano.
+
+Memória, medianamente ruim.
+
+Mudavam a implementação. Mas a ideia era a mesma, nos códigos que eu vi dos
+demais.
