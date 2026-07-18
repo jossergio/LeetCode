@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que era um problema tão simples que só o que mudaria seria
+implementações, inclusive nas postagens dos demais, apesar de alguns
+complicarem.
+
+Também após postar, vi as dicas da plataforma (ainda não tinha visto), que
+citava uma forma de implementação meio diferenciada. Então, fiz um segundo
+modelo, seguindo as ideias das dicas.
+
+Modelo 1 (JavaScript): 5ms. Péssimo. Memória, ruim. Era bem resumido,
+aproveitando-se da sintaxe de JavaScript para escrever menos linhas. Ordenava o
+vetor de entrada para pegar o primeiro e o último (menor e maior) para calcular
+um MDC de forma recursiva.
+
+Modelo 2 (JavaScript): 1ms. Mediano. Memória, medianamente ruim. Em um laço,
+encontrava o maior e o menor. Em um segundo laço, fazia os testes indicados nas
+dicas para encontrar a resposta.
+
+Nem o modelo da plataforma seguia suas dicas direito, apesar de que se
+aproveitava da sintaxe da linguagem para reduzir linhas (menor que os meus).
