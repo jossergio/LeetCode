@@ -9,3 +9,24 @@ A plataforma apresentava soluções. Mas, nem olhei.
 
 Memória, nem apareceu no gráfico.
 
+=====
+Em 21/07/2026, fiz uma postagem em JavaScript.
+
+Basicamente, a tradução do modelo em Rust. Mas fiz alguns ajustes, enxugando uns
+trechos e modificando um pouco mais adiante.
+
+Após postar, vi que, pelas delimitações do problema, poderia ter feito um pouco
+diferente até mesmo as postagens anteriores, pois nunca viria um vetor vazio.
+Mas tento lembrar de ajustar em outro momento que esse mesmo problema volte a
+aparecer.
+
+Em JavaScript, para estudar.
+
+0ms. Melhor, impossível.
+
+Memória, mediana.
+
+Vendo as postagens dos demais, vi que alguns formaram como eu deveria ter,
+formado, outros como eu tinha formado antes, outros de modo mais complexo e
+outros utilizando os índices de forma que achei estranho. Mas se estava no
+gráfico, é porque estava correto.
