@@ -35,3 +35,21 @@ o laço todo, pois a ideia minha seria essa. Mas, valeu o estudo.
 
 Ah! E isso poderia ter deixado o código menos redundante.
 
+=====
+Em 21/07/2026, fiz um modelo em JavaScript.
+
+Foi interessante porque utiliza estruturas de lista ligada. Tive que raciocinar
+um pouco, como fazer isso em JavaScript, mas até que foi rápido entender os
+conceitos.
+
+Basicamente, a tradução do modelo mais recente, em GoLang.
+
+0ms. Melhor, impossível.
+
+Memória, ruim.
+
+Nas postagens dos demais, vi alguns códigos bobos e outros profissionais. Mas em
+todos pude aprender algo. Especialmente como utilizar objetos e questões de
+ponteiros em JavaScript.
+
+Talvez em outros desafios utilize na forma como achei interessante ter visto.
