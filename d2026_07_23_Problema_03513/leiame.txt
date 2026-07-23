@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Poderia ter feito no tablet.
+
+Inicialmente, aparentava complexidade. Mas, vendo as dicas da plataforma para o
+problema, vi que sugeria uma forma matemática.
+
+Desisti de fazer no tablet e deixei para a noite. Testei uma fórmula, seguindo
+as dicas, adicionei um teste com mais dois números, para ver se o padrão seria
+seguido corretamente, passou e postei.
+
+Após postar, vi que minha ideia era cálculo com um laço. A da plataforma, era um
+laço, fazendo um deslocamento de bits, já produzindo a resposta. Meu laço
+deslocava bits, no sentido inverso, e obtinha esse deslocamento, fazendo um
+cálculo de potência para chegar à resposta.
+
+Ou seja: uma etapa desnecessária, mas seguindo as dicas da plataforma.
+
+Em Rust, pois envolvia questões com bits.
+
+1ms. O gráfico não indicava proporcionalidade em relação aos demais.
+
+Memória, medianamente ruim.
+
+Vi um modelo mais matemático ainda. E um outro que fazia um laço para deslocar o
+cálculo necessário, pois sempre seria uma potência de dois.
+
+Não entendi direito o conceito do problema. Só segui as dicas.
