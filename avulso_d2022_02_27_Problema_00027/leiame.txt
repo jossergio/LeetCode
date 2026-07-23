@@ -18,3 +18,17 @@ Em 21/09/2022, adicionei um modelo em Rust. Só fiz traduzir.
 
 Memória, medianamente ruim.
 
+=====
+Em 23/07/2026, fiz um modelo em JavaScript.
+
+Basicamente, a tradução modelo em Rust. Mas fiz uns leves ajustes.
+
+Após um errinho, por já ter percebido mas ter tentado olhar o código em GoLang e
+misturado um pouco as ideias, ajustei e passou.
+
+0ms. Melhor impossível.
+
+Memória, excelente.
+
+Vi alguns códigos interessantes e formas interessantes de utilizar alguns
+conceitos de estruturas de JavaScript.
