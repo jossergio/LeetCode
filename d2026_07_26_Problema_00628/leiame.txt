@@ -1,0 +1,34 @@
+Direto no LeetCode.
+
+Inicialmente, pelo tablet. Porém, era por força bruta.
+
+De início, já vi que teria pegadinha, pois a plataforma indicava que era um
+problema fácil, mas tinha menos de 50% de sucesso. Ou seja: grande chance de ser
+estouro de tempo.
+
+Então, após esse erro de estouro de tempo, fiquei umtempo raciocinando uma forma
+lógica, fui para o notebook (talvez, nem precisasse, mas auxilia mais) e fiz um
+modelo que passou.
+
+Em JavaScript, para exercitar na linguagem.
+
+37ms. Mediano.
+
+Memória, mediana.
+
+A lógica que cheguei ordenava descrecentemente (poderia ser crescente, também) e
+pegava o maior cálculo entre os três primeiros ou os dois últimos com o
+primeiro.
+
+Os códigos com melhor tempo faziam um laço simples onde íam pegando os três
+maiores e os dois menores para, no final, checar qual cálculo seria maior na
+mesma lógica que pensei.
+
+Depois de uma certa misturada, muitos códigos parecidos com o meu, com
+diferenças na implementação.
+
+Vi muitos códigos um pouco infantis em ambos os tipos.
+
+Pela teoria da quantidade de linhas, mesmo que particionada, o meu utilizava
+duas, sendo a primeira para ordenar e a segunda para comparar resultados entre
+dois cálculos.
