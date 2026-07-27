@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo tablet.
+
+Era um problema já antigo, feito inicialmente como avulso em GoLang em
+19/02/2022, feias postagens em 18 ou 19/08/2022 tanto em C++ como em Rsut e
+tinha já reaparecido em 12/12/2023, onde eu fiz três modelos em C++.
+
+Só fiz repostar o último e com o tempo de 0ms.
+
+Interessante é que tive uma total falta de atenção. Inicialmente, não cliquei no
+botão de jogar postagens antigas no editor. O editor estava configurado para
+JavaScript (sim, estava estudando essa linguagem). Fiz os testes e não prestei
+atenção que produziu erros, até porque não tinha código algum a não ser a
+estrutura inicial (a definição da função). No modo automático, submeti.
+
+Total falta de atenção, mesmo.
+
+Em C++.
+
+0ms. Melhor impossível.
+
+Memória, mediana.
+
+Vi algumas postagens bobas e outras interessantes, apesar de implementada de
+forma boba. Não vi postagem que me agradasse, apesar de ter imaginado outras
+ideias. Mas ficarão para uma outra oportunidade.
+
+Meu código era em duas linhas e bem estruturado.
