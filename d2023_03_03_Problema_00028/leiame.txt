@@ -32,3 +32,23 @@ Modelo 3 (Rust): 1ms. Ruim. Memória, ruim.
 A grande maioria foi em 0ms. A postagem que havia nesse tempo utilizava função
 interna da linguagem.
 
+=====
+Em 27/07/2026, fiz um modelo em JavaScript.
+
+Um leve ajuste no último modelo em Rust.
+
+Apresentou um errinho, que não tinha se relevado nos testes, por uma utilização
+de substring considerando o segundo parâmetro como tamanho e é índice de fim.
+
+Substituí por substr, que é depreciado, e passou.
+
+Porém, resolvi fazer um modelo com substring. Então, fiz um segundo modelo com
+essa leve diferença.
+
+Modelo 1 (JavaScript) 0ms. Melhor impossível. Memória, muito boa.
+
+Modelo 2 (JavaScript): 0ms. Melhor impossível. Memória, mediana.
+
+Parece que substring utiliza mais memória.
+
+Vi código utilizando função interna e muitos bem complexos e infantis.
