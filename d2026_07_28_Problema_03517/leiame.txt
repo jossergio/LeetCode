@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era complexa perante a da plataforma. A ideia da
+plataforma considerava que, por já ser palíndromo a entrada, bastaria ordenar a
+primeira metade, ver se era ímpar o tamanho para adicionar justamente o
+caractere do meio e juncar com o reverso da primeria metade. Simples.
+
+Em Python, para utilizar recursos da linguagem.
+
+163ms. Medianamente boa.
+
+Memória, medianamente boa.
+
+Vi alguns códigos que, de alguma forma, utilizavam minha ideia.
