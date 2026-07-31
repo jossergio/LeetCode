@@ -1,0 +1,15 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo modelo do dia 06/08/2024, onde eu havia feito dois modelos em Python
+3. Só fiz repostar o segundo.
+
+Em Python 3.
+
+92ms. Muito bom.
+
+Memória, medianamente ruim.
+
+Na vez anterior, esse modelo tinha ficado em 164ms, medianamente bom e a memória
+horrível.
+
+Não tive muito o que comentar.
