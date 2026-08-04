@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 28/07/2023, que eu havia feito um modelo em C++. Só
+fiz repostar.
+
+Em C++.
+
+93ms. Ruim.
+
+Memória, mediana.
+
+Na vez anterior, a plataforma me apresentava quatro soluções. Desta vez, não.
+Mas a postagem que fiz não foi bem de minha mente, mas um ajustamento do
+primeiro modelo da plataforma. Ou seja: tinha olhado as soluções da plataforma
+para fazer a minha solução.
+
+Também na vez anterior o tempo foi em 144ms e era medianamente ruim. Em termos
+absolutos, a memouria aumento cerca de quase 30%.
