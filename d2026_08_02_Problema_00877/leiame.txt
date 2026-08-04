@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 05/08/2021, que eu havia feito um modelo em C++ e
+que, após várias tentativas frustradas, inclusive uma tentativa no dia seguinte,
+ou, seja, após a postagem do modelo que tinha passado, passou. Só fiz repostar
+o modelo de sucesso.
+
+Em C++
+
+7ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Eu havia registrado, na época, que tinha penado para fazer passar. Também é
+possível ver isso nas várias tentativas frustradas e no tamanho do código, que
+ficou grande.
+
+Também havia registrado que fiz com artifícios, para poder passar, e que o
+ambiente do LeetCode é uma competição.
+
+Não deixei registrado se havia ideias da plataforma. Mas, desta vez, havia duas.
+Uma delas, simples, mas baseada em um conceito matemático: sempre retornando
+true. Essa foi uma postagem que vi em 0ms.
+
+Registro, aqui, que em agosto de 2021 era um início de estudos na plataforma do
+LeetCode. Nessa época, eu também não fazia comparativos ou status.
