@@ -1,0 +1,31 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi as dicas da plataforma, mas fiz um modelo meu.
+
+Em testes iniciais, não estava passando. Uma leve falha de JS, que em outra
+linguagem teria produzido erro, mas undefined é valor em JS, e, depois, uma
+falha de raciocínio.
+
+Porém, ajustei e passou.
+
+Após postar, vi que a ideia da plataforma era um pouquinho diferente da minha,
+na forma de implementação, mas a ideia era similar.
+
+Em JavaScript, para treinar.
+
+3ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+Ainda pensei em fazer um segundo modelo, com pequenos ajustes, mas estava um
+pouco cansado quando registrando.
+
+Vendo as postagens dos demais, vi algumas formas de utilizar JS de maneira
+diferenciada.
+
+Vi código complexo em 0ms. Vi postagens fazendo buscas em vetor ou utilizando
+conjunto (set) para buscas.
+
+Minha lógica era sequencial.
