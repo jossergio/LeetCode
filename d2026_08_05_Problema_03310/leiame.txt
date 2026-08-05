@@ -1,0 +1,25 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era um problema que eu não teria como raciocinar bem em um tablet ou em um
+celular. Então, fui para o notebook.
+
+Após um errinho, besta e já perto do final da lista de testes, corrigi e passou.
+É que eu não tinha interpretado que bastaria um por conjunto ser restaurado que
+restauraria o conjunto todo. Eu considerei, inicialmente, que era
+individualmente cada restauração.
+
+O modelo da plataforma me pareceu um pouco complexo. Porém, destaco que fez uma
+forma interativa e a base do meu modelo era recursiva. Mas essa não era a
+questão da complexidade do modelo da plataforma. Porém, vi algumas ideias que eu
+poderia ter implementado no meu modelo. Fica para uma outra oportunidade.
+
+Em Python 3, para aproveitar recursos da linguagem.
+
+713ms. Ruim.
+
+Memória, muito ruim.
+
+Nas postagens dos demais, não vi um que fosse bem compreensível. O gráfico era
+bem extenso.
