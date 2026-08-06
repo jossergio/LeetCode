@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, não gostando da forma como implementei (pois tinha um while true),
+e vendo as postagens dos demais, resolvi fazer outra e, em seguida,
+mais uma outra.
+
+As duas primeiras tinham uma função auxiliar. A terceira, fazia uma recursão com
+a própria função do problema, ficando bem interessante, mas fadendo um código
+interativo no motivo da função auxiliar.
+
+A ideia da plataforma era um pouco parecida com a segunda, apesar de a lógica
+ser bem similar, também, ao primeiro modelo.
+
+Modelo 1 (JavaScript): 0ms. Melhor, impossível. Memória, medianamente boa. fazia
+um laço while true e utilizava uma função auxiliar para testar valores,
+utilizando a própria variável de entrada como incremento para os valores. Não
+tinha return no final, ficando esse comando dentro do laço, pois, com certeza,
+encontraria o valor.
+
+Modelo 2 (JavaScript): 1ms. Mediano. Memória, excelente. Era uma modificação do
+anterior, transformando o while true e o fazendo testar cada valor, com auxílio
+da função auxiliar, com cada valor na variável do parâmetro de entrada, que ía
+sendo incrementada.
+
+Modelo 3 (JavaScript): 0ms. Melhor, impossível. Memória, medianamente ruim. Era
+um modelo totalmente do zero, menor, porém, utilizando a própria função do
+problema recursivamente, onde o incremento era feito a cada interação, até se
+chegar a um valor desejado.
+
+O modelo que vi em 0ms foi o que me inspirou a fazer o meu terceiro. Porém, o
+meu era menos infantil.
+
+Em 1ms, vi a cópia integral do modelo da plataforma.
