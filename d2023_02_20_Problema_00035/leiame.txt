@@ -18,3 +18,21 @@ Modelo 2 (C++): 7ms. Medianamente ruim. Memória, medianamente boa e com a
 maioria. Não entendo o motivo da memória, pois era bem similar a códigos
 com menos memória. Utilizava uma forma de busca binária interativa.
 
+=====
+Em 10/08/2026, fiz um modelos em JavaScript.
+
+Basicamente, traduções, um pouco adaptadas, para ficar mais profional, de duas
+ideias anteriores, uma recursiva e outra interativa.
+
+Modelo 1 (JavaScript): 0ms. Melhor impossível. Memória, mediana. utilizava uma
+função auxiliar com recursividade.
+
+Modelo 2 (JavaScript): 0ms. Melhor impossível. Memória, medianamente boa. Era
+uma forma interativa.
+
+O segundo era só um pouqinho melhor que o anterior.
+
+Vi vários modelos em 0ms. A maioria utilizando a forma interativa e as exceções
+força bruta.
+
+Não vi outras colunas e nem modelos recursivos na coluna 0ms.
