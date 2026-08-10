@@ -33,3 +33,16 @@ sentido direto).
 Só havia uma barra bem grandinha em 0ms, apesar de não ser em 100%, em um
 gráfico que ía até 10ms.
 
+=====
+Em 10/08/2026, fiz modelos em JavaScript.
+
+Apesar de ter visto as postagens anteriores, fiz ambos do zero.
+
+Modelo 5 (JavaScript): 0ms. Melhor, impossível. Memória, medianamente ruim.
+Utilizava uma função embutida, para calcular.
+
+Modelo 6 (JavaScript): 3ms. Muito ruim. Memória, ruim. Utilizava um laço, para
+encontrar o valor.
+
+Vendo as postagens dos demais, vi que poderia ter feito uma melhor aplicação com
+uso de funções embutidas.
