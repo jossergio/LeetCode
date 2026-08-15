@@ -1,0 +1,12 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 28/03/2024, que euhavia feito dois modelos em C++.
+Só fiz respostar o último, de tempo e memória menores, além de linhas de código.
+
+Em C++.
+
+198ms. Ruim.
+
+Memória, medianamente ruim.
+
+Na postagem anterior, o tempo desse modelo tinha sido ruim, também.
