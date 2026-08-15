@@ -1,0 +1,32 @@
+direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após dois errinhos, por não implementar direito uma lógica embutida (precisava
+de uma condição, para atualizar o ponteiro), passou.
+
+Eu já desconfiava que haveria pegadinhas, pois, apesar de a plataforma indicar
+que se tratava de um problema simples, a taxa de acerto era abaixo de 50%.
+
+Ao postar, percebi que tinha ficado código de depuração. Então removi e fiz um
+segundo modelo.
+
+Minha ideia era similar à segunda ideia da plataforma. Porém, o meu utilizava
+mapa e a plataforma um vetor, porém tinha que calcular o índice baseado no valor
+de caractere, e havia um segundo laço, interno, para ajustar o índice base. Na
+minha ideia, o mapa guardava os dois últimos e, por isso, precisava verificar
+uma situação.
+
+Modelo 1 (JavaScript): 296ms. Muito ruim. Memória, ruim.
+
+Modelo 2 (JavaScript): 3ms. Medianamente boa. Memória, medianamente boa.
+
+Não sei o porquê de o segundo modelo ter sido medianamente bom na memória. A
+única diferença era a retirada de uma linha de console.log. Vai ver que isso
+consome muita memória.
+
+Os códigos que eu vi das postagens dos demais eram bem originais. Alguns
+utilizavam mapa. Outros, vetor.
+
+Ainda pensei em fazer um terceiro código, antes de registrar, utilizando vetor.
+Mas desisti.
