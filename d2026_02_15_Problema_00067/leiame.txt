@@ -39,3 +39,19 @@ Como não foram repostagens, não há como fazer comparação.
 Parece que não é muito bom utilizar closures definidas.
 
 Ao final, foi um bom testes de sintaxe de Rust e de seus conceitos.
+
+=====
+Em 17/08/2026, fiz um modelo em JavaScript.
+
+Demorei a concluir pois queria utilizar recursos da linguagem, de modo a tornar
+mais profissional e elegante.
+
+Foi um bom estudo de conceitos da linguagem, especialmente de arrays e as formas
+como valores vazios são tratados.
+
+3ms. Medianamente ruim.
+
+Memória, ruim.
+
+Em 0ms, os códigos que vi utilizavam funções internas de JavaScript que, acho,
+não passariam ser os valores fossem muito grandes.
