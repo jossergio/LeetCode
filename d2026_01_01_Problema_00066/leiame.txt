@@ -31,3 +31,23 @@ antecipadamente, quando não houvesse mais o que trabalhar.
 Boa oportunidade para estudar os recursos e as estruturas de Rust.
 
 Apesar de conter mais linhas, o primeiro era o "mais ótimo".
+
+=====
+Em 17/08/2026, fiz modelos em JavaScript.
+
+Fiz o primeiro que, basicamente, era uma tradução do último em Rust.
+
+Vendo as postagens dos demais, vi um modo um pouco mais prático, pelo menos em
+termos de uso de memória, pois utilizava o próprio vetor de entrada, mas que
+reduzia, sim, alguns passos, além de haver um ponto de saída antecipado.
+
+Modelo 5 (JavaScript): 1ms. Ruim. Memória, ruim. Criava um vetor temporário,
+fazia ordenamentos preliminares e posteriores, ía até o final, mesmo se não
+houvesse necessidade e montava a resposta.
+
+Modelo 6 (JavaScript): 0ms. Melhor impossível. Memória, mediana. Era um modo
+bem mais otimizado, baseado em uma condição matemática base do problema.
+
+Vi que fiz uma falha de organização, pois não utilizei "let" na definição da
+variável do laço, no primeiro modelo. Mas resolvi não corririr em um novo
+modelo.
