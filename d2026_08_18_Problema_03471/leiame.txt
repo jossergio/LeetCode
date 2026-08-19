@@ -1,0 +1,35 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, pois já imaginava que teria pegadinha (problema indicado como
+fácil mas com menos de 50% de acerto), passou.
+
+O probleminha foi, justamente, um desses pequenos detalhes.
+
+Após postar, vendo as postagens dos demais participantes, fui tendo ideias,
+tanto de utilização de recursos de JavaScript quando, o último, de uma lógica
+bem interessante e que pouparia muito tempo.
+
+Modelo 1 (JavaScript): 10ms. Ruim. Memória, medianamente ruim. Utilizava um mapa
+e um conjunto, temporário, para registrar valores. Ao final, verificada se uma
+situação era atendida, através de um novo laço.
+
+Modelo 2 (JavaScript): 7ms. Um pouco ruim. Memória, ruim. No lugar de um laço
+para definir os itens de um conjunto, utilizava slice para indicar a parte a
+partir do vetor de entrada, poupando um laço explícito.
+
+Modelo 3 (JavaScript): 6ms. Medianamente ruim. Memória, ruim. Era uma adaptação
+do anterior, para utilizar vetor no lugar de mapa.
+
+Modelo 4 (JavaScript): 5ms. Medianamente ruim. Memória, mediana. Era um modelo
+totalmente novo, baseado em uma lógica matemática, que vi em postagens dos
+demais participantes mas que já constava no modelo da plataforma. Considerava
+dois casos especiais e um genérico, dento de um switch case. Mas a implementação
+foi totalmente minha.
+
+A utilização de conjunto foi basicamente para filtrar valores repetidos.
+
+Perdi um tempinho no terceiro pois há alguns detalhes interessante de array em
+JavaScript, como valores não definidos não integrarem filtros e mapas diretos
+nos arrays.
