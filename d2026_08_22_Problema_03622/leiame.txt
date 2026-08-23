@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu tive que olhar, após três
+errinhos, para entender o que eu deveria estar interpretando errado.
+
+Os errinhos, ou a interpretação errada, é que eu achava que teria pegadinha. Ao
+remover os códigos que removiam as possibilidades de pegadia e,
+consequentemente, tornaval o resultado diferente em certos teses, passou.
+
+Detalhe básico dos erros: eu imaginava que haveria uma pegadinha por divisão por
+zero, já que havia um acúmulo por multiplicação. Porém, isso seria descartado,
+uma vez que nem era citado ou sugerido no problema, mesmo nas dicas. Para o
+cálculo, havia, também, uma soma preliminar que seria adicionada ao outro
+resultado, antes do cálculo final. Ou seja: não havia como existir a
+possibilidade de divisão por zero e qualquer tentativa de sanar isso iria, em
+algum momento, produzir diferença no resultado.
+
+Em JavaScript, para exercitar.
+
+0ms. Melhor impossível.
+
+Memória, excelente, quase no topo.
+
+Ainda pensei em fazer outras implementações, para testar, mas já tinha quebrado
+a cabeça suficientemente para identificar o que estava havendo de errado em
+minha interpretação do problema.
+
+Vi códigos complexos. Mas não vi cópias integrais do modelo da plataforma. Era
+uma situação, até, simples. Bobeira minha, não passar de primeira.
+
+Vi um código que testava a soma final ser zero ou não. Se eu tivesse raciocinado
+assim, teria passado de primeira, pois seria um código inútil, pois não haveria
+essa situação, e o resto não seria interferido.
