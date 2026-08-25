@@ -1,0 +1,33 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após um errinho, POR NÃO DEFINIR UMA FUNÇÃO PARA PASSAR PARA A FUNÇÃO DE
+ORDENAÇÃO DE ARRAY EM JAVASCRIPT, passou. Se fosse em outra linguagem, teria
+passado de primeira.
+
+Tive uma ideia que considerei bem lógica e achava que seria bem rápida, pois
+tinha, inclusive, condição para terminar antecipadamente. Mas nem foi.
+
+Após postar, vendo as dos demais, as dicas e a própria solução da plataforma,
+imaginei uma segunda ideia, baseada nessas, mas já sabia que não seria tão
+eficiente, apesar de ter feito de uma forma que poderia ser (já considerava
+aquelas ideias ineficientes).
+
+Assim, fiz um segundo modelo.
+
+Modelo 1 (JavaScript): 2ms. Medianamente ruim. Memória, medianamente boa.
+Ordenava o vetor de entrada e ía procurando um valor, que ía se ajustando, a
+cada etapa, até encontrar a posição correspondente inexistente.
+
+Modelo 2 (JavaScript): 5ms. O gráfico nem comparava. Memória, muito boa quase
+excelente. Buscava um valor máximo possível, fazia um conjunto (set) com todos
+os possíveis valores e os ía retirando baseado nos valores do vetor de entrada.
+Ao final, a resposta era o menor valor que sobrasse nesse conjunto.
+
+Ainda pensei em fazer um ajuste no primeiro modelo, pois ele repetia um cálculo,
+simples, mas, talvez, isso talvez, só aumentasse o uso de memória, pois seria
+necessária uma variável a mais.
+
+Muitas postagens cópias do modelo da plataforma. Outras, complexas. Das que eu
+vi, todas utilizavam set (ou hashmap, como set).
