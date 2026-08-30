@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Vi as dicas da plataforma e percebi que seria um problema lógico matemático
+simples.
+
+Após um errinho, por uma falha no cálculo (passou nos testes padrão da
+plataforma, mas faltou uma adição em uma fórmula). Mesmo corrigindo, não passava
+nos testes preliminares com essa correção e nos predefinidos. Então, vi que a
+lógica estava um pouco errada, fui para o notebook (pois estava meio cansativo
+fazer testes pelo tablet) e fiz um modelo que passou.
+
+Em JavaScript.
+
+21ms. Muito ruim.
+
+Memória, muito ruim.
+
+Em 0ms, cópia integral do modelo da plataforma.
+
+O modelo da plataforma era mais enxuto, pois utilizava, de cara, duas variáveis
+a menos para armazenar valores, mantendo os índices para montar o valor de
+comparação. Bem interessante essa ideia. Porém, acabara recriando variáveis, em
+seguida, para formar duas bases de cálculo, questão que meu modelo jogava Direto
+em operador ternário.
