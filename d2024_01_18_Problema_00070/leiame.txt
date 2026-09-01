@@ -15,3 +15,13 @@ nível, ficando todo mundo em 0ms. O gráfico ía até 10ms.
 
 Em termos de memória, o meu piorou muito. E, olha, foi só uma repostagem.
 
+=====
+Em 01/09/2026, fiz um modelo em JavaScript.
+
+A tradução do modelo em Rust.
+
+0ms. Melhor impossível.
+
+Memória, quase no topo, bem pertinho.
+
+Parece que só havia uma forma de solucionar e várias formas de implementar.
