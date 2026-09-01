@@ -4,3 +4,26 @@ Direto no LeetCode e bem rapidinho.
 
 Memória, com a mediana da maioria.
 
+=====
+Em 01/09/2026, fiz modelos em JavaScript.
+
+Inicialmente, fiz a tradução do modelo em Golang.
+
+Porém, resolvi fazer um modo recursivo.
+
+Após um errinho, ajeitei e passou. O problema é que a condição de duplicidade
+poderia ser extendida com vários em sequência. Precisei fazer um laço para
+ajustar isso, coisa que não tive ideia melhor, pois desejava que ficasse
+plenamente recursivo.
+
+Modelo 1 (JavaScript): 0ms. Melhor impossível. Memória, mediana. Era iterativo e
+tradução de modelo anterior.
+
+Modelo 2 (JavaScript): 0ms. Melhor impossível. Memória, medianamente ruim. Era
+recursivo, apesar de um pequeno laço interno para saltar os iguais.
+
+Tentei ver uma forma de implementar o modo recursivo de uma forma mais simples.
+Porém, não estava conseguindo encontrar uma forma e desisti, para não perder
+tempo.
+
+Não vi postagens recursivas.
