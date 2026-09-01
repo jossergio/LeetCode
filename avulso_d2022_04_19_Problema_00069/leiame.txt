@@ -32,3 +32,13 @@ espalhadas, com a última em 26ms, em um gráfico que ía até cerca de 35ms.
 Uma busca binária seria uma ótima possibilidade. Os mais rápidos seguiam esse
 princípio.
 
+=====
+Em 01/09/2026, fiz um modelo em JavaScript.
+
+Basicamente, a tradução dos anteriores.
+
+14ms. Medianamente ruim.
+
+Memória, medianamente ruim.
+
+Novamente, os melhores colocados seguiam uma busca binária.
