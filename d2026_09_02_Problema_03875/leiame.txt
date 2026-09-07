@@ -1,0 +1,27 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Percebi que qualquer que fosse o vetor de entrata, sempre haveria condição para
+retornar verdadeiro. Vendo a dica da plataforma, fiquei convicto que sim.
+
+Então, fiz um código bem simples, só para sempre retornar verdadeiro na função.
+
+Após postar, vi que a solução da plataforma era justamente essa.
+
+Em JavaScript, para praticar.
+
+0ms. Melhor impossível.
+
+Memória, mediana.
+
+Não sei o motivo de ter sido mediana a memória, pois era um código bem simples.
+
+Em 0 e em 1ms, vi esse mesmo código. Porém, vi códigos complexos, mesmo nesses
+pontos, e vi muitas modificações até na estrutura, tornando, por exemplo, a
+função de execução uma "array function", removendo, até, os comentários iniciais
+sobre a execução (constante nas estruturas base). Isso também vi em outras
+formas de estruturação.
+
+Vi alguns códigos bem complexos, de pessoas que devem não terem percebido que
+sempre haveria retorno verdadeiro independente do vetor de entrada.
