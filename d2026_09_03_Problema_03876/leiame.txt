@@ -1,0 +1,25 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Tive uma ideia e, vendo as dicas da plataforma, em especial a segunda, tive
+certeza que estava no caminho ideal.
+
+Após postar, vi que minha ideia era similar à da plataforma, porém com
+implementação diferente. Meu código ordenava o vetor de entrada logo no início
+e checava uma primeira condição para retornar verdadeiro. Caso não, fazia um
+laço para buscar possível condição de negação, com possibilidade de saída
+antecipada.
+
+Assim, meu código acabava O(n log n), enquanto o da plataforma era O(n), pois
+buscava ambas as condições em uma passada, guardanco em duas variáveis.
+
+Em JavaScript, para praticar.
+
+103ms. Horrível.
+
+Memória, horrível.
+
+Vi códigos feios. Vi, em 2ms, código idêntico ao da plataforma. Vi códigos feios
+que faziam duas passadas, mesmo que disfarçadamente (por estruturas). Mas, no
+geral, a base era a mesma.
