@@ -1,0 +1,35 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o problema do dia 04/09/2026, que eu havia tentando em JavaScript e não
+tinha passado; apresentou erro na postagem, apesar de ter passado nos testes
+básicos da plataforma.
+
+Eu tinha interpretado que era o menor valor que satisfazia uma condição, mas era
+o menor índice onde uma condição já seria satisfeita. O erro só veio aparecer no
+teste 800 de 941.
+
+Após postar, vendo, inclusive, o modelo da plataforma, fiz um modelo que tinha
+feito, somente para os testes iniciais, após nova tentativa em dia posterior,
+seguindo a dica da plataforma, mas que pode ser considerado infantil, pois se
+torna pesado, só para ver como ficaria. Mesmo nesse modelo, seguindo o que eu
+imaginava, produzia o mesmo erro. Porém, vendo que bastava o primeiro que
+satisfizesse, também passou.
+
+Esse meu segundo modelo utilizava estruturas internas da linguagem para buscar
+os valores de cada etapa. No modelo da plataforma, ele utilizava uma forma mais
+geral, com laços internos para cada etapa no trecho de análise (antes e depois
+do valor em análise).
+
+Modelo 1 (JavaScript): 2ms. Mediano. Memória, mediana. Utilizava dois vetores
+acumuladores, em uma primeira passada, e fazia a comparação, em uma segunda
+somente baseada nesses veteres acumuladores.
+
+Modelo 2 (JavaScript): 6ms. Ruim. Memória, ruim. A cada interação, refazia uma
+verificação integral no vetor (em duas etapas). Era um código meio infantil, mas
+seguia bem a dica e o modelo da plataforma, apesar de diferenças de
+implementação, onde a minha ideia utilizava recursos internos de JavaScript.
+
+Vi cópias integrais do modelo da plataforma e outros modificações baseadas nessa
+ideia.
