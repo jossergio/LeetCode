@@ -1,0 +1,26 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei. Após postar, vi que
+minha ideia era similar à primeira da plataforma, porém, ele implementava um
+laço de forma integral e utilizava uma condição para descartar os primeiros. A
+minha ideia já iniciava mais para a frente.
+
+Buscando uma ideia mais matemática, fiz um segundo modelo, utilizando uma
+fórmula.
+
+Interessante é que tanto a primeira ideia quanto a segunda induziriam á fórmula
+contina no segundo modelo da plataforma, que consistiam em desconsiderar toda a
+parte inicial (subtrair o "lixo", mas checar se não ficaria negativo).
+
+Modelo 1 (JavaSCript): 6ms. Ruim. Memória, medianamente ruim. Utilizava um laço,
+a partir de uma base de contagem inicial, até o valor final (inclusive).
+
+Modelo 2 (JavaScript): 0ms. Melhor, impossível. Memória, medianamente boa.
+Utilizava uma variável para armazenar o valor para descarte e aplicava uma
+fórmula para calcular, onde eram feitos ajustes.
+
+Ambas as soluções considerei ruim. Mas passaram.
+
+Códigos bem diversificados nas postagens dos demais. Mas uma boa parte era:
+desconsiderar o lixo e a resposta estará pronta, caso seja acima de um valor
+fixo (constante, e bastava não ser de 999 para baixo).
