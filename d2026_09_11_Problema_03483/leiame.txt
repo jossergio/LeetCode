@@ -1,0 +1,38 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Inicialmente, tentei, no início do dia, fazer pelo tablet. Cheguei perto, mas a
+mente não estava raciocinando tanto.
+
+Quase no final da hora, fui pro notebook e fiz um modelo em JavaScript, com as
+ideias que tinha depertado na mente. Mas tive preguiça de ir para o tablet.
+
+Então, para estudar, resolvi praticar um pouco mais com JavaScript. Então, fiz
+mais dois modelos.
+
+Interessante é que o último é que lembrava o modelo da plataforma, com mudanças,
+somente, por questões de implementação e uma pequena ideia que a plataforma teve
+para não precisar utilizar set (conjunto), fazendo um vetor com todos os valores
+possíveis com valores, inicialmente, falso e ía tornando verdadeiro a cada valor
+calculado, que era, justamente, o índice.
+
+Modelo 1 (JavaScript): 7ms. Mediano. Memória, medianamente ruim. Utilizava um
+mapa e ía testando em três níveis de laço, ajustando e verificando se podia
+utilizar o valor em cada etapa. No primeiro laço, fazia uma contagem de dois em
+dois, mas testava se esse valor existia no mapa.
+
+Modelo 2 (JavaScript): 7ms. Mediano. Memória, ruim. Era uma certa adaptação do
+modelo anterior, adicionando umas variáveis temporárias para evitar cálculos nos
+reajustes (trazer os valores para o valor anterior) e também adicionou um vetor
+para se obter os valores filtrados (no primeiro laço, só os pares).
+
+Modelo 3 (JavaScript): 11ms. Medianamente ruim. Memória, horrível. Utilizava um
+set (conjunto) para ir armazenando os valores que ía encontrando em um laço
+triplo, mas com uma condição para saber se poderia utilizar os valors. Todos os
+três laços eram por entradas índice x valor do vetor de entrada. Os laços eram
+integrais, ou seja O(n^3).
+
+Em 0ms, um  código utilizando set e os três laços integrais, mudando, somente,
+questões de implementação em relação ao meu. Inclusive, eu fazia, somente, uma
+linha para testes e vi divisões, parecido com o da plataforma, desse teste.
