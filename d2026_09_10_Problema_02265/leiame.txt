@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 02/11/2023, que eu havia feito um modelo em C++ e
+outro em GoLang.
+
+Só fiz respostar o modelo em GoLang.
+
+5ms. Medianamente ruim.
+
+Memória, excelente quase top das galáxias.
+
+Na vez anterior, tinha ficado nesse mesmo tempo e era mediano.
+
+A memória aumentou em torno de 50%. Mas a memória era quase excelente, na época.
+Ou seja: parece que melhorou, mesmo com o aumento do consumo de memória, mas
+deve ser questão de comparação com as estatísticas com as postagens dos demais.
