@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, mas eu mantinha
+um valor em uma variável (que poderia ser constante) no lugar de ficar obtendo
+a cada iteração e eu tentei ser mais direto no laço. Mas questão de preferência
+ou de praticar.
+
+Em JavaScript, para treinar.
+
+12ms. Muito ruim.
+
+Memória, muito ruim.
+
+Houve alguns participantes que fizeram questão de complicar.
