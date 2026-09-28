@@ -1,0 +1,19 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, vi que a primeira ideia da plataforma é como eu costumo raciocinar,
+mas que consome estrutura desnecessariamente para resolver o problema.
+
+Mas, desta vez, fiz um modelo mais prático e simples. Então, meu modelo ficou
+parecido com o segundo da plataforma.
+
+Em Rust, para relembrar e por considerar mais prático.
+
+0ms. Melhor, impossível.
+
+Memória, medianamente ruim.
+
+Interessante: apesar de o gráfico não me mostrar muitas postagens dos demais,
+vi que um modelo utilizando pilha utilizava menos memória que o que só fazia
+contagem de forma simples (e similar ao meu modelo).
