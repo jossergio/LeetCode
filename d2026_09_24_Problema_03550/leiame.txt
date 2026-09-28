@@ -1,0 +1,18 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era bem similar à da plataforma, com pequenos
+ajustes de implementação.
+
+Em JavaScript, para praticar.
+
+3ms. Ruim.
+
+Memória, medianamente boa.
+
+Minha ideia, assim como a da plataforma, utilizava uma função para auxiliar. Nas
+postagens dos demais, nos que vi, não havia utilização de função auxiliar, sendo
+o cálculo diretamente dentro do laço.
+
+Muitos códigos complexos (redundantes, mas não pesados) para uma coisa simples.
