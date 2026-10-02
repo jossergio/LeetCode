@@ -1,0 +1,20 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema que eu já havia feito várias postagens, como avulso, em
+GoLang, em 10/11/2021, que havia aparecido com problema dos dias 13/05/2022 e
+10/04/2023 e eu havia resolvido com C++, que eu tinha feito uma adição em Rust
+em 02/05/2024 e que eu havia feito uma versão em JavaScript em 17;07/2026.
+
+Só fiz repostar a versão em JavaScript.
+
+Em JavaScript.
+
+6ms. Medianamente ruim.
+
+Memória, mediana.
+
+Ainda tentei raciocinar um pouco para ver algum recurso melhor ou, pelo menos,
+mais elegante em JavaScript. Mas não evolui muito não.
+
+Na vez anterior tinha ficado em 4ms e median. A memória tinha ficado
+medianamente ruim. Em termos absolutos, a memória diminuiu mesmo o consumo.
