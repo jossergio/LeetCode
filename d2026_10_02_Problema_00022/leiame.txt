@@ -1,0 +1,18 @@
+Direto no LeetCode.
+
+Era o típico problema que não seria bom tentar por tablet ou celular. Mas passou
+de primeira.
+
+Em Rust, para praticar, pelas facilidades e pela beleza. Ah! E também pela
+chateação.
+
+5ms. Muito ruim.
+
+Memória, muito ruim.
+
+Não vi códigos intuitivos nas postagens dos demais. Todos bem complexos. Porém,
+alguns com alguma ideia elegante.
+
+Um detalhe interessante: apesar de ser um problema de numeração pequena, eu
+ainda não tinha resolvido. Nunca tinha aparecido como problema do dia ou eu
+nunca tinha chegado a usar como avulso.
