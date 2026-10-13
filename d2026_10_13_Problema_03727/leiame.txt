@@ -1,0 +1,14 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Após postar, vi que minha ideia era com o mesmo embasamento, porém de
+implementação bem diferente.
+
+Em JavaScript, para exercitar.
+
+206ms. Ruim.
+
+Memória, ruim.
+
+Vi cópias integrais da solução da plataforma.
