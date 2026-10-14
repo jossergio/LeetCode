@@ -1,0 +1,23 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Poderia ter feito pelo tablet, mas ultimamente estou preferindo o notebook. Vejo
+o problema no tablet mas vou para o computador. Estou achando mais confortável.
+
+Minha ideia era semelhante à da plataforma. Porém, era implementado de forma
+um pouro "remendada". A minha consistia em um laço.
+
+Apesar desses remendos da plataforma otimizarem, era um pouco na aparência,
+pois, no final, acabava sendo a mesma coisa. Ou seja: ou meu aparenta ser mais
+direto e genérico.
+
+Em JavaScript, para praticar.
+
+253ms. Ruim.
+
+Memória, ruim.
+
+Vi cópias integrais do modelo da plataforma.
+
+Vi um modelo bem parecido com minha ideia, mas não era.
