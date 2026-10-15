@@ -1,0 +1,21 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Inicialmente, tive dificuldade em entender o conceito do problema. Mas ajustei
+as ideias e fiz um modelo que passou.
+
+Após postar, vi que minha ideia era bem parecida com a primeira da plataforma,
+modificando, basicamente, o nome das variáveis (estrutura bem parecida, mesmo).
+
+Em JavaScript, para exercitar.
+
+4ms. Muito bom.
+
+Memória, medianamente ruim.
+
+A segunda ideia da plataforma era bem extensa, complexa. Criava, inclusive, uma
+classe (objeto) para auxiliar e um monte de outros detalhes.
+
+Os modelos que vi eram similares ao meu. Um deles, inclusive, com um ajustei
+interessante, para reduzir linhas de código.
