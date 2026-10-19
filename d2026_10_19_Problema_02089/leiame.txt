@@ -1,0 +1,23 @@
+Direto no LeetCode e pelo tablet.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Após postar, posso dizer que minha ideia era semelhante à primeira da
+plataforma.
+
+A segunda ideia da plataforma utilizava uma lógica que não consegui entender,
+na ordem de O(n).
+
+Em Rust, para utilizar recursos da linguagem.
+
+0ms. Melhor, impossível.
+
+Memória, muito ruim.
+
+Inicialmente, tinha desejado fazer em JavaScript. Porém, não estava conseguindo
+ou vendo a forma de utilizar as estruturas para formar aquela ideia de linha
+única (ou, pelo menos, com redução de linhas).
+
+Então, fiz em Rust.
+
+Depois, talvez, tente traduzir, com a mesma ideia de redução de linhas.
