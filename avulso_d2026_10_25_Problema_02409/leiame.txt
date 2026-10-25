@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o problema do dia anterior, 24/10/2026. Como, apesar de ser fácil, teria
+alguns detalhes de transformações de valores, além de outros, e como não tive
+"coragem" de ir para o computador e fazer no tablet seria desgastante, deixei
+para fazer posteriormente, mantendo nas ideias.
+
+Em alguns momentos, a solução da plataforma era parecida com a minha. Mas havia,
+também, partes bem interessantes, como fazer um acumulador de soma, que eu até
+tinha pensado em utilizar mas deixei para uma função auxiliar calcular a cada
+momento (e poupar um vetor); e fazer um cálculo simples no lugar de fazer dois
+vetores, como eu fiz, para ver os coincidentes.
+
+em JavaScript, para praticar.
+
+1ms. Medianamente ruim.
+
+Memória, muito ruim.
+
+Demorei a fazer porque estava procurando ver formas de aplicar estruturas da
+linguagem, até para praticar mais. Apesar de em alguns momentos ter feito, o que
+eu realmente imaginei, como utilizar a função zip (que não é compatível com
+todos os interpretadores JavaScript) ou ter que fazer uma. O código acabava
+fazendo, mas não na forma de função e de geração, mas de teste par a par.
+
+Apesar de ser um problema sinalizado como fácil. Porém, até o modelo da
+plataforma era relativamente extenso.
