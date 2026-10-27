@@ -1,0 +1,27 @@
+Direto no LeetCode.
+
+A plataforma em apresentava uma solução, que eu nem olhei.
+
+Teve uma ideia simples e, vendo as dicas da plataforma, vi que estaria em uma
+solução prática, apesar de os exemplos da descrição do problema apresentarem
+padrões que seriam mais complexos de implementar.
+
+Após postar, posso dizer que minha ideia é similar à da plataforma. Porém, a
+implementação da plataforma considero mais elegante, por utilizar melhor a
+estrutura da linguagem JavaScript. Inclusive algumas "falhas".
+
+Ou seja: a descrição da plataforma induziu a raciocinar de forma complexa, pois,
+na própria definição, já citava que havia várias respostas e poderia ser
+retornada qualquer uma. Mas, pensei na melhor e as dicas confirmaram isso.
+
+Em JavaScript, para treinar.
+
+1ms. Excelente.
+
+Memória, medianamente boa.
+
+Vi um código de linha única. Tão única que modifica a estrutura básica da
+plataforma para atribuição de função a uma variável e utiliza duas arrow func
+para estruturar a resposta, além de aplicar uma estruturação para isso.
+
+Porém, estava em 4s. Ou seja, lento.
