@@ -1,0 +1,42 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Apesar de a plataforma indicar que era um problema simples, não estava com
+mentaldade boa o suficiente para fazer em aparelho portátil. Então, fiz no
+notebook.
+
+Vendo a dica da plataforma, fiz um certo "meio termo", pois sugeria uma busca
+binária, que eu não consegui raciocinar como implementar.
+
+Após postar, vendo o primeiro modelo da plataforma, que era bem simplificado e
+direto, e não implementava a tal busca binária da dica, considero que o meu deva
+ser um pouco mais eficiente, ao ser um meio termo entre os modelos da
+plataforma.
+
+Após postar, vi que tinha deixado linhas de código de depuraçáo. Então, fiz um
+segundo modelo, com a remoção dessas linhas.
+
+Modelo 1 (JavaScript): 53ms. Muito ruim. Memória, muito ruim. Fazia algumas
+firulas, tentando otimizar um pouco, utilizando algumas caracterísicas da
+linguagem.
+
+Modelo 2 (JavaScript): 34ms. Muito ruim. Memória, muito ruim. Era o mesmo código
+anterior, mas sem linhas de depuração, que eu havia esquecido.
+
+Fiquei pensando em um modelo de linha única. Mas ficará para outro momento.
+
+Vendo o segundo modelo da plataforma, notei que, como imaginava, apesar de
+sugerir buscar um ponto de referência de forma binária, ainda fazia uma busca
+linear. E esse era o ponto onde eu não desejava trabalhar.
+
+Vendo as postagens dos demais, vi alguns que faziam essa busca binária de forma
+mais simples e elegante.
+
+Também vi otimziações, que eu também havia imaginado, por corte antedipado, ao
+ser localizado o primeiro valor que antendesse ao critério.
+
+Vi, também, código de linha única, porém não otimizado, mas com tempo bem melhor
+que o meu.
+
+Vi, também, códigos bem complexos.
