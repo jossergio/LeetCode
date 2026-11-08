@@ -1,0 +1,16 @@
+Direto no LeetCode e pelo tablet.
+
+Era o mesmo problema do dia 23/01/2025, que eu havia feito um modelo em Rust.
+
+Só fiz respostar.
+
+Em Rust.
+
+1ms. Medianamente bom.
+
+Memória, medianamente ruim.
+
+O tempo anterior foi 3ms.
+
+A memória tinha sido medianamente boa. Mas, na atual, em termos absolutos, tinha
+ficado menor, mas ficou medianamente ruim.
