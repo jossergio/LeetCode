@@ -1,0 +1,24 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Era o problema do dia anterior, que, por envolver programação dinâmica e eu não
+estar com paciência, deixei para quando estivesse com tempo e no notebook.
+
+Após postar, vi que a solução da plataforma era bem simples. A minha utilizava
+uma programação dinâmica, recursiva e com memo. A da plataforma era um laço
+simples, que ía rotacionando três variáveis.
+
+As dicas da plataforma sugeriam programação dinâmica e memo.
+
+Em Rust, para praticar sintaxe, já que envolveria, pela minha ideia, parâmetros
+modificáveis.
+
+37ms. Muito ruim de péssimo.
+
+Memória, muito ruim de péssimo.
+
+Vi cópias idênticas ao modelo da plataforma, em diversos pontos do gráfico. Vi
+códigos bem mais complexos e com bom tempo, também. E vi códigos interessantes.
+
+Essa ideia da rotação de variáveis foi bem interessante.
