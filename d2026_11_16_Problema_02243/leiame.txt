@@ -1,0 +1,29 @@
+Direto no LeetCode.
+
+A plataforma me apresentava uma solução, que eu nem olhei.
+
+Apesar de indicar que era um problema fácil, percebi que seria meio chatinho.
+Então, aguardei um momento no notebook e fiz.
+
+E era chatinho, mesmo. Demorei mais de uma hora para concluir.
+
+Após postar, vi que minha solução era similar à da plataforma, apesar de
+diferenças na implementação.
+
+Eu utilizei um deque para ir fazendo as reduções. A plataforma fez algumas
+milacrias com string. Também utilizou uma opção em laço que eu nem lembrava que
+existia: steb_by.
+
+Em Rust, para exercitar.
+
+0ms. Melhor impossível.
+
+Memória, o gráfico não indicava. Mas estava bem para o final.
+
+As postagens dos demais também seguia estruturação direta em strings.
+
+Vi cópias do modelo da plataforma. Em 1ms e no gráfico de memória.
+
+Meu código ficou um pouco extenso. A ideia da plataforma de utilizar passo fica
+bem interessante, apesar de provocar um laço interno, que já existiria
+naturalmente e ainda permaneceria um laço O(n).
