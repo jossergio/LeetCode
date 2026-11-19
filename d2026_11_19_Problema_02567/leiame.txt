@@ -1,0 +1,42 @@
+Direto no LeetCode.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+Não tinha visto pelo tablet. Quando fui pro notebook é que vi que não tinha
+visto, ainda. Na cabeça, ainda estava o problema do dia anterior, que eu estava
+com uma ideia. Ou seja: achava que tinha visto e, de cara, foi, até, um pouco de
+confusão
+
+Mas tive uma ideia que, após dois errinhos (eu já desconfiava de alguma
+pegadinha), passou.
+
+Minha ideia não seguia bem a ideia geral que a plataforma tentava passar para
+formar a solução. Observei que trabalhando, somente, com os três valores maiores
+e os três menores, fazendo um jogo lógico, a solução estaria por ali.
+
+Os erros ocorreram porque imaginei que bastaria ajustar os dois menores (ou
+maiores), depois fiz um que testava qual o ideal entre os menores e os maiores,
+que também produziu erro, e, finalmente, busquei entre janela de ajuste com os
+dois maiores, os dois menores, ou um de cada lado, que foi o que passou.
+
+Após postar, vi que minha ideia era parecida com a primeira da plataforma.
+
+A segunda, apesar de, aparentemente, redundante e de consumir mais memória, era
+no tempo O(n), pois não dependia de ordenação, que fica O(n log n).
+
+Em Rust, para praticar.
+
+3ms. Mediano.
+
+Memória, a plataforma não indicava mas ficou ruim.
+
+Em 0 e em 1ms, cópia fiel da segunda solução da plataforma.
+
+Também vi cópias da primeira ideia da plataforma.
+
+Ponto interessante, que, até, pensei em fazer uma segunda postagem, mas desisti:
+funções podem ser sequenciadas em Rust: v1.f (v2).f (v3)....
+
+Era assim que era formado o resultado final das ideias da plataforma.
+
+O meu era aninhado, mas f (v1, f (v2, v3))
