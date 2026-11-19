@@ -1,0 +1,30 @@
+Direto no LeetCode.
+
+Era o problema do dia anterior, 18/11/2026, que eu tinha visto mas não tinha
+tido paciência de fazer, apesar de ter imaginado uma ideia bem simples. E foi.
+
+A plataforma me apresentava duas soluções, que eu nem olhei.
+
+A primeira era um pouco complexa, pois chegava a ser um pouco redundante, já que
+não tinha a ideia de par (ou dupla).
+
+A segunda foi como iniciei raciocinando. Mas vi que Rust pemitiria uma ideia
+para linha única, apesar de particionada, com o uso de iterador.
+
+Em Rust, pela estrutura.
+
+1ms. Mediano.
+
+Memória, ruim.
+
+Ficou em linha única, apesar de particionada, com o uso de iterador.
+
+A ideia foi ver os números dois a dois e ver se eram diferentes. No lugar de
+contar, e como a lógica permitia, fiz uma soma, pois os diferentes só
+diferenciavam em uma unidade.
+
+Vi cópia das ideias da plataforma, que não apresentava modelo em Rust, mas que o
+participante traduziu.
+
+As postagens dos demais eram bem diversificadas, apesar de muitos seguirem a
+ideia de dois a dois. Outros eram, até, um pouco complexos.
